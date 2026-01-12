@@ -1,0 +1,50 @@
+version: '3.8'
+
+services:
+  zynthio-bot:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    container_name: zynthio_trading_bot
+    restart: unless-stopped
+    
+    environment:
+      - GROK_API_KEY=${GROK_API_KEY}
+      - CLAUDE_API_KEY=${CLAUDE_API_KEY}
+      - PERPLEXITY_API_KEY=${PERPLEXITY_API_KEY}
+      - GTRADE_RPC_URL=${GTRADE_RPC_URL}
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+    
+    volumes:
+      - ../config:/app/config:ro  # Read-only risk config
+      - ./logs:/app/logs           # Persist logs
+      - ./data:/app/data           # Persist trading state
+    
+    ports:
+      - "8080:8080"  # Health check endpoint (if implemented)
+    
+    networks:
+      - zynthio_network
+    
+    healthcheck:
+      test: ["CMD", "python", "-c", "import sys; sys.exit(0)"]
+      interval: 1m
+      timeout: 30s
+      retries: 3
+      start_period: 40s
+    
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+networks:
+  zynthio_network:
+    driver: bridge
+
+# Usage:
+# 1. Create .env file in deploy/ with API keys
+# 2. docker-compose up -d
+# 3. docker-compose logs -f zynthio-bot
+# 4. docker-compose down
