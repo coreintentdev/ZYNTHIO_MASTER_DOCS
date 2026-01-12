@@ -1,0 +1,17 @@
+# CoreIntent risk config (gTrade)
+
+account_currency: USD
+
+limits:
+  max_leverage: 5.0               # hard cap leverage
+  max_risk_per_trade_pct: 1.0     # % of equity
+  max_daily_loss_pct: 0.8         # % of equity
+  min_cash_reserve_usd: 200.0     # hard floor
+  max_open_positions: 10          # hard cap total concurrent positions
+
+assets:
+  - symbol: BTC-PERP
+  - symbol: ETH-PERP
+  - symbol: SOL-PERP
+  - symbol: XAU-PERP
+  - symbol: XAG-PERP
