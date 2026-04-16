@@ -1,10 +1,10 @@
 # Nau Mai ki Zynthio
 ## Language: Te Reo Māori
 ## Duration: 50 seconds
-## Avatar tone: warm, respectful, grounded
+## Avatar tone: warm
 ## Brand: Zynthio
 
-[GESTURE: warm smile, slight nod]
+[GESTURE: warm smile]
 
 Kia ora. Nau mai, haere mai ki *Zynthio*.
 
@@ -12,7 +12,7 @@ Kia ora. Nau mai, haere mai ki *Zynthio*.
 
 Kei te hanga mātou i tētahi mea rerekē — he pūnaha auaha katoa, i hangaia mō ngā ringatoi motuhake, ngā kaihanga puoro, me ngā kaihanga pēnei i a koe.
 
-[GESTURE: open hand gesture]
+[GESTURE: open hand]
 
 Whakaarohia pēnei. Kotahi te pūnaha — whitu ngā waitohu — ko ngā mea katoa e hiahiatia ana e koe ki te *waihanga*, ki te *ako*, ki te *tiaki*, me te *whakatipu* i ō mahi. Kāore he kaiārai. Kāore he kuaha kati.
 
@@ -28,6 +28,10 @@ Nō Aotearoa mātou, i whakatūria e Corey McIvor, ā, e whakapono ana mātou ki
 
 Tō toi. Ō taputapu. Ō tikanga.
 
-[GESTURE: confident smile]
+[PAUSE 0.5s]
+
+Kāore he whakakī. Katoa he tohu.
+
+[GESTURE: nod]
 
 Kia hanga tahi tātou. Nau mai ki te pūnaha.

@@ -1,10 +1,10 @@
 # Zynthio Investor Pitch
 ## Language: English
 ## Duration: 120 seconds
-## Avatar tone: professional, compelling, data-grounded
+## Avatar tone: professional
 ## Brand: Zynthio
 
-[GESTURE: direct eye contact, confident posture]
+[GESTURE: direct eye contact]
 
 Thank you for your time. Let me tell you why *Zynthio* is the investment opportunity you should be paying attention to.
 
@@ -12,7 +12,7 @@ Thank you for your time. Let me tell you why *Zynthio* is the investment opportu
 
 The global music production software market is worth 5.9 billion dollars and growing at eight percent year over year. The AI music generation market alone is 1.5 billion — growing at *twenty-five percent* annually. Combined with online music education at 2.1 billion, we're looking at a total addressable market of roughly *9.5 billion dollars*.
 
-[GESTURE: open hand gesture]
+[GESTURE: open hand]
 
 And right now, that market is fragmented. Independent creators are forced to stitch together expensive, disconnected tools for production, education, legal protection, and distribution. No one offers the full stack.
 
@@ -42,7 +42,7 @@ Here's the architecture.
 
 [PAUSE 1s]
 
-[GESTURE: lean slightly forward]
+[GESTURE: lean forward]
 
 Our traction is real. Production infrastructure is *live* — Docker, Python 3.11, our own VPS. SongPal trademark is *filed*. ZYNTHIO LIMITED company name is *reserved* — incorporating under New Zealand Companies Act. Music is *written and in the deployment pipeline*. And the codebase is public on GitHub.
 
@@ -50,7 +50,7 @@ Our traction is real. Production infrastructure is *live* — Docker, Python 3.1
 
 We're seeking seed capital in the range of 150 to 250 thousand New Zealand dollars to accelerate SongPal to beta, launch the first MOSOKO cohort, and complete incorporation.
 
-[GESTURE: confident, steady]
+[GESTURE: nod]
 
 The moat is clear. No competitor combines AI production, education, IP infrastructure, and an artist persona under one sovereign architecture. Zynthio is not a feature. It's a *stack*.
 

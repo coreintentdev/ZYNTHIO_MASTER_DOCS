@@ -1,10 +1,10 @@
 # Introducing SongPal
 ## Language: English
 ## Duration: 75 seconds
-## Avatar tone: energetic, creative, inspiring
+## Avatar tone: energetic
 ## Brand: SongPal
 
-[GESTURE: enthusiastic smile]
+[GESTURE: smile]
 
 Meet *SongPal* — your AI music production partner.
 
@@ -12,13 +12,13 @@ Meet *SongPal* — your AI music production partner.
 
 Here's the problem. If you're an independent artist or bedroom producer, you're stuck choosing between expensive studio time, complex software with a brutal learning curve, or AI tools that spit out generic tracks you don't actually own.
 
-[GESTURE: shake head slightly]
+[GESTURE: shake head]
 
 None of that works.
 
 [PAUSE 0.5s]
 
-[GESTURE: open hand gesture]
+[GESTURE: open hand]
 
 SongPal is different. It's an AI-powered platform built specifically for creators who want to *make real music* — not just press a button and get a generic beat.
 
@@ -30,7 +30,7 @@ Here's what you get.
 
 *Intelligent arrangement* — drop in your ideas and the AI helps you shape them into a full production. Verse, chorus, bridge — structured and professional.
 
-*Generative audio* — integrated with Suno API for cutting-edge sound generation. Need a texture, a pad, a vocal layer? Generate it right inside your project.
+*Generative audio* — integrated with Suno for cutting-edge sound generation. Need a texture, a pad, a vocal layer? Generate it right inside your project.
 
 [PAUSE 0.5s]
 
@@ -42,6 +42,6 @@ And here's the big one — *you own everything you create*. One hundred percent.
 
 SongPal is trademarked in New Zealand — IPONZ number 1318588 — and it's the flagship product of the Zynthio ecosystem.
 
-[GESTURE: confident smile]
+[GESTURE: nod]
 
-Stop compromising. Start creating on your terms. *SongPal*.
+*Your sound. Your stack.* That's SongPal.

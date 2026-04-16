@@ -1,7 +1,7 @@
 # Introducción a MOSOKO
-## Language: Spanish (Español)
+## Language: Español
 ## Duration: 80 seconds
-## Avatar tone: empowering, direct, practical
+## Avatar tone: energetic
 ## Brand: MOSOKO
 
 [GESTURE: warm smile]
@@ -12,7 +12,7 @@ Hola — bienvenido a *MOSOKO*.
 
 Si alguna vez quisiste hacer música pero sentiste que no tenías las herramientas correctas, la formación adecuada o los contactos necesarios — esto es para ti.
 
-[GESTURE: open hand gesture]
+[GESTURE: open hand]
 
 MOSOKO es el brazo educativo del ecosistema Zynthio. No enseñamos teoría en el vacío. Te enseñamos a usar *herramientas reales* — las mismas que los creadores profesionales están usando ahora mismo — para producir, proteger y publicar tu propia música.
 
@@ -38,6 +38,6 @@ Ofrecemos programas estructurados en cohortes con sesiones en vivo, y módulos a
 
 MOSOKO no es una escuela de música genérica. Está diseñada para creadores independientes que quieren controlar todo su proceso — desde la primera idea hasta el lanzamiento final.
 
-[GESTURE: confident smile]
+[GESTURE: nod]
 
-Aprende a crear. Sé dueño de lo que haces. Eso es *MOSOKO*.
+*Hazlo. Sé su dueño. Enséñalo.* Eso es MOSOKO.

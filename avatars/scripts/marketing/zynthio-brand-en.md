@@ -1,10 +1,10 @@
 # The Zynthio Ecosystem — Brand Overview
 ## Language: English
 ## Duration: 90 seconds
-## Avatar tone: visionary, grounded, confident
+## Avatar tone: professional
 ## Brand: Zynthio
 
-[GESTURE: warm smile, open posture]
+[GESTURE: warm smile]
 
 Imagine a world where independent creators have *everything* they need — in one place. The tools to create. The intelligence to compete. The education to grow. And the legal protection to own it all.
 
@@ -12,7 +12,7 @@ Imagine a world where independent creators have *everything* they need — in on
 
 That's *Zynthio*.
 
-[GESTURE: open hand gesture]
+[GESTURE: open hand]
 
 We're not a single product. We're a *sovereign creative-technology ecosystem* — seven interconnected brands, each with a clear role, all working as one system.
 
@@ -24,7 +24,7 @@ Let me walk you through it.
 
 *SongPal* is our AI-powered music production platform. It's where creators write, arrange, and produce — with intelligent assistance built right in. Trademark filed, platform in development.
 
-*CoreeyAI* is the brain — the intelligence layer that powers everything. Custom AI integrations with Claude, Grok, and Perplexity. Not off-the-shelf. Purpose-built.
+*CoreeyAI* is the brain — the intelligence layer that powers everything. Custom AI orchestration across Claude, Grok, and Perplexity. Not off-the-shelf. Purpose-built.
 
 *MOSOKO* is our education brand. Real curriculum. Real tools. Teaching independent artists how to produce, protect, and publish.
 
@@ -44,6 +44,6 @@ And *Zynthio* itself — the parent company, incorporating in New Zealand — ti
 
 One stack. Seven brands. No filler. All signal.
 
-[GESTURE: confident smile]
+[GESTURE: nod]
 
 This is creative sovereignty. This is *Zynthio*.

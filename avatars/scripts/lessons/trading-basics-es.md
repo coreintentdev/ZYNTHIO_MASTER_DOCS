@@ -1,7 +1,7 @@
 # Conceptos Básicos de Trading — El Modelo de Competición
-## Language: Spanish (Español)
+## Language: Español
 ## Duration: 95 seconds
-## Avatar tone: professional, clear, educational
+## Avatar tone: professional
 ## Brand: CoreIntent
 
 [GESTURE: nod]
@@ -12,7 +12,7 @@ Hablemos de cómo funciona realmente nuestro motor de trading — y por qué es 
 
 La mayoría de las plataformas de trading te encierran en suscripciones mensuales. Pagas ganes o pierdas. La plataforma gana dinero sin importar tus resultados. Ese modelo está roto.
 
-[GESTURE: open hand gesture]
+[GESTURE: open hand]
 
 En *CoreIntent*, usamos un *modelo basado en competiciones*. Esto es lo que significa.
 
@@ -40,6 +40,6 @@ Ahora — esto es importante. Ningún sistema de trading garantiza rendimientos.
 
 Esa es la base. En la próxima lección, profundizaremos en cómo la IA toma decisiones de trading.
 
-[GESTURE: confident smile]
+[GESTURE: nod]
 
 Nos vemos ahí.

@@ -1,7 +1,7 @@
 # How AI Trading Works — Simply Explained
 ## Language: English
 ## Duration: 90 seconds
-## Avatar tone: friendly, clear, patient
+## Avatar tone: friendly
 ## Brand: CoreIntent
 
 [GESTURE: warm smile]
@@ -12,7 +12,7 @@ Alright — let's break down how AI trading actually works. No jargon. No hype. 
 
 Think of the AI trading engine like a very disciplined analyst who never sleeps, never panics, and never makes decisions based on gut feelings.
 
-[GESTURE: open hand gesture]
+[GESTURE: open hand]
 
 Here's what it actually does, step by step.
 
@@ -32,7 +32,7 @@ Here's what it actually does, step by step.
 
 [PAUSE 1s]
 
-[GESTURE: open hand gesture]
+[GESTURE: open hand]
 
 *Step five — monitoring.* After the trade is live, the AI keeps watching. If conditions change, it adjusts. If a stop-loss is hit, it exits. No ego. No holding on and hoping.
 
@@ -40,6 +40,6 @@ Here's what it actually does, step by step.
 
 That's it. Data in. Analysis. Risk check. Execute. Monitor. Repeat.
 
-[GESTURE: confident smile]
+[GESTURE: nod]
 
 The AI doesn't have bad days. It doesn't get greedy. It just follows the rules — and that's exactly what makes it powerful.

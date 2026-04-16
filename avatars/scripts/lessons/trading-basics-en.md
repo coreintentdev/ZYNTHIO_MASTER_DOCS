@@ -1,7 +1,7 @@
 # Trading Basics — The Competition Model
 ## Language: English
 ## Duration: 90 seconds
-## Avatar tone: professional, clear, educational
+## Avatar tone: professional
 ## Brand: CoreIntent
 
 [GESTURE: nod]
@@ -12,7 +12,7 @@ Let's talk about how our trading engine actually works — and why it's differen
 
 Most trading platforms lock you into monthly subscriptions. You pay whether you win or lose. The platform makes money regardless of your results. That model is broken.
 
-[GESTURE: open hand gesture]
+[GESTURE: open hand]
 
 At *CoreIntent*, we use a *competition-based model*. Here's what that means.
 
@@ -40,6 +40,6 @@ Now — this is important. No trading system guarantees returns. Markets are unp
 
 That's the foundation. In the next lesson, we'll go deeper into how the AI actually makes trading decisions.
 
-[GESTURE: confident smile]
+[GESTURE: nod]
 
 See you there.

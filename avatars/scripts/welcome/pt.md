@@ -1,10 +1,10 @@
 # Bem-vindo ao Zynthio
-## Language: Portuguese (Português)
+## Language: Português
 ## Duration: 50 seconds
-## Avatar tone: friendly, confident
+## Avatar tone: friendly
 ## Brand: Zynthio
 
-[GESTURE: warm smile, slight nod]
+[GESTURE: warm smile]
 
 Olá. Bem-vindo ao *Zynthio*.
 
@@ -12,7 +12,7 @@ Olá. Bem-vindo ao *Zynthio*.
 
 Estamos construindo algo diferente aqui — um ecossistema criativo completo, projetado do zero para artistas independentes, produtores e criadores como você.
 
-[GESTURE: open hand gesture]
+[GESTURE: open hand]
 
 Pense assim. Um sistema — sete marcas — tudo o que você precisa para *criar*, *aprender*, *proteger* e *crescer* o seu trabalho. Sem intermediários. Sem barreiras.
 
@@ -28,6 +28,10 @@ Somos uma empresa fundada na Nova Zelândia por Corey McIvor, e acreditamos em u
 
 Sua arte. Suas ferramentas. Suas condições.
 
-[GESTURE: confident smile]
+[PAUSE 0.5s]
+
+Sem enrolação. Só sinal.
+
+[GESTURE: nod]
 
 Vamos construir algo juntos. Bem-vindo ao ecossistema.

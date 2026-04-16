@@ -1,10 +1,10 @@
 # Zynthio Partnership Proposal
 ## Language: English
 ## Duration: 100 seconds
-## Avatar tone: professional, collaborative, strategic
+## Avatar tone: professional
 ## Brand: Zynthio
 
-[GESTURE: warm professional smile]
+[GESTURE: warm smile]
 
 Thanks for taking this meeting. I want to talk about what a partnership with *Zynthio* could look like — and why it makes strategic sense for both of us.
 
@@ -12,7 +12,7 @@ Thanks for taking this meeting. I want to talk about what a partnership with *Zy
 
 Let me give you the quick picture. Zynthio is a vertically integrated creative-technology ecosystem — seven brands, one stack. We cover AI-powered music production, education, artist development, trading infrastructure, and IP protection. All built in-house. All under one roof.
 
-[GESTURE: open hand gesture]
+[GESTURE: open hand]
 
 Now — why does that matter to you?
 
@@ -32,7 +32,7 @@ If you're in *legal or IP services* — *KERVALON* is building an IP management 
 
 [PAUSE 1s]
 
-[GESTURE: lean slightly forward]
+[GESTURE: lean forward]
 
 Here's what we bring to the table. A working tech stack. A clear brand architecture. A New Zealand-based legal entity. Trademarked IP. And a founder who is the engineer, the producer, and the strategist — all in one.
 
@@ -40,6 +40,6 @@ Here's what we bring to the table. A working tech stack. A clear brand architect
 
 We're lean, we move fast, and we don't waste partnership time on meetings that go nowhere.
 
-[GESTURE: confident smile]
+[GESTURE: nod]
 
 So — let's talk specifics. What does the right partnership look like for your organisation? I'm ready when you are.
