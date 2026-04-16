@@ -1,0 +1,166 @@
+# NZ COMPLIANCE TRACKER — Zynthio
+
+![Status](https://img.shields.io/badge/status-in%20progress-yellow) ![Updated](https://img.shields.io/badge/updated-2026--04--16-blue) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black)
+
+> Tracks all New Zealand incorporation, IP, and director compliance obligations for the Zynthio ecosystem.
+
+---
+
+## Summary Dashboard
+
+| Item | Reference | Status | Deadline |
+|------|-----------|--------|----------|
+| ZYNTHIO LIMITED — name reservation | #15436626 | Name reserved | **May 12, 2026** |
+| ZYNTHIO LIMITED — incorporation | — | Pending | Before May 12, 2026 |
+| SongPal trademark | IPONZ #1318588 | Application filed | Awaiting examination |
+| Director residency requirement | Companies Act 1993 | Action required — see below | Before incorporation |
+| Registered office (NZ) | — | Not yet established | Before incorporation |
+
+---
+
+## 1. Company Incorporation — ZYNTHIO LIMITED
+
+### Name Reservation
+
+| Field | Detail |
+|-------|--------|
+| Reserved name | ZYNTHIO LIMITED |
+| Reservation number | #15436626 |
+| Reservation date | *(confirm with Companies Office)* |
+| **Expiry / deadline** | **May 12, 2026** |
+| Registry | New Zealand Companies Office (NZCO) |
+| URL | [companies.govt.nz](https://www.companies.govt.nz) |
+
+**Action required:** Complete incorporation on the Companies Office portal **before May 12, 2026** or the name reservation lapses.
+
+### Incorporation Checklist
+
+- [ ] Confirm reservation #15436626 is still active
+- [ ] Appoint at least one NZ/AU resident director (see Director Residency below)
+- [ ] Establish a NZ registered office address
+- [ ] Prepare constitution or elect to use the Companies Act 1993 default rules
+- [ ] Pay incorporation fee (currently NZD $150 online)
+- [ ] File on Companies Office portal
+- [ ] Receive Certificate of Incorporation
+- [ ] Open NZ business bank account (post-incorporation)
+- [ ] Register for GST if turnover expected to exceed NZD $60,000/year
+
+### Post-Incorporation
+
+- [ ] File first annual return (due within 12 months of incorporation)
+- [ ] Maintain company register (shareholders, directors, addresses)
+- [ ] Keep financial records (minimum 7 years)
+
+---
+
+## 2. Director Residency Requirements
+
+### Legal Requirement
+
+Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company must have at least one director who:
+- Is a **New Zealand citizen or resident**, **or**
+- Is an **Australian citizen or resident** who is also a director of a company incorporated in Australia
+
+**Note:** This requirement applies at the time of incorporation and must be maintained continuously.
+
+### Founder Status
+
+| Field | Detail |
+|-------|--------|
+| Founder | Corey McIvor |
+| Citizenship | New Zealand / Australia (dual) |
+| Current location | Managua, Nicaragua |
+| Residency status for Act purposes | NZ/AU citizen — **qualifies as eligible director** |
+
+**Assessment:** Corey McIvor satisfies the director residency requirement as an NZ/AU citizen, regardless of current physical location in Nicaragua. Citizenship is the applicable test, not tax residency or physical presence.
+
+**Recommended action:** Confirm this interpretation with a NZ solicitor before incorporation. If additional directors are added who are non-NZ/AU, ensure Corey remains on the board as the qualifying director.
+
+---
+
+## 3. Intellectual Property — SongPal Trademark
+
+### IPONZ Filing
+
+| Field | Detail |
+|-------|--------|
+| Mark | SongPal |
+| Application number | #1318588 |
+| Registry | IPONZ (Intellectual Property Office of New Zealand) |
+| Status | Application filed — awaiting examination |
+| Applicant | *(confirm: Corey McIvor or ZYNTHIO LIMITED?)* |
+| Class(es) | *(confirm Nice Classification — likely Class 9 / 41 / 42)* |
+| URL | [iponz.govt.nz](https://www.iponz.govt.nz) |
+
+### Trademark Timeline (Typical IPONZ)
+
+| Stage | Typical Timeframe | Status |
+|-------|-------------------|--------|
+| Application filed | Day 0 | Done |
+| Formalities check | 1–2 weeks | Pending |
+| Examination | 3–6 months | Pending |
+| Acceptance / objection | After examination | Pending |
+| Opposition period | 3 months after acceptance | Pending |
+| Registration | After opposition period | Pending |
+
+### Action Items
+
+- [ ] Monitor IPONZ portal for examination report
+- [ ] Confirm applicant name matches the entity being incorporated
+- [ ] If applicant is Corey McIvor personally, plan assignment to ZYNTHIO LIMITED post-incorporation
+- [ ] Respond to any examination objections within IPONZ deadlines
+- [ ] Consider class coverage — review if Class 41 (education) and 42 (SaaS) are included
+
+---
+
+## 4. Other IP Considerations
+
+| Asset | Status | Notes |
+|-------|--------|-------|
+| ZYNTHIO brand | Unregistered | Consider TM filing post-incorporation |
+| CoreeyAI brand | Unregistered | Consider TM filing |
+| MOSOKO brand | Unregistered | Consider TM filing |
+| DJ Zynrose music | Copyright (automatic) | No filing required — document creation dates |
+| Codebase (COREINTENT) | MIT License (open source) | See LICENSE file |
+| Domain: zynthio.ai | Active | Confirm renewal date |
+
+---
+
+## 5. Tax & Regulatory
+
+| Obligation | Threshold | Status |
+|-----------|-----------|--------|
+| GST registration | NZD $60,000/year turnover | Register when approaching threshold |
+| Income tax (company rate) | 28% flat | Post-incorporation |
+| PAYE (if employees) | On hiring | N/A currently |
+| ACC levies | On self-employment income | Applicable to Corey as sole director/operator |
+
+---
+
+## 6. Key Deadlines Calendar
+
+| Date | Event |
+|------|-------|
+| **May 12, 2026** | ZYNTHIO LIMITED name reservation expires — **must incorporate by this date** |
+| TBD | IPONZ examination report for SongPal TM #1318588 |
+| TBD | Annual return due (12 months post-incorporation) |
+
+---
+
+## 7. Advisors & Resources
+
+| Resource | URL |
+|----------|-----|
+| NZ Companies Office | [companies.govt.nz](https://www.companies.govt.nz) |
+| IPONZ | [iponz.govt.nz](https://www.iponz.govt.nz) |
+| Companies Act 1993 | [legislation.govt.nz](https://www.legislation.govt.nz/act/public/1993/0105/latest/DLM319570.html) |
+| IRD (tax) | [ird.govt.nz](https://www.ird.govt.nz) |
+| MBIE business resources | [business.govt.nz](https://www.business.govt.nz) |
+
+---
+
+> **Disclaimer:** This document is for internal tracking only and does not constitute legal advice. Consult a qualified NZ solicitor for incorporation and IP strategy.
+
+---
+
+*Last updated: 2026-04-16 | Maintained by: Corey McIvor / KERVALON*
