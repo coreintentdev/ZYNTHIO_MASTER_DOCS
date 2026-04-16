@@ -41,6 +41,11 @@ Start here based on your role:
 | [INDEX.md](INDEX.md) | This file — master table of contents |
 | [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md) | Visual and narrative map of all brand connections |
 | [COMPETITION_ENTRY.md](COMPETITION_ENTRY.md) | One-page pitch for startup/AI/music competitions |
+| [COMPETITION_PORTFOLIO.md](COMPETITION_PORTFOLIO.md) | Full competition portfolio — exec summary, architecture, traction |
+| [PITCH_DECK_OUTLINE.md](PITCH_DECK_OUTLINE.md) | 10-slide pitch deck structure with content per slide |
+| [DEMO_SCRIPT.md](DEMO_SCRIPT.md) | 3-minute live demo walkthrough for competitions |
+| [PRESS_KIT.md](PRESS_KIT.md) | Brand story, founder bios, key quotes, brand colours |
+| [AWARDS_TRACKER.md](AWARDS_TRACKER.md) | 2026 competition targets, deadlines, application status |
 | [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md) | 3-year revenue projections, unit economics, funding ask |
 | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | NZ incorporation, IP, and director compliance tracker |
 | [PERPLEXITY-QUERY-TEMPLATES.md](PERPLEXITY-QUERY-TEMPLATES.md) | Perplexity AI connector query templates |
@@ -183,4 +188,4 @@ brands/<BRAND>/
 
 ---
 
-*Last updated: 2026-04-16 (Session 4) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-16 (Session 5) | Maintained by: Corey McIvor / COREINTENT*

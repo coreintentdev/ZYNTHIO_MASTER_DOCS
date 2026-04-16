@@ -7,6 +7,20 @@ Format: `YYYY-MM-DD | Type | Description`
 
 ---
 
+## 2026-04-16 (Session 5)
+
+### Added
+- `COMPETITION_PORTFOLIO.md` — Full competition portfolio: executive summary (50 words), problem statement, solution architecture, market opportunity ($9.5B TAM), founder profile, technical architecture diagram, competitive advantages (competition model, NZ jurisdiction, open architecture, vertical integration), honest traction metrics (live, filed, in-development, and what's missing), financial projections summary, and tailored ask by competition type
+- `PITCH_DECK_OUTLINE.md` — 10-slide pitch deck structure with full content for each slide: Title, Problem, Solution, How It Works, Market Opportunity, Business Model, Traction, Competitive Landscape, Founder, and The Ask; includes design guidelines (colours, fonts, slide ratio) and delivery/adaptation notes for different competition types
+- `DEMO_SCRIPT.md` — 3-minute live demo walkthrough: pre-demo checklist, 6-segment flow (live infrastructure → CoreeyAI orchestration → SongPal product/fallback → gTrade self-funding → documentation/brand → closing), timing table, adaptation notes for AI/music/fintech competitions, WiFi-failure contingency plan
+- `PRESS_KIT.md` — Complete press kit: brand story in 3 lengths (50/150/300 words), founder bio in 3 lengths (50/100/200 words), 10 key quotes by category, full brand colour palettes (ZYNTHIO, SongPal, DJ Zynrose), typography spec, all 7 brand taglines, quick-reference facts table, usage guidelines
+- `AWARDS_TRACKER.md` — 2026 competition tracker: 17 competitions across NZ (7), Australia (3), International (4), and Cloud/Platform credits (3); detailed profiles per competition with fit assessment, eligibility, Zynthio angle, and URLs; application status dashboard; suggested monthly timeline May–December 2026; per-competition materials checklist
+
+### Updated
+- `INDEX.md` — Added 5 new competition portfolio documents to Root Documents table; updated session to 5
+
+---
+
 ## 2026-04-16 (Session 4)
 
 ### Added
