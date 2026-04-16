@@ -82,6 +82,30 @@ Zynthio is **seven interconnected brands** operating as one system:
 
 ---
 
+## Competitive Differentiation
+
+| Competitor | What They Do | What Zynthio Does Differently |
+|------------|-------------|-------------------------------|
+| Suno / Udio | AI music generation | Zynthio integrates generation *within* a full creator stack — education, IP protection, distribution |
+| Splice | Sample library & collaboration | Zynthio is AI-native and sovereignty-focused — creators own 100% of output |
+| Berklee Online / Coursera | Music education | MOSOKO teaches *this specific stack* — no legacy curriculum, tools are live products |
+| LANDR | AI mastering & distribution | Zynthio covers the full pipeline: creation → education → legal → distribution |
+| Generic AI APIs | Model access | Zynthio is the *application layer* — purpose-built for creators, not developers |
+
+**The moat:** No competitor combines AI production + education + IP infrastructure + an artist persona under one sovereign architecture. Zynthio is not a feature — it is a stack.
+
+---
+
+## Why New Zealand
+
+- ZYNTHIO LIMITED incorporating under NZ Companies Act 1993
+- IPONZ trademark protection for SongPal (#1318588) — NZ IP infrastructure
+- NZ's creator economy is underserved by global AI tools designed for US/EU markets
+- Strong NZ export education and tech incentives align with MOSOKO and SongPal
+- Founder holds NZ/AU dual citizenship — deep alignment with NZ commercial values
+
+---
+
 ## Why Now
 
 - Generative AI has collapsed the cost of music production — the bottleneck is now **curation, pedagogy, and IP infrastructure**, not creation

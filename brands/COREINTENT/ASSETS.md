@@ -34,8 +34,8 @@
 
 | Role | Family | Weight | Notes |
 |------|--------|--------|-------|
-| Display | *(add font name)* | 700 | Engineering precision aesthetic |
-| Body | *(add font name)* | 400 | Documentation, READMEs |
+| Display | Space Mono | 700 | Engineering precision aesthetic — monospace character |
+| Body | Inter | 400 | Documentation, READMEs — clean and neutral |
 | Code/Mono | JetBrains Mono | 400 | All code, terminal output, config |
 
 *Note: Monospace is the primary COREINTENT font — this brand lives in the terminal.*

@@ -38,7 +38,7 @@ To create music that demonstrates what sovereign AI-assisted production sounds l
 | Artist name | DJ Zynrose |
 | Real name | Corey McIvor |
 | Parent | ZYNTHIO |
-| Genre | *(define: electronic / AI-assisted / experimental)* |
+| Genre | AI-assisted electronic / experimental / ambient |
 | Signal | 336 |
 | Doctrine | *Velvet knife. Sovereign. No filler. All signal.* |
 

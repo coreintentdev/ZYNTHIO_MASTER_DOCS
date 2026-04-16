@@ -35,9 +35,9 @@
 
 | Role | Family | Weight | Notes |
 |------|--------|--------|-------|
-| Artist name | *(add font name)* | 700 | Large, bold, memorable |
-| Track titles | *(add font name)* | 500 | Clean, modern |
-| Body | *(add font name)* | 400 | Press releases, bio |
+| Artist name | Bebas Neue | 700 | Large, bold, memorable — strong visual presence |
+| Track titles | Space Grotesk | 500 | Clean, modern — technical yet expressive |
+| Body | Inter | 400 | Press releases, bio — clear and readable |
 
 ---
 

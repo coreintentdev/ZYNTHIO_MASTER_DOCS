@@ -36,9 +36,9 @@
 
 | Role | Family | Weight | Notes |
 |------|--------|--------|-------|
-| Display | *(add font name)* | 700 | Warm, approachable |
-| Body | *(add font name)* | 400 | Highly legible for long-form content |
-| Accent | *(add font name)* | 500 italic | Pull quotes, module titles |
+| Display | Nunito | 700 | Warm, approachable — rounded, friendly |
+| Body | Lato | 400 | Highly legible for long-form content |
+| Accent | Lato | 500 italic | Pull quotes, module titles |
 
 ---
 
@@ -51,7 +51,7 @@
 | Warm | Encouraging without being patronising |
 | Practical | Every lesson ends with something you can do today |
 
-**Tagline:** *(add tagline)*
+**Tagline:** *Make it. Own it. Teach it.*
 
 ---
 

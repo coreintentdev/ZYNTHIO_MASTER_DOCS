@@ -35,8 +35,8 @@
 
 | Role | Family | Weight | Notes |
 |------|--------|--------|-------|
-| Display / Heading | *(add font name)* | 700 | Primary brand headline |
-| Body | *(add font name)* | 400, 500 | Long-form content |
+| Display / Heading | Space Grotesk | 700 | Primary brand headline — modern, distinctive |
+| Body | Inter | 400, 500 | Long-form content — neutral, highly legible |
 | Monospace / Code | JetBrains Mono | 400 | Technical docs, code blocks |
 
 ---

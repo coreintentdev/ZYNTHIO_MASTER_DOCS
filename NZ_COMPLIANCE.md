@@ -1,6 +1,6 @@
 # NZ COMPLIANCE TRACKER — Zynthio
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellow) ![Updated](https://img.shields.io/badge/updated-2026--04--16-blue) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![CRITICAL](https://img.shields.io/badge/CRITICAL-26%20days%20to%20May%2012-red)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow) ![Updated](https://img.shields.io/badge/updated-2026--04--16-blue) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red)
 
 > Tracks all New Zealand incorporation, IP, and director compliance obligations for the Zynthio ecosystem.
 
@@ -8,7 +8,8 @@
 
 > **URGENT — INCORPORATION DEADLINE**
 > ZYNTHIO LIMITED name reservation #15436626 expires **May 12, 2026**.
-> As of 2026-04-16, that is **26 days away.** File at [companies.govt.nz](https://www.companies.govt.nz) before this date or the name is lost.
+> File at [companies.govt.nz](https://www.companies.govt.nz) before this date or the name is lost permanently.
+> *(Calculate days remaining from today's date — as of 2026-04-16, this was 26 days.)*
 
 ---
 

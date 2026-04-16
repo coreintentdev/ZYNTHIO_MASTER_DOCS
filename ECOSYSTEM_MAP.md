@@ -156,6 +156,45 @@ ZYNTHIO ──governs──► All brands · captures value · faces market
 
 ---
 
+## Technology Stack
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│                    EXTERNAL AI SERVICES                        │
+│  Claude (Anthropic)  │  Grok (xAI)  │  Perplexity  │  Suno   │
+└───────────────────┬────────────────────────────────────────────┘
+                    │ (consumed via)
+┌───────────────────▼────────────────────────────────────────────┐
+│                       CoreeyAI                                 │
+│     Model orchestration · Prompt engineering · Agentic flows   │
+└──────────┬────────────────────────────┬───────────────────────┘
+           │                            │
+┌──────────▼──────────┐     ┌───────────▼────────────────────────┐
+│       SongPal       │     │             MOSOKO                  │
+│  AI music platform  │     │   Adaptive learning engine          │
+└─────────────────────┘     └────────────────────────────────────┘
+
+┌────────────────────────────────────────────────────────────────┐
+│                    COREINTENT INFRASTRUCTURE                   │
+│   Python 3.11 · Docker · VPS (104.194.156.109) · GitHub CI    │
+│   gTrade (trading bot) · Perplexity Orb · ZYNTHIO_MASTER_DOCS │
+└────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Revenue Architecture
+
+| Stream | Source Brand | Mechanism | Stage |
+|--------|-------------|-----------|-------|
+| SaaS subscriptions | SongPal | Monthly/annual plans | In development |
+| Course revenue | MOSOKO | Cohort & self-paced fees | Planned Q3 2026 |
+| B2B API licensing | CoreeyAI | Per-call or monthly API access | Planned Q4 2026 |
+| IP services | KERVALON | Consulting + filing support | Planned Q4 2026+ |
+| Trading returns | COREINTENT (gTrade) | Autonomous bot — internal funding | Live (internal) |
+
+---
+
 ## Strategic Intent
 
 The Zynthio ecosystem is designed as a **closed-loop creative sovereignty stack**:

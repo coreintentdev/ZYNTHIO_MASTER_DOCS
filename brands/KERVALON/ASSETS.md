@@ -36,9 +36,9 @@
 
 | Role | Family | Weight | Notes |
 |------|--------|--------|-------|
-| Display | *(add font name)* | 600 | Authoritative, structured |
-| Body | *(add font name)* | 400 | Legal document legibility |
-| Small caps | *(add font name)* | 500 | Case references, section headers |
+| Display | Playfair Display | 600 | Authoritative, structured — classical gravitas |
+| Body | Source Serif Pro | 400 | Legal document legibility — optimised for long reads |
+| Small caps | Source Serif Pro | 500 | Case references, section headers |
 
 ---
 

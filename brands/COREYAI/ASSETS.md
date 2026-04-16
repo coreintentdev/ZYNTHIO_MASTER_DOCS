@@ -34,8 +34,8 @@
 
 | Role | Family | Weight | Notes |
 |------|--------|--------|-------|
-| Display | *(add font name)* | 600–700 | Technical precision feel |
-| Body | *(add font name)* | 400 | Clean, readable |
+| Display | Outfit | 600–700 | Technical precision feel — geometric, clean |
+| Body | Inter | 400 | Clean, readable — neutral and professional |
 | Code/Mono | JetBrains Mono | 400 | API docs, model outputs |
 
 ---

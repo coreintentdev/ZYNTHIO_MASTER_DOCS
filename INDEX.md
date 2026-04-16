@@ -26,6 +26,7 @@ Complete table of contents for the ZYNTHIO_MASTER_DOCS repository.
 | [COMPETITION_ENTRY.md](COMPETITION_ENTRY.md) | One-page pitch for startup/AI/music competitions |
 | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | NZ incorporation, IP, and director compliance tracker |
 | [PERPLEXITY-QUERY-TEMPLATES.md](PERPLEXITY-QUERY-TEMPLATES.md) | Perplexity AI connector query templates |
+| [CHANGELOG.md](CHANGELOG.md) | Documented history of all doc changes |
 | [perplexity_orb_20260401.md](perplexity_orb_20260401.md) | Orb session restoration — April 1, 2026 |
 | [LICENSE](LICENSE) | MIT License |
 

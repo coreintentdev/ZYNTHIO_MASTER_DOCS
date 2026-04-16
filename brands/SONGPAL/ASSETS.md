@@ -37,8 +37,8 @@
 
 | Role | Family | Weight | Notes |
 |------|--------|--------|-------|
-| Display | *(add font name)* | 700 | App headers, marketing |
-| UI / Interface | *(add font name)* | 400, 500 | In-app labels, controls |
+| Display | Space Grotesk | 700 | App headers, marketing — distinctive and modern |
+| UI / Interface | Inter | 400, 500 | In-app labels, controls — optimised for UI legibility |
 | Code/Mono | JetBrains Mono | 400 | BPM, frequency displays |
 
 ---
@@ -52,7 +52,7 @@
 | Encouraging | Every session should feel productive |
 | Honest | Clear about what AI can and cannot do |
 
-**Tagline:** *(add tagline)*
+**Tagline:** *Your sound. Your stack.*
 
 ---
 

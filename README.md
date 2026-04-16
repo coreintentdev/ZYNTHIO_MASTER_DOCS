@@ -45,6 +45,7 @@ Zynthio is a sovereign AI-powered creative and technology ecosystem built by Cor
 | [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md) | How all brands connect |
 | [COMPETITION_ENTRY.md](COMPETITION_ENTRY.md) | One-page competition summary |
 | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | NZ incorporation & IP compliance |
+| [CHANGELOG.md](CHANGELOG.md) | Documentation change history |
 
 ---
 
