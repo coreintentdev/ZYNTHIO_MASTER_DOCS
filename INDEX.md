@@ -103,6 +103,51 @@ Complete table of contents for the ZYNTHIO_MASTER_DOCS repository.
 
 ---
 
+## Avatar Scripts
+
+Multilingual scripts for avatar/AI presenter use. Located in `avatars/scripts/`.
+
+### Welcome Scripts
+
+| File | Language |
+|------|----------|
+| [avatars/scripts/welcome/en.md](avatars/scripts/welcome/en.md) | English |
+| [avatars/scripts/welcome/es.md](avatars/scripts/welcome/es.md) | Spanish |
+| [avatars/scripts/welcome/fr.md](avatars/scripts/welcome/fr.md) | French |
+| [avatars/scripts/welcome/pt.md](avatars/scripts/welcome/pt.md) | Portuguese |
+| [avatars/scripts/welcome/zh.md](avatars/scripts/welcome/zh.md) | Chinese |
+| [avatars/scripts/welcome/mi.md](avatars/scripts/welcome/mi.md) | Māori |
+
+### Marketing Scripts
+
+| File | Description | Language |
+|------|-------------|----------|
+| [avatars/scripts/marketing/songpal-intro-en.md](avatars/scripts/marketing/songpal-intro-en.md) | SongPal product introduction | English |
+| [avatars/scripts/marketing/djzynrose-intro-en.md](avatars/scripts/marketing/djzynrose-intro-en.md) | DJ Zynrose artist introduction | English |
+| [avatars/scripts/marketing/coreintent-pitch-en.md](avatars/scripts/marketing/coreintent-pitch-en.md) | COREINTENT dev studio pitch | English |
+| [avatars/scripts/marketing/zynthio-brand-en.md](avatars/scripts/marketing/zynthio-brand-en.md) | Zynthio ecosystem brand pitch | English |
+| [avatars/scripts/marketing/coreintent-pitch-es.md](avatars/scripts/marketing/coreintent-pitch-es.md) | COREINTENT dev studio pitch | Spanish |
+
+### Sales Scripts
+
+| File | Description | Language |
+|------|-------------|----------|
+| [avatars/scripts/sales/investor-pitch-en.md](avatars/scripts/sales/investor-pitch-en.md) | Investor pitch (120s, $9.5B TAM) | English |
+| [avatars/scripts/sales/partner-pitch-en.md](avatars/scripts/sales/partner-pitch-en.md) | Partnership outreach | English |
+
+### Lesson Scripts
+
+| File | Description | Language |
+|------|-------------|----------|
+| [avatars/scripts/lessons/ai-explained-en.md](avatars/scripts/lessons/ai-explained-en.md) | AI trading explanation (90s) | English |
+| [avatars/scripts/lessons/ai-explained-es.md](avatars/scripts/lessons/ai-explained-es.md) | AI trading explanation | Spanish |
+| [avatars/scripts/lessons/trading-basics-en.md](avatars/scripts/lessons/trading-basics-en.md) | Trading fundamentals | English |
+| [avatars/scripts/lessons/trading-basics-es.md](avatars/scripts/lessons/trading-basics-es.md) | Trading fundamentals | Spanish |
+| [avatars/scripts/lessons/mosoko-intro-en.md](avatars/scripts/lessons/mosoko-intro-en.md) | MOSOKO education introduction | English |
+| [avatars/scripts/lessons/mosoko-intro-es.md](avatars/scripts/lessons/mosoko-intro-es.md) | MOSOKO education introduction | Spanish |
+
+---
+
 ## Document Standards
 
 All brand directories follow this structure:

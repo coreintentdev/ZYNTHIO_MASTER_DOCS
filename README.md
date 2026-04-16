@@ -10,7 +10,7 @@
 ## CRITICAL DEADLINE
 
 > **ZYNTHIO LIMITED — INCORPORATE BEFORE MAY 12, 2026**
-> Name reservation #15436626 expires in **26 days** (as of 2026-04-16).
+> Name reservation #15436626 expires **May 12, 2026** — act immediately.
 > Failure to act forfeits the reserved name permanently. → [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md)
 
 ---

@@ -7,6 +7,15 @@ Format: `YYYY-MM-DD | Type | Description`
 
 ---
 
+## 2026-04-16 (Session 2)
+
+### Updated
+- `README.md` — Removed stale day-count ("26 days") from critical deadline alert; replaced with permanent date reference (May 12, 2026)
+- `NZ_COMPLIANCE.md` — Removed stale day-count from summary dashboard table; clarified deadline note to be date-anchored rather than session-relative
+- `INDEX.md` — Added full **Avatar Scripts** section cataloguing all 19 multilingual scripts across `welcome/`, `marketing/`, `sales/`, and `lessons/` subdirectories
+
+---
+
 ## 2026-04-16
 
 ### Added
