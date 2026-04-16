@@ -233,7 +233,7 @@
 >
 > **What we offer:** Ground-floor entry into a sovereign creative-tech ecosystem with protected IP, live infrastructure, and a founder who ships.
 >
-> **Contact:** Corey McIvor — zynthio.ai | github.com/coreintentdev
+> **Contact:** Corey McIvor — zynthio.ai | github.com/coreintentdev | *(add contact email before submitting)*
 >
 > *336 — No filler. All signal.*
 
