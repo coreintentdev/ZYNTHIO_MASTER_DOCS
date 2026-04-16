@@ -1,6 +1,6 @@
 # The Zynthio Ecosystem — Brand Overview
 ## Language: English
-## Duration: 90 seconds
+## Duration: 85 seconds
 ## Avatar tone: visionary, grounded, confident
 ## Brand: Zynthio
 
@@ -12,9 +12,9 @@ Imagine a world where independent creators have *everything* they need — in on
 
 That's *Zynthio*.
 
-[GESTURE: open hand gesture]
+[GESTURE: open palm gesture]
 
-We're not a single product. We're a *sovereign creative-technology ecosystem* — seven interconnected brands, each with a clear role, all working as one system.
+We're not a single product. We're a *sovereign creative ecosystem* — seven brands, each with a clear role, all working as one system.
 
 [PAUSE 0.5s]
 
@@ -22,17 +22,17 @@ Let me walk you through it.
 
 [GESTURE: counting on fingers]
 
-*SongPal* is our AI-powered music production platform. It's where creators write, arrange, and produce — with intelligent assistance built right in. Trademark filed, platform in development.
+*SongPal* — AI-powered music production. Where creators write, arrange, and produce with intelligent tools built right in. Trademark filed. Platform in development.
 
-*CoreeyAI* is the brain — the intelligence layer that powers everything. Custom AI integrations with Claude, Grok, and Perplexity. Not off-the-shelf. Purpose-built.
+*CoreeyAI* — the brain. Our intelligence layer powering everything. Custom AI across Claude, Grok, and Perplexity. Not off-the-shelf. Purpose-built.
 
-*MOSOKO* is our education brand. Real curriculum. Real tools. Teaching independent artists how to produce, protect, and publish.
+*MOSOKO* — education. Real curriculum. Real tools. Teaching independent artists to produce, protect, and publish.
 
-*DJ Zynrose* is the artist — Corey McIvor's music persona. Living proof that the stack works. Real tracks made with real Zynthio tools.
+*DJ Zynrose* — the artist. Corey McIvor's music persona. Living proof the stack works. Real tracks made with real Zynthio tools.
 
-*COREINTENT* is the development studio. Every line of code, every deployment, every system — engineered here.
+*CoreIntent* — the development studio. Every line of code, every deployment, every system — engineered here.
 
-*KERVALON* is the legal sentinel. Trademark filings, IP protection, compliance. What we build, we protect.
+*KERVALON* — the legal sentinel. Trademark filings, IP protection, compliance. What we build, we protect.
 
 [PAUSE 1s]
 

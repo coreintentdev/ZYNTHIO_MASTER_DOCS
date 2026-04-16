@@ -4,39 +4,41 @@
 ## Avatar tone: empowering, direct, practical
 ## Brand: MOSOKO
 
-[GESTURE: warm smile]
+[GESTURE: warm smile, direct eye contact]
 
 Hola — bienvenido a *MOSOKO*.
 
 [PAUSE 1s]
 
-Si alguna vez quisiste hacer música pero sentiste que no tenías las herramientas correctas, la formación adecuada o los contactos necesarios — esto es para ti.
+Si alguna vez quisiste hacer música pero sentiste que no tenías las herramientas, la formación o los contactos — esto es para ti.
 
-[GESTURE: open hand gesture]
+[GESTURE: open palm gesture]
 
-MOSOKO es el brazo educativo del ecosistema Zynthio. No enseñamos teoría en el vacío. Te enseñamos a usar *herramientas reales* — las mismas que los creadores profesionales están usando ahora mismo — para producir, proteger y publicar tu propia música.
+MOSOKO es el brazo educativo de Zynthio. Y no enseñamos teoría en el vacío. Te enseñamos a usar *herramientas reales* — las mismas que usan los creadores profesionales hoy — para producir, proteger y publicar tu propia música.
 
 [PAUSE 0.5s]
 
-Así es como funciona en la práctica.
+Así funciona en la práctica.
 
 [GESTURE: counting on fingers]
 
-*Primero* — aprenderás producción musical asistida por IA usando *SongPal*, nuestra plataforma principal. Composición, arreglos, mezcla — todo potenciado por inteligencia artificial, todo guiado por un currículo real.
+*Primero* — aprendes producción musical asistida por IA con *SongPal*. Composición, arreglos, mezcla — todo potenciado por inteligencia artificial, todo con currículo real.
 
-*Segundo* — aprenderás ingeniería de prompts para creativos. Cómo comunicarte con herramientas de IA y obtener resultados profesionales, no ruido aleatorio.
+*Segundo* — aprendes ingeniería de prompts para creativos. Cómo comunicarte con herramientas de IA y sacar resultados profesionales. No ruido al azar.
 
-*Tercero* — y esta es la parte que la mayoría de los cursos omiten — aprenderás el *lado empresarial*. Protección de propiedad intelectual. Derechos de autor. Licencias. Cómo *ser dueño* de lo que creas.
+[PAUSE 0.5s]
+
+*Tercero* — y esta es la parte que casi todos los cursos se saltan — aprendes el *lado del negocio*. Protección de propiedad intelectual. Derechos de autor. Licencias. Cómo de verdad *ser dueño* de lo que creas.
 
 [PAUSE 1s]
 
 [GESTURE: nod]
 
-Ofrecemos programas estructurados en cohortes con sesiones en vivo, y módulos a tu propio ritmo que puedes completar según tu horario.
+Tenemos programas en cohortes con sesiones en vivo, y módulos a tu propio ritmo que puedes completar cuando quieras.
 
 [PAUSE 0.5s]
 
-MOSOKO no es una escuela de música genérica. Está diseñada para creadores independientes que quieren controlar todo su proceso — desde la primera idea hasta el lanzamiento final.
+MOSOKO no es una escuela de música genérica. Está hecha para creadores independientes que quieren controlar todo su proceso — desde la primera idea hasta el lanzamiento final.
 
 [GESTURE: confident smile]
 
