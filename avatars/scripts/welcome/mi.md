@@ -1,6 +1,6 @@
 # Nau Mai ki Zynthio
 ## Language: Te Reo Māori
-## Duration: 50 seconds
+## Duration: 55 seconds
 ## Avatar tone: warm, respectful, grounded
 ## Brand: Zynthio
 
@@ -8,26 +8,30 @@
 
 Kia ora. Nau mai, haere mai ki *Zynthio*.
 
-[PAUSE 1s]
+[PAUSE 1.5s]
 
-Kei te hanga mātou i tētahi mea rerekē — he pūnaha auaha katoa, i hangaia mō ngā ringatoi motuhake, ngā kaihanga puoro, me ngā kaihanga pēnei i a koe.
+Kei te hanga mātou i tētahi mea hou — he pūnaha auaha mō ngā ringatoi motuhake, ngā kaiwhakaputa puoro, me ngā kaihanga pēnei i a koe.
 
-[GESTURE: open hand gesture]
+[GESTURE: open palm gesture]
 
-Whakaarohia pēnei. Kotahi te pūnaha — whitu ngā waitohu — ko ngā mea katoa e hiahiatia ana e koe ki te *waihanga*, ki te *ako*, ki te *tiaki*, me te *whakatipu* i ō mahi. Kāore he kaiārai. Kāore he kuaha kati.
+Ko te kaupapa he māmā. Kotahi te pūnaha. E whitu ngā waitohu. Ko ngā mea katoa hei *waihanga*, hei *ako*, hei *tiaki*, hei *whakatipu* i ō mahi.
 
 [PAUSE 0.5s]
 
-Mai i te waihanga puoro AI me *SongPal* — ki te mātauranga me *MOSOKO* — ki te tiakitanga rawa hinengaro me *KERVALON* — ka hono katoa. Ā, nōu katoa.
+Kāore he kaiārai. Kāore he kuaha kati.
 
 [GESTURE: nod]
 
-Nō Aotearoa mātou, i whakatūria e Corey McIvor, ā, e whakapono ana mātou ki tētahi mea nui: te *tino rangatiratanga auaha*.
+Ko *SongPal* — te waihanga puoro AI. Ko *MOSOKO* — te mātauranga. Ko *KERVALON* — te tiaki rawa hinengaro. Ka hono katoa — ā, nōu katoa.
+
+[PAUSE 0.5s]
+
+Nō Aotearoa mātou. I whakatūria e Corey McIvor. Ko tā mātou whakapono nui — ko te *tino rangatiratanga auaha*.
 
 [PAUSE 1s]
 
-Tō toi. Ō taputapu. Ō tikanga.
+[GESTURE: confident smile, slight nod]
 
-[GESTURE: confident smile]
+Tō toi. Ō taputapu. Ō tikanga.
 
 Kia hanga tahi tātou. Nau mai ki te pūnaha.

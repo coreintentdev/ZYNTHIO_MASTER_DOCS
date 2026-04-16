@@ -4,30 +4,34 @@
 ## Avatar tone: friendly, confident
 ## Brand: Zynthio
 
-[GESTURE: warm smile, slight nod]
+[GESTURE: warm smile, direct eye contact]
 
-Hola. Bienvenido a *Zynthio*.
+Hola — bienvenido a *Zynthio*.
 
 [PAUSE 1s]
 
-Estamos construyendo algo diferente — un ecosistema creativo completo, diseñado desde cero para artistas independientes, productores y creadores como tú.
+Estamos construyendo algo que no has visto antes. Un ecosistema creativo completo, hecho desde cero para artistas independientes, productores y creadores como tú.
 
-[GESTURE: open hand gesture]
+[GESTURE: open palm gesture, slight lean forward]
 
-Piénsalo así. Un solo sistema — siete marcas — todo lo que necesitas para *crear*, *aprender*, *proteger* y *hacer crecer* tu trabajo. Sin intermediarios. Sin barreras.
+La idea es simple. Un sistema. Siete marcas. Todo lo que necesitas para *crear*, *aprender*, *proteger* y *hacer crecer* tu trabajo.
 
 [PAUSE 0.5s]
 
-Desde producción musical con inteligencia artificial con *SongPal* — hasta educación práctica con *MOSOKO* — hasta protección real de propiedad intelectual con *KERVALON* — todo está conectado. Y todo es tuyo.
+Sin intermediarios. Sin barreras.
 
 [GESTURE: nod]
 
-Somos una empresa fundada en Nueva Zelanda por Corey McIvor, y creemos en una cosa por encima de todo: la *soberanía creativa*.
+Producción musical con inteligencia artificial en *SongPal*. Educación práctica con *MOSOKO*. Protección real de tu propiedad intelectual con *KERVALON*. Todo conectado — y todo tuyo.
+
+[PAUSE 0.5s]
+
+Nacimos en Nueva Zelanda, fundados por Corey McIvor. Y creemos en una cosa por encima de todo — la *soberanía creativa*.
 
 [PAUSE 1s]
 
-Tu arte. Tus herramientas. Tus condiciones.
+[GESTURE: confident smile, slight nod]
 
-[GESTURE: confident smile]
+Tu arte. Tus herramientas. Tus condiciones.
 
 Construyamos algo juntos. Bienvenido al ecosistema.
