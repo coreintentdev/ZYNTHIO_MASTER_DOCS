@@ -210,4 +210,4 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 
 ---
 
-*Last updated: 2026-04-16 (Session 4) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-04-16 (Session 7) | Maintained by: Corey McIvor / KERVALON*

@@ -38,6 +38,7 @@ Start here based on your role:
 | File | Description |
 |------|-------------|
 | [README.md](README.md) | Repository overview and quick navigation |
+| [FOUNDER_BRIEF.md](FOUNDER_BRIEF.md) | Quick-reference operational dashboard for the founder |
 | [INDEX.md](INDEX.md) | This file — master table of contents |
 | [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md) | Visual and narrative map of all brand connections |
 | [COMPETITION_ENTRY.md](COMPETITION_ENTRY.md) | One-page pitch for startup/AI/music competitions |
@@ -188,4 +189,4 @@ brands/<BRAND>/
 
 ---
 
-*Last updated: 2026-04-16 (Session 6) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-16 (Session 7) | Maintained by: Corey McIvor / COREINTENT*
