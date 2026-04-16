@@ -145,6 +145,8 @@ Zynthio is **seven interconnected brands** operating as one system:
 | Callaghan Innovation R&D Grant | Callaghan Innovation | R&D / AI | High | AI development costs qualify |
 | NZ Music Commission Initiatives | NZ Music Commission | Music industry | Medium | DJ Zynrose + MOSOKO angle |
 | Edmund Hillary Fellowship | EHF | Global impact | Medium | Founder narrative — sovereign creative stack for independent artists |
+| Techweek NZ | Techweek Trust | Tech / Startup | Medium | Annual national showcase (May–June) — SongPal demo + ecosystem visibility |
+| NZ Hi-Tech Awards | NZ Tech | Tech innovation | Medium | AI/innovation category — CoreeyAI + SongPal angle; strong NZ story |
 
 ### Australia
 
@@ -162,6 +164,14 @@ Zynthio is **seven interconnected brands** operating as one system:
 | Music Ally LAUNCH | Music Ally | Music technology | High | Leading music-tech showcase |
 | Product Hunt Global Hackathon | Product Hunt | Product / AI | Medium | SongPal AI launch visibility |
 | AI for Good (ITU) | ITU / UN | AI impact | Medium | Education + sovereignty angle |
+
+### Cloud Credits & Platform Programmes
+
+| Programme | Organiser | Category | Fit | Notes |
+|-----------|-----------|----------|-----|-------|
+| AWS Activate | Amazon Web Services | Cloud credits | Medium | Up to USD $100K in AWS credits for startups — rolling applications |
+| Google for Startups | Google | Cloud credits | Medium | Up to USD $200K Google Cloud credits — rolling; AI/ML focus |
+| Anthropic Partner / Builder Programme | Anthropic | AI partnership | Medium | Builder programme for Claude API users — CoreeyAI is a direct fit |
 
 ---
 
@@ -189,4 +199,4 @@ Domain: [zynthio.ai](https://zynthio.ai)
 
 ---
 
-*This document is current as of 2026-04-16 (Session 7). For the latest status see [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) and [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md). Financial projections: [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md).*
+*This document is current as of 2026-04-16 (Session 8). For the latest status see [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) and [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md). Financial projections: [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md).*

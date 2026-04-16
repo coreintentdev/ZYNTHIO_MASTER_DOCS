@@ -19,7 +19,8 @@
 2. Engage a NZ registered office service provider (required since founder is overseas)
 3. File incorporation before May 12, 2026
 
-→ Full checklist: [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md)
+→ Step-by-step checklist: [INCORPORATION_CHECKLIST.md](INCORPORATION_CHECKLIST.md)
+→ Full compliance details: [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md)
 
 ---
 
@@ -52,6 +53,7 @@ Zynthio is a sovereign AI-powered creative and technology ecosystem built by Cor
 | [INDEX.md](INDEX.md) | Master table of contents |
 | [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md) | How all brands connect |
 | [COMPETITION_ENTRY.md](COMPETITION_ENTRY.md) | One-page competition summary |
+| [INCORPORATION_CHECKLIST.md](INCORPORATION_CHECKLIST.md) | Step-by-step incorporation action checklist |
 | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | NZ incorporation & IP compliance |
 | [CHANGELOG.md](CHANGELOG.md) | Documentation change history |
 
@@ -66,4 +68,4 @@ Zynthio is a sovereign AI-powered creative and technology ecosystem built by Cor
 
 ---
 
-*Last updated: 2026-04-16 (Session 7)*
+*Last updated: 2026-04-16 (Session 8)*

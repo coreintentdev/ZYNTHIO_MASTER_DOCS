@@ -198,6 +198,7 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 
 | Resource | URL |
 |----------|-----|
+| **Incorporation checklist (focused)** | **[INCORPORATION_CHECKLIST.md](INCORPORATION_CHECKLIST.md)** |
 | NZ Companies Office | [companies.govt.nz](https://www.companies.govt.nz) |
 | IPONZ | [iponz.govt.nz](https://www.iponz.govt.nz) |
 | Companies Act 1993 | [legislation.govt.nz](https://www.legislation.govt.nz/act/public/1993/0105/latest/DLM319570.html) |
@@ -210,4 +211,4 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 
 ---
 
-*Last updated: 2026-04-16 (Session 7) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-04-16 (Session 8) | Maintained by: Corey McIvor / KERVALON*

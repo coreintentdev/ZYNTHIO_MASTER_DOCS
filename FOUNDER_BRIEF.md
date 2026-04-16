@@ -108,6 +108,7 @@
 | Need | Document |
 |------|----------|
 | This quick-reference | [FOUNDER_BRIEF.md](FOUNDER_BRIEF.md) ← you are here |
+| **Incorporation action checklist** | **[INCORPORATION_CHECKLIST.md](INCORPORATION_CHECKLIST.md)** |
 | Full index of all docs | [INDEX.md](INDEX.md) |
 | How all brands connect | [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md) |
 | NZ compliance & deadlines | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
@@ -141,4 +142,4 @@
 
 ---
 
-*Last updated: 2026-04-16 (Session 7) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-16 (Session 8) | Maintained by: Corey McIvor / COREINTENT*

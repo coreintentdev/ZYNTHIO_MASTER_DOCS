@@ -7,6 +7,21 @@ Format: `YYYY-MM-DD | Type | Description`
 
 ---
 
+## 2026-04-16 (Session 8)
+
+### Added
+- `INCORPORATION_CHECKLIST.md` — Focused, standalone step-by-step checklist for incorporating ZYNTHIO LIMITED before the May 12, 2026 deadline: 5-phase flow (confirm reservation → arrange NZ registered office → prepare documents → file and pay → post-incorporation); exact fee amounts (NZD $150 incorporation, $100–400 registered office service), recommended providers (Incorporated.nz, NZ Business Formalities), director qualification note, timeline table targeting April 23 buffer date, key reference numbers table, and useful links
+
+### Updated
+- `COMPETITION_ENTRY.md` — Added Techweek NZ and NZ Hi-Tech Awards to NZ competitions section (total NZ competitions now 7, consistent with AWARDS_TRACKER.md); added new **Cloud Credits & Platform Programmes** section (AWS Activate, Google for Startups, Anthropic Partner/Builder Programme); updated session footer to Session 8
+- `NZ_COMPLIANCE.md` — Added bolded link to `INCORPORATION_CHECKLIST.md` at top of Advisors & Resources table; updated session footer to Session 8
+- `FOUNDER_BRIEF.md` — Added `INCORPORATION_CHECKLIST.md` as second entry in Document Map table (immediately after self-reference); updated session footer to Session 8
+- `INDEX.md` — Added `INCORPORATION_CHECKLIST.md` to Root Documents table between FOUNDER_BRIEF and INDEX; updated session footer to Session 8
+- `README.md` — Added `INCORPORATION_CHECKLIST.md` link to CRITICAL DEADLINE section and Key Documents table; updated session footer to Session 8
+- `ECOSYSTEM_MAP.md` — Updated session footer to Session 8
+
+---
+
 ## 2026-04-16 (Session 7)
 
 ### Added
