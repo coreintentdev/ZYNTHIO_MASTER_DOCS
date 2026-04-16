@@ -54,7 +54,7 @@
 | Genre | AI-assisted electronic / experimental / ambient |
 | Theme | Sovereignty, signal, consciousness, technology |
 | Sound | Precision layering, space, low-end presence, vocal textures |
-| Influence | *(add references)* |
+| Influence | Aphex Twin, Burial, Arca, Holly Herndon (AI pioneer), Brian Eno (ambient) |
 
 ---
 

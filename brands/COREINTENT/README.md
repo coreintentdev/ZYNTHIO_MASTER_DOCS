@@ -65,7 +65,8 @@ To engineer world-class software systems that give the Zynthio ecosystem a genui
 | Repo | Description | Status |
 |------|-------------|--------|
 | [ZYNTHIO_MASTER_DOCS](https://github.com/coreintentdev/ZYNTHIO_MASTER_DOCS) | Master documentation hub | Active |
-| *(add other repos)* | | |
+| SongPal (repo) | AI music production platform | In development |
+| CoreeyAI (repo) | AI orchestration layer | In development |
 
 ---
 

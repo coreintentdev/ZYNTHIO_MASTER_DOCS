@@ -134,6 +134,50 @@ Zynthio is **seven interconnected brands** operating as one system:
 
 ---
 
+## Target Competitions
+
+### New Zealand
+
+| Competition | Organiser | Category | Fit | Notes |
+|------------|-----------|----------|-----|-------|
+| Creative HQ Startup Programme | Creative HQ (Wellington) | Tech startup | High | NZ-based accelerator; strong creative-tech mandate |
+| Lightning Lab | Lightning Lab / Callaghan Innovation | Deep tech / SaaS | High | NZ accelerator — SongPal SaaS angle |
+| Callaghan Innovation R&D Grant | Callaghan Innovation | R&D / AI | High | AI development costs qualify |
+| NZ Music Commission Initiatives | NZ Music Commission | Music industry | Medium | DJ Zynrose + MOSOKO angle |
+| Edmund Hillary Fellowship | EHF | Global impact | Medium | Founder narrative — sovereign creative stack for independent artists |
+
+### Australia
+
+| Competition | Organiser | Category | Fit | Notes |
+|------------|-----------|----------|-----|-------|
+| SXSW Sydney Startup Competition | SXSW Sydney | Music / Tech | High | Music-tech angle — SongPal + DJ Zynrose |
+| Startmate Accelerator | Startmate | SaaS / Consumer | High | AUS accelerator — strong founder fit |
+| Creative Australia Grants | Creative Australia | Arts / Music | Medium | MOSOKO education + DJ Zynrose artist angle |
+
+### International
+
+| Competition | Organiser | Category | Fit | Notes |
+|------------|-----------|----------|-----|-------|
+| MIDEM Accelerator | MIDEM (Cannes) | Music industry | High | Music-tech startup competition |
+| Music Ally LAUNCH | Music Ally | Music technology | High | Leading music-tech showcase |
+| Product Hunt Global Hackathon | Product Hunt | Product / AI | Medium | SongPal AI launch visibility |
+| AI for Good (ITU) | ITU / UN | AI impact | Medium | Education + sovereignty angle |
+
+---
+
+## Submission Checklist
+
+Before submitting to any competition:
+
+- [ ] Confirm ZYNTHIO LIMITED has been incorporated (deadline **May 12, 2026**)
+- [ ] Add founder contact email to the Contact section above
+- [ ] Check competition's eligibility criteria (entity type, jurisdiction, stage)
+- [ ] Attach [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md) projections if financials are required
+- [ ] Check word/slide limits — this document can be excerpted per competition format
+- [ ] Tailor the "Ask" section to match what the specific competition offers
+
+---
+
 ## Contact
 
 **Corey McIvor** — Founder, ZYNTHIO
@@ -145,4 +189,4 @@ Domain: [zynthio.ai](https://zynthio.ai)
 
 ---
 
-*This document is current as of 2026-04-16 (Session 3). For the latest status see [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) and [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md).*
+*This document is current as of 2026-04-16 (Session 4). For the latest status see [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) and [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md). Financial projections: [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md).*

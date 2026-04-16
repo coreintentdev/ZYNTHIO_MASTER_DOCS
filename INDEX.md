@@ -24,7 +24,7 @@ Start here based on your role:
 | You are... | Start with... |
 |-----------|---------------|
 | **New to Zynthio** | [README.md](README.md) → [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md) |
-| **Investor / evaluator** | [COMPETITION_ENTRY.md](COMPETITION_ENTRY.md) → [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md) |
+| **Investor / evaluator** | [COMPETITION_ENTRY.md](COMPETITION_ENTRY.md) → [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md) → [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md) |
 | **Legal / compliance** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) → [brands/KERVALON/README.md](brands/KERVALON/README.md) |
 | **Developer / engineer** | [brands/COREINTENT/README.md](brands/COREINTENT/README.md) → [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md) |
 | **Artist / creator** | [brands/DJ_ZYNROSE/README.md](brands/DJ_ZYNROSE/README.md) → [brands/SONGPAL/README.md](brands/SONGPAL/README.md) |
@@ -41,6 +41,7 @@ Start here based on your role:
 | [INDEX.md](INDEX.md) | This file — master table of contents |
 | [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md) | Visual and narrative map of all brand connections |
 | [COMPETITION_ENTRY.md](COMPETITION_ENTRY.md) | One-page pitch for startup/AI/music competitions |
+| [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md) | 3-year revenue projections, unit economics, funding ask |
 | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | NZ incorporation, IP, and director compliance tracker |
 | [PERPLEXITY-QUERY-TEMPLATES.md](PERPLEXITY-QUERY-TEMPLATES.md) | Perplexity AI connector query templates |
 | [CHANGELOG.md](CHANGELOG.md) | Documented history of all doc changes |
@@ -182,4 +183,4 @@ brands/<BRAND>/
 
 ---
 
-*Last updated: 2026-04-16 (Session 3) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-16 (Session 4) | Maintained by: Corey McIvor / COREINTENT*

@@ -29,7 +29,7 @@ To make the knowledge of professional music production, AI tooling, and creative
 | Prompt engineering for creatives | CoreeyAI, Perplexity | In development |
 | Music business fundamentals | Curriculum content | Planned |
 | IP & copyright basics | KERVALON materials | Planned |
-| Release strategy & distribution | *(add tools)* | Planned |
+| Release strategy & distribution | DistroKid, TuneCore, Bandcamp, SoundCloud | Planned |
 
 ---
 

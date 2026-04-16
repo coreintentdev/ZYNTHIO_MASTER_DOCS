@@ -13,6 +13,28 @@
 
 ---
 
+## Next 7 Days — Action Plan
+
+*As of 2026-04-16. Execute in order — do not skip steps.*
+
+| Day | Action | Owner | Done? |
+|-----|--------|-------|-------|
+| **TODAY (Apr 16)** | Log in to [companies.govt.nz](https://www.companies.govt.nz) — confirm reservation #15436626 is still active and note exact expiry date | Corey | [ ] |
+| **TODAY (Apr 16)** | Research NZ registered office service providers — shortlist 2–3 (see suggestions below) | Corey | [ ] |
+| **Apr 17–18** | Contact preferred registered office provider — request quote and confirm they can accept service of process | Corey | [ ] |
+| **Apr 19–20** | Confirm registered office arrangement is in place (signed / paid) | Corey | [ ] |
+| **Apr 21–22** | Prepare all incorporation documents on Companies Office portal — entity details, directors, constitution choice | Corey | [ ] |
+| **Apr 22–23** | Pay incorporation fee (NZD $150 online) and submit | Corey | [ ] |
+| **By Apr 23** | **Buffer achieved:** full 19 days before deadline — Certificate of Incorporation expected within days | Corey | [ ] |
+
+> **Recommended registered office providers (NZ):**
+> - **Incorporated.nz** — common provider, purpose-built for overseas founders
+> - **NZ Business Formalities** — low-cost annual service
+> - Any NZ solicitor who includes registered office in their company setup package
+> Cost: typically NZD $100–300/year. This is the blocking dependency for incorporation.
+
+---
+
 ## Summary Dashboard
 
 | Item | Reference | Status | Deadline | Days Left |
@@ -188,4 +210,4 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 
 ---
 
-*Last updated: 2026-04-16 (Session 3) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-04-16 (Session 4) | Maintained by: Corey McIvor / KERVALON*
