@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--16-blue)
 
-> Brand story, founder bio, key quotes, and brand assets for press, partnerships, and competition submissions.
+> Media and press resource pack for Zynthio. For use by journalists, event organisers, competition judges, and partners.
 
 ---
 
@@ -10,185 +10,202 @@
 
 ### The Short Version (50 words)
 
-Zynthio is a sovereign AI-powered creative ecosystem built by one person — Corey McIvor, an NZ/AU developer and music producer based in Nicaragua. Seven interconnected brands span AI orchestration, music production, education, and IP protection. One stack. No filler. All signal.
+Zynthio is a sovereign AI ecosystem built by a solo NZ/AU founder — a full-stack developer and music producer who engineered an entire creative-technology stack from scratch. It spans AI trading, music production, education, and IP protection. Self-funded by an autonomous trading bot. No filler. All signal.
 
-### The Medium Version (150 words)
+### The Full Story
 
-Independent music creators are trapped in a fragmented, extractive landscape — paying subscription taxes to disconnected tools that don't protect their IP, don't teach the full pipeline, and aren't designed to work together.
+In 2026, Corey McIvor — a New Zealand/Australian citizen working from Managua, Nicaragua — started building something unusual: a complete, sovereign technology stack that spans artificial intelligence, autonomous trading, music production, education, and intellectual property management.
 
-Zynthio is the answer: a vertically integrated AI-powered ecosystem of seven brands covering everything from AI-assisted music production (SongPal) to multi-model AI orchestration (CoreeyAI), music education (MOSOKO), and IP protection (KERVALON). The entire stack was built by one person — Corey McIvor, an NZ/AU dual citizen and independent music producer — because he needed it himself.
+Not a single product. A stack.
 
-DJ Zynrose, McIvor's artist persona, creates original music using the same tools Zynthio builds, making the founder the product's first and most demanding user. ZYNTHIO LIMITED is being incorporated in New Zealand, with a trademark filed for SongPal and production infrastructure already live.
+The premise was simple and radical: independent creators and traders are trapped between tools that extract their value and platforms that own their output. The AI revolution promised democratisation but delivered new gatekeepers. Zynthio is the antidote — a vertically integrated ecosystem where the builder is also the user, the teacher, and the artist.
 
-The thesis is simple: if one creator can build the whole stack, the stack works.
+CoreIntent is the engineering studio. It builds everything. CoreeyAI is the intelligence layer — orchestrating Claude, Grok, Perplexity, and Suno to route tasks to the optimal AI model for each job. gTrade is the autonomous trading bot that self-funds development through disciplined, risk-managed perpetual futures trading. SongPal is the AI music production platform (trademark filed in New Zealand). MOSOKO is the education arm. KERVALON handles legal and IP protection. And DJ Zynrose is Corey's artist persona — the living proof that the stack works.
 
-### The Long Version (300 words)
+Seven brands. One system. One founder who ships every single day.
 
-The music industry has a sovereignty problem. Generative AI has collapsed the cost of creation, but the infrastructure around it — education, IP protection, distribution, licensing — remains fragmented, expensive, and designed for labels rather than independent artists. Creators can now make music with AI, but they can't own, protect, or monetise it without stitching together a dozen disconnected platforms.
+Zynthio is incorporating as ZYNTHIO LIMITED in New Zealand in May 2026. The SongPal trademark is filed with IPONZ (#1318588). The infrastructure is live. The architecture is documented across 54+ files covering every brand, roadmap, and technical specification.
 
-Zynthio was built to solve this. Founded by Corey McIvor — an NZ/AU developer, AI engineer, and independent music producer currently based in Managua, Nicaragua — Zynthio is a vertically integrated ecosystem of seven brands operating as one sovereign creative stack.
-
-At the core is CoreeyAI, a multi-model AI orchestration layer that routes tasks across Claude (Anthropic), Grok (xAI), Perplexity, and Suno API — selecting the right model for each job rather than depending on a single provider. CoreeyAI powers SongPal, Zynthio's flagship AI music production platform (trademark filed, IPONZ #1318588), which will give independent artists professional-grade creation tools at accessible prices.
-
-But Zynthio doesn't stop at creation. MOSOKO provides purpose-built music education using real Zynthio tools. KERVALON, the legal and IP arm, manages trademark filings, copyright strategy, and plans to offer IP services to independent artists. COREINTENT, the dev studio, engineers and deploys the entire technical stack — including an autonomous, risk-managed trading bot (gTrade) that generates internal revenue. And DJ Zynrose, McIvor's artist persona, creates original tracks with the same tools, serving as both proof of concept and cultural bridge to a real music audience.
-
-ZYNTHIO LIMITED is being incorporated in New Zealand before May 12, 2026. The company is bootstrapped, pre-revenue, and unapologetic about its ambition: to give every independent creator a complete sovereign stack — from AI intelligence to legal protection — that they actually own.
+This is not a startup pitching a feature. This is a working builder who constructed an entire creative infrastructure — and now needs the capital and partnerships to take it to market.
 
 ---
 
 ## Founder Bio
 
-### Short Bio (50 words)
+### Corey McIvor
 
-**Corey McIvor** is the founder of Zynthio — a sovereign AI-powered creative ecosystem. An NZ/AU dual citizen based in Nicaragua, McIvor is a full-stack developer, AI engineer, and independent music producer (DJ Zynrose) who designed, coded, and operates the entire seven-brand Zynthio stack solo.
+**Role:** Founder & CEO, ZYNTHIO
 
-### Full Bio (150 words)
+Corey McIvor is a full-stack developer, AI engineer, and independent music producer. He holds dual New Zealand/Australian citizenship and currently builds from Managua, Nicaragua.
 
-**Corey McIvor** is the founder and sole operator of Zynthio, a vertically integrated AI-powered creative-technology ecosystem headquartered in New Zealand.
+He is the sole architect of the Zynthio ecosystem — every line of code, every brand strategy, every deployment pipeline, and every music track. His background spans software engineering, AI systems design, prompt engineering, agentic workflows, and electronic music production.
 
-A dual NZ/AU citizen currently based in Managua, Nicaragua, McIvor works across the full stack — software engineering, AI systems design, music production, brand architecture, and intellectual property strategy. He built every component of the Zynthio ecosystem himself: the CoreeyAI multi-model AI orchestration layer, the SongPal music production platform, the MOSOKO education curriculum, the KERVALON legal infrastructure, the COREINTENT development studio, and the autonomous gTrade trading system.
+Corey builds and uses his own tools: trading with gTrade, producing music as DJ Zynrose using SongPal, and teaching through MOSOKO's curriculum. This isn't hypothetical product-market fit — it's a builder who lives inside his own stack.
 
-Under his artist name DJ Zynrose, McIvor produces original music with the same tools Zynthio builds — making him simultaneously the architect, the engineer, and the first user of his own product.
+**Key facts:**
+- NZ/AU dual citizen
+- Based in Managua, Nicaragua
+- Full-stack developer (Python, Docker, CI/CD)
+- AI engineer (Claude, Grok, Perplexity, Suno integration)
+- Independent music producer (DJ Zynrose)
+- GitHub: [coreintentdev](https://github.com/coreintentdev)
 
-McIvor's approach is rooted in a simple conviction: the best tools for independent creators should be built by one.
+### Headshot
+
+*(Add high-resolution founder headshot — minimum 1200x1200px, square crop, neutral background)*
 
 ---
 
 ## Key Quotes
 
-Use these for press releases, competition submissions, and partnership materials.
+For press, competition judges, and event hosts. Attributable to **Corey McIvor, Founder of Zynthio**.
 
-> "I built Zynthio because I needed it. The best tool for independent creators should be built by one."
-> — Corey McIvor, Founder
+> "We're not pitching a feature. We're pitching a new creative infrastructure for the post-AI world."
 
-> "We don't pick one AI. We orchestrate them all."
-> — Corey McIvor, on CoreeyAI's multi-model approach
+> "The bottleneck has shifted. AI collapsed the cost of execution. The new bottleneck is sovereignty — who controls the tools and who captures the value."
 
-> "Generative AI collapsed the cost of creation. The bottleneck now is curation, pedagogy, and IP protection. That's what we build."
-> — Corey McIvor, Founder
+> "I'm simultaneously the engineer who built the platform and the artist who uses it. That's not a marketing line. That's founder-market fit you can hear."
 
-> "Every brand reinforces every other. No filler. All signal."
-> — Corey McIvor, on the Zynthio ecosystem architecture
+> "gTrade isn't just a demo. It's what funds our development. We're self-funded by an autonomous trading bot. That's our operating model."
 
-> "We're pre-revenue and we're honest about it. The architecture is real, the IP is protected, and the product is being built. We don't pretend to be further along than we are."
-> — Corey McIvor, Founder
+> "One brain, multiple models, intelligent routing. That's what multi-AI orchestration looks like."
 
-> "If a single independent creator can build this stack from scratch, then that stack actually works for independent creators."
-> — Corey McIvor, on the solo founder thesis
+> "Independent creators are being squeezed from every direction. Zynthio is the answer: a complete, sovereign creative stack."
+
+> "We're pre-revenue but post-architecture. The stack is real."
+
+> "No filler. All signal."
 
 ---
 
 ## Brand Identity
 
-### ZYNTHIO — Parent Company
+### Zynthio — Parent Brand
 
-| Element | Value |
-|---------|-------|
+| Element | Detail |
+|---------|--------|
+| **Full name** | ZYNTHIO LIMITED (incorporating May 2026, NZ) |
+| **Domain** | [zynthio.ai](https://zynthio.ai) |
 | **Tagline** | *No filler. All signal.* |
 | **Doctrine** | *Velvet knife. Sovereign. No filler. All signal.* |
-| **Signal** | 336 |
-| **Domain** | [zynthio.ai](https://zynthio.ai) |
-| **GitHub** | [coreintentdev](https://github.com/coreintentdev) |
+| **Signal number** | 336 |
+| **Founded** | 2026 |
+| **Jurisdiction** | New Zealand |
 
-### Brand Colour Palette
+### Brand Colours
 
-| Brand | Primary Colours | Hex Codes |
-|-------|----------------|-----------|
-| **ZYNTHIO** | Zynthio Black / Signal Gold / Deep Violet / Electric Cyan | `#0A0A0A` / `#C9A84C` / `#3B1F6B` / `#00D4FF` |
-| **SongPal** | Deep Black / Signal Green / Electric Purple | `#0D0D0D` / `#00FF88` / `#8B5CF6` |
-| **CoreeyAI** | AI Black / Neural Blue / Electric Cyan | `#050510` / `#0047FF` / `#00D4FF` |
-| **COREINTENT** | Terminal Black / Code Green / Steel | `#0C0C0C` / `#39FF14` / `#8892A4` |
-| **MOSOKO** | *(see brands/MOSOKO/ASSETS.md)* | |
-| **KERVALON** | *(see brands/KERVALON/ASSETS.md)* | |
-| **DJ Zynrose** | *(see brands/DJ_ZYNROSE/ASSETS.md)* | |
+#### Primary Palette — ZYNTHIO
+
+| Colour | Hex | Usage |
+|--------|-----|-------|
+| **Zynthio Black** | `#0A0A0A` | Primary background |
+| **Zynthio White** | `#F5F5F5` | Primary text on dark |
+| **Signal Gold** | `#C9A84C` | Accent, CTAs, highlights — use sparingly |
+| **Deep Violet** | `#3B1F6B` | Secondary accent |
+| **Electric Cyan** | `#00D4FF` | AI/tech contexts |
+| **Neutral Grey** | `#4A4A4A` | Secondary text, borders |
+
+#### Sub-Brand Palettes
+
+| Brand | Primary | Secondary | Accent |
+|-------|---------|-----------|--------|
+| **SongPal** | Signal Green `#00FF88` | Electric Purple `#8B5CF6` | Deep Black `#0D0D0D` |
+| **MOSOKO** | Earth Brown | Harvest Gold | Forest Green |
+| **DJ Zynrose** | Void Black | Signal Gold `#C9A84C` | Rose Violet `#9B2D6B` |
+| **COREINTENT** | Terminal Black | Code Green `#39FF14` | Steel Grey |
+| **CoreeyAI** | AI Black | Neural Blue `#0047FF` | Electric Cyan `#00D4FF` |
+| **KERVALON** | Obsidian | Parchment | Justice Red `#8B0000` |
 
 ### Typography
 
-| Role | Family | Notes |
-|------|--------|-------|
-| Code / Monospace | JetBrains Mono | Universal across all brands |
-| Display / Body | *(pending selection)* | To be finalised pre-launch |
+| Role | Family | Weight | Notes |
+|------|--------|--------|-------|
+| **Display / Heading** | Space Grotesk | 700 | Modern, distinctive — brand headline |
+| **Body** | Inter | 400, 500 | Neutral, highly legible — long-form content |
+| **Monospace / Code** | JetBrains Mono | 400 | Technical docs, code blocks, data displays |
 
-### Voice Principles
+### Voice & Tone
 
 | Principle | Description |
 |-----------|-------------|
-| **Sovereign** | Speaks from authority, not insecurity |
+| **Sovereign** | Speaks from authority, never from insecurity |
 | **Precise** | No filler words. Every sentence earns its place. |
 | **Signal over noise** | Dense meaning. Short sentences. |
 | **Velvet knife** | Sharp ideas delivered with elegance |
 
 ---
 
-## Fact Sheet
+## The Seven Brands
 
-| Field | Detail |
-|-------|--------|
-| Company name | ZYNTHIO LIMITED *(incorporating — NZ)* |
-| Name reservation | NZ Companies Office #15436626 |
-| Incorporation deadline | May 12, 2026 |
-| Jurisdiction | New Zealand |
-| Founder | Corey McIvor |
-| Founder citizenship | NZ / AU (dual) |
-| Founder location | Managua, Nicaragua |
-| Brands in ecosystem | 7 |
-| Domain | zynthio.ai |
-| GitHub | github.com/coreintentdev |
-| Stage | Pre-seed / pre-revenue |
-| Funding | Bootstrapped |
-| Target raise | NZD $150–250K |
-| Trademark | SongPal — IPONZ #1318588 (filed) |
-| Key AI integrations | Claude (Anthropic), Grok (xAI), Perplexity, Suno |
-| Active tracks | SIGNAL 336, THE MIRROR ASKED A QUESTION |
-| Infrastructure | Live VPS, Docker, Python 3.11 |
-| License (open source) | MIT |
+| Brand | One-Line Description | Tagline |
+|-------|---------------------|---------|
+| **ZYNTHIO** | Parent company — governance, strategy, market-facing | *No filler. All signal.* |
+| **COREINTENT** | Engineering studio — builds all technology | *Build with intent. Ship with precision.* |
+| **CoreeyAI** | AI intelligence layer — multi-model orchestration | *(The brain behind the stack)* |
+| **SongPal** | AI-powered music production & collaboration platform | *Your sound. Your stack.* |
+| **MOSOKO** | Music education & creator pedagogy | *Make it. Own it. Teach it.* |
+| **KERVALON** | Legal/IP protection & management | *(The shield)* |
+| **DJ Zynrose** | Music artist — cultural proof-of-concept | *(The sound of the sovereign stack)* |
 
 ---
 
-## Ecosystem Brands — One-Line Descriptions
+## Fact Sheet
 
-| Brand | One-liner |
-|-------|-----------|
-| **ZYNTHIO** | Sovereign AI-powered creative ecosystem — the parent company |
-| **SongPal** | AI music production platform for independent artists |
-| **CoreeyAI** | Multi-model AI orchestration engine powering the entire stack |
-| **COREINTENT** | Development studio — builds and deploys all Zynthio technology |
-| **MOSOKO** | Music education for the sovereign creator |
-| **KERVALON** | Legal and IP protection infrastructure for creative work |
-| **DJ Zynrose** | Music artist persona — the sound of the sovereign stack |
+| | |
+|---|---|
+| **Company** | ZYNTHIO LIMITED (incorporating May 2026) |
+| **Registration** | NZCO #15436626 (NZ Companies Office) |
+| **Founder** | Corey McIvor |
+| **Founded** | 2026 |
+| **Jurisdiction** | New Zealand |
+| **Location** | Founder based in Managua, Nicaragua |
+| **Employees** | 1 (sole founder) |
+| **Stage** | Pre-revenue, live infrastructure |
+| **Funding** | Bootstrapped + gTrade self-funding |
+| **Domain** | [zynthio.ai](https://zynthio.ai) |
+| **GitHub** | [github.com/coreintentdev](https://github.com/coreintentdev) |
+| **Trademarks** | SongPal — IPONZ #1318588 (filed, awaiting examination) |
+| **AI Models** | Claude (Anthropic), Grok (xAI), Perplexity, Suno |
+| **Products** | gTrade, SongPal, MOSOKO, CoreeyAI, KERVALON |
+| **Artist project** | DJ Zynrose — *SIGNAL 336*, *THE MIRROR ASKED A QUESTION* |
 
 ---
 
 ## Media Assets
 
+### Available Now
+
 | Asset | Format | Status |
 |-------|--------|--------|
-| ZYNTHIO logo (wordmark) | SVG / PNG | *(pending — add when available)* |
-| SongPal logo | SVG / PNG | *(pending)* |
-| Founder headshot | JPG | *(pending — add when available)* |
-| Ecosystem architecture diagram | SVG / PNG | *(pending — can export from ECOSYSTEM_MAP.md)* |
-| Audio clips (SIGNAL 336) | MP3 / WAV | *(pending deploy)* |
-| Audio clips (THE MIRROR ASKED A QUESTION) | MP3 / WAV | *(pending deploy)* |
-| Product screenshots (SongPal) | PNG | *(pending — pre-beta)* |
+| Brand colour palette | Hex codes (see above) | Ready |
+| Typography specifications | Font families + weights | Ready |
+| Brand guidelines | Voice, tone, usage rules | Ready |
+| Architecture diagrams | ASCII (see ECOSYSTEM_MAP.md) | Ready |
+| Competition portfolio | Markdown (COMPETITION_PORTFOLIO.md) | Ready |
+| Pitch deck outline | Markdown with speaker notes | Ready |
+
+### Pending — Add Before First Press Use
+
+| Asset | Format | Status |
+|-------|--------|--------|
+| Zynthio wordmark (SVG/PNG) | Vector + raster | Pending |
+| Founder headshot | 1200x1200px minimum | Pending |
+| SongPal logo | SVG/PNG | Pending |
+| DJ Zynrose artist photo | Press-quality | Pending |
+| SIGNAL 336 audio clip | MP3/WAV (30-second preview) | Pending |
+| Product screenshots | PNG | Pending — requires SongPal beta |
 
 ---
 
-## Contact
+## Contact for Press
 
 **Corey McIvor** — Founder, ZYNTHIO
-- GitHub: [github.com/coreintentdev](https://github.com/coreintentdev)
-- Domain: [zynthio.ai](https://zynthio.ai)
-- Email: *(add contact email)*
+Email: *(add press contact email)*
+GitHub: [github.com/coreintentdev](https://github.com/coreintentdev)
+Domain: [zynthio.ai](https://zynthio.ai)
+
+> **Note for journalists:** Zynthio is early-stage and pre-revenue. We are transparent about this. Our infrastructure is live and verifiable. Our founder is available for interviews and can demonstrate live systems on request.
 
 ---
 
-## Usage Terms
-
-- All brand names, logos, and assets are copyright Corey McIvor / ZYNTHIO
-- SongPal™ is a trademark applicant (IPONZ #1318588) — use TM symbol
-- Press may reproduce quotes, brand descriptions, and fact sheet content without prior approval
-- For logo usage, product screenshots, or interview requests, contact the founder directly
-
----
-
-*Last updated: 2026-04-16 | Maintained by: Corey McIvor / COREINTENT*
+*This document is current as of 2026-04-16. Update assets section as logos and media become available.*

@@ -1,158 +1,155 @@
 # DEMO SCRIPT — Zynthio (3 Minutes)
 
-![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--16-blue) ![Duration](https://img.shields.io/badge/duration-3%20minutes-blue)
+![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--16-blue) ![Duration](https://img.shields.io/badge/duration-3%20min-purple)
 
-> Live demo walkthrough for competition presentations. Designed to be performed with a screen share, terminal, and browser.
+> Live demo walkthrough for competition stage presentations. Designed to showcase real, running infrastructure — not mockups.
 
 ---
 
 ## Pre-Demo Setup
 
-Before going live, have these ready:
+**Have ready before going live:**
 
-- [ ] Terminal open with SSH to VPS (or Docker running locally)
-- [ ] Browser tab: [zynthio.ai](https://zynthio.ai)
-- [ ] Browser tab: [github.com/coreintentdev/ZYNTHIO_MASTER_DOCS](https://github.com/coreintentdev/ZYNTHIO_MASTER_DOCS)
-- [ ] Browser tab: IPONZ search showing SongPal TM #1318588
-- [ ] Audio ready: SIGNAL 336 or THE MIRROR ASKED A QUESTION (10-second clip)
-- [ ] Terminal: `docker ps` showing running containers
-- [ ] risk.yaml open in editor
+- [ ] Terminal open with SSH to VPS (104.194.156.109)
+- [ ] Docker dashboard or `docker ps` ready to show running containers
+- [ ] gTrade risk config (config/risk.yaml) open in editor
+- [ ] CoreeyAI session ready (Claude or Perplexity integration)
+- [ ] GitHub repo (coreintentdev/zynthio_master_docs) open in browser
+- [ ] SongPal prototype / mockup loaded (if available)
+- [ ] SIGNAL 336 audio file ready to play (10-second clip)
 
 ---
 
 ## The Script
 
-### 0:00–0:30 — Hook (30 seconds)
+### OPEN — 0:00–0:30 (30 seconds)
 
-**[Screen: zynthio.ai landing page]**
+**[Show: Terminal with Zynthio infrastructure]**
 
-> "I'm Corey McIvor. I'm a developer from New Zealand, a music producer, and I built everything you're about to see — the code, the brands, the music, the legal filings — by myself, from Nicaragua.
->
-> This is Zynthio — a sovereign AI-powered ecosystem for independent music creators. Seven brands, one architecture, one founder. Let me show you what's actually running."
-
-**Action:** Click through to show the domain is live.
-
----
-
-### 0:30–1:15 — The Architecture is Real (45 seconds)
-
-**[Screen: Switch to terminal]**
-
-> "Let's start with what's live right now."
+> "Everything I'm about to show you is live. This isn't a prototype video or a Figma mockup. This is production infrastructure running right now on a self-hosted server."
 
 **Action:** Run `docker ps` to show running containers.
 
-> "This is our production VPS. Docker containers running our trading bot — gTrade — an autonomous, risk-managed system trading BTC, ETH, SOL, gold, and silver perpetual contracts."
+> "You can see our Docker containers — gTrade, the autonomous trading bot, CoreeyAI orchestration, our monitoring stack. All self-hosted. All managed by one person."
 
-**Action:** Open `config/risk.yaml` in terminal or editor.
+**Action:** Briefly show the VPS IP and uptime.
 
-> "Every trade is hard-capped: 1% risk per trade, 0.8% max daily loss, 5x max leverage, $350 minimum cash reserve. This isn't a toy — it's risk-managed production software."
-
-**Action:** Switch to GitHub.
-
-> "And everything is documented. ZYNTHIO_MASTER_DOCS is our single source of truth — seven brands, each with a README, roadmap, and asset registry. All version-controlled, all public."
-
-**Action:** Click into the ecosystem map or brand directories briefly.
+> "This is the CoreIntent engineering stack. Let me show you what it does."
 
 ---
 
-### 1:15–2:00 — CoreeyAI: Multi-Model AI (45 seconds)
+### ACT 1: gTrade — The AI Trading Engine — 0:30–1:15 (45 seconds)
 
-**[Screen: GitHub — CoreeyAI README or a live terminal]**
+**[Show: gTrade dashboard or terminal output]**
 
-> "The intelligence layer is CoreeyAI. It doesn't use one AI — it orchestrates four."
+> "This is gTrade — our autonomous, risk-managed trading system. It's live. It trades Bitcoin, Ethereum, Solana, gold, and silver perpetuals."
 
-**Action:** Show the CoreeyAI integration table or run a live API call if possible.
+**Action:** Show `config/risk.yaml` — the risk management configuration.
 
-> "Claude handles reasoning and code generation. Grok does real-time trend analysis. Perplexity handles research and knowledge retrieval. And Suno generates audio for our music platform, SongPal.
->
-> We built something we call the Perplexity Orb — a session restoration architecture. You drop one file into any AI — Grok, Claude, Perplexity — and the full context loads instantly. No re-explaining. No context drift. The stack remembers itself."
+> "Every trade is governed by hard limits. Maximum five-x leverage. One percent risk per trade. Zero-point-eight percent maximum daily loss. Three-hundred-fifty dollar cash floor. This isn't gambling — it's disciplined, AI-assisted risk management."
 
-**[If live API demo is possible]:**
+**Action:** Show recent trade log or P&L summary (if available).
 
-**Action:** Send a prompt to CoreeyAI and show it routing to the appropriate model. Show the response.
+> "gTrade isn't just a product demo. It's what funds Zynthio's development. We're self-funding through an autonomous trading bot. That's not a pitch line — it's our operating model."
 
-**[If not possible live]:**
+**Action:** Show CoreeyAI routing a task — e.g., a market analysis query sent to Grok for real-time data.
 
-> "I'll show you the query templates we use across all connected services."
-
-**Action:** Open PERPLEXITY-QUERY-TEMPLATES.md briefly.
+> "Behind gTrade is CoreeyAI — our multi-model AI orchestration layer. Watch: this market analysis request goes to Grok because it needs real-time data. A reasoning task would go to Claude. A research query goes to Perplexity. One brain, multiple models, intelligent routing."
 
 ---
 
-### 2:00–2:30 — The Music is Real (30 seconds)
+### ACT 2: CoreeyAI — Multi-Model Orchestration — 1:15–1:50 (35 seconds)
 
-**[Screen: Audio player or SongPal interface if available]**
+**[Show: CoreeyAI in action — live AI query]**
 
-> "DJ Zynrose is my artist name. These tracks were created with the same tools we're building into SongPal."
+> "CoreeyAI is the intelligence layer behind everything Zynthio builds. Let me demonstrate the orchestration."
 
-**Action:** Play a 10-second clip of SIGNAL 336 or THE MIRROR ASKED A QUESTION.
+**Action:** Send a query through CoreeyAI that demonstrates model routing.
 
-> "This isn't a concept. This is original music, created with AI-assisted tools, by the founder of the platform that will let every independent artist do the same thing."
+Example live demo:
+1. Send a creative prompt → routes to Claude (reasoning + composition)
+2. Send a market question → routes to Grok (real-time data)
+3. Send a research question → routes to Perplexity (knowledge retrieval)
 
-**Action:** Switch to IPONZ browser tab.
+> "Three different tasks. Three different AI models. One orchestration layer that decides which model handles which job. This is what multi-AI orchestration looks like in practice."
 
-> "And the IP is protected. SongPal is a registered trademark applicant — IPONZ case 1318588. ZYNTHIO LIMITED is being incorporated in New Zealand before May 12th. This is a real company with real IP, not a hackathon project."
+**Action:** Show the Perplexity Orb session architecture if time allows.
 
----
-
-### 2:30–3:00 — The Closed Loop & Ask (30 seconds)
-
-**[Screen: ECOSYSTEM_MAP.md or the architecture diagram]**
-
-> "Here's the full picture. COREINTENT builds the tools. CoreeyAI makes them intelligent. SongPal puts them in creators' hands. DJ Zynrose proves they work. MOSOKO teaches others to use them. KERVALON protects everything. And ZYNTHIO takes the whole stack to market.
->
-> Every brand reinforces every other. No filler. All signal.
->
-> We're raising 150 to 250K in seed capital to take SongPal to public beta and launch our first education cohort. The architecture is live. The IP is filed. The music is written. We need fuel.
->
-> Thank you. I'm Corey McIvor. This is Zynthio. 336."
+> "We also have agentic workflows — the Perplexity Orb lets us chain multi-step AI operations with session persistence. Tasks that would take hours manually execute in minutes."
 
 ---
 
-## Timing Breakdown
+### ACT 3: SongPal + DJ Zynrose — Creative Proof — 1:50–2:30 (40 seconds)
 
-| Segment | Duration | Content |
-|---------|----------|---------|
-| Hook | 0:00–0:30 | Introduction, thesis |
-| Architecture | 0:30–1:15 | Live infra, Docker, risk config, GitHub |
-| CoreeyAI | 1:15–2:00 | Multi-model AI, Perplexity Orb |
-| Music & IP | 2:00–2:30 | Audio clip, IPONZ, trademark |
-| Close & Ask | 2:30–3:00 | Ecosystem diagram, funding ask |
+**[Show: SongPal interface or prototype]**
 
----
+> "Now here's where it gets interesting. The same AI orchestration that powers our trading bot also powers SongPal — our AI music production platform."
 
-## Backup Plans
+**Action:** Show SongPal prototype or the Suno API integration point.
 
-| If this fails... | Do this instead |
-|-----------------|-----------------|
-| VPS is unreachable | Show pre-recorded terminal session (record with `asciinema` before demo) |
-| Audio won't play | Describe the tracks and show the deployment pipeline in docs |
-| Live API call fails | Show query templates and explain the routing architecture |
-| Browser won't load | Present from local copies of all docs and screenshots |
+> "SongPal uses CoreeyAI for composition assistance, arrangement suggestions, and AI-powered audio generation through the Suno API. It's the same brain, different application."
+
+**Action:** Play a 10-second clip of SIGNAL 336.
+
+> "This is SIGNAL 336 — a track I produced as DJ Zynrose using the tools I built. I'm simultaneously the engineer who built the platform and the artist who uses it. That's not a marketing line. That's founder-market fit you can hear."
+
+**Action:** Show the GitHub repo briefly — 54+ documentation files, 7 brand directories.
+
+> "And all of this is documented. Seven brands. Fifty-four files. Roadmaps, brand guidelines, technical specs. This is a real ecosystem, not a slide deck."
 
 ---
 
-## Adaptation Notes
+### CLOSE — 2:30–3:00 (30 seconds)
 
-| Competition Type | Adjust demo to emphasise |
-|-----------------|--------------------------|
-| **AI / tech** | Spend more time on CoreeyAI routing, Perplexity Orb, live API call. Cut music short. |
-| **Startup** | Lead with the market opportunity. Show traction timeline. Emphasise business model. |
-| **Music tech** | Lead with the audio clip. Show SongPal vision. Emphasise DJ Zynrose as proof of concept. |
-| **Fintech** | Lead with gTrade. Show risk.yaml. Explain circuit breakers. Mention SongPal briefly. |
+**[Show: ZYNTHIO branding — black background, gold accent]**
 
----
+> "So what are you looking at? A sovereign AI ecosystem with live trading infrastructure, multi-model AI orchestration, an AI music platform, an education arm, and legal IP protection — all built by one person, self-funded by an autonomous trading bot, incorporating in New Zealand next month."
 
-## Post-Demo Materials
+> "We're pre-revenue but post-architecture. The stack is real. The trademark is filed. The company is forming. What we need now is the capital and partnerships to take this from infrastructure to market."
 
-Have these ready to share immediately after the demo:
+**Pause. Direct eye contact.**
 
-- COMPETITION_PORTFOLIO.md (PDF export)
-- PITCH_DECK_OUTLINE.md (or rendered slides)
-- GitHub link: github.com/coreintentdev
-- Contact email (add before event)
+> "Zynthio. No filler. All signal. Thank you."
 
 ---
 
-*Last updated: 2026-04-16 | Maintained by: Corey McIvor / COREINTENT*
+## Demo Contingency Plan
+
+| Risk | Mitigation |
+|------|------------|
+| **VPS is down** | Have screen recordings of all live demos as backup. Narrate over recordings. |
+| **gTrade has no recent trades** | Show risk config + historical trade log. Emphasize the risk framework. |
+| **AI API rate limited** | Pre-record one CoreeyAI query sequence. Show it alongside live terminal. |
+| **Audio doesn't play** | Have SIGNAL 336 on phone as backup. Or skip audio — describe the track. |
+| **Internet drops** | All key screens pre-captured as screenshots. Full demo can run offline. |
+| **Time cut to 2 min** | Drop Act 2 (CoreeyAI detail). Go straight from gTrade to SongPal/close. |
+| **Time extended to 5 min** | Add: MOSOKO education demo, multilingual avatar scripts, NZ compliance detail. |
+
+---
+
+## Key Lines to Memorize
+
+These are the lines that land. Practise until they're natural:
+
+1. **"Everything I'm about to show you is live."**
+2. **"This isn't gambling — it's disciplined, AI-assisted risk management."**
+3. **"One brain, multiple models, intelligent routing."**
+4. **"I'm simultaneously the engineer who built the platform and the artist who uses it."**
+5. **"We're pre-revenue but post-architecture."**
+6. **"No filler. All signal."**
+
+---
+
+## Timing Summary
+
+| Section | Duration | Cumulative |
+|---------|----------|------------|
+| Open | 0:30 | 0:30 |
+| Act 1: gTrade | 0:45 | 1:15 |
+| Act 2: CoreeyAI | 0:35 | 1:50 |
+| Act 3: SongPal + DJ Zynrose | 0:40 | 2:30 |
+| Close | 0:30 | 3:00 |
+
+---
+
+*This document is current as of 2026-04-16. Rehearse against a timer. Record yourself. Cut any section that runs long — never go over 3 minutes.*
