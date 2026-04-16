@@ -41,10 +41,12 @@ Zynthio is **seven interconnected brands** operating as one system:
 ## Traction & Proof Points
 
 - SongPal trademark application filed: **IPONZ #1318588** (New Zealand)
-- ZYNTHIO LIMITED company name reserved: **#15436626** (deadline May 12, 2026)
-- Production infrastructure live on VPS (104.194.156.109)
-- Active AI integrations: Claude, Grok, Perplexity, Suno API
-- Original music tracks in deployment pipeline: *SIGNAL 336*, *THE MIRROR ASKED A QUESTION*
+- ZYNTHIO LIMITED company name reserved: **#15436626** — incorporating May 2026
+- Production infrastructure live on VPS (104.194.156.109) — Docker, Python 3.11
+- Active AI integrations: Claude (Anthropic), Grok (xAI), Perplexity, Suno API
+- Autonomous risk-managed trading bot (gTrade) deployed and operating
+- Original music tracks written and in deployment pipeline: *SIGNAL 336*, *THE MIRROR ASKED A QUESTION*
+- Comprehensive IP strategy: NZ trademark, copyright documentation, brand architecture
 - Open-source tooling published: [github.com/coreintentdev](https://github.com/coreintentdev)
 
 ---
@@ -102,9 +104,11 @@ Zynthio is **seven interconnected brands** operating as one system:
 ## Contact
 
 **Corey McIvor** — Founder, ZYNTHIO
-Email: *(add contact email)*
+Email: *(add contact email before submitting any competition entry)*
 GitHub: [github.com/coreintentdev](https://github.com/coreintentdev)
 Domain: [zynthio.ai](https://zynthio.ai)
+
+> **Before submitting:** Add contact email above. Confirm ZYNTHIO LIMITED has been incorporated (deadline May 12, 2026) so the entity name is accurate throughout.
 
 ---
 

@@ -1,9 +1,17 @@
 # ZYNTHIO MASTER DOCS
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Brands](https://img.shields.io/badge/brands-7-purple) ![Founded](https://img.shields.io/badge/founded-2026-orange)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Brands](https://img.shields.io/badge/brands-7-purple) ![Founded](https://img.shields.io/badge/founded-2026-orange) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
 
 > **Central documentation hub for the entire Zynthio ecosystem.**
 > Founder: Corey McIvor — NZ/AU citizen, based in Nicaragua.
+
+---
+
+## CRITICAL DEADLINE
+
+> **ZYNTHIO LIMITED — INCORPORATE BEFORE MAY 12, 2026**
+> Name reservation #15436626 expires in **26 days** (as of 2026-04-16).
+> Failure to act forfeits the reserved name permanently. → [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md)
 
 ---
 
