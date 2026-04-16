@@ -31,6 +31,18 @@ Complete table of contents for the ZYNTHIO_MASTER_DOCS repository.
 
 ---
 
+## Competition Portfolio
+
+| File | Description |
+|------|-------------|
+| [COMPETITION_PORTFOLIO.md](COMPETITION_PORTFOLIO.md) | Full competition entry portfolio — executive summary, architecture, traction, ask |
+| [PITCH_DECK_OUTLINE.md](PITCH_DECK_OUTLINE.md) | 10-slide pitch deck structure with content and speaker notes |
+| [DEMO_SCRIPT.md](DEMO_SCRIPT.md) | 3-minute live demo walkthrough with timing and backup plans |
+| [PRESS_KIT.md](PRESS_KIT.md) | Brand story, founder bio, key quotes, brand colours, fact sheet |
+| [AWARDS_TRACKER.md](AWARDS_TRACKER.md) | 2026 competition and award targets across AI, startup, music tech, fintech |
+
+---
+
 ## Brand Directories
 
 ### ZYNTHIO — Parent Company
