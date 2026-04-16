@@ -55,12 +55,27 @@ Zynthio is a sovereign AI-powered creative and technology ecosystem built by Cor
 | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | NZ incorporation & IP compliance |
 | [CHANGELOG.md](CHANGELOG.md) | Documentation change history |
 
+## Competition Portfolio
+
+| Document | Purpose |
+|----------|---------|
+| [COMPETITION_PORTFOLIO.md](COMPETITION_PORTFOLIO.md) | Full competition entry portfolio |
+| [PITCH_DECK_OUTLINE.md](PITCH_DECK_OUTLINE.md) | 10-slide pitch deck structure |
+| [DEMO_SCRIPT.md](DEMO_SCRIPT.md) | 3-minute live demo walkthrough |
+| [PRESS_KIT.md](PRESS_KIT.md) | Brand story, quotes, fact sheet |
+| [AWARDS_TRACKER.md](AWARDS_TRACKER.md) | 2026 competition targets |
+
 ---
 
 ## Quick Navigation
 
 - **Exploring the ecosystem?** → [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md)
-- **Entering a competition?** → [COMPETITION_ENTRY.md](COMPETITION_ENTRY.md)
+- **Entering a competition?** → [COMPETITION_PORTFOLIO.md](COMPETITION_PORTFOLIO.md)
+- **Quick one-page pitch?** → [COMPETITION_ENTRY.md](COMPETITION_ENTRY.md)
+- **Preparing a pitch deck?** → [PITCH_DECK_OUTLINE.md](PITCH_DECK_OUTLINE.md)
+- **Demo or presentation?** → [DEMO_SCRIPT.md](DEMO_SCRIPT.md)
+- **Press or media?** → [PRESS_KIT.md](PRESS_KIT.md)
+- **Which competitions to enter?** → [AWARDS_TRACKER.md](AWARDS_TRACKER.md)
 - **Legal/compliance status?** → [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md)
 - **Full index?** → [INDEX.md](INDEX.md)
 
