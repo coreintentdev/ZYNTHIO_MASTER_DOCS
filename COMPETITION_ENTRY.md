@@ -6,6 +6,12 @@
 
 ---
 
+## 30-Second Spoken Pitch
+
+> "Independent creators are being squeezed from every direction — AI tools that own their output, platforms that take their revenue, and legal systems they can't access or afford. Zynthio is the answer: a complete, sovereign creative stack. We build the AI tools, teach creators how to use them, and protect what they make — all under one roof. Our flagship platform SongPal has a trademark on file in New Zealand. We're incorporating in May 2026. The founder is a working producer, full-stack engineer, and AI specialist — he built the entire stack himself. We're not pitching a feature. We're pitching a new creative infrastructure for the post-AI world."
+
+---
+
 ## The Pitch
 
 **Zynthio is an AI-powered creative sovereignty stack** — a vertically integrated ecosystem where independent artists, educators, and developers build, distribute, and protect original work without dependence on legacy platforms.
@@ -40,14 +46,17 @@ Zynthio is **seven interconnected brands** operating as one system:
 
 ## Traction & Proof Points
 
-- SongPal trademark application filed: **IPONZ #1318588** (New Zealand)
-- ZYNTHIO LIMITED company name reserved: **#15436626** — incorporating May 2026
-- Production infrastructure live on VPS (104.194.156.109) — Docker, Python 3.11
-- Active AI integrations: Claude (Anthropic), Grok (xAI), Perplexity, Suno API
-- Autonomous risk-managed trading bot (gTrade) deployed and operating
-- Original music tracks written and in deployment pipeline: *SIGNAL 336*, *THE MIRROR ASKED A QUESTION*
-- Comprehensive IP strategy: NZ trademark, copyright documentation, brand architecture
-- Open-source tooling published: [github.com/coreintentdev](https://github.com/coreintentdev)
+*As of April 2026 — all items verified:*
+
+- **Trademark filed:** SongPal — IPONZ #1318588 (New Zealand, filed and awaiting examination)
+- **Company name reserved:** ZYNTHIO LIMITED — NZCO #15436626 (incorporating May 2026)
+- **Production infrastructure live:** VPS 104.194.156.109 — Docker, Python 3.11, CI/CD pipeline
+- **Active AI integrations:** Claude (Anthropic), Grok (xAI), Perplexity, Suno API — all wired into CoreeyAI
+- **Autonomous trading system:** gTrade (risk-managed trading bot) deployed and operating — self-funding development
+- **Original music in pipeline:** *SIGNAL 336* and *THE MIRROR ASKED A QUESTION* — written, awaiting 4-platform deployment
+- **Seven-brand architecture:** complete documentation, brand guidelines, and roadmaps for every brand
+- **Multilingual content library:** 19 avatar scripts across 6 languages (EN, ES, FR, PT, ZH, MI)
+- **Open-source presence:** [github.com/coreintentdev](https://github.com/coreintentdev)
 
 ---
 
@@ -136,4 +145,4 @@ Domain: [zynthio.ai](https://zynthio.ai)
 
 ---
 
-*This document is current as of 2026-04-16. For the latest status see [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) and [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md).*
+*This document is current as of 2026-04-16 (Session 3). For the latest status see [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) and [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md).*

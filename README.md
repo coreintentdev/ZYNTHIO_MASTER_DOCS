@@ -10,8 +10,16 @@
 ## CRITICAL DEADLINE
 
 > **ZYNTHIO LIMITED — INCORPORATE BEFORE MAY 12, 2026**
-> Name reservation #15436626 expires **May 12, 2026** — act immediately.
-> Failure to act forfeits the reserved name permanently. → [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md)
+> Name reservation #15436626 expires **May 12, 2026**.
+> **As of 2026-04-16: 26 days remain. Do not wait.**
+> Failure to act forfeits the reserved name permanently.
+
+**Immediate action required:**
+1. Log in to [companies.govt.nz](https://www.companies.govt.nz) — confirm reservation #15436626 is still active
+2. Engage a NZ registered office service provider (required since founder is overseas)
+3. File incorporation before May 12, 2026
+
+→ Full checklist: [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md)
 
 ---
 
@@ -58,4 +66,4 @@ Zynthio is a sovereign AI-powered creative and technology ecosystem built by Cor
 
 ---
 
-*Last updated: 2026-04-16*
+*Last updated: 2026-04-16 (Session 3)*

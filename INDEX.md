@@ -8,11 +8,28 @@ Complete table of contents for the ZYNTHIO_MASTER_DOCS repository.
 
 ## CRITICAL ALERTS
 
-| Priority | Item | Deadline | Reference |
-|----------|------|----------|-----------|
-| **CRITICAL** | ZYNTHIO LIMITED incorporation (name reservation #15436626 expires) | **May 12, 2026** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
-| HIGH | SongPal IPONZ TM #1318588 — monitor for examination report | TBD | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
-| HIGH | 4-way deploy: SIGNAL 336 + THE MIRROR ASKED A QUESTION | Q2 2026 | [brands/DJ_ZYNROSE/ROADMAP.md](brands/DJ_ZYNROSE/ROADMAP.md) |
+| Priority | Item | Deadline | Days Left | Reference |
+|----------|------|----------|-----------|-----------|
+| **CRITICAL** | ZYNTHIO LIMITED incorporation — name reservation #15436626 expires | **May 12, 2026** | **26 (as of 2026-04-16)** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
+| **CRITICAL** | Engage NZ registered office service (required — founder is overseas) | Before filing | Urgent | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
+| HIGH | SongPal IPONZ TM #1318588 — monitor for examination report | TBD | — | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
+| HIGH | 4-way deploy: SIGNAL 336 + THE MIRROR ASKED A QUESTION | Q2 2026 | — | [brands/DJ_ZYNROSE/ROADMAP.md](brands/DJ_ZYNROSE/ROADMAP.md) |
+
+---
+
+## Reading Guide
+
+Start here based on your role:
+
+| You are... | Start with... |
+|-----------|---------------|
+| **New to Zynthio** | [README.md](README.md) → [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md) |
+| **Investor / evaluator** | [COMPETITION_ENTRY.md](COMPETITION_ENTRY.md) → [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md) |
+| **Legal / compliance** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) → [brands/KERVALON/README.md](brands/KERVALON/README.md) |
+| **Developer / engineer** | [brands/COREINTENT/README.md](brands/COREINTENT/README.md) → [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md) |
+| **Artist / creator** | [brands/DJ_ZYNROSE/README.md](brands/DJ_ZYNROSE/README.md) → [brands/SONGPAL/README.md](brands/SONGPAL/README.md) |
+| **Educator / student** | [brands/MOSOKO/README.md](brands/MOSOKO/README.md) → [brands/SONGPAL/README.md](brands/SONGPAL/README.md) |
+| **Returning / founder** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) → [brands/ZYNTHIO/ROADMAP.md](brands/ZYNTHIO/ROADMAP.md) |
 
 ---
 
@@ -27,8 +44,13 @@ Complete table of contents for the ZYNTHIO_MASTER_DOCS repository.
 | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | NZ incorporation, IP, and director compliance tracker |
 | [PERPLEXITY-QUERY-TEMPLATES.md](PERPLEXITY-QUERY-TEMPLATES.md) | Perplexity AI connector query templates |
 | [CHANGELOG.md](CHANGELOG.md) | Documented history of all doc changes |
-| [perplexity_orb_20260401.md](perplexity_orb_20260401.md) | Orb session restoration — April 1, 2026 |
 | [LICENSE](LICENSE) | MIT License |
+
+### Archive / Session Files
+
+| File | Description |
+|------|-------------|
+| [perplexity_orb_20260401.md](perplexity_orb_20260401.md) | Orb session restoration — April 1, 2026 |
 
 ---
 
@@ -160,4 +182,4 @@ brands/<BRAND>/
 
 ---
 
-*Last updated: 2026-04-16 | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-16 (Session 3) | Maintained by: Corey McIvor / COREINTENT*

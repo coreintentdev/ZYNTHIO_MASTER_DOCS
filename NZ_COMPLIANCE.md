@@ -9,19 +9,20 @@
 > **URGENT — INCORPORATION DEADLINE**
 > ZYNTHIO LIMITED name reservation #15436626 expires **May 12, 2026**.
 > File at [companies.govt.nz](https://www.companies.govt.nz) before this date or the name is lost permanently.
-> *(Deadline is fixed: May 12, 2026. Calculate days remaining from today's date.)*
+> **As of 2026-04-16: 26 days remain. Do not wait.**
 
 ---
 
 ## Summary Dashboard
 
-| Item | Reference | Status | Deadline |
-|------|-----------|--------|----------|
-| ZYNTHIO LIMITED — name reservation | #15436626 | Name reserved | **May 12, 2026** |
-| ZYNTHIO LIMITED — incorporation | — | **ACTION REQUIRED** | **Before May 12, 2026** |
-| SongPal trademark | IPONZ #1318588 | Application filed | Awaiting examination |
-| Director residency requirement | Companies Act 1993 | Corey McIvor qualifies (NZ/AU citizen) | At incorporation |
-| Registered office (NZ) | — | Not yet established | Before incorporation |
+| Item | Reference | Status | Deadline | Days Left |
+|------|-----------|--------|----------|-----------|
+| ZYNTHIO LIMITED — name reservation | #15436626 | Name reserved | **May 12, 2026** | **26 (as of 2026-04-16)** |
+| ZYNTHIO LIMITED — incorporation | — | **ACTION REQUIRED** | **Before May 12, 2026** | **26 (as of 2026-04-16)** |
+| Registered office (NZ) | — | Not yet established | Before incorporation | Urgent |
+| NZ registered office service | — | Not yet engaged | Before incorporation | Urgent |
+| SongPal trademark | IPONZ #1318588 | Application filed | Awaiting examination | — |
+| Director residency requirement | Companies Act 1993 | Corey McIvor qualifies (NZ/AU citizen) | At incorporation | — |
 
 ---
 
@@ -40,15 +41,28 @@
 
 **Action required:** Complete incorporation on the Companies Office portal **before May 12, 2026** or the name reservation lapses.
 
+### NZ Registered Office Requirement
+
+Every NZ company must have a **registered office address in New Zealand** — a P.O. box does not qualify. Since Corey McIvor is based in Nicaragua, this requires engaging a **NZ registered office service provider** before filing.
+
+Recommended approach:
+- Engage a NZ-based company formation agent or law firm who offer registered office services (common, low-cost)
+- Examples: Incorporated.nz, NZ Business Formalities, or any NZ solicitor
+- Cost: typically NZD $100–300/year
+- The service receives official correspondence on behalf of the company
+
+> **This must be arranged before you can complete incorporation.** Add this as the first step in your checklist.
+
 ### Incorporation Checklist
 
-- [ ] Confirm reservation #15436626 is still active
-- [ ] Appoint at least one NZ/AU resident director (see Director Residency below)
-- [ ] Establish a NZ registered office address
+- [ ] Confirm reservation #15436626 is still active (log in to companies.govt.nz)
+- [ ] Engage NZ registered office service provider (critical — required before filing)
+- [ ] Appoint at least one NZ/AU resident director (Corey McIvor qualifies — see Director Residency below)
 - [ ] Prepare constitution or elect to use the Companies Act 1993 default rules
 - [ ] Pay incorporation fee (currently NZD $150 online)
-- [ ] File on Companies Office portal
+- [ ] File on Companies Office portal using reservation #15436626
 - [ ] Receive Certificate of Incorporation
+- [ ] Update SongPal TM applicant details if needed (confirm with IPONZ)
 - [ ] Open NZ business bank account (post-incorporation)
 - [ ] Register for GST if turnover expected to exceed NZD $60,000/year
 
@@ -148,7 +162,11 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 
 | Date | Event |
 |------|-------|
-| **May 12, 2026** | ZYNTHIO LIMITED name reservation expires — **must incorporate by this date** |
+| **2026-04-16** | *(Today)* — 26 days to incorporation deadline |
+| **ASAP** | Engage NZ registered office service provider |
+| **ASAP** | Log in to companies.govt.nz and confirm #15436626 is still active |
+| **By ~2026-05-05** | Complete all pre-filing steps (7 days buffer before deadline) |
+| **Before 2026-05-12** | File incorporation — **ZYNTHIO LIMITED name reservation expires** |
 | TBD | IPONZ examination report for SongPal TM #1318588 |
 | TBD | Annual return due (12 months post-incorporation) |
 
@@ -170,4 +188,4 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 
 ---
 
-*Last updated: 2026-04-16 | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-04-16 (Session 3) | Maintained by: Corey McIvor / KERVALON*

@@ -7,6 +7,20 @@ Format: `YYYY-MM-DD | Type | Description`
 
 ---
 
+## 2026-04-16 (Session 3)
+
+### Updated
+- `NZ_COMPLIANCE.md` — Added dated countdown ("26 days remain as of 2026-04-16") to urgent alert, summary dashboard, and deadlines calendar; added **NZ Registered Office Requirement** section (critical for overseas founder — explains service providers, cost, why required); expanded incorporation checklist with registered office step and post-incorporation IPONZ assignment action item; added 7-day buffer milestone (file by ~May 5)
+- `README.md` — Replaced generic "act immediately" with a specific 3-step immediate action list; added 26-day countdown with date anchor to critical deadline section
+- `INDEX.md` — Added **Reading Guide** table for 7 audience types (new visitor, investor, legal, developer, artist, educator, returning founder); added "Days Left" column to CRITICAL ALERTS table; promoted NZ registered office to CRITICAL priority; separated archive/session files into their own sub-table
+- `COMPETITION_ENTRY.md` — Added **30-Second Spoken Pitch** section at top (competition-ready verbatim script); expanded Traction & Proof Points with date anchor, multilingual content library entry, and self-funding trading system note
+- `ECOSYSTEM_MAP.md` — Added **Current State Snapshot (April 2026)** section with three tables: Products & Systems (live/in-development/partial/dead), Legal & IP status, Revenue state
+
+### Infrastructure
+- Merged 5 detached-HEAD commits onto main via fast-forward merge (sessions 1–2 work was on orphaned commits)
+
+---
+
 ## 2026-04-16 (Session 2)
 
 ### Updated

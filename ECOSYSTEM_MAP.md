@@ -210,4 +210,44 @@ Every brand reinforces every other. No filler. All signal.
 
 ---
 
-*Last updated: 2026-04-16 | Maintained by: Corey McIvor / COREINTENT*
+## Current State Snapshot — April 2026
+
+A clear-eyed view of what is live, what is in progress, and what is planned.
+
+### Products & Systems
+
+| System | Brand | State | Notes |
+|--------|-------|-------|-------|
+| gTrade (trading bot) | COREINTENT | **Live** | Internal funding via autonomous trading |
+| Perplexity Orb | CoreeyAI / COREINTENT | **Live** | Agentic session management deployed |
+| CoreeyAI integrations | CoreeyAI | **Live** | Claude, Grok, Perplexity active |
+| ZYNTHIO_MASTER_DOCS | COREINTENT | **Live** | This repository — active documentation hub |
+| SongPal platform | SongPal | In development | MVP build underway — beta Q2–Q3 2026 |
+| Suno API integration | SongPal / CoreeyAI | Partial | Needs completion |
+| MOSOKO curriculum | MOSOKO | In development | First cohort target Q3 2026 |
+| DJ Zynrose track deployment | DJ Zynrose | Pending | SIGNAL 336 + THE MIRROR ASKED A QUESTION written, 4-way deploy pipeline in progress |
+| Google Drive connector | COREINTENT | Dead | Needs fix |
+| Slack connector | COREINTENT | Dead | Needs fix |
+
+### Legal & IP
+
+| Matter | State | Notes |
+|--------|-------|-------|
+| ZYNTHIO LIMITED — name reserved | Active | **26 days to incorporate (as of 2026-04-16)** |
+| NZ registered office | Not yet established | Required before filing — engage service provider |
+| SongPal TM — IPONZ #1318588 | Filed | Awaiting examination |
+| Other brand TMs | Planned | Post-incorporation (Q3–Q4 2026) |
+
+### Revenue
+
+| Stream | State | Target |
+|--------|-------|--------|
+| gTrade returns | **Live** | Internal self-funding |
+| SongPal SaaS subscriptions | Pre-revenue | Q4 2026 |
+| MOSOKO course fees | Pre-revenue | Q3 2026 |
+| CoreeyAI B2B API | Pre-revenue | Q4 2026 |
+| KERVALON IP services | Pre-revenue | Q4 2026+ |
+
+---
+
+*Last updated: 2026-04-16 (Session 3) | Maintained by: Corey McIvor / COREINTENT*
