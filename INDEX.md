@@ -188,4 +188,4 @@ brands/<BRAND>/
 
 ---
 
-*Last updated: 2026-04-16 (Session 5) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-16 (Session 6) | Maintained by: Corey McIvor / COREINTENT*

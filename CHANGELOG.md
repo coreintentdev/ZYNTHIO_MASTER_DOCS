@@ -7,6 +7,20 @@ Format: `YYYY-MM-DD | Type | Description`
 
 ---
 
+## 2026-04-16 (Session 6)
+
+### Infrastructure
+- Resolved persistent detached-HEAD issue: fast-forwarded `main` branch to Session 5 tip (25ee02a) via `git reset --hard`; all documentation now correctly tracked on `main`
+
+### Updated
+- `README.md` — Updated footer session number (Session 3 → 6)
+- `ECOSYSTEM_MAP.md` — Updated footer session number (Session 3 → 6)
+- `INDEX.md` — Updated footer session number (Session 5 → 6)
+- `brands/DJ_ZYNROSE/README.md` — Replaced generic `*(add streaming platforms)*` and `*(add social channels)*` placeholders with structured tables: streaming (Spotify, Apple Music, YouTube Music, SoundCloud with distribution notes) and social channels (Instagram, TikTok, YouTube with handle status)
+- `brands/SONGPAL/README.md` — Cleaned IP table domain field from `*(add SongPal domain)*` to `TBD — pending registration`
+
+---
+
 ## 2026-04-16 (Session 5)
 
 ### Added

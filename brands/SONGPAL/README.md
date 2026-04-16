@@ -41,7 +41,7 @@ To be the most creator-friendly AI music production platform — giving independ
 |-------|--------|
 | SongPal trademark | **IPONZ #1318588 — filed, awaiting examination** |
 | SongPal codebase | Copyright ZYNTHIO / Corey McIvor |
-| Domain | *(add SongPal domain)* |
+| Domain | TBD — pending registration |
 
 ---
 

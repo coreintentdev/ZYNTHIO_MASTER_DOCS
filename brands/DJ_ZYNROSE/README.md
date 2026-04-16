@@ -46,11 +46,23 @@ To create music that demonstrates what sovereign AI-assisted production sounds l
 
 ## Platform Presence
 
+### Streaming & Distribution
+
 | Platform | Status | Notes |
 |----------|--------|-------|
-| *(add streaming platforms)* | Pending | Spotify, Apple Music, etc. |
-| *(add social channels)* | Pending | Instagram, TikTok, YouTube |
+| Spotify | Pending | Via DistroKid or TuneCore |
+| Apple Music | Pending | Via DistroKid or TuneCore |
+| YouTube Music | Pending | Via DistroKid or TuneCore |
+| SoundCloud | Pending | Direct artist upload |
 | SongPal | Primary production tool | Authentic use — real social proof |
+
+### Social Channels
+
+| Platform | Handle | Status |
+|----------|--------|--------|
+| Instagram | TBD | Pending setup |
+| TikTok | TBD | Pending setup — short production reels |
+| YouTube | TBD | Pending setup — production vlogs, visuals |
 
 ---
 
