@@ -1,0 +1,33 @@
+# Bem-vindo ao Zynthio
+## Language: Portuguese (Português)
+## Duration: 50 seconds
+## Avatar tone: friendly, confident
+## Brand: Zynthio
+
+[GESTURE: warm smile, nod]
+
+Olá — bem-vindo ao *Zynthio*.
+
+[PAUSE 1s]
+
+Estamos construindo algo diferente aqui. Um ecossistema criativo completo, projetado do zero para artistas independentes, produtores e criadores como você.
+
+[GESTURE: open hand]
+
+Pense assim. Um sistema — sete marcas — tudo o que você precisa para *criar*, *aprender*, *proteger* e *crescer* o seu trabalho. Sem intermediários. Sem barreiras.
+
+[PAUSE 0.5s]
+
+Desde produção musical com inteligência artificial com o *SongPal* — até educação prática com o *MOSOKO* — até proteção real de propriedade intelectual com o *KERVALON* — tudo se conecta. E tudo é seu.
+
+[GESTURE: nod]
+
+Somos fundados na Nova Zelândia por Corey McIvor, e acreditamos em uma coisa acima de tudo — *soberania criativa*.
+
+[PAUSE 1s]
+
+Sua arte. Suas ferramentas. Suas condições.
+
+[GESTURE: confident smile]
+
+Vamos construir algo juntos. Bem-vindo ao ecossistema.
