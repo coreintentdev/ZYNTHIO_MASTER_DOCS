@@ -1,6 +1,6 @@
 # ASSETS — SongPal
 
-![Updated](https://img.shields.io/badge/updated-2026--04--16-blue) ![TM](https://img.shields.io/badge/TM-IPONZ%20%231318588-orange)
+![Updated](https://img.shields.io/badge/updated-2026--04--17-blue) ![TM](https://img.shields.io/badge/TM-IPONZ%20%231318588-orange)
 
 > Brand asset registry for SongPal.
 > Note: SongPal is a registered trademark applicant — use brand assets carefully and consistently.
@@ -86,4 +86,4 @@ All SongPal brand materials must include appropriate TM notation:
 
 ---
 
-*Last updated: 2026-04-16 | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-17 | Maintained by: Corey McIvor / COREINTENT*

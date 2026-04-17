@@ -1,6 +1,6 @@
 # KERVALON
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-legal%20%26%20IP-red) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![Updated](https://img.shields.io/badge/updated-2026--04--16-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-legal%20%26%20IP-red) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![Updated](https://img.shields.io/badge/updated-2026--04--17-blue)
 
 > **The protector of the Zynthio ecosystem.**
 > Legal infrastructure, IP management, and compliance for creative sovereignty.
@@ -82,4 +82,4 @@ To provide robust, proactive IP and legal infrastructure that protects every bra
 
 ---
 
-*Last updated: 2026-04-16 | Maintained by: Corey McIvor*
+*Last updated: 2026-04-17 | Maintained by: Corey McIvor*
