@@ -1,6 +1,6 @@
 # ROADMAP — ZYNTHIO
 
-![Updated](https://img.shields.io/badge/updated-2026--04--17-blue)
+![Updated](https://img.shields.io/badge/updated-2026--04--18-blue)
 
 ---
 
@@ -64,4 +64,4 @@
 
 ---
 
-*Last updated: 2026-04-17*
+*Last updated: 2026-04-18*

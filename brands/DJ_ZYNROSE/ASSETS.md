@@ -1,6 +1,6 @@
 # ASSETS — DJ Zynrose
 
-![Updated](https://img.shields.io/badge/updated-2026--04--17-blue)
+![Updated](https://img.shields.io/badge/updated-2026--04--18-blue)
 
 > Brand and artist asset registry for DJ Zynrose.
 
@@ -84,4 +84,4 @@
 
 ---
 
-*Last updated: 2026-04-17 | Maintained by: Corey McIvor*
+*Last updated: 2026-04-18 | Maintained by: Corey McIvor*

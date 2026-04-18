@@ -1,6 +1,6 @@
 # NZ COMPLIANCE TRACKER — Zynthio
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellow) ![Updated](https://img.shields.io/badge/updated-2026--04--17-blue) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow) ![Updated](https://img.shields.io/badge/updated-2026--04--18-blue) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red)
 
 > Tracks all New Zealand incorporation, IP, and director compliance obligations for the Zynthio ecosystem.
 
@@ -9,22 +9,22 @@
 > **URGENT — INCORPORATION DEADLINE**
 > ZYNTHIO LIMITED name reservation #15436626 expires **May 12, 2026**.
 > File at [companies.govt.nz](https://www.companies.govt.nz) before this date or the name is lost permanently.
-> **As of 2026-04-17: 25 days remain. Do not wait.**
+> **As of 2026-04-18: 24 days remain. Do not wait.**
 
 ---
 
 ## Next 7 Days — Action Plan
 
-*As of 2026-04-17 (25 days to deadline). Execute in order — do not skip steps.*
+*As of 2026-04-18 (24 days to deadline). Execute in order — do not skip steps.*
 
 | Day | Action | Owner | Done? |
 |-----|--------|-------|-------|
-| **Yesterday (Apr 16)** | Log in to [companies.govt.nz](https://www.companies.govt.nz) — confirm reservation #15436626 is still active and note exact expiry date | Corey | [ ] |
-| **Yesterday (Apr 16)** | Research NZ registered office service providers — shortlist 2–3 (see suggestions below) | Corey | [ ] |
-| **TODAY (Apr 17)** | Contact preferred registered office provider — request quote and confirm they can accept service of process | Corey | [ ] |
-| **Apr 18–19** | Confirm registered office arrangement is in place (signed / paid) | Corey | [ ] |
-| **Apr 20–21** | Prepare all incorporation documents on Companies Office portal — entity details, directors, constitution choice | Corey | [ ] |
-| **Apr 21–22** | Pay incorporation fee (NZD $150 online) and submit | Corey | [ ] |
+| **Done (Apr 16)** | Log in to [companies.govt.nz](https://www.companies.govt.nz) — confirm reservation #15436626 is still active and note exact expiry date | Corey | [ ] |
+| **Done (Apr 16)** | Research NZ registered office service providers — shortlist 2–3 (see suggestions below) | Corey | [ ] |
+| **Yesterday (Apr 17)** | Contact preferred registered office provider — request quote and confirm they can accept service of process | Corey | [ ] |
+| **TODAY (Apr 18)** | Confirm registered office arrangement is in place (signed / paid) | Corey | [ ] |
+| **Apr 19–20** | Prepare all incorporation documents on Companies Office portal — entity details, directors, constitution choice | Corey | [ ] |
+| **Apr 20–21** | Pay incorporation fee (NZD $150 online) and submit | Corey | [ ] |
 | **By Apr 23** | **Buffer achieved:** full 19 days before deadline — Certificate of Incorporation expected within days | Corey | [ ] |
 
 > **Recommended registered office providers (NZ):**
@@ -39,8 +39,8 @@
 
 | Item | Reference | Status | Deadline | Days Left |
 |------|-----------|--------|----------|-----------|
-| ZYNTHIO LIMITED — name reservation | #15436626 | Name reserved | **May 12, 2026** | **25 (as of 2026-04-17)** |
-| ZYNTHIO LIMITED — incorporation | — | **ACTION REQUIRED** | **Before May 12, 2026** | **25 (as of 2026-04-17)** |
+| ZYNTHIO LIMITED — name reservation | #15436626 | Name reserved | **May 12, 2026** | **24 (as of 2026-04-18)** |
+| ZYNTHIO LIMITED — incorporation | — | **ACTION REQUIRED** | **Before May 12, 2026** | **24 (as of 2026-04-18)** |
 | Registered office (NZ) | — | Not yet established | Before incorporation | Urgent |
 | NZ registered office service | — | Not yet engaged | Before incorporation | Urgent |
 | SongPal trademark | IPONZ #1318588 | Application filed | Awaiting examination | — |
@@ -184,7 +184,7 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 
 | Date | Event |
 |------|-------|
-| **2026-04-17** | *(Today)* — 25 days to incorporation deadline |
+| **2026-04-18** | *(Today)* — 24 days to incorporation deadline |
 | **ASAP** | Engage NZ registered office service provider |
 | **ASAP** | Log in to companies.govt.nz and confirm #15436626 is still active |
 | **By ~2026-05-05** | Complete all pre-filing steps (7 days buffer before deadline) |
@@ -211,4 +211,4 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 
 ---
 
-*Last updated: 2026-04-17 (Session 9) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-04-18 (Session 10) | Maintained by: Corey McIvor / KERVALON*

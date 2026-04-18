@@ -1,6 +1,6 @@
 # FINANCIAL MODEL â€” Zynthio
 
-![Status](https://img.shields.io/badge/status-pre--revenue-orange) ![Updated](https://img.shields.io/badge/updated-2026--04--17-blue) ![Currency](https://img.shields.io/badge/currency-NZD-black) ![Stage](https://img.shields.io/badge/stage-pre--seed-yellow)
+![Status](https://img.shields.io/badge/status-pre--revenue-orange) ![Updated](https://img.shields.io/badge/updated-2026--04--18-blue) ![Currency](https://img.shields.io/badge/currency-NZD-black) ![Stage](https://img.shields.io/badge/stage-pre--seed-yellow)
 
 > Three-year revenue projection for the Zynthio ecosystem.
 > All figures in NZD. Conservative estimates; does not include seed capital deployment.
@@ -248,5 +248,5 @@ gTrade (autonomous trading bot) provides internal self-funding for development â
 
 ---
 
-*Last updated: 2026-04-17 (Session 9) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-18 (Session 9) | Maintained by: Corey McIvor / COREINTENT*
 *For the latest company status see [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | For competition context see [COMPETITION_ENTRY.md](COMPETITION_ENTRY.md)*

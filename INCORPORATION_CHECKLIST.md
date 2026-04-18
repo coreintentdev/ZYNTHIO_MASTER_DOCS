@@ -1,10 +1,10 @@
 # INCORPORATION CHECKLIST — ZYNTHIO LIMITED
 
-![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-25%20(as%20of%20Apr%2017)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
+![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-24%20(as%20of%20Apr%2018)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
 
 > **Focused action checklist for incorporating ZYNTHIO LIMITED before the name reservation expires.**
 > Name reservation: **NZCO #15436626** — expires **May 12, 2026**.
-> As of 2026-04-17: **25 days remain.** Do not wait.
+> As of 2026-04-18: **24 days remain.** Do not wait.
 
 ---
 
@@ -85,10 +85,10 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 
 | Target Date | Action |
 |-------------|--------|
-| **Apr 16 (yesterday)** | Confirm reservation #15436626 is active |
-| **Apr 16–17 (TODAY)** | Contact registered office provider — request quote |
-| **Apr 17–19** | Registered office confirmed, signed, and paid |
-| **Apr 19–22** | Prepare and review all incorporation documents on portal |
+| **Apr 16 (done)** | Confirm reservation #15436626 is active |
+| **Apr 17 (yesterday)** | Contact registered office provider — request quote |
+| **TODAY (Apr 18)** | Confirm registered office arrangement — signed and paid |
+| **Apr 19–21** | Prepare and review all incorporation documents on portal |
 | **By Apr 23** | **File and pay** — achieves 19-day buffer before deadline |
 | **May 12, 2026** | **HARD DEADLINE — reservation #15436626 expires** |
 
@@ -130,4 +130,4 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 
 ---
 
-*Last updated: 2026-04-17 (Session 9) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-04-18 (Session 10) | Maintained by: Corey McIvor / KERVALON*
