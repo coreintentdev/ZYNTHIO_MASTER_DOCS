@@ -1,6 +1,6 @@
 # Zynthio Investor Pitch
 ## Language: English
-## Duration: 120 seconds
+## Duration: 130 seconds
 ## Avatar tone: professional
 ## Brand: Zynthio
 
@@ -44,11 +44,11 @@ Here's the architecture.
 
 [GESTURE: lean forward]
 
-Our traction is real. Production infrastructure is *live* — Docker, Python 3.11, our own VPS. SongPal trademark is *filed*. ZYNTHIO LIMITED company name is *reserved* — incorporating under New Zealand Companies Act. Music is *written and in the deployment pipeline*. And the codebase is public on GitHub.
+Our traction is real. Production infrastructure is *live* — Docker, Python 3.11, our own VPS. SongPal trademark is *filed*. ZYNTHIO LIMITED company name is *reserved* with New Zealand Companies Office — incorporation is imminent. Music is *written and in the deployment pipeline*. The codebase is public on GitHub. And our internal trading engine is already generating revenue to self-fund development.
 
 [PAUSE 0.5s]
 
-We're seeking seed capital in the range of 150 to 250 thousand New Zealand dollars to accelerate SongPal to beta, launch the first MOSOKO cohort, and complete incorporation.
+We're seeking seed capital in the range of 150 to 250 thousand New Zealand dollars to accelerate SongPal to beta, launch the first MOSOKO cohort, and scale the infrastructure. Allocation is clear — thirty-five percent to SongPal development, twenty percent to MOSOKO curriculum, twenty percent to marketing, and the rest to legal, infrastructure, and reserves.
 
 [GESTURE: nod]
 
@@ -58,4 +58,4 @@ The moat is clear. No competitor combines AI production, education, IP infrastru
 
 [GESTURE: warm smile]
 
-I'd love to discuss the details. Thank you.
+We're building this with or without funding — the question is how fast. I'd welcome the chance to discuss what acceleration looks like. Thank you.
