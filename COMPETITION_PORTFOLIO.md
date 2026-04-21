@@ -1,6 +1,6 @@
 # COMPETITION PORTFOLIO — Zynthio
 
-![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--18-blue) ![Stage](https://img.shields.io/badge/stage-pre--seed-yellow) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black)
+![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--21-blue) ![Stage](https://img.shields.io/badge/stage-pre--seed-yellow) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black)
 
 > Full competition portfolio for startup, AI, fintech, and music technology competitions worldwide.
 
@@ -8,24 +8,27 @@
 
 ## Executive Summary
 
-Zynthio is a sovereign AI-powered creative ecosystem — seven interconnected brands delivering AI music production, education, IP protection, and autonomous trading under one stack. Built by a solo NZ/AU founder-engineer-producer, incorporating in New Zealand May 2026, with live infrastructure, filed trademarks, and a ~$9.5B addressable market. Not a feature. A stack.
+Zynthio is a sovereign AI-powered creative ecosystem — seven brands delivering AI music production, education, IP protection, and autonomous algorithmic trading under one stack. Built by a solo NZ/AU founder-engineer-producer, incorporating in New Zealand, with live infrastructure, filed trademarks, and a ~$9.5B addressable market. One founder. One stack. All signal.
 
 ---
 
 ## Problem Statement
 
-### The creator economy is broken in three ways:
+### The creator economy is broken — and AI trading is gatekept.
 
 **1. AI tools are extractive, not empowering.**
 Independent creators face AI music tools that are expensive, opaque, and designed to capture — not protect — the value of creative output. Generative AI has collapsed the cost of production, but the platforms capturing that value give nothing back.
 
-**2. Education is disconnected from real tools.**
+**2. AI-assisted trading is opaque, expensive, and gatekept.**
+Retail traders and independent builders are locked out of the algorithmic trading infrastructure that institutions take for granted. Signal services charge subscriptions for black-box calls. Open, competition-based AI trading — where performance is the only metric — barely exists.
+
+**3. Education is disconnected from real tools.**
 Music education platforms teach theory and legacy workflows. None of them teach creators how to use the actual AI tools reshaping their industry — because those platforms don't build tools. The knowledge gap is widening.
 
-**3. IP infrastructure is inaccessible.**
+**4. IP infrastructure is inaccessible.**
 Trademark filings, licensing agreements, and copyright strategy remain locked behind expensive legal gatekeepers. Independent artists can create at scale, but they cannot protect at scale.
 
-**The result:** Creators are fragmented across disconnected, extractive tools — paying more, owning less, and building on platforms that don't serve them.
+**The result:** Creators and traders alike are fragmented across disconnected, extractive tools — paying more, owning less, and building on platforms that don't serve them.
 
 ---
 
@@ -51,7 +54,7 @@ Zynthio is a vertically integrated creative-technology ecosystem that solves the
 - **Multi-AI orchestration** — CoreeyAI routes tasks across Claude, Grok, Perplexity, and Suno. Not a wrapper. Purpose-built.
 - **Closed-loop ecosystem** — Build (COREINTENT) → Think (CoreeyAI) → Create (SongPal + DJ Zynrose) → Teach (MOSOKO) → Protect (KERVALON) → Scale (ZYNTHIO).
 - **Self-funding mechanism** — gTrade autonomous trading bot provides internal development funding without external dependency.
-- **Competition model** — gTrade operates on risk-managed, competition-based algorithmic trading, not subscription-based signal services. Performance is the product.
+- **Competition model over subscription** — gTrade operates on risk-managed, competition-based algorithmic trading, not subscription-based signal services. No black boxes, no monthly fees for signals. Performance is the product. Open architecture, verifiable results.
 
 ---
 
@@ -62,11 +65,15 @@ Zynthio is a vertically integrated creative-technology ecosystem that solves the
 | Global music production software | $5.9B | ~8% YoY |
 | AI music generation | $1.5B | ~25% YoY |
 | Online music education | $2.1B | ~10% YoY |
-| **Total Addressable Market** | **~$9.5B** | |
+| Global retail trading (AI-assisted) | $12.0B+ | ~18% YoY |
+| **Combined Addressable Market** | **~$21.4B+** | |
+
+*Primary TAM (creator stack): ~$9.5B. Extended TAM (AI-assisted retail trading via gTrade): ~$12B+.*
 
 ### Why now:
 
 - Generative AI has collapsed the cost of music creation — the bottleneck is now **curation, pedagogy, and IP infrastructure**
+- AI-assisted investing and algorithmic trading are shifting from institutional to retail — gTrade is positioned for this wave
 - No competitor offers a vertically integrated creator stack — the market is fragmented by design
 - Independent creators are the fastest-growing segment of the music industry
 - NZ/AU tech ecosystems are underserved by global AI tools built for US/EU markets
@@ -141,7 +148,7 @@ Zynthio is a vertically integrated creative-technology ecosystem that solves the
 
 ### 1. Competition Model vs. Subscription
 
-gTrade operates on a performance-based competition model — autonomous, risk-managed algorithmic trading that funds development. This is not a subscription signal service. The bot competes in the market and the results speak for themselves.
+gTrade operates on a performance-based competition model — autonomous, risk-managed algorithmic trading that funds development. This is not a subscription signal service selling black-box calls. No monthly fees for opaque signals. The bot competes in the market with open architecture and verifiable risk parameters (max leverage 5.0x, 1% max risk per trade, 0.8% daily loss ceiling). Performance is the product. Results speak for themselves.
 
 ### 2. NZ Jurisdiction
 
@@ -280,4 +287,4 @@ Email: *(add contact email before submitting)*
 
 ---
 
-*Last updated: 2026-04-18 | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-21 | Maintained by: Corey McIvor / COREINTENT*

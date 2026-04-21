@@ -1,6 +1,6 @@
 # PRESS KIT — Zynthio
 
-![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--18-blue)
+![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--21-blue)
 
 > Press kit for media, competition judges, event organisers, and partners.
 > Copy any section directly into submissions, bios, or press materials.
@@ -90,6 +90,12 @@ MOSOKO, Zynthio's education brand, will teach independent creators how to use th
 > "We don't burn cash while we build. gTrade funds our development autonomously. That's sovereignty in practice."
 
 > "The artist is the proof of concept. Every DJ Zynrose track is a live demo of the SongPal stack."
+
+### On AI trading:
+
+> "AI trading shouldn't be a black box behind a subscription paywall. gTrade competes in the market with open architecture and verifiable risk parameters. Performance is the product."
+
+> "We chose a competition model over a subscription model. No monthly fees for signals. The bot wins or it doesn't. That's honest."
 
 ### On New Zealand:
 
@@ -213,4 +219,4 @@ Domain: [zynthio.ai](https://zynthio.ai)
 
 ---
 
-*Last updated: 2026-04-18 | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-21 | Maintained by: Corey McIvor / COREINTENT*

@@ -1,6 +1,6 @@
 # DEMO SCRIPT — Zynthio
 
-![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--18-blue) ![Duration](https://img.shields.io/badge/duration-3%20minutes-purple)
+![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--21-blue) ![Duration](https://img.shields.io/badge/duration-3%20minutes-purple)
 
 > 3-minute live demo walkthrough for competitions, investor meetings, and showcases.
 > Designed to show the real stack — not a prototype, not a mockup.
@@ -105,7 +105,7 @@ Before going live, confirm:
 
 **Say:**
 
-> "gTrade is our autonomous trading bot. It operates on a competition-based model — risk-managed, disciplined, and it self-funds our development. This isn't a side project. It's how we stay sovereign while we build."
+> "gTrade is our autonomous trading bot. Not a subscription signal service — a competition-based model. Open architecture, verifiable risk parameters: max 5x leverage, 1% risk per trade, 0.8% daily loss ceiling. It self-funds our development. No black boxes. No monthly fees for signals. This is how we stay sovereign while we build."
 
 ---
 
@@ -197,4 +197,4 @@ Use one or two of these during the demo, depending on audience:
 
 ---
 
-*Last updated: 2026-04-18 | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-21 | Maintained by: Corey McIvor / COREINTENT*

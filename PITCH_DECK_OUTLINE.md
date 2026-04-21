@@ -1,6 +1,6 @@
 # PITCH DECK OUTLINE — Zynthio
 
-![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--18-blue) ![Slides](https://img.shields.io/badge/slides-10-purple)
+![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--21-blue) ![Slides](https://img.shields.io/badge/slides-10-purple)
 
 > 10-slide pitch deck structure with full content for each slide.
 > Designed for startup, AI, and music technology competitions.
@@ -26,15 +26,17 @@
 
 ### Independent creators are fragmented across broken tooling.
 
-**Three pain points:**
+**Four pain points:**
 
 1. **AI tools are extractive.** Generative music platforms capture value from creators — expensive subscriptions, opaque models, IP-hostile terms. Creators produce; platforms profit.
 
-2. **Education is disconnected.** Music schools teach legacy workflows. None of them teach the AI tools reshaping the industry — because they don't build tools.
+2. **AI trading is gatekept.** Algorithmic trading infrastructure is institutional-grade and institutional-priced. Retail traders get black-box signal subscriptions. Open, competition-based AI trading barely exists.
 
-3. **IP protection is inaccessible.** Trademarks, licensing, and copyright strategy are locked behind expensive legal gatekeepers. Creators can produce at scale but cannot protect at scale.
+3. **Education is disconnected.** Music schools teach legacy workflows. None of them teach the AI tools reshaping the industry — because they don't build tools.
 
-**Key stat:** The global music production + AI music + online education market is worth **~$9.5 billion** — and no one offers the full stack.
+4. **IP protection is inaccessible.** Trademarks, licensing, and copyright strategy are locked behind expensive legal gatekeepers. Creators can produce at scale but cannot protect at scale.
+
+**Key stat:** The combined addressable market across music production, AI music, online education, and AI-assisted retail trading exceeds **$21 billion** — and no one offers the full stack.
 
 **Visual:** Three icons (lock, broken chain, shield with X). Simple, dark background.
 
@@ -90,9 +92,13 @@ ZYNTHIO (Parent)
 | Music production software | $5.9B | +8% YoY |
 | AI music generation | $1.5B | +25% YoY |
 | Online music education | $2.1B | +10% YoY |
+| AI-assisted retail trading | $12.0B+ | +18% YoY |
+
+*Primary TAM (creator stack): ~$9.5B. Extended TAM (AI-assisted trading via gTrade): ~$12B+.*
 
 **Why now:**
 - Generative AI has collapsed production costs — the bottleneck is now curation, pedagogy, and IP
+- AI-assisted investing is shifting from institutional to retail — gTrade is positioned for this wave
 - Independent creators are the fastest-growing music segment
 - No competitor offers a vertically integrated sovereign stack
 
@@ -249,4 +255,4 @@ ZYNTHIO (Parent)
 
 ---
 
-*Last updated: 2026-04-18 | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-21 | Maintained by: Corey McIvor / COREINTENT*

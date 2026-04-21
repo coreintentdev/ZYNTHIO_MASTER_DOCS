@@ -1,6 +1,6 @@
 # AWARDS TRACKER — Zynthio 2026
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--18-blue) ![Year](https://img.shields.io/badge/year-2026-purple)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--21-blue) ![Year](https://img.shields.io/badge/year-2026-purple)
 
 > Tracking relevant competitions, awards, grants, and accelerators for Zynthio across AI, fintech, music technology, and startup categories.
 
@@ -37,6 +37,8 @@ Before entering any competition, confirm:
 | ITU AI for Good | AI impact | Not started | TBC | MEDIUM |
 | Techweek NZ | Tech / Startup | Not started | TBC (May–June 2026) | MEDIUM |
 | NZ Hi-Tech Awards | Tech | Not started | TBC (typically H1) | MEDIUM |
+| FinTech Australia Awards | Fintech / AI | Not started | TBC (typically H2) | MEDIUM |
+| NZX Fintech Accelerator | Fintech / Trading | Not started | TBC | MEDIUM |
 | AWS Startup Programme | Cloud / AI | Not started | Rolling | LOW |
 | Google for Startups | Cloud / AI | Not started | Rolling | LOW |
 | Anthropic Partner / Builder | AI | Not started | Rolling | LOW |
@@ -247,6 +249,33 @@ Before entering any competition, confirm:
 | URL | [aiforgood.itu.int](https://aiforgood.itu.int) |
 | Status | **Not started** |
 
+### FinTech Australia Awards
+
+| Field | Detail |
+|-------|--------|
+| Organiser | FinTech Australia |
+| Category | Fintech / AI trading |
+| Fit | MEDIUM — gTrade autonomous trading bot; competition-based model vs subscription signals |
+| What they offer | Industry recognition, investor introductions, media coverage |
+| Eligibility | Fintech companies with AU/NZ connection |
+| Deadline | Check website — typically H2 |
+| Zynthio angle | gTrade as open-architecture, competition-based algorithmic trading; self-funding mechanism; NZ/AU founder |
+| URL | [fintechaustralia.org.au](https://www.fintechaustralia.org.au) |
+| Status | **Not started** |
+
+### NZX Fintech Accelerator
+
+| Field | Detail |
+|-------|--------|
+| Organiser | NZX / various partners |
+| Category | Fintech / Trading technology |
+| Fit | MEDIUM — gTrade algorithmic trading; NZ-incorporated company |
+| What they offer | Mentorship, market access, investor network |
+| Eligibility | NZ fintech startups |
+| Deadline | Check website — programme-specific |
+| Zynthio angle | gTrade autonomous trading with open risk architecture; NZ jurisdiction; competition model |
+| Status | **Not started** |
+
 ---
 
 ## Cloud & Platform Credits
@@ -330,4 +359,4 @@ For each competition submission, prepare:
 
 ---
 
-*Last updated: 2026-04-18 | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-21 | Maintained by: Corey McIvor / COREINTENT*

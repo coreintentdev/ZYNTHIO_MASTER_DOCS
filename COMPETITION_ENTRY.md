@@ -1,6 +1,6 @@
 # COMPETITION ENTRY — Zynthio
 
-![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--18-blue)
+![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--21-blue)
 
 > One-page summary for startup, AI, and music industry competitions.
 
@@ -20,8 +20,9 @@
 
 ## The Problem
 
-Independent creators are fragmented across broken tooling:
+Independent creators and traders are fragmented across broken tooling:
 - AI music tools are expensive, extractive, and IP-hostile
+- AI trading is opaque, expensive, and gatekept — subscription signal services offer black boxes, not open competition
 - Education platforms don't teach the full pipeline from creation to monetisation
 - Legal/IP infrastructure is inaccessible to independent artists
 - There is no integrated stack owned by and for the creator
@@ -199,4 +200,4 @@ Domain: [zynthio.ai](https://zynthio.ai)
 
 ---
 
-*This document is current as of 2026-04-18 (Session 9). For the latest status see [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) and [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md). Financial projections: [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md).*
+*This document is current as of 2026-04-21. For the latest status see [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) and [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md). Financial projections: [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md).*
