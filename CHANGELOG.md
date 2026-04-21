@@ -1,9 +1,26 @@
 # CHANGELOG — Zynthio Master Docs
 
-![Updated](https://img.shields.io/badge/updated-2026--04--18-blue)
+![Updated](https://img.shields.io/badge/updated-2026--04--21-blue)
 
 All significant changes to this documentation repository are recorded here.
 Format: `YYYY-MM-DD | Type | Description`
+
+---
+
+## 2026-04-21 (Session 11)
+
+### Updated
+
+- `README.md` — Countdown badge updated (24 → 21 days as of 2026-04-21); date anchor updated; session footer to Session 11
+- `INDEX.md` — Days Left column updated (24 → 21 as of 2026-04-21); date badge to 2026-04-21; session footer to Session 11
+- `NZ_COMPLIANCE.md` — Action plan advanced: TODAY = April 21 (FILE AND PAY day); incorporation status set to "FILE TODAY"; deadline calendar updated to 2026-04-21 (filing day); countdown to 21 days; date badge and session footer to Session 11
+- `INCORPORATION_CHECKLIST.md` — Timeline advanced: Apr 16–20 all marked Done; TODAY (Apr 21) = FILE AND PAY; preamble updated to 21 days as of 2026-04-21; session footer to Session 11
+- `ECOSYSTEM_MAP.md` — Current State Snapshot heading updated to April 21, 2026; days counter updated to 21 as of 2026-04-21, marked "FILING DAY"; date badge and session footer to Session 11
+- `COMPETITION_ENTRY.md` — Traction date updated to 2026-04-21
+- `FOUNDER_BRIEF.md` — Date badge and session footer updated to 2026-04-21 / Session 11
+- `FINANCIAL_MODEL.md` — Date badge and footer updated to 2026-04-21 / Session 11
+- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — "Last updated" dates and badges updated to 2026-04-21; session footer to Session 11
+- `CHANGELOG.md` — This entry; badge updated to 2026-04-21
 
 ---
 

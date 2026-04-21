@@ -47,7 +47,7 @@ Zynthio is **seven interconnected brands** operating as one system:
 
 ## Traction & Proof Points
 
-*As of 2026-04-18 — all items verified:*
+*As of 2026-04-21 — all items verified:*
 
 - **Trademark filed:** SongPal — IPONZ #1318588 (New Zealand, filed and awaiting examination)
 - **Company name reserved:** ZYNTHIO LIMITED — NZCO #15436626 (incorporating May 2026)

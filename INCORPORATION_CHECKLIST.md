@@ -1,10 +1,10 @@
 # INCORPORATION CHECKLIST — ZYNTHIO LIMITED
 
-![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-24%20(as%20of%20Apr%2018)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
+![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-21%20(as%20of%20Apr%2021)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
 
 > **Focused action checklist for incorporating ZYNTHIO LIMITED before the name reservation expires.**
 > Name reservation: **NZCO #15436626** — expires **May 12, 2026**.
-> As of 2026-04-18: **24 days remain.** Do not wait.
+> As of 2026-04-21: **21 days remain.** File today — April 21 is the target filing day.
 
 ---
 
@@ -85,14 +85,15 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 
 | Target Date | Action |
 |-------------|--------|
-| **Apr 16 (done)** | Confirm reservation #15436626 is active |
-| **Apr 17 (yesterday)** | Contact registered office provider — request quote |
-| **TODAY (Apr 18)** | Confirm registered office arrangement — signed and paid |
-| **Apr 19–21** | Prepare and review all incorporation documents on portal |
-| **By Apr 23** | **File and pay** — achieves 19-day buffer before deadline |
+| **Done (Apr 16)** | Confirm reservation #15436626 is active |
+| **Done (Apr 17)** | Contact registered office provider — request quote |
+| **Done (Apr 18)** | Confirm registered office arrangement — signed and paid |
+| **Done (Apr 19–20)** | Prepare and review all incorporation documents on portal |
+| **TODAY (Apr 21)** | **FILE AND PAY** — submit via Companies Office portal (NZD $150) |
+| **By Apr 23** | **Buffer target** — filing complete with 19 days to spare before deadline |
 | **May 12, 2026** | **HARD DEADLINE — reservation #15436626 expires** |
 
-> Aim to file by **April 23** to maintain a full 19-day safety buffer.
+> **Today (April 21) is filing day.** Submit via [companies.govt.nz](https://www.companies.govt.nz) using reservation #15436626.
 > Do not rely on the May 12 deadline — unexpected delays (bank issues, portal problems, solicitor availability) can consume days.
 
 ---
@@ -130,4 +131,4 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 
 ---
 
-*Last updated: 2026-04-18 (Session 10) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-04-21 (Session 11) | Maintained by: Corey McIvor / KERVALON*

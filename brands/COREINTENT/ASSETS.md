@@ -1,6 +1,6 @@
 # ASSETS — COREINTENT
 
-![Updated](https://img.shields.io/badge/updated-2026--04--18-blue)
+![Updated](https://img.shields.io/badge/updated-2026--04--21-blue)
 
 > Brand asset registry for COREINTENT.
 
@@ -73,4 +73,4 @@
 
 ---
 
-*Last updated: 2026-04-18 | Maintained by: Corey McIvor*
+*Last updated: 2026-04-21 | Maintained by: Corey McIvor*
