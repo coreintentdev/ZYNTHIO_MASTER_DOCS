@@ -14,19 +14,19 @@ Si alguna vez quisiste hacer música pero sentiste que no tenías las herramient
 
 [GESTURE: open hand]
 
-MOSOKO es el brazo educativo del ecosistema Zynthio. No enseñamos teoría en el vacío. Te enseñamos a usar *herramientas reales* — las mismas que los creadores profesionales están usando ahora mismo — para producir, proteger y publicar tu propia música.
+MOSOKO es el brazo educativo del ecosistema Zynthio. No enseñamos teoría en el vacío. Te enseñamos a usar *herramientas reales* — las mismas que los creadores profesionales usan ahora mismo — para producir, proteger y publicar tu propia música.
 
 [PAUSE 0.5s]
 
-Así es como funciona en la práctica.
+Así es como funciona.
 
 [GESTURE: counting on fingers]
 
-*Primero* — aprenderás producción musical asistida por IA usando *SongPal*, nuestra plataforma principal. Composición, arreglos, mezcla — todo potenciado por inteligencia artificial, todo guiado por un currículo real.
+*Primero* — producción musical asistida por IA usando *SongPal*, nuestra plataforma principal. Composición, arreglos, mezcla — todo potenciado por inteligencia artificial, todo guiado por un currículo real.
 
-*Segundo* — aprenderás ingeniería de prompts para creativos. Cómo comunicarte con herramientas de IA y obtener resultados profesionales, no ruido aleatorio.
+*Segundo* — ingeniería de prompts para creativos. Cómo comunicarte con herramientas de IA y obtener resultados profesionales — no ruido aleatorio.
 
-*Tercero* — y esta es la parte que la mayoría de los cursos omiten — aprenderás el *lado empresarial*. Protección de propiedad intelectual. Derechos de autor. Licencias. Cómo *ser dueño* de lo que creas.
+*Tercero* — y esta es la parte que la mayoría de los cursos omiten — el *lado empresarial*. Protección de propiedad intelectual. Derechos de autor. Licencias. Cómo realmente *ser dueño* de lo que creas.
 
 [PAUSE 1s]
 
@@ -38,6 +38,6 @@ Ofrecemos programas estructurados en cohortes con sesiones en vivo, y módulos a
 
 MOSOKO no es una escuela de música genérica. Está diseñada para creadores independientes que quieren controlar todo su proceso — desde la primera idea hasta el lanzamiento final.
 
-[GESTURE: nod]
+[GESTURE: slight lean forward]
 
 *Hazlo. Sé su dueño. Enséñalo.* Eso es MOSOKO.

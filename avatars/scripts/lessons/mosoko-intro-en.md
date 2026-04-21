@@ -18,26 +18,26 @@ MOSOKO is the education arm of the Zynthio ecosystem. We don't teach theory in a
 
 [PAUSE 0.5s]
 
-Here's what that looks like in practice.
+Here's what that looks like.
 
 [GESTURE: counting on fingers]
 
-*First* — you'll learn AI-assisted music production using *SongPal*, our flagship platform. Composition, arrangement, mixing — all powered by AI, all guided by real curriculum.
+*First* — AI-assisted music production using *SongPal*, our flagship platform. Composition, arrangement, mixing — all powered by AI, all guided by real curriculum.
 
-*Second* — you'll learn prompt engineering for creatives. How to talk to AI tools and get professional results, not random noise.
+*Second* — prompt engineering for creatives. How to talk to AI tools and get professional results — not random noise.
 
-*Third* — and this is the part most courses skip — you'll learn the *business side*. IP protection. Copyright. Licensing. How to actually *own* what you make.
+*Third* — and this is the part most courses skip — the *business side*. IP protection. Copyright. Licensing. How to actually *own* what you make.
 
 [PAUSE 1s]
 
 [GESTURE: nod]
 
-We offer structured cohort programmes with live sessions, and self-paced modules you can work through on your own schedule.
+We run structured cohort programmes with live sessions, and self-paced modules you can work through on your own schedule.
 
 [PAUSE 0.5s]
 
-MOSOKO isn't a generic music school. It's built for independent creators who want to own their entire pipeline — from the first idea to the final release.
+MOSOKO isn't a generic music school. It's built for independent creators who want to own their entire pipeline — from first idea to final release.
 
-[GESTURE: nod]
+[GESTURE: slight lean forward]
 
 *Make it. Own it. Teach it.* That's MOSOKO.
