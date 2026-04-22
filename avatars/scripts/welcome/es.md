@@ -1,37 +1,33 @@
 # Bienvenido a Zynthio
 ## Language: Español
-## Duration: 50 seconds
+## Duration: 45 seconds
 ## Avatar tone: friendly
 ## Brand: Zynthio
 
-[GESTURE: warm smile]
+[GESTURE: warm smile, direct eye contact]
 
 Hola. Bienvenido a *Zynthio*.
 
-[PAUSE 1s]
+[PAUSE 0.8s]
 
-Estamos construyendo algo diferente — un ecosistema creativo completo, diseñado desde cero para artistas independientes, productores y creadores como tú.
+Creamos algo que no existía — un ecosistema creativo completo para artistas independientes, productores y creadores. Todo en un solo lugar.
 
 [GESTURE: open hand]
 
-Piénsalo así. Un solo sistema — siete marcas — todo lo que necesitas para *crear*, *aprender*, *proteger* y *hacer crecer* tu trabajo. Sin intermediarios. Sin barreras.
+Un sistema. Siete marcas. Tienes las herramientas para *crear*, la educación para *crecer*, y la protección legal para ser *dueño* de todo lo que haces.
 
 [PAUSE 0.5s]
 
-Desde producción musical con inteligencia artificial con *SongPal* — hasta educación práctica con *MOSOKO* — hasta protección real de propiedad intelectual con *KERVALON* — todo está conectado. Y todo es tuyo.
+*SongPal* para producción musical con IA. *MOSOKO* para aprendizaje práctico. *KERVALON* para protección de propiedad intelectual. Todo conectado — y todo tuyo.
 
-[GESTURE: nod]
+[GESTURE: slight nod]
 
-Somos una empresa fundada en Nueva Zelanda por Corey McIvor, y creemos en una cosa por encima de todo: la *soberanía creativa*.
+Somos de Aotearoa Nueva Zelanda, fundados por Corey McIvor. Y defendemos una cosa: la *soberanía creativa*.
 
-[PAUSE 1s]
+[PAUSE 0.8s]
 
 Tu arte. Tus herramientas. Tus condiciones.
 
-[PAUSE 0.5s]
-
-Sin relleno. Pura señal.
-
 [GESTURE: nod]
 
-Construyamos algo juntos. Bienvenido al ecosistema.
+Bienvenido al ecosistema. A construir.

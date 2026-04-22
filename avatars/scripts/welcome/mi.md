@@ -4,34 +4,30 @@
 ## Avatar tone: warm
 ## Brand: Zynthio
 
-[GESTURE: warm smile]
+[GESTURE: warm smile, direct eye contact]
 
 Kia ora. Nau mai, haere mai ki *Zynthio*.
 
-[PAUSE 1s]
+[PAUSE 0.8s]
 
-Kei te hanga mātou i tētahi mea rerekē — he pūnaha auaha katoa, i hangaia mō ngā ringatoi motuhake, ngā kaihanga puoro, me ngā kaihanga pēnei i a koe.
+Kua hangaia e mātou tētahi mea kāore anō kia kitea — he pūnaha auaha mō ngā ringatoi motuhake, ngā kaihanga puoro, me ngā kaiwhakaari. Katoa i roto i te wāhi kotahi.
 
 [GESTURE: open hand]
 
-Whakaarohia pēnei. Kotahi te pūnaha — whitu ngā waitohu — ko ngā mea katoa e hiahiatia ana e koe ki te *waihanga*, ki te *ako*, ki te *tiaki*, me te *whakatipu* i ō mahi. Kāore he kaiārai. Kāore he kuaha kati.
+Kotahi te pūnaha. Whitu ngā waitohu. Ka whiwhi koe i ngā taputapu hei *waihanga*, i te mātauranga hei *whakatipu*, me te tiakitanga ā-ture hei *pupuri* i ō mahi katoa.
 
 [PAUSE 0.5s]
 
-Mai i te waihanga puoro AI me *SongPal* — ki te mātauranga me *MOSOKO* — ki te tiakitanga rawa hinengaro me *KERVALON* — ka hono katoa. Ā, nōu katoa.
+*SongPal* mō te waihanga puoro AI. *MOSOKO* mō te ako ā-ringa. *KERVALON* mō te tiaki rawa hinengaro. Ka hono katoa — ā, nōu katoa.
 
-[GESTURE: nod]
+[GESTURE: slight nod]
 
-Nō Aotearoa mātou, i whakatūria e Corey McIvor, ā, e whakapono ana mātou ki tētahi mea nui: te *tino rangatiratanga auaha*.
+Nō Aotearoa mātou, i whakatūria e Corey McIvor. Ko tā mātou mea nui: te *tino rangatiratanga auaha*.
 
-[PAUSE 1s]
+[PAUSE 0.8s]
 
 Tō toi. Ō taputapu. Ō tikanga.
 
-[PAUSE 0.5s]
-
-Kāore he whakakī. Katoa he tohu.
-
 [GESTURE: nod]
 
-Kia hanga tahi tātou. Nau mai ki te pūnaha.
+Nau mai ki te pūnaha. Kia hanga tahi tātou.
