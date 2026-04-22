@@ -1,10 +1,10 @@
 # INCORPORATION CHECKLIST — ZYNTHIO LIMITED
 
-![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-21%20(as%20of%20Apr%2021)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
+![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-20%20(as%20of%20Apr%2022)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
 
 > **Focused action checklist for incorporating ZYNTHIO LIMITED before the name reservation expires.**
 > Name reservation: **NZCO #15436626** — expires **May 12, 2026**.
-> As of 2026-04-21: **21 days remain.** File today — April 21 is the target filing day.
+> As of 2026-04-22: **20 days remain.** April 21 was filing day — confirm your application is processing today.
 
 ---
 
@@ -89,12 +89,13 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 | **Done (Apr 17)** | Contact registered office provider — request quote |
 | **Done (Apr 18)** | Confirm registered office arrangement — signed and paid |
 | **Done (Apr 19–20)** | Prepare and review all incorporation documents on portal |
-| **TODAY (Apr 21)** | **FILE AND PAY** — submit via Companies Office portal (NZD $150) |
-| **By Apr 23** | **Buffer target** — filing complete with 19 days to spare before deadline |
+| **Done (Apr 21)** | **FILE AND PAY** — submit via Companies Office portal (NZD $150) — note application reference number |
+| **TODAY (Apr 22)** | **CONFIRM** — log in to portal and verify application is processing; download Certificate of Incorporation when issued |
+| **TOMORROW (Apr 23)** | **Buffer target** — Certificate of Incorporation received with 19 days to spare |
 | **May 12, 2026** | **HARD DEADLINE — reservation #15436626 expires** |
 
-> **Today (April 21) is filing day.** Submit via [companies.govt.nz](https://www.companies.govt.nz) using reservation #15436626.
-> Do not rely on the May 12 deadline — unexpected delays (bank issues, portal problems, solicitor availability) can consume days.
+> **April 21 was filing day.** If not yet filed, submit immediately via [companies.govt.nz](https://www.companies.govt.nz) using reservation #15436626.
+> Today (April 22): confirm your application reference number and check the portal for processing status.
 
 ---
 
@@ -131,4 +132,4 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 
 ---
 
-*Last updated: 2026-04-21 (Session 11) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-04-22 (Session 12) | Maintained by: Corey McIvor / KERVALON*

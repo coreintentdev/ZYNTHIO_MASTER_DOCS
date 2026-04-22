@@ -1,9 +1,27 @@
 # CHANGELOG — Zynthio Master Docs
 
-![Updated](https://img.shields.io/badge/updated-2026--04--21-blue)
+![Updated](https://img.shields.io/badge/updated-2026--04--22-blue)
 
 All significant changes to this documentation repository are recorded here.
 Format: `YYYY-MM-DD | Type | Description`
+
+---
+
+## 2026-04-22 (Session 12)
+
+### Updated
+
+- `README.md` — Countdown badge updated (21 → 20 days as of 2026-04-22); date anchor updated; session footer to Session 12
+- `INDEX.md` — Days Left column updated (21 → 20 as of 2026-04-22); date badge to 2026-04-22; session footer to Session 12
+- `NZ_COMPLIANCE.md` — Action plan advanced: Apr 21 (FILE AND PAY) marked Done; TODAY = Apr 22 (CONFIRM — verify application is processing, download Certificate when issued); TOMORROW = Apr 23 (buffer target); incorporation status updated to "Filed Apr 21 — confirm processing"; deadlines calendar updated; countdown to 20 days; date badge and session footer to Session 12
+- `INCORPORATION_CHECKLIST.md` — Timeline advanced: Apr 21 marked Done (FILE AND PAY); TODAY (Apr 22) = CONFIRM application processing; TOMORROW (Apr 23) = buffer target; preamble updated to 20 days as of 2026-04-22; session footer to Session 12
+- `ECOSYSTEM_MAP.md` — Current State Snapshot heading updated to April 22, 2026; legal status note updated from "FILING DAY" to "confirm filing submitted Apr 21"; days counter updated to 20 as of 2026-04-22; date badge and session footer to Session 12
+- `FOUNDER_BRIEF.md` — Critical action items updated: Priority 1 now "CONFIRM" (verify Apr 21 filing is processing); Priority 2 updated to post-incorporation doc updates; Priority 3 IPONZ TM assignment check; date badge and session footer to Session 12
+- `COMPETITION_ENTRY.md` — Traction date updated to 2026-04-22; date badge and footer updated
+- `FINANCIAL_MODEL.md` — Date badge and footer updated to 2026-04-22 / Session 12
+- `COMPETITION_PORTFOLIO.md`, `PITCH_DECK_OUTLINE.md`, `DEMO_SCRIPT.md`, `PRESS_KIT.md`, `AWARDS_TRACKER.md` — Date badges and footers updated to 2026-04-22
+- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — "Last updated" dates and badges updated to 2026-04-22
+- `CHANGELOG.md` — This entry; badge updated to 2026-04-22
 
 ---
 

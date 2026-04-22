@@ -1,6 +1,6 @@
 # FOUNDER BRIEF — Zynthio
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--21-blue) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--22-blue) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
 
 > Quick-reference operational dashboard for Corey McIvor.
 > Everything you need on one page. Deep detail lives in the linked docs.
@@ -11,9 +11,9 @@
 
 | Priority | Action | Reference | Deadline |
 |----------|--------|-----------|----------|
-| **1** | Log in to [companies.govt.nz](https://www.companies.govt.nz) — confirm reservation #15436626 is still active | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | Today |
-| **2** | Engage a NZ registered office service provider — this is the **blocking step** for incorporation | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | This week |
-| **3** | File ZYNTHIO LIMITED incorporation on the Companies Office portal | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | **Before May 12, 2026** |
+| **1** | **CONFIRM** — log in to [companies.govt.nz](https://www.companies.govt.nz) and verify the Apr 21 filing is processing; download Certificate of Incorporation when issued | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | **Today (Apr 22)** |
+| **2** | Once incorporated — update all brand docs to remove "pending incorporation" language | [INCORPORATION_CHECKLIST.md](INCORPORATION_CHECKLIST.md) | Within 30 days |
+| **3** | Check with IPONZ whether SongPal TM #1318588 applicant assignment to ZYNTHIO LIMITED is needed | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | Post-incorporation |
 | **4** | Monitor IPONZ portal for SongPal TM #1318588 examination report | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | Ongoing |
 | **5** | Finalise + deploy SIGNAL 336 and THE MIRROR ASKED A QUESTION (4-way) | [brands/DJ_ZYNROSE/ROADMAP.md](brands/DJ_ZYNROSE/ROADMAP.md) | Q2 2026 |
 
@@ -142,4 +142,4 @@
 
 ---
 
-*Last updated: 2026-04-21 (Session 11) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-22 (Session 12) | Maintained by: Corey McIvor / COREINTENT*
