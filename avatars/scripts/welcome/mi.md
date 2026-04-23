@@ -10,19 +10,19 @@ Kia ora. Nau mai, haere mai ki *Zynthio*.
 
 [PAUSE 1s]
 
-Kei te hanga mātou i tētahi mea rerekē — he pūnaha auaha katoa, i hangaia mō ngā ringatoi motuhake, ngā kaihanga puoro, me ngā kaihanga pēnei i a koe.
+Kei te hanga mātou i tētahi pūnaha auaha katoa — i hangaia mō ngā ringatoi motuhake, ngā kaihanga puoro, me ngā kaiwhakairo pēnei i a koe.
 
 [GESTURE: open hand]
 
-Whakaarohia pēnei. Kotahi te pūnaha — whitu ngā waitohu — ko ngā mea katoa e hiahiatia ana e koe ki te *waihanga*, ki te *ako*, ki te *tiaki*, me te *whakatipu* i ō mahi. Kāore he kaiārai. Kāore he kuaha kati.
+Kotahi te pūnaha — whitu ngā waitohu — ko ngā mea katoa e hiahiatia ana e koe ki te *waihanga*, ki te *ako*, ki te *tiaki*, me te *whakatipu* i ō mahi. Kāore he kaiārai. Kāore he kuaha kati.
 
 [PAUSE 0.5s]
 
-Mai i te waihanga puoro AI me *SongPal* — ki te mātauranga me *MOSOKO* — ki te tiakitanga rawa hinengaro me *KERVALON* — ka hono katoa. Ā, nōu katoa.
+Waihanga puoro AI me *SongPal*. Mātauranga ā-ringa me *MOSOKO*. Tiakitanga rawa hinengaro me *KERVALON*. Ka hono katoa — ā, nōu katoa.
 
 [GESTURE: nod]
 
-Nō Aotearoa mātou, i whakatūria e Corey McIvor, ā, e whakapono ana mātou ki tētahi mea nui: te *tino rangatiratanga auaha*.
+Nō Aotearoa mātou, i whakatūria e Corey McIvor, ā, e whakapono ana mātou ki tētahi mea nui — te *tino rangatiratanga auaha*.
 
 [PAUSE 1s]
 
@@ -32,6 +32,6 @@ Tō toi. Ō taputapu. Ō tikanga.
 
 Kāore he whakakī. Katoa he tohu.
 
-[GESTURE: nod]
+[GESTURE: slight lean forward]
 
 Kia hanga tahi tātou. Nau mai ki te pūnaha.

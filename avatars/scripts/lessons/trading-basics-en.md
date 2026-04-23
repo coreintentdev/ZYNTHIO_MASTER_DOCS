@@ -10,7 +10,7 @@ Let's talk about how our trading engine actually works — and why it's differen
 
 [PAUSE 1s]
 
-Most trading platforms lock you into monthly subscriptions. You pay whether you win or lose. The platform makes money regardless of your results. That model is broken.
+Most trading platforms lock you into monthly subscriptions. You pay whether you win or lose. The platform profits regardless of your results. That model is broken.
 
 [GESTURE: open hand]
 
@@ -18,11 +18,11 @@ At *CoreIntent*, we use a *competition-based model*. Here's what that means.
 
 [PAUSE 0.5s]
 
-Instead of paying a subscription for access, you enter trading competitions. Your AI engine — built by CoreIntent — competes using autonomous, risk-managed strategies. The system is designed to manage risk first and seek returns second.
+Instead of paying a subscription for access, you enter trading competitions. Your AI engine — built by CoreIntent — competes using autonomous, risk-managed strategies. The system manages risk first and seeks returns second.
 
 [GESTURE: counting on fingers]
 
-*Key principles* you need to understand:
+Three *key principles* you need to understand.
 
 *One* — risk management comes first. Every trade has predefined limits. The system won't chase losses or over-leverage. Ever.
 
@@ -32,7 +32,7 @@ Instead of paying a subscription for access, you enter trading competitions. You
 
 [PAUSE 1s]
 
-[GESTURE: nod]
+[GESTURE: direct eye contact]
 
 Now — this is important. No trading system guarantees returns. Markets are unpredictable. What we *can* guarantee is disciplined execution, transparent risk management, and a model that puts your interests first.
 

@@ -10,19 +10,19 @@ Olá. Bem-vindo ao *Zynthio*.
 
 [PAUSE 1s]
 
-Estamos construindo algo diferente aqui — um ecossistema criativo completo, projetado do zero para artistas independentes, produtores e criadores como você.
+Estamos construindo um ecossistema criativo completo — projetado do zero para artistas independentes, produtores e criadores como você.
 
 [GESTURE: open hand]
 
-Pense assim. Um sistema — sete marcas — tudo o que você precisa para *criar*, *aprender*, *proteger* e *crescer* o seu trabalho. Sem intermediários. Sem barreiras.
+Um sistema. Sete marcas. Tudo o que você precisa para *criar*, *aprender*, *proteger* e *crescer* o seu trabalho. Sem intermediários. Sem barreiras.
 
 [PAUSE 0.5s]
 
-Desde produção musical com inteligência artificial com o *SongPal* — até educação prática com o *MOSOKO* — até proteção real de propriedade intelectual com o *KERVALON* — tudo se conecta. E tudo é seu.
+Produção musical com inteligência artificial pelo *SongPal*. Educação prática pelo *MOSOKO*. Proteção real de propriedade intelectual pelo *KERVALON*. Tudo se conecta — e tudo é seu.
 
 [GESTURE: nod]
 
-Somos uma empresa fundada na Nova Zelândia por Corey McIvor, e acreditamos em uma coisa acima de tudo: *soberania criativa*.
+Somos uma empresa fundada na Nova Zelândia por Corey McIvor, e acreditamos em uma coisa acima de tudo — *soberania criativa*.
 
 [PAUSE 1s]
 
@@ -32,6 +32,6 @@ Sua arte. Suas ferramentas. Suas condições.
 
 Sem enrolação. Só sinal.
 
-[GESTURE: nod]
+[GESTURE: slight lean forward]
 
 Vamos construir algo juntos. Bem-vindo ao ecossistema.
