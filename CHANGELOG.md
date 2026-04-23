@@ -1,9 +1,27 @@
 # CHANGELOG — Zynthio Master Docs
 
-![Updated](https://img.shields.io/badge/updated-2026--04--22-blue)
+![Updated](https://img.shields.io/badge/updated-2026--04--23-blue)
 
 All significant changes to this documentation repository are recorded here.
 Format: `YYYY-MM-DD | Type | Description`
+
+---
+
+## 2026-04-23 (Session 13)
+
+### Updated
+
+- `README.md` — Countdown badge updated (20 → 19 days as of 2026-04-23); date anchor updated; session footer to Session 13
+- `INDEX.md` — Days Left column updated (20 → 19 as of 2026-04-23); date badge to 2026-04-23; session footer to Session 13
+- `NZ_COMPLIANCE.md` — Action plan advanced: Apr 22 (CONFIRM) marked Done; TODAY = Apr 23 (CERTIFICATE — check portal, download Certificate of Incorporation when issued); registered office status updated to Arranged/Done; incorporation status updated to "Filed Apr 21 → confirmed processing Apr 22 → await Certificate"; deadlines calendar updated; countdown to 19 days; date badge and session footer to Session 13
+- `INCORPORATION_CHECKLIST.md` — Timeline advanced: Apr 22 marked Done (CONFIRM); TODAY (Apr 23) = CERTIFICATE — check portal for Certificate of Incorporation; preamble updated to 19 days as of 2026-04-23; session footer to Session 13
+- `ECOSYSTEM_MAP.md` — Current State Snapshot heading updated to April 23, 2026; legal status note updated: registered office Arranged, filing confirmed Apr 22; days counter updated to 19 as of 2026-04-23; date badge and session footer to Session 13
+- `FOUNDER_BRIEF.md` — Critical action Priority 1 updated: "CERTIFICATE" — check portal for Certificate of Incorporation (filed Apr 21, confirmed Apr 22); milestone tracker updated: registered office Arranged, incorporation "Filed Apr 21 — awaiting Certificate"; date badge and session footer to Session 13
+- `COMPETITION_ENTRY.md` — Traction date updated to 2026-04-23; date badge updated
+- `FINANCIAL_MODEL.md` — Date badge and footer updated to 2026-04-23 / Session 13
+- `COMPETITION_PORTFOLIO.md`, `PITCH_DECK_OUTLINE.md`, `DEMO_SCRIPT.md`, `PRESS_KIT.md`, `AWARDS_TRACKER.md` — Date badges and footers updated to 2026-04-23
+- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — "Last updated" dates and badges updated to 2026-04-23
+- `CHANGELOG.md` — This entry; badge updated to 2026-04-23
 
 ---
 

@@ -1,6 +1,6 @@
 # FOUNDER BRIEF — Zynthio
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--22-blue) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--04--23-blue) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
 
 > Quick-reference operational dashboard for Corey McIvor.
 > Everything you need on one page. Deep detail lives in the linked docs.
@@ -11,7 +11,7 @@
 
 | Priority | Action | Reference | Deadline |
 |----------|--------|-----------|----------|
-| **1** | **CONFIRM** — log in to [companies.govt.nz](https://www.companies.govt.nz) and verify the Apr 21 filing is processing; download Certificate of Incorporation when issued | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | **Today (Apr 22)** |
+| **1** | **CERTIFICATE** — log in to [companies.govt.nz](https://www.companies.govt.nz) and check for Certificate of Incorporation (application filed Apr 21, confirmed processing Apr 22); download when issued | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | **Today (Apr 23)** |
 | **2** | Once incorporated — update all brand docs to remove "pending incorporation" language | [INCORPORATION_CHECKLIST.md](INCORPORATION_CHECKLIST.md) | Within 30 days |
 | **3** | Check with IPONZ whether SongPal TM #1318588 applicant assignment to ZYNTHIO LIMITED is needed | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | Post-incorporation |
 | **4** | Monitor IPONZ portal for SongPal TM #1318588 examination report | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | Ongoing |
@@ -66,8 +66,8 @@
 
 | Milestone | Target | Status |
 |-----------|--------|--------|
-| ZYNTHIO LIMITED incorporated | **Before May 12, 2026** | ACTION REQUIRED |
-| NZ registered office established | Before incorporation | Not yet arranged |
+| ZYNTHIO LIMITED incorporated | **Before May 12, 2026** | Filed Apr 21 — awaiting Certificate |
+| NZ registered office established | Before incorporation | Arranged (Apr 18) |
 | SongPal public beta | Q2–Q3 2026 | In development |
 | DJ Zynrose 4-way deploy (SIGNAL 336 + THE MIRROR) | Q2 2026 | Pipeline in progress |
 | MOSOKO first cohort enrolled | Q3 2026 | Curriculum in progress |
@@ -142,4 +142,4 @@
 
 ---
 
-*Last updated: 2026-04-22 (Session 12) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-23 (Session 13) | Maintained by: Corey McIvor / COREINTENT*
