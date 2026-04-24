@@ -18,11 +18,11 @@ En *CoreIntent*, usamos un *modelo basado en competiciones*. Esto es lo que sign
 
 [PAUSE 0.5s]
 
-En lugar de pagar una suscripción por acceso, participas en competiciones de trading. Tu motor de IA — construido por CoreIntent — compite usando estrategias autónomas con gestión de riesgo. El sistema está diseñado para gestionar el riesgo primero y buscar rendimientos después.
+En lugar de pagar una suscripción por acceso, participas en competiciones de trading. Tu motor de IA — construido por CoreIntent — compite usando estrategias autónomas con gestión de riesgo. El sistema gestiona el riesgo primero y busca rendimientos después.
 
 [GESTURE: counting on fingers]
 
-*Principios clave* que necesitas entender:
+Tres *principios clave* que necesitas entender:
 
 *Primero* — la gestión de riesgo es lo primero. Cada operación tiene límites predefinidos. El sistema no persigue pérdidas ni se apalanca en exceso. Nunca.
 

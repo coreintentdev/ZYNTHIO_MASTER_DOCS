@@ -28,7 +28,7 @@ Here's what you get.
 
 *AI-assisted composition* — the engine helps you write melodies, chord progressions, and song structures. It suggests. You decide.
 
-*Intelligent arrangement* — drop in your ideas and the AI helps you shape them into a full production. Verse, chorus, bridge — structured and professional.
+*Intelligent arrangement* — drop in your ideas and the AI helps shape them into a full production. Verse, chorus, bridge — structured and professional.
 
 *Generative audio* — integrated with Suno for cutting-edge sound generation. Need a texture, a pad, a vocal layer? Generate it right inside your project.
 

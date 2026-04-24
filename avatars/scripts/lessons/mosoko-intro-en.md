@@ -14,7 +14,7 @@ If you've ever wanted to make music but felt like you didn't have the right tool
 
 [GESTURE: open hand]
 
-MOSOKO is the education arm of the Zynthio ecosystem. We don't teach theory in a vacuum. We teach you how to use *real tools* — the same tools professional creators are using right now — to produce, protect, and publish your own music.
+MOSOKO is the education arm of the Zynthio ecosystem. We don't teach theory in a vacuum. We teach you how to use *real tools* — the same tools professional creators use right now — to produce, protect, and publish your own music.
 
 [PAUSE 0.5s]
 
@@ -22,17 +22,17 @@ Here's what that looks like in practice.
 
 [GESTURE: counting on fingers]
 
-*First* — you'll learn AI-assisted music production using *SongPal*, our flagship platform. Composition, arrangement, mixing — all powered by AI, all guided by real curriculum.
+*First* — you learn AI-assisted music production using *SongPal*, our flagship platform. Composition, arrangement, mixing — all powered by AI, all guided by real curriculum.
 
-*Second* — you'll learn prompt engineering for creatives. How to talk to AI tools and get professional results, not random noise.
+*Second* — you learn prompt engineering for creatives. How to talk to AI tools and get professional results — not random noise.
 
-*Third* — and this is the part most courses skip — you'll learn the *business side*. IP protection. Copyright. Licensing. How to actually *own* what you make.
+*Third* — and this is the part most courses skip — you learn the *business side*. IP protection. Copyright. Licensing. How to actually *own* what you make.
 
 [PAUSE 1s]
 
 [GESTURE: nod]
 
-We offer structured cohort programmes with live sessions, and self-paced modules you can work through on your own schedule.
+We run structured cohort programmes with live sessions, and self-paced modules you can work through on your own schedule.
 
 [PAUSE 0.5s]
 

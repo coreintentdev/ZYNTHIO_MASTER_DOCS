@@ -14,7 +14,7 @@ I make music at the intersection of human creativity and artificial intelligence
 
 [GESTURE: open hand]
 
-But here's what makes this different from every other AI music project you've seen. I'm not just *using* AI tools — I *built* them. DJ Zynrose is the artist persona of Corey McIvor, the founder of *Zynthio* and the engineer behind *SongPal*, *CoreeyAI*, and the entire ecosystem.
+But here's what makes this different from every other AI music project out there. I'm not just *using* AI tools — I *built* them. DJ Zynrose is the artist persona of Corey McIvor — the founder of *Zynthio* and the engineer behind *SongPal*, *CoreeyAI*, and the entire ecosystem.
 
 [PAUSE 0.5s]
 
