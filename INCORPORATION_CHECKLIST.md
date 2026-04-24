@@ -1,10 +1,10 @@
 # INCORPORATION CHECKLIST — ZYNTHIO LIMITED
 
-![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-19%20(as%20of%20Apr%2023)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
+![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-18%20(as%20of%20Apr%2024)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
 
 > **Focused action checklist for incorporating ZYNTHIO LIMITED before the name reservation expires.**
 > Name reservation: **NZCO #15436626** — expires **May 12, 2026**.
-> As of 2026-04-23: **19 days remain.** Application filed Apr 21, confirmed processing Apr 22 — check portal for Certificate today.
+> As of 2026-04-24: **18 days remain.** Application filed Apr 21, confirmed processing Apr 22 — check portal for Certificate of Incorporation (typically issued 1–5 business days after filing).
 
 ---
 
@@ -91,10 +91,11 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 | **Done (Apr 19–20)** | Prepare and review all incorporation documents on portal |
 | **Done (Apr 21)** | **FILE AND PAY** — submitted via Companies Office portal (NZD $150) — application reference number noted |
 | **Done (Apr 22)** | **CONFIRM** — verified application is processing |
-| **TODAY (Apr 23)** | **CERTIFICATE** — check portal for Certificate of Incorporation; download when issued; 19 days to spare |
+| **Yesterday (Apr 23)** | **CERTIFICATE** — check portal for Certificate of Incorporation; download when issued |
+| **TODAY (Apr 24)** | **CERTIFICATE** — check portal again if not yet received; certificate typically issued 1–5 business days after filing; **18 days to deadline** |
 | **May 12, 2026** | **HARD DEADLINE — reservation #15436626 expires** |
 
-> **Application filed Apr 21 and confirmed processing Apr 22.** Today (April 23): check the portal for your Certificate of Incorporation and download it when issued.
+> **Application filed Apr 21 and confirmed processing Apr 22.** Certificate typically issued within 1–5 business days of filing. Today (April 24): check the portal and download the Certificate of Incorporation as soon as it is issued.
 
 ---
 
@@ -131,4 +132,4 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 
 ---
 
-*Last updated: 2026-04-23 (Session 13) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-04-24 (Session 14) | Maintained by: Corey McIvor / KERVALON*
