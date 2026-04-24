@@ -10,11 +10,11 @@ Hey there. Welcome to *Zynthio*.
 
 [PAUSE 1s]
 
-We're building something different here — a complete creative ecosystem, designed from the ground up for independent artists, producers, and creators like you.
+We're building something different — a complete creative ecosystem, designed from the ground up for independent artists, producers, and creators like you.
 
 [GESTURE: open hand]
 
-Think of it this way. One stack — seven brands — everything you need to *create*, *learn*, *protect*, and *grow* your work. No middlemen. No gatekeepers.
+Think of it this way. One stack. Seven brands. Everything you need to *create*, *learn*, *protect*, and *grow* your work. No middlemen. No gatekeepers.
 
 [PAUSE 0.5s]
 

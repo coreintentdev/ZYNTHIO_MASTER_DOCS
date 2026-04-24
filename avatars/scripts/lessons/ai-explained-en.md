@@ -14,15 +14,15 @@ Think of the AI trading engine like a very disciplined analyst who never sleeps,
 
 [GESTURE: open hand]
 
-Here's what it actually does, step by step.
+Here's what it does, step by step.
 
 [PAUSE 0.5s]
 
-*Step one — data collection.* The AI constantly monitors market data. Prices, volume, trends, volatility. It's processing information across multiple markets, much faster than any human could.
+*Step one — data collection.* The AI constantly monitors market data. Prices, volume, trends, volatility. It processes information across multiple markets, far faster than any human could.
 
 [GESTURE: nod]
 
-*Step two — pattern recognition.* Based on that data, the engine identifies patterns and potential opportunities. It's looking for situations where the probability of a favourable outcome is higher than average — based on historical data and real-time conditions.
+*Step two — pattern recognition.* Based on that data, the engine identifies patterns and potential opportunities. It looks for situations where the probability of a favourable outcome is higher than average — based on historical data and real-time conditions.
 
 *Step three — risk assessment.* Before it makes any move, the AI checks the risk. What's the maximum downside? Does this fit within our risk parameters? If the risk is too high, it doesn't trade. Simple as that.
 
@@ -42,4 +42,4 @@ That's it. Data in. Analysis. Risk check. Execute. Monitor. Repeat.
 
 [GESTURE: nod]
 
-The AI doesn't have bad days. It doesn't get greedy. It just follows the rules — and that's exactly what makes it powerful.
+The AI doesn't have bad days. It doesn't get greedy. It follows the rules — and that's exactly what makes it powerful.

@@ -14,7 +14,7 @@ Piensa en el motor de trading con IA como un analista muy disciplinado que nunca
 
 [GESTURE: open hand]
 
-Esto es lo que realmente hace, paso a paso.
+Esto es lo que hace, paso a paso.
 
 [PAUSE 0.5s]
 
@@ -42,4 +42,4 @@ Eso es todo. Datos de entrada. Análisis. Verificación de riesgo. Ejecución. M
 
 [GESTURE: nod]
 
-La IA no tiene días malos. No se vuelve codiciosa. Simplemente sigue las reglas — y eso es exactamente lo que la hace poderosa.
+La IA no tiene días malos. No se vuelve codiciosa. Sigue las reglas — y eso es exactamente lo que la hace poderosa.

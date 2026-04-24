@@ -10,7 +10,7 @@ Olá. Bem-vindo ao *Zynthio*.
 
 [PAUSE 1s]
 
-Estamos construindo algo diferente aqui — um ecossistema criativo completo, projetado do zero para artistas independentes, produtores e criadores como você.
+Estamos construindo algo diferente — um ecossistema criativo completo, projetado do zero para artistas independentes, produtores e criadores como você.
 
 [GESTURE: open hand]
 

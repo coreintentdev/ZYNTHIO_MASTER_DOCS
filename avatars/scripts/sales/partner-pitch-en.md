@@ -10,11 +10,11 @@ Thanks for taking this meeting. I want to talk about what a partnership with *Zy
 
 [PAUSE 1s]
 
-Let me give you the quick picture. Zynthio is a vertically integrated creative-technology ecosystem — seven brands, one stack. We cover AI-powered music production, education, artist development, trading infrastructure, and IP protection. All built in-house. All under one roof.
+Quick picture. Zynthio is a vertically integrated creative-technology ecosystem — seven brands, one stack. We cover AI-powered music production, education, artist development, trading infrastructure, and IP protection. All built in-house. All under one roof.
 
 [GESTURE: open hand]
 
-Now — why does that matter to you?
+So — why does that matter to you?
 
 [PAUSE 0.5s]
 

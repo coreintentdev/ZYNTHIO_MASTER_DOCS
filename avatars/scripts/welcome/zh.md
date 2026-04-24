@@ -1,5 +1,5 @@
 # 欢迎来到 Zynthio
-## Language: 普通话
+## Language: 普通话 (Mandarin Chinese)
 ## Duration: 45 seconds
 ## Avatar tone: professional
 ## Brand: Zynthio
@@ -14,7 +14,7 @@
 
 [GESTURE: open hand]
 
-简单来说：一个系统——七个品牌——你创作、学习、保护和发展作品所需要的一切。没有中间商，没有门槛。
+简单来说：一个系统——七个品牌——你创作、学习、保护和发展作品所需要的一切。没有中间商。没有门槛。
 
 [PAUSE 0.5s]
 
@@ -22,7 +22,7 @@
 
 [GESTURE: nod]
 
-我们由 Corey McIvor 在新西兰创立，我们最坚信的一件事就是：*创作主权*。
+我们由 Corey McIvor 在新西兰创立。我们最坚信的一件事就是：*创作主权*。
 
 [PAUSE 1s]
 
