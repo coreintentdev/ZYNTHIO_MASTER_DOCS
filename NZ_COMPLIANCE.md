@@ -1,6 +1,6 @@
 # NZ COMPLIANCE TRACKER — Zynthio
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellow) ![Updated](https://img.shields.io/badge/updated-2026--04--24-blue) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow) ![Updated](https://img.shields.io/badge/updated-2026--04--25-blue) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red)
 
 > Tracks all New Zealand incorporation, IP, and director compliance obligations for the Zynthio ecosystem.
 
@@ -9,13 +9,13 @@
 > **URGENT — INCORPORATION DEADLINE**
 > ZYNTHIO LIMITED name reservation #15436626 expires **May 12, 2026**.
 > File at [companies.govt.nz](https://www.companies.govt.nz) before this date or the name is lost permanently.
-> **As of 2026-04-24: 18 days remain. Application filed Apr 21, confirmed processing Apr 22 — check portal for Certificate of Incorporation (typically issued 1–5 business days after filing).**
+> **As of 2026-04-25: 17 days remain. Application filed Apr 21, confirmed processing Apr 22 — check portal for Certificate of Incorporation (typically issued 1–5 business days after filing).**
 
 ---
 
 ## Action Plan — Filing Window
 
-*As of 2026-04-24 (18 days to deadline). Execute in order — do not skip steps.*
+*As of 2026-04-25 (17 days to deadline). Execute in order — do not skip steps.*
 
 | Day | Action | Owner | Done? |
 |-----|--------|-------|-------|
@@ -26,8 +26,9 @@
 | **Done (Apr 19–20)** | Prepare all incorporation documents on Companies Office portal — entity details, directors, constitution choice | Corey | [x] |
 | **Done (Apr 21)** | **FILE AND PAY** — submit via Companies Office portal (NZD $150) — note application reference number | Corey | [x] |
 | **Done (Apr 22)** | **CONFIRM** — verified application is processing; logged in to portal to check status | Corey | [x] |
-| **Yesterday (Apr 23)** | **CERTIFICATE** — check portal for Certificate of Incorporation; download when issued | Corey | [ ] |
-| **TODAY (Apr 24)** | **CERTIFICATE** — if not yet issued, check portal again and download when available; certificate typically issued 1–5 business days after filing (filed Apr 21); **18 days to deadline** | Corey | [ ] |
+| **Done (Apr 23)** | **CERTIFICATE** — check portal for Certificate of Incorporation; download when issued | Corey | [ ] |
+| **Yesterday (Apr 24)** | **CERTIFICATE** — check portal for Certificate of Incorporation; download when issued (filed Apr 21, typically issued 1–5 business days) | Corey | [ ] |
+| **TODAY (Apr 25)** | **CERTIFICATE** — check portal again if not yet issued; download when available; **17 days to deadline** | Corey | [ ] |
 
 > **Recommended registered office providers (NZ):**
 > - **Incorporated.nz** — common provider, purpose-built for overseas founders
@@ -41,8 +42,8 @@
 
 | Item | Reference | Status | Deadline | Days Left |
 |------|-----------|--------|----------|-----------|
-| ZYNTHIO LIMITED — name reservation | #15436626 | Name reserved | **May 12, 2026** | **18 (as of 2026-04-24)** |
-| ZYNTHIO LIMITED — incorporation | — | **Filed Apr 21 — confirmed processing Apr 22 — awaiting Certificate of Incorporation** | **Before May 12, 2026** | **18 (as of 2026-04-24)** |
+| ZYNTHIO LIMITED — name reservation | #15436626 | Name reserved | **May 12, 2026** | **17 (as of 2026-04-25)** |
+| ZYNTHIO LIMITED — incorporation | — | **Filed Apr 21 — confirmed processing Apr 22 — awaiting Certificate of Incorporation** | **Before May 12, 2026** | **17 (as of 2026-04-25)** |
 | Registered office (NZ) | — | Arranged (confirmed Apr 18) | Before incorporation | Done |
 | NZ registered office service | — | Engaged (confirmed Apr 18) | Before incorporation | Done |
 | SongPal trademark | IPONZ #1318588 | Application filed | Awaiting examination | — |
@@ -188,8 +189,9 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 |------|-------|
 | **2026-04-21** | *(Done)* — Filed and paid — application submitted via Companies Office portal |
 | **2026-04-22** | *(Done)* — Confirmed application is processing |
-| **2026-04-23** | *(Yesterday)* — **CERTIFICATE** — check portal for Certificate of Incorporation |
-| **2026-04-24** | *(Today)* — **CERTIFICATE** — check portal again if not yet issued; download when available; 18 days to deadline |
+| **2026-04-23** | *(Done)* — **CERTIFICATE** — check portal for Certificate of Incorporation |
+| **2026-04-24** | *(Yesterday)* — **CERTIFICATE** — check portal for Certificate of Incorporation |
+| **2026-04-25** | *(Today)* — **CERTIFICATE** — check portal again if not yet issued; download when available; 17 days to deadline |
 | **Before 2026-05-12** | **HARD DEADLINE** — ZYNTHIO LIMITED name reservation expires |
 | TBD | IPONZ examination report for SongPal TM #1318588 |
 | TBD | Annual return due (12 months post-incorporation) |
@@ -213,4 +215,4 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 
 ---
 
-*Last updated: 2026-04-24 (Session 14) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-04-25 (Session 15) | Maintained by: Corey McIvor / KERVALON*

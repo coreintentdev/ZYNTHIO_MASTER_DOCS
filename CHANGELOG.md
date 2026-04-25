@@ -1,9 +1,27 @@
 # CHANGELOG — Zynthio Master Docs
 
-![Updated](https://img.shields.io/badge/updated-2026--04--24-blue)
+![Updated](https://img.shields.io/badge/updated-2026--04--25-blue)
 
 All significant changes to this documentation repository are recorded here.
 Format: `YYYY-MM-DD | Type | Description`
+
+---
+
+## 2026-04-25 (Session 15)
+
+### Updated
+
+- `README.md` — Countdown badge updated (18 → 17 days as of 2026-04-25); date anchor updated; session footer to Session 15
+- `INDEX.md` — Days Left column updated (18 → 17 as of 2026-04-25); date badge to 2026-04-25; session footer to Session 15
+- `NZ_COMPLIANCE.md` — Action plan advanced: Apr 23 relabelled "Done"; Apr 24 relabelled "Yesterday"; TODAY (Apr 25) = CERTIFICATE — check portal again, download certificate when available; countdown to 17 days; date badge and session footer to Session 15
+- `INCORPORATION_CHECKLIST.md` — Timeline advanced: Apr 23 marked Done; Apr 24 relabelled "Yesterday"; TODAY (Apr 25) = CERTIFICATE — check portal, download when issued; badge updated to 17 days as of Apr 25; session footer to Session 15
+- `ECOSYSTEM_MAP.md` — Current State Snapshot heading updated to April 25, 2026; legal status note updated to 17 days as of 2026-04-25; date badge and session footer to Session 15
+- `FOUNDER_BRIEF.md` — Critical action Priority 1 updated: TODAY Apr 25 — certificate check; 17 days to deadline; date badge and session footer to Session 15
+- `COMPETITION_ENTRY.md` — Traction date updated to 2026-04-25; date badge updated to 2026-04-25
+- `FINANCIAL_MODEL.md` — Date badge and footer updated to 2026-04-25 / Session 15
+- `COMPETITION_PORTFOLIO.md`, `PITCH_DECK_OUTLINE.md`, `DEMO_SCRIPT.md`, `PRESS_KIT.md`, `AWARDS_TRACKER.md` — Date badges and footers updated to 2026-04-25 / Session 15
+- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — Badges and "Last updated" footer dates updated to 2026-04-25
+- `CHANGELOG.md` — This entry; badge updated to 2026-04-25
 
 ---
 
