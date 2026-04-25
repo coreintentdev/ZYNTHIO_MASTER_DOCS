@@ -6,23 +6,23 @@
 
 [GESTURE: warm smile]
 
-Hola. Bienvenido a *Zynthio*.
+Hola — bienvenido a *Zynthio*.
 
 [PAUSE 1s]
 
-Estamos construyendo algo diferente — un ecosistema creativo completo, diseñado desde cero para artistas independientes, productores y creadores como tú.
+Estamos construyendo algo diferente. Un ecosistema creativo completo, diseñado desde cero para artistas independientes, productores y creadores como tú.
 
 [GESTURE: open hand]
 
-Piénsalo así. Un solo sistema — siete marcas — todo lo que necesitas para *crear*, *aprender*, *proteger* y *hacer crecer* tu trabajo. Sin intermediarios. Sin barreras.
+Un solo sistema. Siete marcas. Todo lo que necesitas para *crear*, *aprender*, *proteger* y *hacer crecer* tu trabajo. Sin intermediarios. Sin barreras.
 
 [PAUSE 0.5s]
 
-Desde producción musical con inteligencia artificial con *SongPal* — hasta educación práctica con *MOSOKO* — hasta protección real de propiedad intelectual con *KERVALON* — todo está conectado. Y todo es tuyo.
+Desde producción musical con inteligencia artificial en *SongPal* — hasta formación práctica con *MOSOKO* — hasta protección real de propiedad intelectual con *KERVALON* — todo está conectado. Y todo es tuyo.
 
 [GESTURE: nod]
 
-Somos una empresa fundada en Nueva Zelanda por Corey McIvor, y creemos en una cosa por encima de todo: la *soberanía creativa*.
+Nacimos en Nueva Zelanda, fundados por Corey McIvor. Y creemos en una cosa por encima de todo — la *soberanía creativa*.
 
 [PAUSE 1s]
 
@@ -30,8 +30,6 @@ Tu arte. Tus herramientas. Tus condiciones.
 
 [PAUSE 0.5s]
 
-Sin relleno. Pura señal.
+[GESTURE: slight lean forward]
 
-[GESTURE: nod]
-
-Construyamos algo juntos. Bienvenido al ecosistema.
+Sin relleno. Pura señal. Bienvenido al ecosistema.

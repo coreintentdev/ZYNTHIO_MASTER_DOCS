@@ -14,9 +14,11 @@ The global music production software market is worth 5.9 billion dollars and gro
 
 [GESTURE: open hand]
 
-And right now, that market is fragmented. Independent creators are forced to stitch together expensive, disconnected tools for production, education, legal protection, and distribution. No one offers the full stack.
+And right now, that market is fragmented. Independent creators are forced to stitch together expensive, disconnected tools for production, education, legal protection, and distribution.
 
 [PAUSE 0.5s]
+
+No one offers the full stack.
 
 *Zynthio does.*
 
@@ -32,6 +34,8 @@ Here's the architecture.
 
 *CoreeyAI* — our proprietary AI layer. Not wrapper code around an API. Purpose-built orchestration across Claude, Grok, Perplexity, and Suno. This becomes a B2B API licensing product.
 
+[PAUSE 0.5s]
+
 *MOSOKO* — our education brand. Cohort programmes and self-paced courses teaching creators to use the full stack. Revenue from day one of launch.
 
 *CoreIntent* — the development studio. Also operates an autonomous, risk-managed trading engine on a competition-based model — internal funding for the ecosystem.
@@ -44,13 +48,19 @@ Here's the architecture.
 
 [GESTURE: lean forward]
 
-Our traction is real. Production infrastructure is *live* — Docker, Python 3.11, our own VPS. SongPal trademark is *filed*. ZYNTHIO LIMITED company name is *reserved* with New Zealand Companies Office — incorporation is imminent. Music is *written and in the deployment pipeline*. The codebase is public on GitHub. And our internal trading engine is already generating revenue to self-fund development.
+Our traction is real.
+
+Production infrastructure is *live* — Docker, Python 3.11, our own VPS. SongPal trademark is *filed*. ZYNTHIO LIMITED company name is *reserved* with New Zealand Companies Office — incorporation is imminent.
 
 [PAUSE 0.5s]
 
+Music is *written and in the deployment pipeline*. The codebase is public on GitHub. And our internal trading engine is already generating revenue to self-fund development.
+
+[GESTURE: open hand]
+
 We're seeking seed capital in the range of 150 to 250 thousand New Zealand dollars to accelerate SongPal to beta, launch the first MOSOKO cohort, and scale the infrastructure. Allocation is clear — thirty-five percent to SongPal development, twenty percent to MOSOKO curriculum, twenty percent to marketing, and the rest to legal, infrastructure, and reserves.
 
-[GESTURE: nod]
+[GESTURE: direct eye contact]
 
 The moat is clear. No competitor combines AI production, education, IP infrastructure, and an artist persona under one sovereign architecture. Zynthio is not a feature. It's a *stack*.
 
@@ -58,4 +68,8 @@ The moat is clear. No competitor combines AI production, education, IP infrastru
 
 [GESTURE: warm smile]
 
-We're building this with or without funding — the question is how fast. I'd welcome the chance to discuss what acceleration looks like. Thank you.
+We're building this with or without funding — the question is how fast. I'd welcome the chance to discuss what acceleration looks like.
+
+[PAUSE 0.5s]
+
+Thank you.
