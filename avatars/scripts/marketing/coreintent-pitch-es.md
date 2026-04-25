@@ -18,11 +18,11 @@ Nuestro motor de trading principal usa un *modelo basado en competiciones*, no s
 
 [PAUSE 0.5s]
 
-El motor es autónomo, con gestión de riesgo integrada, y construido sobre una infraestructura soberana — Python, Docker, desplegado en nuestro propio VPS. Sin cajas negras de terceros. Controlamos todo el proceso.
+El motor es autónomo, con gestión de riesgo integrada, y construido sobre infraestructura soberana — Python, Docker, desplegado en nuestro propio VPS. Sin cajas negras de terceros. Controlamos todo el proceso.
 
-[GESTURE: nod]
+[GESTURE: slight lean forward]
 
-Pero el trading es solo un vertical. CoreIntent también construye *SongPal* — una plataforma de producción musical con IA — y la capa de inteligencia que impulsa *MOSOKO*, nuestra marca educativa. Todo está conectado. Un estudio. Múltiples productos. Todo desarrollado internamente.
+Pero el trading es solo un vertical. CoreIntent también construye *SongPal* — una plataforma de producción musical con IA — y la capa de inteligencia que impulsa *MOSOKO*, nuestra marca educativa. Todo conectado. Un estudio. Múltiples productos. Todo desarrollado internamente.
 
 [PAUSE 0.5s]
 

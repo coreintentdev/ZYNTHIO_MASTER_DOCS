@@ -24,9 +24,11 @@ If you're in the *music or audio space* — we bring a fully AI-native productio
 
 If you're in *education or edtech* — *MOSOKO* is launching cohort and self-paced programmes built on real, working tools. Not theory. Not textbook curriculum. Actual production skills with actual AI tools. A partnership here means access to a fresh curriculum model with built-in technology integration.
 
+[PAUSE 0.5s]
+
 If you're in *AI or developer tools* — *CoreeyAI* is our orchestration layer across Claude, Grok, Perplexity, and Suno. We're building purpose-specific AI for the creative industry, and we're looking for API partners, infrastructure partners, and model-access collaborators.
 
-[PAUSE 0.5s]
+[GESTURE: open hand]
 
 If you're in *legal or IP services* — *KERVALON* is building an IP management offering specifically for independent artists. If you provide legal services or IP infrastructure, this is a market that's been ignored and is ready to scale.
 
@@ -40,6 +42,6 @@ Here's what we bring to the table. A working tech stack. A clear brand architect
 
 We're lean, we move fast, and we don't waste partnership time on meetings that go nowhere.
 
-[GESTURE: nod]
+[GESTURE: direct eye contact]
 
 So — let's talk specifics. What does the right partnership look like for your organisation? I'm ready when you are.

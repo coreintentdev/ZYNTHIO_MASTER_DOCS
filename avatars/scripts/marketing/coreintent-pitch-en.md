@@ -20,9 +20,9 @@ Our flagship trading engine uses a *competition-based model*, not subscriptions.
 
 The engine is autonomous, risk-managed, and built on a sovereign infrastructure stack — Python, Docker, deployed on our own VPS. No third-party black boxes. We control the entire pipeline.
 
-[GESTURE: nod]
+[GESTURE: slight lean forward]
 
-But trading is just one vertical. CoreIntent also builds *SongPal* — an AI music production platform — and the intelligence layer that powers *MOSOKO*, our education brand. Everything is connected. One studio. Multiple products. All engineered in-house.
+But trading is just one vertical. CoreIntent also builds *SongPal* — an AI music production platform — and the intelligence layer that powers *MOSOKO*, our education brand. Everything connected. One studio. Multiple products. All engineered in-house.
 
 [PAUSE 0.5s]
 

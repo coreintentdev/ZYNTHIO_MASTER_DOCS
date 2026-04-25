@@ -24,11 +24,13 @@ Esto es lo que realmente hace, paso a paso.
 
 *Paso dos — reconocimiento de patrones.* Con base en esos datos, el motor identifica patrones y oportunidades potenciales. Busca situaciones donde la probabilidad de un resultado favorable es mayor que el promedio — basándose en datos históricos y condiciones en tiempo real.
 
-*Paso tres — evaluación de riesgo.* Antes de hacer cualquier movimiento, la IA verifica el riesgo. ¿Cuál es la pérdida máxima posible? ¿Esto encaja dentro de nuestros parámetros de riesgo? Si el riesgo es demasiado alto, no opera. Así de simple.
-
 [PAUSE 0.5s]
 
-*Paso cuatro — ejecución.* Si todo se verifica — los datos se ven bien, el patrón es fuerte, el riesgo es aceptable — el motor ejecuta la operación. Automáticamente. Sin dudas. Sin cuestionamientos.
+*Paso tres — evaluación de riesgo.* Antes de hacer cualquier movimiento, la IA verifica el riesgo. ¿Cuál es la pérdida máxima posible? ¿Esto encaja dentro de nuestros parámetros de riesgo? Si el riesgo es demasiado alto — no opera. Así de simple.
+
+[GESTURE: direct eye contact]
+
+*Paso cuatro — ejecución.* Si todo se verifica — los datos se ven bien, el patrón es fuerte, el riesgo es aceptable — el motor ejecuta la operación. Automáticamente. Sin dudas.
 
 [PAUSE 1s]
 
@@ -40,6 +42,6 @@ Esto es lo que realmente hace, paso a paso.
 
 Eso es todo. Datos de entrada. Análisis. Verificación de riesgo. Ejecución. Monitoreo. Repetir.
 
-[GESTURE: nod]
+[GESTURE: slight lean forward]
 
 La IA no tiene días malos. No se vuelve codiciosa. Simplemente sigue las reglas — y eso es exactamente lo que la hace poderosa.
