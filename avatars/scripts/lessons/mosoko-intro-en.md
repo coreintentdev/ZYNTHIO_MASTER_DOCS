@@ -8,35 +8,37 @@
 
 Hey — welcome to *MOSOKO*.
 
-[PAUSE 1s]
+[PAUSE 0.5s]
 
-If you've ever wanted to make music but felt like you didn't have the right tools, the right training, or the right connections — this is for you.
+If you've ever wanted to make music but felt locked out — wrong tools, no training, no connections — this is built for you.
 
 [GESTURE: open hand]
 
-MOSOKO is the education arm of the Zynthio ecosystem. We don't teach theory in a vacuum. We teach you how to use *real tools* — the same tools professional creators are using right now — to produce, protect, and publish your own music.
+MOSOKO is the education arm of the Zynthio ecosystem. But we don't do theory in a vacuum. We teach you to use *real tools* — the exact same ones working producers use right now — to create, protect, and release your own music.
 
 [PAUSE 0.5s]
 
-Here's what that looks like in practice.
+Here's what that actually looks like.
 
 [GESTURE: counting on fingers]
 
-*First* — you'll learn AI-assisted music production using *SongPal*, our flagship platform. Composition, arrangement, mixing — all powered by AI, all guided by real curriculum.
+*First* — AI-assisted music production with *SongPal*. Composition, arrangement, mixing. All powered by AI, all guided by real curriculum. You learn by making.
 
-*Second* — you'll learn prompt engineering for creatives. How to talk to AI tools and get professional results, not random noise.
+[PAUSE 0.5s]
 
-*Third* — and this is the part most courses skip — you'll learn the *business side*. IP protection. Copyright. Licensing. How to actually *own* what you make.
+*Second* — prompt engineering for creatives. How to talk to AI and get *professional results*, not random noise. This is a skill most people don't have yet — and it's a massive advantage.
+
+*Third* — the business side. [GESTURE: lean forward] This is the part nobody else teaches. IP protection. Copyright basics. Licensing. How to actually *own what you make*.
 
 [PAUSE 1s]
 
 [GESTURE: nod]
 
-We offer structured cohort programmes with live sessions, and self-paced modules you can work through on your own schedule.
+We run structured cohort programmes with live sessions. We also have self-paced modules you can work through whenever suits you.
 
 [PAUSE 0.5s]
 
-MOSOKO isn't a generic music school. It's built for independent creators who want to own their entire pipeline — from the first idea to the final release.
+MOSOKO isn't a generic music school. It's a pipeline — from first idea to final release — and you own every step.
 
 [GESTURE: nod]
 

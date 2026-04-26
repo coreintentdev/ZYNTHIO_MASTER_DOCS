@@ -6,28 +6,32 @@
 
 [GESTURE: direct eye contact]
 
-Let me tell you about *CoreIntent* in sixty seconds.
+Sixty seconds. Let me tell you about *CoreIntent*.
 
 [PAUSE 0.5s]
 
-CoreIntent is the engineering studio behind the entire Zynthio ecosystem. We build AI-powered systems — from autonomous trading engines to music production platforms — and we do it with one rule: *build with intent, ship with precision*.
+CoreIntent is the engineering studio behind the Zynthio ecosystem. We build AI-powered systems — autonomous trading engines, music production platforms, education infrastructure — and we do it with one rule: *build with intent, ship with precision*.
 
 [GESTURE: open hand]
 
-Our flagship trading engine uses a *competition-based model*, not subscriptions. That means we don't profit from locking you in. We profit when the system performs. Full alignment.
+Our trading engine runs on a *competition-based model*. Not subscriptions. We don't profit from locking you in — we profit when the system performs. That's full alignment between us and you.
 
 [PAUSE 0.5s]
 
-The engine is autonomous, risk-managed, and built on a sovereign infrastructure stack — Python, Docker, deployed on our own VPS. No third-party black boxes. We control the entire pipeline.
+The engine is autonomous, risk-managed, and runs on sovereign infrastructure — Python, Docker, our own VPS. No third-party black boxes. We own the whole pipeline.
 
 [GESTURE: nod]
 
-But trading is just one vertical. CoreIntent also builds *SongPal* — an AI music production platform — and the intelligence layer that powers *MOSOKO*, our education brand. Everything is connected. One studio. Multiple products. All engineered in-house.
+But trading is one vertical. CoreIntent also builds *SongPal* — an AI music production platform — and the intelligence layer driving *MOSOKO*, our education brand. One studio. Multiple products. All engineered in-house.
 
 [PAUSE 0.5s]
 
-We're New Zealand-founded, privacy-first, and we don't do hype. We ship working systems.
+[GESTURE: direct eye contact]
 
-[GESTURE: nod]
+New Zealand-founded. Privacy-first. We don't do hype — we ship working systems.
+
+[PAUSE 0.5s]
 
 That's CoreIntent. *Build with intent. Ship with precision.*
+
+[GESTURE: nod]

@@ -1,4 +1,4 @@
-# Cómo Funciona el Trading con IA — Explicado de Forma Simple
+# Cómo Funciona el Trading con IA — Explicado Simple
 ## Language: Español
 ## Duration: 95 seconds
 ## Avatar tone: friendly
@@ -6,40 +6,42 @@
 
 [GESTURE: warm smile]
 
-Bien — vamos a explicar cómo funciona realmente el trading con IA. Sin jerga. Sin exageraciones. Solo la imagen real.
+Bien — vamos a explicar cómo funciona realmente el trading con inteligencia artificial. Sin tecnicismos. Sin exageraciones. Solo la realidad.
 
 [PAUSE 1s]
 
-Piensa en el motor de trading con IA como un analista muy disciplinado que nunca duerme, nunca entra en pánico y nunca toma decisiones basadas en corazonadas.
+Piensa en nuestro motor de trading como un analista muy disciplinado que nunca duerme, nunca entra en pánico y nunca decide por instinto.
 
 [GESTURE: open hand]
 
-Esto es lo que realmente hace, paso a paso.
+Esto es lo que hace, paso a paso.
 
 [PAUSE 0.5s]
 
-*Paso uno — recopilación de datos.* La IA monitorea constantemente los datos del mercado. Precios, volumen, tendencias, volatilidad. Procesa información de múltiples mercados, mucho más rápido de lo que cualquier humano podría.
+[GESTURE: counting on fingers]
+
+*Paso uno — datos.* La IA monitorea datos del mercado en tiempo real. Precios, volumen, tendencias, volatilidad — en múltiples mercados, mucho más rápido de lo que cualquier persona podría procesar.
+
+*Paso dos — patrones.* Con esos datos, el motor identifica patrones y oportunidades potenciales. Busca situaciones donde las probabilidades de un buen resultado son mejores que el promedio — basándose en datos históricos y condiciones actuales.
 
 [GESTURE: nod]
 
-*Paso dos — reconocimiento de patrones.* Con base en esos datos, el motor identifica patrones y oportunidades potenciales. Busca situaciones donde la probabilidad de un resultado favorable es mayor que el promedio — basándose en datos históricos y condiciones en tiempo real.
-
-*Paso tres — evaluación de riesgo.* Antes de hacer cualquier movimiento, la IA verifica el riesgo. ¿Cuál es la pérdida máxima posible? ¿Esto encaja dentro de nuestros parámetros de riesgo? Si el riesgo es demasiado alto, no opera. Así de simple.
+*Paso tres — evaluación de riesgo.* Antes de hacer cualquier movimiento, la IA se pregunta: ¿cuál es el peor escenario? ¿Encaja dentro de nuestros parámetros? Si la respuesta es no — [GESTURE: shake head] — no opera. Así de simple.
 
 [PAUSE 0.5s]
 
-*Paso cuatro — ejecución.* Si todo se verifica — los datos se ven bien, el patrón es fuerte, el riesgo es aceptable — el motor ejecuta la operación. Automáticamente. Sin dudas. Sin cuestionamientos.
+*Paso cuatro — ejecución.* Los datos cuadran, el patrón es sólido, el riesgo es aceptable — el motor ejecuta. Automáticamente. Sin dudar.
+
+[PAUSE 0.5s]
+
+*Paso cinco — monitoreo.* Después de ejecutar, la IA sigue observando. ¿Cambian las condiciones? Se ajusta. ¿Se activa el stop-loss? Sale de la posición. Sin ego. Sin esperanzas.
 
 [PAUSE 1s]
 
 [GESTURE: open hand]
 
-*Paso cinco — monitoreo.* Después de que la operación está activa, la IA sigue observando. Si las condiciones cambian, se ajusta. Si se activa un stop-loss, sale. Sin ego. Sin aferrarse esperando lo mejor.
-
-[PAUSE 0.5s]
-
-Eso es todo. Datos de entrada. Análisis. Verificación de riesgo. Ejecución. Monitoreo. Repetir.
+Ese es el ciclo completo. Datos. Análisis. Verificación de riesgo. Ejecución. Monitoreo. Repetir.
 
 [GESTURE: nod]
 
-La IA no tiene días malos. No se vuelve codiciosa. Simplemente sigue las reglas — y eso es exactamente lo que la hace poderosa.
+La IA no tiene días malos. No se vuelve codiciosa. Simplemente sigue las reglas — y esa disciplina es lo que la hace poderosa.

@@ -10,36 +10,38 @@ Alright — let's break down how AI trading actually works. No jargon. No hype. 
 
 [PAUSE 1s]
 
-Think of the AI trading engine like a very disciplined analyst who never sleeps, never panics, and never makes decisions based on gut feelings.
+Think of our AI trading engine like a very disciplined analyst who never sleeps, never panics, and never makes decisions on gut feelings.
 
 [GESTURE: open hand]
 
-Here's what it actually does, step by step.
+Here's what it does, step by step.
 
 [PAUSE 0.5s]
 
-*Step one — data collection.* The AI constantly monitors market data. Prices, volume, trends, volatility. It's processing information across multiple markets, much faster than any human could.
+[GESTURE: counting on fingers]
+
+*Step one — data.* The AI monitors market data constantly. Prices, volume, trends, volatility — across multiple markets, way faster than any human could process.
+
+*Step two — patterns.* From that data, the engine identifies patterns and potential opportunities. It's looking for situations where the odds of a good outcome are better than average — based on historical data and real-time conditions.
 
 [GESTURE: nod]
 
-*Step two — pattern recognition.* Based on that data, the engine identifies patterns and potential opportunities. It's looking for situations where the probability of a favourable outcome is higher than average — based on historical data and real-time conditions.
-
-*Step three — risk assessment.* Before it makes any move, the AI checks the risk. What's the maximum downside? Does this fit within our risk parameters? If the risk is too high, it doesn't trade. Simple as that.
+*Step three — risk check.* Before making any move, the AI asks: what's the worst case? Does this fit our risk parameters? If the answer is no — [GESTURE: shake head] — it doesn't trade. That simple.
 
 [PAUSE 0.5s]
 
-*Step four — execution.* If everything checks out — the data looks right, the pattern is strong, the risk is acceptable — the engine executes the trade. Automatically. No hesitation. No second-guessing.
+*Step four — execute.* Data checks out, pattern is strong, risk is acceptable — the engine makes the trade. Automatically. No hesitation.
+
+[PAUSE 0.5s]
+
+*Step five — monitor.* After the trade is live, the AI keeps watching. Conditions shift? It adjusts. Stop-loss gets hit? It exits. No ego. No hoping.
 
 [PAUSE 1s]
 
 [GESTURE: open hand]
 
-*Step five — monitoring.* After the trade is live, the AI keeps watching. If conditions change, it adjusts. If a stop-loss is hit, it exits. No ego. No holding on and hoping.
-
-[PAUSE 0.5s]
-
-That's it. Data in. Analysis. Risk check. Execute. Monitor. Repeat.
+That's the whole cycle. Data in. Analyse. Risk check. Execute. Monitor. Repeat.
 
 [GESTURE: nod]
 
-The AI doesn't have bad days. It doesn't get greedy. It just follows the rules — and that's exactly what makes it powerful.
+The AI doesn't have bad days. It doesn't get greedy. It just follows the rules — and that discipline is exactly what makes it powerful.
