@@ -1,6 +1,6 @@
 # ASSETS — MOSOKO
 
-![Updated](https://img.shields.io/badge/updated-2026--04--25-blue)
+![Updated](https://img.shields.io/badge/updated-2026--04--26-blue)
 
 > Brand asset registry for MOSOKO.
 
@@ -63,4 +63,4 @@
 
 ---
 
-*Last updated: 2026-04-25 | Maintained by: Corey McIvor*
+*Last updated: 2026-04-26 | Maintained by: Corey McIvor*

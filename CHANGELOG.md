@@ -1,9 +1,27 @@
 # CHANGELOG — Zynthio Master Docs
 
-![Updated](https://img.shields.io/badge/updated-2026--04--25-blue)
+![Updated](https://img.shields.io/badge/updated-2026--04--26-blue)
 
 All significant changes to this documentation repository are recorded here.
 Format: `YYYY-MM-DD | Type | Description`
+
+---
+
+## 2026-04-26 (Session 16)
+
+### Updated
+
+- `README.md` — Countdown badge updated (17 → 16 days as of 2026-04-26); date anchor updated; session footer to Session 16
+- `INDEX.md` — Days Left column updated (17 → 16 as of 2026-04-26); date badge to 2026-04-26; session footer to Session 16
+- `NZ_COMPLIANCE.md` — Action plan advanced: Apr 24 relabelled "Done"; Apr 25 relabelled "Yesterday"; TODAY (Apr 26) = CERTIFICATE — business day 5 since filing, certificate expected ~Apr 28 Mon, contact Companies Office if not yet issued; Added Apr 26 row to Key Deadlines Calendar; countdown to 16 days; date badge and session footer to Session 16
+- `INCORPORATION_CHECKLIST.md` — Timeline advanced: Apr 24 marked Done; Apr 25 relabelled "Yesterday"; TODAY (Apr 26) = CERTIFICATE — business day 5, expected ~Apr 28; contact Companies Office if not yet available by Monday; badge updated to 16 days as of Apr 26; session footer to Session 16
+- `ECOSYSTEM_MAP.md` — Current State Snapshot heading updated to April 26, 2026; legal status note updated to 16 days as of 2026-04-26; date badge and session footer to Session 16
+- `FOUNDER_BRIEF.md` — Critical action Priority 1 updated: TODAY Apr 26 — certificate check, day 5 since filing, expected ~Apr 28, escalate if needed; 16 days to deadline; date badge and session footer to Session 16
+- `COMPETITION_ENTRY.md` — Traction date updated to 2026-04-26; date badge updated to 2026-04-26
+- `FINANCIAL_MODEL.md` — Date badge and footer updated to 2026-04-26 / Session 16
+- `COMPETITION_PORTFOLIO.md`, `PITCH_DECK_OUTLINE.md`, `DEMO_SCRIPT.md`, `PRESS_KIT.md`, `AWARDS_TRACKER.md` — Date badges and footers updated to 2026-04-26 / Session 16
+- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — Date badges and "Last updated" footer dates updated to 2026-04-26
+- `CHANGELOG.md` — This entry; badge updated to 2026-04-26
 
 ---
 

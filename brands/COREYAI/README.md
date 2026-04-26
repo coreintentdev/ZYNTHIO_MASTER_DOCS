@@ -1,6 +1,6 @@
 # CoreeyAI
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-AI%20engine-blue) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![Updated](https://img.shields.io/badge/updated-2026--04--25-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-AI%20engine-blue) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![Updated](https://img.shields.io/badge/updated-2026--04--26-blue)
 
 > **The intelligence layer of the Zynthio ecosystem.**
 > Custom AI integrations, agentic systems, and model orchestration — purpose-built for creative sovereignty.
@@ -76,4 +76,4 @@ To build a proprietary AI layer that gives every Zynthio product genuine intelli
 
 ---
 
-*Last updated: 2026-04-25 | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-04-26 | Maintained by: Corey McIvor / COREINTENT*
