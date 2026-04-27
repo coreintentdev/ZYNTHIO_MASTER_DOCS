@@ -10,19 +10,19 @@ Sixty seconds. Let me tell you about *CoreIntent*.
 
 [PAUSE 0.5s]
 
-CoreIntent is the engineering studio behind the Zynthio ecosystem. We build AI-powered systems — autonomous trading engines, music production platforms, education infrastructure — and we do it with one rule: *build with intent, ship with precision*.
+CoreIntent is the engineering studio behind the Zynthio ecosystem. We build AI-powered systems — autonomous trading engines, music production platforms, education infrastructure — with one rule: *build with intent, ship with precision*.
 
 [GESTURE: open hand]
 
-Our trading engine runs on a *competition-based model*. Not subscriptions. We don't profit from locking you in — we profit when the system performs. That's full alignment between us and you.
+Our trading engine runs on a *competition-based model*. Not subscriptions. We don't profit from locking you in — we profit when the system performs. Full alignment between us and you.
 
 [PAUSE 0.5s]
 
-The engine is autonomous, risk-managed, and runs on sovereign infrastructure — Python, Docker, our own VPS. No third-party black boxes. We own the whole pipeline.
+The engine is autonomous, risk-managed, and runs on sovereign infrastructure. Python, Docker, our own VPS. No third-party black boxes. We control the entire pipeline.
 
 [GESTURE: nod]
 
-But trading is one vertical. CoreIntent also builds *SongPal* — an AI music production platform — and the intelligence layer driving *MOSOKO*, our education brand. One studio. Multiple products. All engineered in-house.
+But trading is one vertical. CoreIntent also builds *SongPal* — an AI music production platform — and powers the intelligence layer behind *MOSOKO*, our education brand. One studio. Multiple products. All engineered in-house.
 
 [PAUSE 0.5s]
 

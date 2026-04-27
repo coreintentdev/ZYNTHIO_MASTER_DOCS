@@ -10,7 +10,7 @@ Sesenta segundos. Déjame contarte sobre *CoreIntent*.
 
 [PAUSE 0.5s]
 
-CoreIntent es el estudio de ingeniería detrás del ecosistema Zynthio. Construimos sistemas con inteligencia artificial — motores de trading autónomos, plataformas de producción musical, infraestructura educativa — y lo hacemos con una regla: *construir con intención, entregar con precisión*.
+CoreIntent es el estudio de ingeniería detrás del ecosistema Zynthio. Construimos sistemas con inteligencia artificial — motores de trading autónomos, plataformas de producción musical, infraestructura educativa — con una regla: *construir con intención, entregar con precisión*.
 
 [GESTURE: open hand]
 
@@ -18,11 +18,11 @@ Nuestro motor de trading funciona con un *modelo de competiciones*. No suscripci
 
 [PAUSE 0.5s]
 
-El motor es autónomo, con gestión de riesgo integrada, y corre sobre infraestructura soberana — Python, Docker, nuestro propio VPS. Sin cajas negras de terceros. Controlamos todo el proceso.
+El motor es autónomo, con gestión de riesgo integrada, y corre sobre infraestructura soberana. Python, Docker, nuestro propio VPS. Sin cajas negras de terceros. Controlamos todo el proceso.
 
 [GESTURE: nod]
 
-Pero el trading es solo un vertical. CoreIntent también construye *SongPal* — una plataforma de producción musical con IA — y la capa de inteligencia que impulsa *MOSOKO*, nuestra marca educativa. Un estudio. Múltiples productos. Todo desarrollado internamente.
+Pero el trading es solo un vertical. CoreIntent también construye *SongPal* — una plataforma de producción musical con IA — y la capa de inteligencia detrás de *MOSOKO*, nuestra marca educativa. Un estudio. Múltiples productos. Todo desarrollado internamente.
 
 [PAUSE 0.5s]
 
