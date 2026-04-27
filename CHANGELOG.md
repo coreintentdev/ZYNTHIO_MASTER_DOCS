@@ -1,9 +1,27 @@
 # CHANGELOG — Zynthio Master Docs
 
-![Updated](https://img.shields.io/badge/updated-2026--04--26-blue)
+![Updated](https://img.shields.io/badge/updated-2026--04--27-blue)
 
 All significant changes to this documentation repository are recorded here.
 Format: `YYYY-MM-DD | Type | Description`
+
+---
+
+## 2026-04-27 (Session 17)
+
+### Updated
+
+- `README.md` — Countdown badge updated (16 → 15 days as of 2026-04-27); deadline note: certificate expected Mon Apr 28; session footer to Session 17
+- `INDEX.md` — Days Left column updated (16 → 15 as of 2026-04-27); date badge to 2026-04-27; session footer to Session 17
+- `NZ_COMPLIANCE.md` — Action plan advanced: Apr 25 relabelled "Done"; Apr 26 relabelled "Yesterday"; TODAY (Apr 27, Sunday) = WEEKEND — no business action, certificate expected tomorrow Mon Apr 28 (business day 5 since filing); summary dashboard updated to 15 days; deadlines calendar: Apr 25 Done, Apr 26 Yesterday, Apr 27 Today (Sunday) added; date badge and session footer to Session 17
+- `INCORPORATION_CHECKLIST.md` — Timeline advanced: Apr 25 marked Done; Apr 26 marked Done; TODAY (Apr 27) = WEEKEND Sunday — cert expected Mon Apr 28; preamble updated to 15 days as of 2026-04-27; bottom note updated; session footer to Session 17
+- `ECOSYSTEM_MAP.md` — Current State Snapshot heading updated to April 27, 2026; legal status note updated to 15 days as of 2026-04-27, certificate expected Mon Apr 28; date badge and session footer to Session 17
+- `FOUNDER_BRIEF.md` — Critical action Priority 1 updated: TODAY Apr 27 (Sunday) — certificate expected TOMORROW Mon Apr 28, check portal + email first thing Monday; milestone tracker updated; date badge and session footer to Session 17
+- `COMPETITION_ENTRY.md` — Traction date updated to 2026-04-27; date badge updated to 2026-04-27; footer date updated
+- `FINANCIAL_MODEL.md` — Date badge and footer updated to 2026-04-27 / Session 17
+- `COMPETITION_PORTFOLIO.md`, `PITCH_DECK_OUTLINE.md`, `DEMO_SCRIPT.md`, `PRESS_KIT.md`, `AWARDS_TRACKER.md` — Date badges and footers updated to 2026-04-27 / Session 17
+- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — Date badges and "Last updated" footer dates updated to 2026-04-27
+- `CHANGELOG.md` — This entry; badge updated to 2026-04-27
 
 ---
 

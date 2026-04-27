@@ -1,10 +1,10 @@
 # INCORPORATION CHECKLIST — ZYNTHIO LIMITED
 
-![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-16%20(as%20of%20Apr%2026)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
+![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-15%20(as%20of%20Apr%2027)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
 
 > **Focused action checklist for incorporating ZYNTHIO LIMITED before the name reservation expires.**
 > Name reservation: **NZCO #15436626** — expires **May 12, 2026**.
-> As of 2026-04-26: **16 days remain.** Application filed Apr 21, confirmed processing Apr 22 — today is business day 5; certificate expected by ~Apr 28 (Mon). If not yet issued, contact Companies Office directly.
+> As of 2026-04-27: **15 days remain.** Today is Sunday — no business action needed. Certificate expected TOMORROW Mon Apr 28 (business day 5 since filing Apr 21). Check portal + email first thing Monday. Contact Companies Office if not yet received.
 
 ---
 
@@ -93,11 +93,12 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 | **Done (Apr 22)** | **CONFIRM** — verified application is processing |
 | **Done (Apr 23)** | **CERTIFICATE** — check portal for Certificate of Incorporation; download when issued |
 | **Done (Apr 24)** | **CERTIFICATE** — check portal for Certificate of Incorporation; download when issued |
-| **Yesterday (Apr 25)** | **CERTIFICATE** — check portal again if not yet received |
-| **TODAY (Apr 26)** | **CERTIFICATE** — check portal; business day 5 since filing (certificate expected ~Apr 28 Mon); contact Companies Office if not yet issued; **16 days to deadline** |
+| **Done (Apr 25)** | **CERTIFICATE** — check portal again if not yet received |
+| **Done (Apr 26)** | **CERTIFICATE** — check portal; business day 4; certificate expected ~Mon Apr 28; **15 days to deadline** |
+| **TODAY (Apr 27)** | **WEEKEND** — Sunday: no business action needed. Certificate expected TOMORROW Mon Apr 28 (business day 5 since filing). Check portal + email Monday morning. |
 | **May 12, 2026** | **HARD DEADLINE — reservation #15436626 expires** |
 
-> **Application filed Apr 21 and confirmed processing Apr 22.** Certificate typically issued within 1–5 business days of filing. Today (April 26, Sat): day 5 since filing — certificate expected by ~Apr 28 (Mon). Check portal; if not yet available by Monday, contact Companies Office directly via phone or email.
+> **Application filed Apr 21 and confirmed processing Apr 22.** Certificate typically issued within 1–5 business days of filing. Today (April 27, Sun): weekend — certificate expected tomorrow Monday Apr 28 (business day 5 since filing). Check portal and email first thing Monday; contact Companies Office directly if not yet received.
 
 ---
 
@@ -134,4 +135,4 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 
 ---
 
-*Last updated: 2026-04-26 (Session 16) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-04-27 (Session 17) | Maintained by: Corey McIvor / KERVALON*
