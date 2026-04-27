@@ -20,17 +20,17 @@ None of that works.
 
 [GESTURE: open hand]
 
-SongPal is different. It's an AI-powered platform built for creators who want to *make real music* — not press a button and get a generic beat.
+SongPal is different. It's an AI-powered platform built for creators who want to *make real music* — not press a button and get a cookie-cutter beat.
 
 Here's what you get.
 
 [GESTURE: counting on fingers]
 
-*AI-assisted composition* — the engine helps you write melodies, chord progressions, song structures. It suggests. *You* decide.
+*AI-assisted composition* — the engine helps you write melodies, chord progressions, and song structures. It suggests. *You* decide.
 
-*Intelligent arrangement* — drop your ideas in and the AI helps shape them into a full production. Verse, chorus, bridge — structured and professional.
+*Intelligent arrangement* — drop your ideas in and the AI helps shape them into a full production. Verse, chorus, bridge — structured, polished, and professional.
 
-*Generative audio* — integrated with Suno for cutting-edge sound generation. Need a texture, a pad, a vocal layer? Generate it inside your project.
+*Generative audio* — integrated with Suno for cutting-edge sound generation. Need a texture, a pad, a vocal layer? Generate it right inside your project.
 
 [PAUSE 0.5s]
 
@@ -42,6 +42,6 @@ And here's the big one — *you own everything you create*. One hundred percent.
 
 [GESTURE: nod]
 
-Trademarked in New Zealand — IPONZ number 1318588. Flagship product of the Zynthio ecosystem.
+Trademarked in New Zealand — IPONZ number 1318588. The flagship product of the Zynthio ecosystem.
 
 *Your sound. Your stack.* That's SongPal.

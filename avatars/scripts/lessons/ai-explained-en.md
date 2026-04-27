@@ -10,7 +10,7 @@ Alright — let's break down how AI trading actually works. No jargon. No hype. 
 
 [PAUSE 1s]
 
-Think of our AI trading engine like a very disciplined analyst who never sleeps, never panics, and never makes decisions on gut feelings.
+Think of our AI trading engine like a very disciplined analyst who never sleeps, never panics, and never makes decisions based on a feeling.
 
 [GESTURE: open hand]
 
@@ -20,9 +20,9 @@ Here's what it does, step by step.
 
 [GESTURE: counting on fingers]
 
-*Step one — data.* The AI monitors market data constantly. Prices, volume, trends, volatility — across multiple markets, way faster than any human could process.
+*Step one — data.* The AI monitors market data constantly. Prices, volume, trends, volatility — across multiple markets, far faster than any human could process.
 
-*Step two — patterns.* From that data, the engine identifies patterns and potential opportunities. It's looking for situations where the odds of a good outcome are better than average — based on historical data and real-time conditions.
+*Step two — patterns.* From that data, the engine identifies patterns and potential opportunities. It looks for situations where the probability of a good outcome is better than average — based on historical data and real-time conditions.
 
 [GESTURE: nod]
 
@@ -30,11 +30,11 @@ Here's what it does, step by step.
 
 [PAUSE 0.5s]
 
-*Step four — execute.* Data checks out, pattern is strong, risk is acceptable — the engine makes the trade. Automatically. No hesitation.
+*Step four — execute.* Data checks out, pattern is solid, risk is acceptable — the engine places the trade. Automatically. No hesitation, no second-guessing.
 
 [PAUSE 0.5s]
 
-*Step five — monitor.* After the trade is live, the AI keeps watching. Conditions shift? It adjusts. Stop-loss gets hit? It exits. No ego. No hoping.
+*Step five — monitor.* After the trade is live, the AI keeps watching. Conditions shift? It adjusts. Stop-loss triggers? It exits. No ego. No hoping it'll come back.
 
 [PAUSE 1s]
 
@@ -44,4 +44,4 @@ That's the whole cycle. Data in. Analyse. Risk check. Execute. Monitor. Repeat.
 
 [GESTURE: nod]
 
-The AI doesn't have bad days. It doesn't get greedy. It just follows the rules — and that discipline is exactly what makes it powerful.
+The AI doesn't have bad days. It doesn't get greedy. It follows the rules — and that discipline is exactly what makes it powerful.
