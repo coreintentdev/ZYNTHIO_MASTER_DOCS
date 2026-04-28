@@ -1,6 +1,6 @@
 # ROADMAP — SongPal
 
-![Updated](https://img.shields.io/badge/updated-2026--04--27-blue)
+![Updated](https://img.shields.io/badge/updated-2026--04--28-blue)
 
 ---
 
@@ -67,4 +67,4 @@
 
 ---
 
-*Last updated: 2026-04-27*
+*Last updated: 2026-04-28*

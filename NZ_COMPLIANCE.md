@@ -1,6 +1,6 @@
 # NZ COMPLIANCE TRACKER — Zynthio
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellow) ![Updated](https://img.shields.io/badge/updated-2026--04--27-blue) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow) ![Updated](https://img.shields.io/badge/updated-2026--04--28-blue) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red)
 
 > Tracks all New Zealand incorporation, IP, and director compliance obligations for the Zynthio ecosystem.
 
@@ -9,13 +9,13 @@
 > **URGENT — INCORPORATION DEADLINE**
 > ZYNTHIO LIMITED name reservation #15436626 expires **May 12, 2026**.
 > File at [companies.govt.nz](https://www.companies.govt.nz) before this date or the name is lost permanently.
-> **As of 2026-04-27: 15 days remain. Today is Sunday — no business action needed. Certificate of Incorporation expected TOMORROW Monday Apr 28 (business day 5 since filing Apr 21). Check portal and email first thing Monday. Contact Companies Office if not yet received.**
+> **As of 2026-04-28: 14 days remain. TODAY IS MONDAY APRIL 28 — Certificate of Incorporation expected TODAY. CHECK PORTAL AND EMAIL NOW. If not yet issued, call the Companies Office directly — do not wait. The certificate is business day 4+ since filing Apr 21.**
 
 ---
 
-## Action Plan — Filing Window
+## Next 7 Days — Action Plan
 
-*As of 2026-04-27 (15 days to deadline). Execute in order — do not skip steps.*
+*As of 2026-04-28 (14 days to deadline). Execute in order — do not skip steps.*
 
 | Day | Action | Owner | Done? |
 |-----|--------|-------|-------|
@@ -29,8 +29,9 @@
 | **Done (Apr 23)** | **CERTIFICATE** — check portal for Certificate of Incorporation; download when issued | Corey | [ ] |
 | **Done (Apr 24)** | **CERTIFICATE** — check portal for Certificate of Incorporation; download when issued (filed Apr 21, typically issued 1–5 business days) | Corey | [ ] |
 | **Done (Apr 25)** | **CERTIFICATE** — check portal again if not yet issued; download when available | Corey | [ ] |
-| **Yesterday (Apr 26)** | **CERTIFICATE** — check portal; business day 4 since filing; certificate expected ~Apr 28 Mon; **15 days to deadline** | Corey | [ ] |
-| **TODAY (Apr 27)** | **WEEKEND** — Sunday: no business activity. Certificate expected TOMORROW Mon Apr 28 (business day 5 since filing Apr 21). Check portal + email Monday morning. Contact Companies Office if not yet received. | Corey | [ ] |
+| **Done (Apr 26)** | **CERTIFICATE** — check portal; business day 3 since filing; certificate expected ~Apr 28 Mon; **15 days to deadline** | Corey | [ ] |
+| **Done (Apr 27)** | **WEEKEND** — Sunday: no business activity. Certificate expected TOMORROW Mon Apr 28. | Corey | [ ] |
+| **TODAY (Apr 28)** | **CERTIFICATE DAY — MONDAY** — Check portal and email IMMEDIATELY. Certificate of Incorporation expected TODAY (business day 4 since filing Apr 21). Download when issued. If not yet available, call Companies Office directly. Do not wait. | Corey | [ ] |
 
 > **Recommended registered office providers (NZ):**
 > - **Incorporated.nz** — common provider, purpose-built for overseas founders
@@ -44,8 +45,8 @@
 
 | Item | Reference | Status | Deadline | Days Left |
 |------|-----------|--------|----------|-----------|
-| ZYNTHIO LIMITED — name reservation | #15436626 | Name reserved | **May 12, 2026** | **15 (as of 2026-04-27)** |
-| ZYNTHIO LIMITED — incorporation | — | **Filed Apr 21 — confirmed processing Apr 22 — awaiting Certificate of Incorporation (expected Mon Apr 28)** | **Before May 12, 2026** | **15 (as of 2026-04-27)** |
+| ZYNTHIO LIMITED — name reservation | #15436626 | Name reserved | **May 12, 2026** | **14 (as of 2026-04-28)** |
+| ZYNTHIO LIMITED — incorporation | — | **Filed Apr 21 — confirmed processing Apr 22 — Certificate expected TODAY Mon Apr 28 — check portal NOW** | **Before May 12, 2026** | **14 (as of 2026-04-28)** |
 | Registered office (NZ) | — | Arranged (confirmed Apr 18) | Before incorporation | Done |
 | NZ registered office service | — | Engaged (confirmed Apr 18) | Before incorporation | Done |
 | SongPal trademark | IPONZ #1318588 | Application filed | Awaiting examination | — |
@@ -194,8 +195,9 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 | **2026-04-23** | *(Done)* — **CERTIFICATE** — check portal for Certificate of Incorporation |
 | **2026-04-24** | *(Done)* — **CERTIFICATE** — check portal for Certificate of Incorporation |
 | **2026-04-25** | *(Done)* — **CERTIFICATE** — check portal; download when available |
-| **2026-04-26** | *(Yesterday)* — **CERTIFICATE** — check portal; business day 4; certificate expected ~Mon Apr 28; **15 days to deadline** |
-| **2026-04-27** | *(Today — Sunday)* — **WEEKEND** — no business action. Certificate expected tomorrow Mon Apr 28. Monitor portal + email. |
+| **2026-04-26** | *(Done)* — **CERTIFICATE** — check portal; business day 3; certificate expected Mon Apr 28 |
+| **2026-04-27** | *(Done — Sunday)* — **WEEKEND** — no business action. Certificate expected Mon Apr 28. |
+| **2026-04-28** | *(TODAY — Monday)* — **CERTIFICATE DAY** — Certificate of Incorporation expected TODAY (business day 4 since filing). Check portal and email immediately. Call Companies Office if not yet issued. 14 days to deadline. |
 | **Before 2026-05-12** | **HARD DEADLINE** — ZYNTHIO LIMITED name reservation expires |
 | TBD | IPONZ examination report for SongPal TM #1318588 |
 | TBD | Annual return due (12 months post-incorporation) |
@@ -219,4 +221,4 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 
 ---
 
-*Last updated: 2026-04-27 (Session 17) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-04-28 (Session 18) | Maintained by: Corey McIvor / KERVALON*

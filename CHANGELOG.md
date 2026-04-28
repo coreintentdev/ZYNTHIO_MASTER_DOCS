@@ -1,9 +1,27 @@
 # CHANGELOG — Zynthio Master Docs
 
-![Updated](https://img.shields.io/badge/updated-2026--04--27-blue)
+![Updated](https://img.shields.io/badge/updated-2026--04--28-blue)
 
 All significant changes to this documentation repository are recorded here.
 Format: `YYYY-MM-DD | Type | Description`
+
+---
+
+## 2026-04-28 (Session 18)
+
+### Updated
+
+- `README.md` — Countdown badge updated (15 → 14 days as of 2026-04-28); critical alert updated to reflect certificate expected TODAY Mon Apr 28; session footer to Session 18
+- `INDEX.md` — Days Left column updated (15 → 14 as of 2026-04-28 — Certificate expected TODAY Mon Apr 28); date badge to 2026-04-28; session footer to Session 18
+- `NZ_COMPLIANCE.md` — Action plan advanced: Apr 27 relabelled "Done"; TODAY (Apr 28, Monday) added — CERTIFICATE DAY — check portal immediately; Summary Dashboard updated to 14 days as of 2026-04-28; Key Deadlines Calendar: Apr 27 Done, Apr 28 TODAY (certificate day) added; urgency block updated to Monday Apr 28 action; date badge and session footer to Session 18
+- `INCORPORATION_CHECKLIST.md` — Timeline advanced: Apr 27 marked Done; TODAY (Apr 28) = CERTIFICATE DAY — check portal NOW, call Companies Office if not yet issued; preamble updated to 14 days as of 2026-04-28; bottom note updated to Mon Apr 28 certificate expected today; badge updated; session footer to Session 18
+- `ECOSYSTEM_MAP.md` — Current State Snapshot heading updated to April 28, 2026; legal status note updated to 14 days as of 2026-04-28, certificate expected TODAY; date badge and session footer to Session 18
+- `FOUNDER_BRIEF.md` — Critical action Priority 1 updated: TODAY Apr 28 (Monday) — CERTIFICATE TODAY — check portal and email IMMEDIATELY, call Companies Office if not yet issued; milestone tracker updated; date badge and session footer to Session 18
+- `COMPETITION_ENTRY.md` — Traction date updated to 2026-04-28; date badge updated to 2026-04-28; footer date updated
+- `FINANCIAL_MODEL.md` — Date badge and footer updated to 2026-04-28 / Session 18
+- `COMPETITION_PORTFOLIO.md`, `PITCH_DECK_OUTLINE.md`, `DEMO_SCRIPT.md`, `PRESS_KIT.md`, `AWARDS_TRACKER.md` — Date badges and footers updated to 2026-04-28 / Session 18
+- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — Date badges and "Last updated" footer dates updated to 2026-04-28
+- `CHANGELOG.md` — This entry; badge updated to 2026-04-28
 
 ---
 

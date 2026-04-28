@@ -4,30 +4,34 @@
 ## Avatar tone: friendly
 ## Brand: Zynthio
 
-[GESTURE: warm smile, slight head tilt]
+[GESTURE: warm smile]
 
-Hey. I'm glad you're here. Welcome to *Zynthio*.
+Hey there. Welcome to *Zynthio*.
 
 [PAUSE 1s]
 
-So — what is this? [GESTURE: open hand] Zynthio is a creative ecosystem. Seven brands, one stack. Everything an independent artist needs to *create*, *learn*, *protect*, and *grow* — all under one roof.
+We're building something different here — a complete creative ecosystem, designed from the ground up for independent artists, producers, and creators like you.
+
+[GESTURE: open hand]
+
+Think of it this way. One stack — seven brands — everything you need to *create*, *learn*, *protect*, and *grow* your work. No middlemen. No gatekeepers.
 
 [PAUSE 0.5s]
 
-We've got *SongPal* for AI-powered music production. *MOSOKO* for hands-on education. *KERVALON* watching over your intellectual property. And a whole lot more connecting it all together.
+From AI-powered music production with *SongPal* — to hands-on education through *MOSOKO* — to real IP protection with *KERVALON* — it all connects. And it's all yours.
 
 [GESTURE: nod]
 
-[PAUSE 0.5s]
-
-This was founded in Aotearoa — New Zealand — by Corey McIvor. And the idea is simple: *creative sovereignty*. Your art. Your tools. Your terms.
+We're founded in New Zealand by Corey McIvor, and we believe in one thing above all: *creative sovereignty*.
 
 [PAUSE 1s]
 
-[GESTURE: warm smile]
-
-No gatekeepers. No middlemen. Just signal.
+Your art. Your tools. Your terms.
 
 [PAUSE 0.5s]
 
-Welcome to the ecosystem. Let's make something.
+No filler. All signal.
+
+[GESTURE: nod]
+
+Let's build something together. Welcome to the ecosystem.
