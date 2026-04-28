@@ -20,17 +20,17 @@ Esto es lo que hace, paso a paso.
 
 [GESTURE: counting on fingers]
 
-*Paso uno — datos.* La IA monitorea datos del mercado en tiempo real. Precios, volumen, tendencias, volatilidad — en múltiples mercados, mucho más rápido de lo que cualquier persona podría procesar.
+*Paso uno — datos.* La IA monitorea datos del mercado en tiempo real. Precios, volumen, tendencias, volatilidad — en múltiples mercados, mucho más rápido de lo que cualquier persona podría.
 
-*Paso dos — patrones.* Con esos datos, el motor identifica patrones y oportunidades potenciales. Busca situaciones donde las probabilidades de un buen resultado son mejores que el promedio — basándose en datos históricos y condiciones actuales.
+*Paso dos — patrones.* Con esos datos, el motor identifica patrones y oportunidades potenciales. Busca situaciones donde las probabilidades son mejores que el promedio — basándose en datos históricos y condiciones actuales.
 
 [GESTURE: nod]
 
-*Paso tres — evaluación de riesgo.* Antes de hacer cualquier movimiento, la IA se pregunta: ¿cuál es el peor escenario? ¿Encaja dentro de nuestros parámetros? Si la respuesta es no — [GESTURE: shake head] — no opera. Así de simple.
+*Paso tres — evaluación de riesgo.* Antes de cualquier movimiento, la IA se pregunta: ¿cuál es el peor escenario? ¿Encaja dentro de nuestros parámetros? Si la respuesta es no — [GESTURE: shake head] — no opera. Así de simple.
 
 [PAUSE 0.5s]
 
-*Paso cuatro — ejecución.* Los datos cuadran, el patrón es sólido, el riesgo es aceptable — el motor ejecuta. Automáticamente. Sin dudar.
+*Paso cuatro — ejecución.* Los datos cuadran, el patrón es sólido, el riesgo es aceptable — el motor ejecuta. Automáticamente. Sin dudar. Sin pensarlo dos veces.
 
 [PAUSE 0.5s]
 

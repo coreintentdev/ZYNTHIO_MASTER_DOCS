@@ -20,17 +20,17 @@ Here's what it does, step by step.
 
 [GESTURE: counting on fingers]
 
-*Step one — data.* The AI monitors market data constantly. Prices, volume, trends, volatility — across multiple markets, way faster than any human could process.
+*Step one — data.* The AI monitors market data constantly. Prices, volume, trends, volatility — across multiple markets, way faster than any human could.
 
-*Step two — patterns.* From that data, the engine identifies patterns and potential opportunities. It's looking for situations where the odds of a good outcome are better than average — based on historical data and real-time conditions.
+*Step two — patterns.* From that data, the engine spots patterns and potential opportunities. It's looking for situations where the odds are better than average — based on historical data and real-time conditions.
 
 [GESTURE: nod]
 
-*Step three — risk check.* Before making any move, the AI asks: what's the worst case? Does this fit our risk parameters? If the answer is no — [GESTURE: shake head] — it doesn't trade. That simple.
+*Step three — risk check.* Before any move, the AI asks: what's the worst case? Does this fit our risk parameters? If the answer is no — [GESTURE: shake head] — it doesn't trade. That simple.
 
 [PAUSE 0.5s]
 
-*Step four — execute.* Data checks out, pattern is strong, risk is acceptable — the engine makes the trade. Automatically. No hesitation.
+*Step four — execute.* Data checks out, pattern is strong, risk is acceptable — the engine places the trade. Automatically. No hesitation. No second-guessing.
 
 [PAUSE 0.5s]
 
