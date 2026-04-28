@@ -14,13 +14,13 @@ He aha tēnei? [GESTURE: open hand] Ko Zynthio he pūnaha auaha. E whitu ngā wa
 
 [PAUSE 0.5s]
 
-Kei a mātou ko *SongPal* mō te hanga puoro AI. Ko *MOSOKO* mō te mātauranga tūturu. Ko *KERVALON* hei kaitiaki mō tō rawa hinengaro. Me ētahi atu mea e hono ana i te katoa.
+Kei a mātou ko *SongPal* mō te hanga puoro AI. Ko *MOSOKO* mō te mātauranga tūturu. Ko *KERVALON* hei kaitiaki mō tō rawa hinengaro. Me *CoreeyAI* hei pūkaha whakaaro mō te katoa.
 
 [GESTURE: nod]
 
 [PAUSE 0.5s]
 
-Nō Aotearoa tēnei kaupapa — i whakatūria e Corey McIvor. He māmā te whakaaro: ko te *tino rangatiratanga auaha*. Tō toi. Ō taputapu. Ō tikanga.
+Nō Aotearoa tēnei kaupapa — i whakatūria e Corey McIvor. Kotahi te kaihanga. Katoa te tūāpapa. He māmā te whakaaro: ko te *tino rangatiratanga auaha*. Tō toi. Ō taputapu. Ō tikanga.
 
 [PAUSE 1s]
 

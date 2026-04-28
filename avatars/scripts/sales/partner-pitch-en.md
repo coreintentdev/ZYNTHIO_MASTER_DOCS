@@ -10,7 +10,7 @@ Thanks for taking this meeting. I want to talk about what a partnership with *Zy
 
 [PAUSE 1s]
 
-Quick picture. Zynthio is a vertically integrated creative-tech ecosystem — seven brands, one stack. AI music production, education, artist development, trading infrastructure, and IP protection. All built in-house. All under one roof.
+Quick picture. Zynthio is a vertically integrated creative-tech ecosystem — seven brands, one stack. AI music production, education, artist development, autonomous trading infrastructure, and IP protection. All built in-house. All under one roof.
 
 [GESTURE: open hand]
 
@@ -20,11 +20,11 @@ So — why does that matter to you?
 
 [GESTURE: counting on fingers]
 
-If you're in the *music or audio space* — *SongPal* is a fully AI-native production platform backed by a proprietary intelligence layer. Integration, co-branding, or distribution partnerships open up an underserved creator demographic that legacy tools can't reach.
+If you're in the *music or audio space* — *SongPal* is a fully AI-native production platform backed by *CoreeyAI*, our proprietary intelligence layer. Integration, co-branding, or distribution partnerships open up an underserved creator demographic that legacy tools can't reach.
 
 If you're in *education or edtech* — *MOSOKO* is launching structured programmes built on real, working tools. Not textbook theory — actual production skills with actual AI. A partnership means access to a fresh curriculum model with built-in technology.
 
-If you're in *AI or developer tools* — *CoreeyAI* is our orchestration layer across Claude, Grok, Perplexity, and Suno. We're building purpose-specific AI for the creative industry and looking for API partners, infra partners, and model-access collaborators.
+If you're in *AI or developer tools* — *CoreeyAI* orchestrates across Claude, Grok, Perplexity, and Suno. We're building purpose-specific AI for the creative industry and looking for API partners, infra partners, and model-access collaborators.
 
 [PAUSE 0.5s]
 
@@ -34,7 +34,7 @@ If you're in *legal or IP services* — *KERVALON* is building IP management spe
 
 [GESTURE: lean forward]
 
-What we bring to the table: a working tech stack, a clear brand architecture, a New Zealand company incorporating now with trademarked IP already filed, and a founder who is the engineer, the producer, and the strategist — all in one.
+What we bring to the table: a working tech stack, a clear brand architecture, a New Zealand company in the process of incorporation with trademarked IP already filed, and a founder who is the engineer, the producer, and the strategist — all in one.
 
 [PAUSE 0.5s]
 

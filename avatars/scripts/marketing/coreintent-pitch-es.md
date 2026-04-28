@@ -22,13 +22,13 @@ El motor es autónomo, con gestión de riesgo integrada, y corre sobre infraestr
 
 [GESTURE: nod]
 
-Pero el trading es solo un vertical. CoreIntent también construye *SongPal* — una plataforma de producción musical con IA — y la capa de inteligencia que impulsa *MOSOKO*, nuestra marca educativa. Un estudio. Múltiples productos. Todo desarrollado internamente.
+Pero el trading es solo un vertical. CoreIntent también construye *SongPal* — una plataforma de producción musical con IA — y potencia *MOSOKO*, nuestra marca educativa, a través de *CoreeyAI*, nuestra capa de inteligencia propia. Un estudio. Múltiples productos. Todo desarrollado internamente.
 
 [PAUSE 0.5s]
 
 [GESTURE: direct eye contact]
 
-Fundado en Nueva Zelanda. Privacidad primero. No hacemos promesas vacías — entregamos sistemas que funcionan.
+Fundado en Nueva Zelanda. Privacidad primero. En proceso de incorporación. No hacemos promesas vacías — entregamos sistemas que funcionan.
 
 [PAUSE 0.5s]
 

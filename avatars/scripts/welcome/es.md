@@ -4,23 +4,23 @@
 ## Avatar tone: friendly
 ## Brand: Zynthio
 
-[GESTURE: warm smile, slight head tilt]
+[GESTURE: warm smile]
 
-Hola. Qué bueno que estés aquí. Bienvenido a *Zynthio*.
+Hola — bienvenido a *Zynthio*. Qué bueno que estés aquí.
 
 [PAUSE 1s]
 
-¿Y qué es Zynthio? [GESTURE: open hand] Es un ecosistema creativo. Siete marcas, un solo sistema. Todo lo que un artista independiente necesita para *crear*, *aprender*, *proteger* y *hacer crecer* su trabajo — todo en un mismo lugar.
+¿Qué es Zynthio? [GESTURE: open hand] Es un ecosistema creativo. Siete marcas, un solo sistema. Todo lo que un artista independiente necesita para *crear*, *aprender*, *proteger* y *crecer* — en un mismo lugar.
 
 [PAUSE 0.5s]
 
-Tenemos *SongPal* para producción musical con inteligencia artificial. *MOSOKO* para educación práctica y real. *KERVALON* cuidando tu propiedad intelectual. Y mucho más conectándolo todo.
+Tenemos *SongPal* para producción musical con inteligencia artificial. *MOSOKO* para educación práctica y real. *KERVALON* cuidando tu propiedad intelectual. Y *CoreeyAI* como motor de inteligencia detrás de todo.
 
 [GESTURE: nod]
 
 [PAUSE 0.5s]
 
-Esto nació en Aotearoa — Nueva Zelanda — de la mano de Corey McIvor. Y la idea es clara: *soberanía creativa*. Tu arte. Tus herramientas. Tus reglas.
+Esto nació en Aotearoa — Nueva Zelanda — de la mano de Corey McIvor. Un fundador. Todo el sistema. Y la idea es clara: *soberanía creativa*. Tu arte. Tus herramientas. Tus reglas.
 
 [PAUSE 1s]
 

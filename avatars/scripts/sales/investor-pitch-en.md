@@ -22,17 +22,17 @@ And it's fragmented. Independent creators are stitching together expensive, disc
 
 [GESTURE: nod]
 
-We're a vertically integrated creative-technology ecosystem. Seven brands, one system. Founded in New Zealand by Corey McIvor.
+We're a vertically integrated creative-technology ecosystem. Seven brands, one system. Founded in New Zealand by Corey McIvor — sole founder, sole engineer, sole architect.
 
 [GESTURE: counting on fingers]
 
-*SongPal* — AI music production. Trademark filed with IPONZ, number 1318588. Flagship revenue driver across individual and studio tiers.
+*SongPal* — AI music production. Trademark filed with IPONZ, number 1318588. Flagship revenue driver.
 
-*CoreeyAI* — proprietary AI orchestration. Not wrapper code. Purpose-built across Claude, Grok, Perplexity, and Suno. This becomes a B2B API product.
+*CoreeyAI* — proprietary AI orchestration across Claude, Grok, Perplexity, and Suno. Not wrapper code — purpose-built intelligence. This becomes a B2B API product.
 
-*MOSOKO* — education. Cohort programmes and self-paced courses. Revenue from day one.
+*MOSOKO* — education. Cohort programmes and self-paced courses. Revenue from day one of launch.
 
-*CoreIntent* — development studio. Also operates an autonomous trading engine on a competition model — internal funding for the ecosystem.
+*CoreIntent* — development studio. Also operates gTrade, an autonomous trading engine on a competition model — internal funding for the ecosystem.
 
 *KERVALON* — legal and IP management. Protecting assets internally, then offering services externally.
 
@@ -42,11 +42,11 @@ We're a vertically integrated creative-technology ecosystem. Seven brands, one s
 
 [GESTURE: lean forward]
 
-Traction. The infrastructure is *live* — Docker, Python 3.11, our own VPS. SongPal trademark *filed*. ZYNTHIO LIMITED *reserved* with the Companies Office — incorporation is imminent. Music *written and in the deployment pipeline*. Codebase is public on GitHub. Trading engine already generating internal revenue.
+Traction. The infrastructure is *live* — Docker, Python 3.11, our own VPS. SongPal trademark *filed*. ZYNTHIO LIMITED *filed* with the NZ Companies Office — incorporation is imminent. Music *written and in the deployment pipeline*. Codebase public on GitHub. Trading engine generating internal revenue right now.
 
 [PAUSE 0.5s]
 
-We're raising 150 to 250 thousand NZD in seed capital. Allocation: thirty-five percent SongPal development, twenty percent MOSOKO curriculum, twenty percent marketing, remainder to legal, infrastructure, and reserves.
+We're raising 150 to 250 thousand NZD in seed capital. Thirty-five percent goes to SongPal development. Twenty percent to MOSOKO curriculum. Twenty percent to marketing. The rest to legal, infrastructure, and reserves.
 
 [GESTURE: nod]
 

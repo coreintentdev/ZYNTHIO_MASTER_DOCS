@@ -28,9 +28,9 @@ Here's what you get.
 
 *AI-assisted composition* — the engine helps you write melodies, chord progressions, song structures. It suggests. *You* decide.
 
-*Intelligent arrangement* — drop your ideas in and the AI helps shape them into a full production. Verse, chorus, bridge — structured and professional.
+*Intelligent arrangement* — drop your ideas in and the AI shapes them into a full production. Verse, chorus, bridge — structured and professional.
 
-*Generative audio* — integrated with Suno for cutting-edge sound generation. Need a texture, a pad, a vocal layer? Generate it inside your project.
+*Generative audio* — integrated with Suno for cutting-edge sound generation. Need a texture, a pad, a vocal layer? Generate it right inside your project.
 
 [PAUSE 0.5s]
 
@@ -42,6 +42,6 @@ And here's the big one — *you own everything you create*. One hundred percent.
 
 [GESTURE: nod]
 
-Trademarked in New Zealand — IPONZ number 1318588. Flagship product of the Zynthio ecosystem.
+Trademarked in New Zealand — IPONZ number 1318588. Flagship product of the Zynthio ecosystem. Powered by *CoreeyAI*.
 
 *Your sound. Your stack.* That's SongPal.
