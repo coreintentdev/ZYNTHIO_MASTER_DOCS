@@ -1,6 +1,6 @@
 # ZYNTHIO MASTER DOCS
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Brands](https://img.shields.io/badge/brands-7-purple) ![Founded](https://img.shields.io/badge/founded-2026-orange) ![Days Left](https://img.shields.io/badge/days%20to%20incorporate-14-orange) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Brands](https://img.shields.io/badge/brands-7-purple) ![Founded](https://img.shields.io/badge/founded-2026-orange) ![Days Left](https://img.shields.io/badge/days%20to%20incorporate-13-orange) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
 
 > **Central documentation hub for the entire Zynthio ecosystem.**
 > Founder: Corey McIvor — NZ/AU citizen, based in Nicaragua.
@@ -11,7 +11,7 @@
 
 > **ZYNTHIO LIMITED — INCORPORATE BEFORE MAY 12, 2026**
 > Name reservation #15436626 expires **May 12, 2026**.
-> **As of 2026-04-28: 14 days remain. TODAY IS MONDAY APR 28 — Certificate of Incorporation expected TODAY. Check portal and email NOW. Call Companies Office if not yet issued.**
+> **As of 2026-04-29: 13 days remain. TODAY IS TUESDAY APR 29 — Certificate of Incorporation expected APR 28–29 (business day 6 since filing Apr 21). Check portal and email NOW. Call Companies Office if not yet issued.**
 > Failure to act forfeits the reserved name permanently.
 
 **Immediate action required:**
@@ -68,4 +68,4 @@ Zynthio is a sovereign AI-powered creative and technology ecosystem built by Cor
 
 ---
 
-*Last updated: 2026-04-28 (Session 18)*
+*Last updated: 2026-04-29 (Session 19)*
