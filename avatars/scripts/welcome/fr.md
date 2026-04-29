@@ -6,23 +6,23 @@
 
 [GESTURE: warm smile]
 
-Bonjour. Bienvenue chez *Zynthio*.
+Bonjour — bienvenue chez *Zynthio*.
 
 [PAUSE 1s]
 
-On construit quelque chose de différent ici — un écosystème créatif complet, conçu de A à Z pour les artistes indépendants, les producteurs et les créateurs comme vous.
+Nous ne sommes pas une simple application. Nous sommes un écosystème créatif complet — sept marques, un seul système — conçu de A à Z pour les artistes indépendants, les producteurs et les créateurs qui veulent garder le contrôle de leur travail.
 
 [GESTURE: open hand]
 
-Voyez les choses comme ça. Un seul système — sept marques — tout ce dont vous avez besoin pour *créer*, *apprendre*, *protéger* et *développer* votre travail. Pas d'intermédiaires. Pas de barrières.
+En bref : vous créez de la musique avec *SongPal* — notre plateforme de production musicale propulsée par l'intelligence artificielle. Vous apprenez le métier avec *MOSOKO* — une vraie formation, pas des tutoriels. Et vous protégez tout ce que vous créez grâce à *KERVALON* — notre département juridique et propriété intellectuelle.
 
 [PAUSE 0.5s]
 
-De la production musicale assistée par IA avec *SongPal* — à la formation pratique avec *MOSOKO* — en passant par la protection de propriété intellectuelle avec *KERVALON* — tout est connecté. Et tout est à vous.
+Le tout propulsé par *CoreeyAI* — notre moteur d'intelligence — et construit par *CoreIntent*, notre studio d'ingénierie, basé en Nouvelle-Zélande.
 
 [GESTURE: nod]
 
-Nous sommes fondés en Nouvelle-Zélande par Corey McIvor, et nous croyons en une chose par-dessus tout : la *souveraineté créative*.
+Fondé par Corey McIvor. Un seul fondateur. Tout le système. Et un principe au-dessus de tout — la *souveraineté créative*.
 
 [PAUSE 1s]
 
@@ -30,8 +30,8 @@ Votre art. Vos outils. Vos conditions.
 
 [PAUSE 0.5s]
 
-Pas de superflu. Que du signal.
+Zéro superflu. Que du signal.
 
 [GESTURE: nod]
 
-Construisons quelque chose ensemble. Bienvenue dans l'écosystème.
+Bienvenue dans l'écosystème. Construisons ensemble.

@@ -6,23 +6,23 @@
 
 [GESTURE: warm smile]
 
-Hey there. Welcome to *Zynthio*.
+Hey — welcome to *Zynthio*.
 
 [PAUSE 1s]
 
-We're building something different here — a complete creative ecosystem, designed from the ground up for independent artists, producers, and creators like you.
+We're not another app. We're a whole creative ecosystem — seven brands, one stack — built from scratch for independent artists, producers, and creators who want to own their work.
 
 [GESTURE: open hand]
 
-Think of it this way. One stack — seven brands — everything you need to *create*, *learn*, *protect*, and *grow* your work. No middlemen. No gatekeepers.
+Here's the short version. You create music with *SongPal* — our AI production platform. You learn the craft through *MOSOKO* — real education, not tutorials. And you protect everything you make with *KERVALON* — our IP and legal arm.
 
 [PAUSE 0.5s]
 
-From AI-powered music production with *SongPal* — to hands-on education through *MOSOKO* — to real IP protection with *KERVALON* — it all connects. And it's all yours.
+All of it powered by *CoreeyAI* — our intelligence layer — and all of it built by *CoreIntent*, our engineering studio, right here in New Zealand.
 
 [GESTURE: nod]
 
-We're founded in New Zealand by Corey McIvor, and we believe in one thing above all: *creative sovereignty*.
+Founded by Corey McIvor. One founder. The whole stack. And one rule above everything else — *creative sovereignty*.
 
 [PAUSE 1s]
 
@@ -34,4 +34,4 @@ No filler. All signal.
 
 [GESTURE: nod]
 
-Let's build something together. Welcome to the ecosystem.
+Welcome to the ecosystem. Let's build something together.

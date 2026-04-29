@@ -6,11 +6,11 @@
 
 [GESTURE: nod]
 
-Hablemos de cómo funciona realmente nuestro motor de trading — y por qué es diferente a lo que probablemente hayas visto antes.
+Hablemos de cómo funciona nuestro motor de trading — y por qué es diferente a lo que probablemente hayas visto antes.
 
 [PAUSE 1s]
 
-La mayoría de las plataformas de trading te encierran en suscripciones mensuales. Pagas ganes o pierdas. La plataforma gana dinero sin importar tus resultados. Ese modelo está roto.
+La mayoría de las plataformas de trading cobran suscripciones mensuales. Pagas ganes o pierdas. La plataforma gana dinero sin importar el resultado. Ese modelo está roto — y seguramente ya lo sabes.
 
 [GESTURE: open hand]
 
@@ -18,27 +18,27 @@ En *CoreIntent*, usamos un *modelo basado en competiciones*. Esto es lo que sign
 
 [PAUSE 0.5s]
 
-En lugar de pagar una suscripción por acceso, participas en competiciones de trading. Tu motor de IA — construido por CoreIntent — compite usando estrategias autónomas con gestión de riesgo. El sistema está diseñado para gestionar el riesgo primero y buscar rendimientos después.
+En vez de pagar por acceso, participas en competiciones de trading. Tu motor de IA — construido por CoreIntent — compite usando estrategias autónomas con gestión de riesgo. El sistema gestiona el riesgo primero. Los rendimientos vienen después. Siempre.
 
 [GESTURE: counting on fingers]
 
-*Principios clave* que necesitas entender:
+Tres principios que necesitas entender.
 
-*Primero* — la gestión de riesgo es lo primero. Cada operación tiene límites predefinidos. El sistema no persigue pérdidas ni se apalanca en exceso. Nunca.
+*Primero* — la gestión de riesgo no es negociable. Cada operación tiene límites predefinidos. El sistema no persigue pérdidas. No se apalanca en exceso. Nunca.
 
-*Segundo* — la IA toma decisiones basadas en datos, no en emociones. Analiza las condiciones del mercado, identifica oportunidades y ejecuta dentro de parámetros estrictos.
+*Segundo* — la IA toma decisiones basadas en datos, no en emociones. Lee las condiciones del mercado, detecta oportunidades y ejecuta dentro de parámetros estrictos. Sin corazonadas. Sin pánico.
 
-*Tercero* — la estructura de competición significa alineación. Nosotros tenemos éxito cuando tú tienes éxito. No hay incentivo para seguir cobrándote mientras pierdes.
+*Tercero* — la estructura de competición genera alineación. Nosotros ganamos cuando tú ganas. No hay incentivo para seguir cobrándote mientras pierdes.
 
 [PAUSE 1s]
 
 [GESTURE: nod]
 
-Ahora — esto es importante. Ningún sistema de trading garantiza rendimientos. Los mercados son impredecibles. Lo que *sí* podemos garantizar es ejecución disciplinada, gestión de riesgo transparente y un modelo que pone tus intereses primero.
+Ahora — esto es importante. Ningún sistema garantiza rendimientos. Los mercados son impredecibles. Lo que *sí* podemos garantizar es ejecución disciplinada, gestión de riesgo transparente y un modelo que pone tus intereses por delante de los nuestros.
 
 [PAUSE 0.5s]
 
-Esa es la base. En la próxima lección, profundizaremos en cómo la IA toma decisiones de trading.
+Esa es la base. En la próxima lección, profundizamos en cómo la IA toma decisiones de trading.
 
 [GESTURE: nod]
 

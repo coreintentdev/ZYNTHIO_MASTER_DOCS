@@ -1,28 +1,28 @@
 # 欢迎来到 Zynthio
-## Language: 普通话
+## Language: 中文（普通话）
 ## Duration: 45 seconds
 ## Avatar tone: professional
 ## Brand: Zynthio
 
 [GESTURE: warm smile]
 
-你好。欢迎来到 *Zynthio*。
+你好 — 欢迎来到 *Zynthio*。
 
 [PAUSE 1s]
 
-我们正在打造一些不同的东西——一个完整的创意生态系统，专为像你这样的独立艺术家、制作人和创作者而设计。
+我们不是一款普通的应用。我们是一个完整的创意生态系统 — 七个品牌，一个体系 — 从零开始为独立音乐人、制作人和创作者打造。
 
 [GESTURE: open hand]
 
-简单来说：一个系统——七个品牌——你创作、学习、保护和发展作品所需要的一切。没有中间商，没有门槛。
+简单来说：用 *SongPal* 创作音乐 — 我们的AI音乐制作平台。通过 *MOSOKO* 学习技艺 — 真正的系统化教育。用 *KERVALON* 保护你的每一件作品 — 知识产权和法律保障。
 
 [PAUSE 0.5s]
 
-从 *SongPal* 的AI音乐制作——到 *MOSOKO* 的实践教育——再到 *KERVALON* 的知识产权保护——一切都互相连接。而且都属于你。
+一切由 *CoreeyAI* 智能引擎驱动，由 *CoreIntent* 工程团队构建，总部设在新西兰。
 
 [GESTURE: nod]
 
-我们由 Corey McIvor 在新西兰创立，我们最坚信的一件事就是：*创作主权*。
+创始人 Corey McIvor。一个人，构建了整个体系。核心理念只有一个 — *创作主权*。
 
 [PAUSE 1s]
 
@@ -30,8 +30,8 @@
 
 [PAUSE 0.5s]
 
-没有多余。全是信号。
+没有废话。全是信号。
 
 [GESTURE: nod]
 
-让我们一起创造吧。欢迎加入这个生态系统。
+欢迎加入。让我们一起创造。
