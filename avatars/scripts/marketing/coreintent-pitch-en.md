@@ -3,6 +3,9 @@
 ## Duration: 60 seconds
 ## Avatar tone: professional
 ## Brand: CoreIntent
+## Pronunciation: CoreIntent (CORE-in-tent) · Zynthio (ZIN-thee-oh) · SongPal (SONG-pal) · MOSOKO (moh-SOH-koh) · CoreeyAI (COR-ee-ay-eye)
+
+---
 
 [GESTURE: direct eye contact]
 
@@ -12,7 +15,7 @@ Let me tell you about *CoreIntent* in sixty seconds.
 
 CoreIntent is the engineering studio behind the Zynthio ecosystem. We build AI-powered systems — from autonomous trading engines to music production platforms — with one rule: *build with intent, ship with precision*.
 
-[GESTURE: open hand]
+[GESTURE: open palm forward]
 
 Our trading engine runs on a *competition-based model*. Not subscriptions. We don't profit from locking you in — we profit when the system performs. Full alignment.
 
@@ -20,7 +23,7 @@ Our trading engine runs on a *competition-based model*. Not subscriptions. We do
 
 The engine is autonomous, risk-managed, and built on sovereign infrastructure — Python, Docker, our own VPS. No third-party black boxes. We control the entire pipeline.
 
-[GESTURE: nod]
+[GESTURE: slight head tilt]
 
 But trading is just one vertical. CoreIntent also builds *SongPal* — an AI music production platform — and powers the intelligence behind *MOSOKO*, our education brand. Everything is connected. One studio. Multiple products. All engineered in-house.
 

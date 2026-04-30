@@ -3,6 +3,9 @@
 ## Duration: 90 seconds
 ## Avatar tone: friendly
 ## Brand: CoreIntent
+## Pronunciation: CoreIntent (CORE-in-tent) · gTrade (jee-TRADE)
+
+---
 
 [GESTURE: warm smile]
 
@@ -12,7 +15,7 @@ Alright — let's break down how AI trading actually works. No jargon. No hype. 
 
 Think of the AI trading engine as a very disciplined analyst who never sleeps, never panics, and never makes decisions based on gut feelings.
 
-[GESTURE: open hand]
+[GESTURE: open palm forward]
 
 Here's what it does, step by step.
 
@@ -20,7 +23,7 @@ Here's what it does, step by step.
 
 *Step one — data collection.* The AI monitors market data constantly. Prices, volume, trends, volatility — across multiple markets, far faster than any human could.
 
-[GESTURE: nod]
+[GESTURE: slight head tilt]
 
 *Step two — pattern recognition.* Based on that data, the engine identifies patterns and potential opportunities. It looks for situations where the probability of a favourable outcome is higher than average — based on history and real-time conditions.
 
@@ -32,7 +35,7 @@ Here's what it does, step by step.
 
 [PAUSE 1s]
 
-[GESTURE: open hand]
+[GESTURE: lean forward]
 
 *Step five — monitoring.* After the trade is live, the AI keeps watching. If conditions change, it adjusts. If a stop-loss triggers, it exits. No ego. No holding on and hoping.
 

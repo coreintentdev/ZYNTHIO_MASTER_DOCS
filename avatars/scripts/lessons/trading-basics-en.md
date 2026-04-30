@@ -3,16 +3,19 @@
 ## Duration: 90 seconds
 ## Avatar tone: professional
 ## Brand: CoreIntent
+## Pronunciation: CoreIntent (CORE-in-tent) · Zynthio (ZIN-thee-oh) · gTrade (jee-TRADE)
 
-[GESTURE: nod]
+---
+
+[GESTURE: direct eye contact]
 
 Let's talk about how our trading engine works — and why it's different from what you've probably seen before.
 
 [PAUSE 1s]
 
-Most trading platforms charge monthly subscriptions. You pay whether you win or lose. The platform makes money regardless. That model is broken — and we think you know it.
+Most trading platforms charge monthly subscriptions. You pay whether you win or lose. The platform profits regardless. That model is broken — and you probably already know it.
 
-[GESTURE: open hand]
+[GESTURE: open palm forward]
 
 At *CoreIntent*, we use a *competition-based model*. Here's what that means.
 
@@ -26,13 +29,15 @@ Three principles you need to understand.
 
 *One* — risk management is non-negotiable. Every trade has predefined limits. The system will not chase losses. It will not over-leverage. Ever.
 
+[PAUSE 0.5s]
+
 *Two* — the AI makes decisions on data, not emotion. It reads market conditions, spots opportunities, and executes within strict parameters. No gut feelings. No panic.
 
 *Three* — the competition structure creates alignment. We succeed when you succeed. There's no incentive to keep charging you while you lose.
 
 [PAUSE 1s]
 
-[GESTURE: nod]
+[GESTURE: lean forward]
 
 Now — this matters. No system guarantees returns. Markets are unpredictable. What we *can* guarantee is disciplined execution, transparent risk management, and a model that puts your interests ahead of ours.
 

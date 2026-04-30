@@ -3,6 +3,9 @@
 ## Duration: 100 seconds
 ## Avatar tone: professional
 ## Brand: Zynthio
+## Pronunciation: Zynthio (ZIN-thee-oh) · SongPal (SONG-pal) · CoreeyAI (COR-ee-ay-eye) · MOSOKO (moh-SOH-koh) · KERVALON (KER-vah-lon) · CoreIntent (CORE-in-tent)
+
+---
 
 [GESTURE: warm smile]
 
@@ -12,7 +15,7 @@ Thanks for taking this meeting. I want to talk about what a partnership with *Zy
 
 Quick picture. Zynthio is a vertically integrated creative-technology ecosystem — seven brands, one stack. We cover AI music production, education, artist development, autonomous trading, and IP protection. All built in-house. All under one roof.
 
-[GESTURE: open hand]
+[GESTURE: open palm forward]
 
 So — why does that matter to you?
 
@@ -20,7 +23,7 @@ So — why does that matter to you?
 
 If you're in the *music or audio space* — we bring *SongPal*, a fully AI-native production platform with a proprietary intelligence layer. Integration, co-branding, or distribution partnerships open up a new creator demographic that legacy tools have missed.
 
-[GESTURE: nod]
+[GESTURE: slight head tilt]
 
 If you're in *education or edtech* — *MOSOKO* is launching cohort and self-paced programmes built on real, working tools. Not theory. Not textbook curriculum. Actual production skills with actual AI. A partnership means access to a fresh curriculum model with technology baked in.
 

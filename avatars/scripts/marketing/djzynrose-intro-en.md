@@ -3,6 +3,9 @@
 ## Duration: 70 seconds
 ## Avatar tone: energetic
 ## Brand: DJ Zynrose
+## Pronunciation: DJ Zynrose (dee-jay ZIN-rohz) · Zynthio (ZIN-thee-oh) · SongPal (SONG-pal) · CoreeyAI (COR-ee-ay-eye) · MOSOKO (moh-SOH-koh)
+
+---
 
 [GESTURE: relaxed smile]
 
@@ -12,7 +15,7 @@ Yo — I'm *DJ Zynrose*.
 
 I make music at the intersection of human creativity and artificial intelligence. Electronic. Experimental. Ambient. Whatever the sound demands — that's where I go.
 
-[GESTURE: open hand]
+[GESTURE: open palm forward]
 
 But here's what sets this apart from every other AI music project out there. I'm not just *using* AI tools — I *built* them. DJ Zynrose is the artist persona of Corey McIvor, the founder of *Zynthio* and the engineer behind *SongPal*, *CoreeyAI*, and the entire ecosystem.
 
@@ -20,7 +23,7 @@ But here's what sets this apart from every other AI music project out there. I'm
 
 Every track I release is made with the same tools we're building for you. *SIGNAL 336*. *THE MIRROR ASKED A QUESTION*. Real tracks. Real production. Real proof that this stack works.
 
-[GESTURE: nod]
+[GESTURE: slight head tilt]
 
 That's the point. DJ Zynrose isn't a side project — it's the *living proof of concept*. If the music sounds good, the tools work. Simple.
 
@@ -28,7 +31,7 @@ That's the point. DJ Zynrose isn't a side project — it's the *living proof of 
 
 And everything I create becomes teaching material inside *MOSOKO* — our education platform. So you don't just hear the music — you learn how it was made. Then you make your own.
 
-[GESTURE: nod]
+[GESTURE: lean forward]
 
 The signal is *336*. The doctrine is simple — *no filler, all signal*.
 
