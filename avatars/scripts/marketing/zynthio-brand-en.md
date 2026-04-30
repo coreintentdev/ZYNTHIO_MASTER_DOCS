@@ -1,49 +1,45 @@
-# The Zynthio Ecosystem — Brand Overview
+# The Zynthio Ecosystem — Everything Connected
 ## Language: English
-## Duration: 90 seconds
-## Avatar tone: professional
+## Duration: 65 seconds
+## Avatar tone: visionary, warm
 ## Brand: Zynthio
 
-[GESTURE: warm smile]
+[GESTURE: open hands, welcoming]
 
-Imagine a world where independent creators have *everything* they need in one place. The tools to create. The intelligence to compete. The education to grow. And the legal protection to own it all.
-
-[PAUSE 1s]
-
-That's *Zynthio*.
-
-[GESTURE: open hand]
-
-We're not a single product. We're a *sovereign creative-technology ecosystem* — seven interconnected brands, each with a clear role, all working as one system.
-
-[PAUSE 0.5s]
-
-Let me walk you through it.
-
-[GESTURE: counting on fingers]
-
-*SongPal* — our AI-powered music production platform. Creators write, arrange, and produce with intelligent assistance built in. Trademark filed in New Zealand. Platform in development.
-
-*CoreeyAI* — the intelligence layer that powers everything. Custom AI orchestration across Claude, Grok, and Perplexity. Not off-the-shelf wrappers. Purpose-built.
-
-*MOSOKO* — our education brand. Real curriculum, real tools. Teaching independent artists to produce, protect, and publish their work.
-
-*DJ Zynrose* — the artist persona. Corey McIvor producing music with Zynthio's own tools. Living proof that the stack works.
-
-*CoreIntent* — the development studio. Every line of code, every deployment, every system — engineered here. Also operates an autonomous trading engine.
-
-*KERVALON* — the legal sentinel. Trademark filings, IP protection, compliance. What we build, we protect.
+What if trading, education, music, and legal protection all lived under one roof — and actually talked to each other?
 
 [PAUSE 1s]
 
-[GESTURE: nod]
-
-And *Zynthio* itself — the parent company, incorporating in New Zealand — ties it all together.
+That's Zynthio. [GESTURE: nod]
 
 [PAUSE 0.5s]
 
-One stack. Seven brands. No filler. All signal.
+At our core is *CoreIntent* — an AI trading engine built on competition, not subscriptions. You enter. You compete. You earn.
+
+[PAUSE 1s]
+
+Feeding into that is *MOSOKO* — our education platform. It doesn't just teach you theory. It teaches you to *do*. Hands-on learning that connects straight to the trading floor.
 
 [GESTURE: nod]
 
-This is creative sovereignty. This is *Zynthio*.
+[PAUSE 1s]
+
+On the creative side, *SongPal* and *DJ Zynrose* bring music into the mix — because community isn't just about charts and numbers.
+
+[PAUSE 0.5s]
+
+And watching over everything is *KERVALON* — our legal sentinel. Compliance, IP protection, regulatory navigation — handled.
+
+[GESTURE: confident nod]
+
+[PAUSE 1s]
+
+Built in New Zealand by founder Corey McIvor. Privacy-first. Sovereign infrastructure. No shortcuts.
+
+[PAUSE 1s]
+
+Zynthio. One ecosystem. Everything connected. Built for you.
+
+[PAUSE 0.5s]
+
+[END]

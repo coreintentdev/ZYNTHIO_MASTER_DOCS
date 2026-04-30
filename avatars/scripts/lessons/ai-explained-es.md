@@ -1,45 +1,41 @@
-# Cómo Funciona el Trading con IA — Explicado Simple
-## Language: Español
-## Duration: 95 seconds
-## Avatar tone: friendly
+# Como Funciona el Trading con IA — Explicado de Forma Simple
+## Language: Spanish (es)
+## Duration: 75 seconds
+## Avatar tone: clear, approachable, educational
 ## Brand: CoreIntent
 
-[GESTURE: warm smile]
+[GESTURE: friendly nod]
 
-Bien — vamos a explicar cómo funciona el trading con IA. Sin tecnicismos. Sin exageraciones. Solo la imagen real.
-
-[PAUSE 1s]
-
-Piensa en el motor de trading como un analista muy disciplinado que nunca duerme, nunca entra en pánico y nunca toma decisiones por corazonada.
-
-[GESTURE: open hand]
-
-Esto es lo que hace, paso a paso.
-
-[PAUSE 0.5s]
-
-*Paso uno — recopilación de datos.* La IA monitorea datos del mercado constantemente. Precios, volumen, tendencias, volatilidad — en múltiples mercados, mucho más rápido que cualquier humano.
-
-[GESTURE: nod]
-
-*Paso dos — reconocimiento de patrones.* Con esos datos, el motor identifica patrones y oportunidades potenciales. Busca situaciones donde la probabilidad de un resultado favorable sea mayor que el promedio — basándose en el historial y condiciones en tiempo real.
-
-*Paso tres — evaluación de riesgo.* Antes de cualquier movimiento, la IA verifica el riesgo. ¿Cuál es la pérdida máxima? ¿Encaja en nuestros parámetros? Si el riesgo es demasiado alto, no opera. Punto.
-
-[PAUSE 0.5s]
-
-*Paso cuatro — ejecución.* Si los datos cuadran, el patrón es fuerte y el riesgo es aceptable — el motor ejecuta. Automáticamente. Sin dudar. Sin cuestionarse.
+Probablemente has escuchado el revuelo sobre el trading con IA. Dejame explicarte como funciona realmente — sin jerga, solo lo esencial.
 
 [PAUSE 1s]
 
-[GESTURE: open hand]
+Los traders tradicionales dependen de graficos, intuicion, y quizas algunos indicadores. El trading con IA es diferente. [GESTURE: open hands]
 
-*Paso cinco — monitoreo.* Después de que la operación está activa, la IA sigue vigilando. Si las condiciones cambian, se ajusta. Si se activa un stop-loss, sale. Sin ego. Sin aferrarse esperando lo mejor.
+Nuestro motor procesa *miles* de datos cada segundo — movimientos de precios, volumen, volatilidad, correlaciones entre mercados — cosas que ningun humano podria rastrear manualmente.
+
+[PAUSE 1s]
+
+Encuentra patrones. [GESTURE: nod] No los obvios que todos ven — los sutiles que estan enterrados en el ruido.
+
+[PAUSE 1s]
+
+Pero esto es lo que hace unico a CoreIntent — la IA no opera *por* ti. Opera *contigo*.
+
+[GESTURE: open hands]
+
+Tu sigues tomando las decisiones. La IA te da una ventaja — mejores datos, analisis mas rapido, senales mas claras. Piensalo como un copiloto, no un piloto automatico.
+
+[PAUSE 1s]
+
+Y como funciona dentro de estructuras de competicion, la IA esta optimizada para el *rendimiento*, no para generar comisiones.
+
+[GESTURE: confident nod]
+
+[PAUSE 1s]
+
+Eso es el trading con IA en CoreIntent. Herramientas mas inteligentes. Tus decisiones. Resultados reales.
 
 [PAUSE 0.5s]
 
-Ese es el ciclo. Datos de entrada. Análisis. Verificación de riesgo. Ejecución. Monitoreo. Repetir.
-
-[GESTURE: nod]
-
-La IA no tiene días malos. No se vuelve codiciosa. Sigue las reglas — y esa disciplina es exactamente lo que la hace poderosa.
+[END]

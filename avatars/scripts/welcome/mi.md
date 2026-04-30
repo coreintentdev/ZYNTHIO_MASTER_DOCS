@@ -1,37 +1,35 @@
 # Nau Mai ki Zynthio
-## Language: Te Reo Māori
+## Language: Te Reo Maori (mi)
 ## Duration: 50 seconds
-## Avatar tone: warm
+## Avatar tone: warm, respectful
 ## Brand: Zynthio
 
 [GESTURE: warm smile]
 
-Kia ora — nau mai haere mai ki *Zynthio*.
+Tena koe — nau mai, haere mai ki *Zynthio*.
 
 [PAUSE 1s]
 
-Kei te hanga mātou i tētahi ao auaha hou — e whitu ngā waitohu, kotahi te pūnaha — mō ngā kaiauaha motuhake, ngā kaiwhakaputa puoro, me ngā kaihanga e hiahia ana ki te pupuri i ā rātou mahi.
+Kei konei au ki te whakaatu i a matou mahi katoa ki a koe. [GESTURE: open hands]
 
-[GESTURE: open hand]
-
-Ka waihanga puoro koe mā *SongPal* — tō mātou pūnaha whakaputa puoro atamai. Ka ako koe i te mahi mā *MOSOKO* — he mātauranga tūturu, ehara i te akoranga māmā noa. Ka tiakina ō mahi katoa e *KERVALON* — tō mātou ringa ture me te raukaha hinengaro.
-
-[PAUSE 0.5s]
-
-Ko *CoreeyAI* te hinengaro atamai e whakahaere ana i te katoa. Ko *CoreIntent* te whare hanga. Nō Aotearoa mātou.
-
-[GESTURE: nod]
-
-I whakatūria e Corey McIvor. Kotahi te kaiwhakatū. Te pūnaha katoa. Me tētahi tikanga matua — *te tino rangatiratanga auaha*.
+Ko Zynthio he punaha whanui — he hokohoko atamai, he matauranga, he puoro, he tiaki ture — kua hangaia kia *koe* te rangatira.
 
 [PAUSE 1s]
 
-Tō toi. Ō utauta. Ō tikanga.
-
-[PAUSE 0.5s]
-
-Kāore he whakakī. He tohu katoa.
+Ko *CoreIntent* te pumanawa matua — he mihini hokohoko e whakamahia ana te atamai porihanga. Kaore he utu a-marama. Ka utu koe ina whakataetae koe — a, ka whakataetae koe kia *toa*.
 
 [GESTURE: nod]
 
-Nau mai ki te pūnaha. Kia hanga tahi tātou.
+Kei a matou hoki ko *MOSOKO* mo te ako a-ringa, ko *SongPal* mo te puoro, me *KERVALON* hei tiaki i te taha ture.
+
+[PAUSE 1s]
+
+I hangaia ki Aotearoa. Ko te tumataiti te mea tuatahi. He tuapapa mana motuhake.
+
+[GESTURE: confident nod]
+
+Noho mai — he nui nga mea hei tuhura. Timata tatou.
+
+[PAUSE 0.5s]
+
+[END]

@@ -1,45 +1,45 @@
-# Trading Basics — The Competition Model
+# Trading Basics — What You Need to Know
 ## Language: English
-## Duration: 90 seconds
-## Avatar tone: professional
-## Brand: CoreIntent
+## Duration: 75 seconds
+## Avatar tone: clear, patient, educational
+## Brand: CoreIntent / MOSOKO
 
-[GESTURE: nod]
+[GESTURE: friendly nod]
 
-Let's talk about how our trading engine works — and why it's different from what you've probably seen before.
-
-[PAUSE 1s]
-
-Most trading platforms charge monthly subscriptions. You pay whether you win or lose. The platform makes money regardless. That model is broken — and we think you know it.
-
-[GESTURE: open hand]
-
-At *CoreIntent*, we use a *competition-based model*. Here's what that means.
-
-[PAUSE 0.5s]
-
-Instead of paying for access, you enter trading competitions. Your AI engine — built by CoreIntent — competes using autonomous, risk-managed strategies. The system manages risk first. Returns come second. Always.
-
-[GESTURE: counting on fingers]
-
-Three principles you need to understand.
-
-*One* — risk management is non-negotiable. Every trade has predefined limits. The system will not chase losses. It will not over-leverage. Ever.
-
-*Two* — the AI makes decisions on data, not emotion. It reads market conditions, spots opportunities, and executes within strict parameters. No gut feelings. No panic.
-
-*Three* — the competition structure creates alignment. We succeed when you succeed. There's no incentive to keep charging you while you lose.
+Let's talk about the basics of trading — and why CoreIntent does it differently.
 
 [PAUSE 1s]
 
-[GESTURE: nod]
+In traditional trading, you open an account with a broker, deposit money, and start buying and selling assets — stocks, currencies, crypto, whatever the platform supports.
 
-Now — this matters. No system guarantees returns. Markets are unpredictable. What we *can* guarantee is disciplined execution, transparent risk management, and a model that puts your interests ahead of ours.
+[GESTURE: open hands]
+
+The problem? Most retail traders *lose* money. The odds are stacked against individuals.
+
+[PAUSE 1s]
+
+CoreIntent flips that model. [GESTURE: nod]
+
+Instead of trading live markets directly, you compete in structured competitions. Think of it like a trading tournament — you enter, you execute your strategy, and if you perform well, you *earn*.
+
+[PAUSE 1s]
+
+There are no subscriptions. No monthly fees bleeding your account dry. You pay a competition entry fee — that's it.
+
+[PAUSE 1s]
+
+And here's the key difference — our AI engine analyses markets, identifies patterns, and supports your decision-making. So you're not guessing in the dark.
+
+[GESTURE: confident nod]
+
+[PAUSE 1s]
+
+You bring the discipline. CoreIntent brings the intelligence.
+
+[PAUSE 1s]
+
+Want to go deeper? Check out the next lesson on how AI trading actually works.
 
 [PAUSE 0.5s]
 
-That's the foundation. Next lesson, we go deeper into how the AI actually makes trading decisions.
-
-[GESTURE: nod]
-
-See you there.
+[END]

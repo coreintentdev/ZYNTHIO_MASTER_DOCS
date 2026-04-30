@@ -1,33 +1,45 @@
 # CoreIntent — 60-Second Elevator Pitch
 ## Language: English
 ## Duration: 60 seconds
-## Avatar tone: professional
+## Avatar tone: confident, energetic
 ## Brand: CoreIntent
 
-[GESTURE: direct eye contact]
+[GESTURE: direct eye contact, slight lean forward]
 
-Let me tell you about *CoreIntent* in sixty seconds.
+Here's the problem — retail traders lose money. Ninety percent of them. The platforms profit whether you win or lose — and they *want* you to keep trading.
 
-[PAUSE 0.5s]
+[PAUSE 1s]
 
-CoreIntent is the engineering studio behind the Zynthio ecosystem. We build AI-powered systems — from autonomous trading engines to music production platforms — with one rule: *build with intent, ship with precision*.
-
-[GESTURE: open hand]
-
-Our trading engine runs on a *competition-based model*. Not subscriptions. We don't profit from locking you in — we profit when the system performs. Full alignment.
-
-[PAUSE 0.5s]
-
-The engine is autonomous, risk-managed, and built on sovereign infrastructure — Python, Docker, our own VPS. No third-party black boxes. We control the entire pipeline.
+CoreIntent changes that. Completely.
 
 [GESTURE: nod]
 
-But trading is just one vertical. CoreIntent also builds *SongPal* — an AI music production platform — and powers the intelligence behind *MOSOKO*, our education brand. Everything is connected. One studio. Multiple products. All engineered in-house.
+[PAUSE 0.5s]
+
+We've built an AI-powered trading engine where you *compete* — not subscribe. No monthly fees draining your account. You enter competitions, execute your strategy, and the best performers *win*.
+
+[PAUSE 1s]
+
+The AI isn't a black box. It's your co-pilot — crunching thousands of data points so you trade with an *edge*, not a guess.
+
+[GESTURE: open hands]
+
+[PAUSE 1s]
+
+Privacy-first. Built in New Zealand on sovereign infrastructure — your data stays yours.
 
 [PAUSE 0.5s]
 
-We're New Zealand-founded, privacy-first, and we don't do hype. We ship working systems.
+And we're not just a trading platform. CoreIntent sits inside *Zynthio* — a full ecosystem with education through MOSOKO, legal protection through KERVALON, and a creative layer through SongPal.
 
-[GESTURE: nod]
+[GESTURE: confident nod]
 
-That's CoreIntent. *Build with intent. Ship with precision.*
+[PAUSE 1s]
+
+This isn't another trading app. This is a *system* designed for you to win.
+
+[PAUSE 0.5s]
+
+CoreIntent. Trade smarter. Compete to win.
+
+[END]
