@@ -1,10 +1,10 @@
 # INCORPORATION CHECKLIST — ZYNTHIO LIMITED
 
-![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-13%20(as%20of%20Apr%2029)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
+![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-12%20(as%20of%20Apr%2030)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
 
 > **Focused action checklist for incorporating ZYNTHIO LIMITED before the name reservation expires.**
 > Name reservation: **NZCO #15436626** — expires **May 12, 2026**.
-> As of 2026-04-29: **13 days remain.** TODAY IS TUESDAY APRIL 29. **Certificate of Incorporation expected APR 28–29 (business day 6 since filing Apr 21).** Check portal and email IMMEDIATELY. Call Companies Office directly if not yet received.
+> As of 2026-04-30: **12 days remain.** TODAY IS WEDNESDAY APRIL 30. **Certificate of Incorporation is OVERDUE (business day 7 since filing Apr 21 — typical issuance is 1–5 business days).** CALL the Companies Office immediately if certificate not yet received.
 
 ---
 
@@ -97,10 +97,11 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 | **Done (Apr 26)** | **CERTIFICATE** — check portal; business day 3; certificate expected Mon Apr 28; **15 days to deadline** |
 | **Done (Apr 27)** | **WEEKEND** — Sunday: no business action. Certificate expected Mon Apr 28. |
 | **Done (Apr 28)** | **CERTIFICATE DAY — MONDAY** — Check portal and email NOW. Certificate expected (business day 5 since filing Apr 21). Download immediately when issued. Call Companies Office if not yet available. |
-| **TODAY (Apr 29)** | **CERTIFICATE CHECK — TUESDAY** — Check portal and email NOW. Business day 6 since filing. If certificate not yet received, call Companies Office immediately. Download and save when issued. **13 days to deadline.** |
+| **Done (Apr 29)** | **CERTIFICATE CHECK — TUESDAY** — Check portal and email. Business day 6 since filing. Call Companies Office if not yet received. |
+| **TODAY (Apr 30)** | **CERTIFICATE OVERDUE — WEDNESDAY** — Business day 7 since filing. Certificate is OVERDUE. **CALL Companies Office NOW.** Provide application reference. Request status update. **12 days to deadline.** |
 | **May 12, 2026** | **HARD DEADLINE — reservation #15436626 expires** |
 
-> **Application filed Apr 21 and confirmed processing Apr 22.** Certificate typically issued within 1–5 business days of filing. **Today (Tue Apr 29, business day 6 since filing) — certificate expected APR 28–29.** Check portal and email immediately. Call Companies Office directly if not yet received: [companies.govt.nz](https://www.companies.govt.nz). Do not wait.
+> **Application filed Apr 21 and confirmed processing Apr 22.** Certificate typically issued within 1–5 business days of filing. **Today (Wed Apr 30, business day 7 since filing) — certificate is OVERDUE.** Call the Companies Office directly now: [companies.govt.nz](https://www.companies.govt.nz). Provide your application reference. Request a status update and expected issuance date. Do not wait for email.
 
 ---
 
@@ -137,4 +138,4 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 
 ---
 
-*Last updated: 2026-04-29 (Session 19) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-04-30 (Session 20) | Maintained by: Corey McIvor / KERVALON*

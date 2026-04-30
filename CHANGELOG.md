@@ -1,9 +1,27 @@
 # CHANGELOG — Zynthio Master Docs
 
-![Updated](https://img.shields.io/badge/updated-2026--04--29-blue)
+![Updated](https://img.shields.io/badge/updated-2026--04--30-blue)
 
 All significant changes to this documentation repository are recorded here.
 Format: `YYYY-MM-DD | Type | Description`
+
+---
+
+## 2026-04-30 (Session 20)
+
+### Updated
+
+- `README.md` — Countdown badge updated (13 → 12 days as of 2026-04-30); critical alert escalated: TODAY WED APR 30 — certificate OVERDUE (business day 7 since filing Apr 21, typical issuance 1–5 business days) — CALL Companies Office NOW; session footer to Session 20
+- `INDEX.md` — Days Left column updated (13 → 12 as of 2026-04-30); alert escalated to OVERDUE/CALL NOW; date badge to 2026-04-30; session footer to Session 20
+- `NZ_COMPLIANCE.md` — Action plan advanced: Apr 29 relabelled "Done"; TODAY (Apr 30, Wednesday) added — CERTIFICATE OVERDUE — business day 7, CALL Companies Office NOW; summary dashboard updated to 12 days; key deadlines calendar: Apr 29 Done, Apr 30 TODAY (OVERDUE) added; urgency block escalated; date badge and session footer to Session 20
+- `INCORPORATION_CHECKLIST.md` — Timeline advanced: Apr 29 marked Done; TODAY (Apr 30) = CERTIFICATE OVERDUE — CALL NOW; preamble updated to 12 days as of 2026-04-30, WEDNESDAY; bottom note updated to Wed Apr 30 certificate OVERDUE; badge updated; session footer to Session 20
+- `ECOSYSTEM_MAP.md` — Current State Snapshot heading updated to April 30, 2026; legal status note updated to 12 days as of 2026-04-30, certificate OVERDUE; date badge and session footer to Session 20
+- `FOUNDER_BRIEF.md` — Critical action Priority 1 updated: TODAY Apr 30 (Wednesday) — CERTIFICATE OVERDUE — BD7 — CALL NOW; milestone tracker updated; date badge and session footer to Session 20
+- `COMPETITION_ENTRY.md` — Traction date updated to 2026-04-30; date badge updated to 2026-04-30; footer date updated
+- `FINANCIAL_MODEL.md` — Date badge and footer updated to 2026-04-30 / Session 20
+- `COMPETITION_PORTFOLIO.md`, `PITCH_DECK_OUTLINE.md`, `DEMO_SCRIPT.md`, `PRESS_KIT.md`, `AWARDS_TRACKER.md` — Date badges and footers updated to 2026-04-30 / Session 20
+- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — Date badges and "Last updated" footer dates updated to 2026-04-30
+- `CHANGELOG.md` — This entry; badge updated to 2026-04-30
 
 ---
 
