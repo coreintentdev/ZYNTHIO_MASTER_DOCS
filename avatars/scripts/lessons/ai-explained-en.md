@@ -1,45 +1,41 @@
 # How AI Trading Works — Simply Explained
 ## Language: English
-## Duration: 90 seconds
-## Avatar tone: friendly
+## Duration: 70 seconds
+## Avatar tone: clear, approachable, educational
 ## Brand: CoreIntent
 
-[GESTURE: warm smile]
+[GESTURE: friendly nod]
 
-Alright — let's break down how AI trading actually works. No jargon. No hype. Just the real picture.
-
-[PAUSE 1s]
-
-Think of the AI trading engine as a very disciplined analyst who never sleeps, never panics, and never makes decisions based on gut feelings.
-
-[GESTURE: open hand]
-
-Here's what it does, step by step.
-
-[PAUSE 0.5s]
-
-*Step one — data collection.* The AI monitors market data constantly. Prices, volume, trends, volatility — across multiple markets, far faster than any human could.
-
-[GESTURE: nod]
-
-*Step two — pattern recognition.* Based on that data, the engine identifies patterns and potential opportunities. It looks for situations where the probability of a favourable outcome is higher than average — based on history and real-time conditions.
-
-*Step three — risk assessment.* Before making any move, the AI checks the risk. What's the maximum downside? Does it fit our parameters? If the risk is too high, it doesn't trade. End of story.
-
-[PAUSE 0.5s]
-
-*Step four — execution.* If the data looks right, the pattern is strong, and the risk is acceptable — the engine executes. Automatically. No hesitation. No second-guessing.
+You've probably heard the buzz around AI trading. Let me break down how it actually works — no jargon, just the essentials.
 
 [PAUSE 1s]
 
-[GESTURE: open hand]
+Traditional traders rely on charts, gut feelings, and maybe a few indicators. AI trading is different. [GESTURE: open hands]
 
-*Step five — monitoring.* After the trade is live, the AI keeps watching. If conditions change, it adjusts. If a stop-loss triggers, it exits. No ego. No holding on and hoping.
+Our engine processes *thousands* of data points every second — price movements, volume, volatility, correlations across markets — things no human could track manually.
+
+[PAUSE 1s]
+
+It finds patterns. [GESTURE: nod] Not the obvious ones everyone sees — the subtle ones buried in noise.
+
+[PAUSE 1s]
+
+But here's what makes CoreIntent unique — the AI doesn't trade *for* you. It trades *with* you.
+
+[GESTURE: open hands]
+
+You still make the decisions. The AI gives you an edge — better data, faster analysis, clearer signals. Think of it as a co-pilot, not an autopilot.
+
+[PAUSE 1s]
+
+And because it runs inside competition structures, the AI is optimised for *performance*, not for churning fees.
+
+[GESTURE: confident nod]
+
+[PAUSE 1s]
+
+That's AI trading at CoreIntent. Smarter tools. Your decisions. Real results.
 
 [PAUSE 0.5s]
 
-That's the cycle. Data in. Analysis. Risk check. Execute. Monitor. Repeat.
-
-[GESTURE: nod]
-
-The AI doesn't have bad days. It doesn't get greedy. It follows the rules — and that discipline is exactly what makes it powerful.
+[END]

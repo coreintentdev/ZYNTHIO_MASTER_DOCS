@@ -1,43 +1,41 @@
-# Introducción a MOSOKO
-## Language: Español
-## Duration: 80 seconds
-## Avatar tone: energetic
+# Conoce MOSOKO — Tu Motor de Aprendizaje
+## Language: Spanish (es)
+## Duration: 65 seconds
+## Avatar tone: encouraging, clear
 ## Brand: MOSOKO
 
-[GESTURE: warm smile]
+[GESTURE: friendly wave]
 
-Hola — bienvenido a *MOSOKO*.
-
-[PAUSE 1s]
-
-Si alguna vez quisiste hacer música pero sentiste que no tenías las herramientas correctas, la formación adecuada o los contactos necesarios — esto está hecho para ti.
-
-[GESTURE: open hand]
-
-MOSOKO es el brazo educativo del ecosistema Zynthio. No enseñamos teoría al vacío. Te enseñamos a usar *herramientas reales* — las mismas que los creadores profesionales están usando ahora mismo — para producir, proteger y publicar tu propia música.
-
-[PAUSE 0.5s]
-
-Así es como funciona.
-
-[GESTURE: counting on fingers]
-
-*Primero* — producción musical con IA en *SongPal*. Composición, arreglos, mezcla — todo impulsado por inteligencia artificial, todo guiado por un currículo real. Aprendes haciendo temas de verdad, no mirando cómo otros los hacen.
-
-*Segundo* — ingeniería de prompts para creativos. Cómo comunicarte con herramientas de IA y obtener resultados profesionales. No ruido al azar. Resultados musicales intencionales.
-
-*Tercero* — y aquí es donde la mayoría de los cursos se quedan cortos — el *lado empresarial*. Protección de propiedad intelectual. Derechos de autor. Licencias. Cómo *ser dueño* de verdad de lo que creas, para siempre.
+Dejame presentarte *MOSOKO* — nuestra plataforma educativa construida para el aprendizaje en el mundo real.
 
 [PAUSE 1s]
 
+MOSOKO no es solo otra biblioteca de cursos. [GESTURE: shake head slightly] Es un motor de pedagogia practica — disenado para ensenarte *haciendo*, no solo mirando.
+
+[PAUSE 1s]
+
+Ya sea que estes aprendiendo los fundamentos del trading con IA, construyendo tu primera estrategia, o explorando como funcionan los mercados — MOSOKO te da caminos guiados, paso a paso, que puedes seguir a tu propio ritmo.
+
 [GESTURE: nod]
 
-Ofrecemos programas por cohortes con sesiones en vivo. También tenemos módulos a tu ritmo que puedes completar cuando quieras.
+[PAUSE 1s]
+
+Cada leccion esta estructurada alrededor de escenarios reales. Trabajaras con datos reales, tomaras decisiones reales, y recibiras retroalimentacion que realmente te ayuda a mejorar.
+
+[PAUSE 1s]
+
+Sin relleno. Sin contenido de mas. Solo habilidades practicas que puedes usar *hoy*.
+
+[GESTURE: open hands]
+
+[PAUSE 1s]
+
+MOSOKO es parte del ecosistema Zynthio — asi que lo que aprendes aqui se conecta directamente con *CoreIntent*, nuestro motor de trading con IA, y *SongPal*, nuestra plataforma musical.
+
+[GESTURE: nod]
+
+Listo para empezar a aprender? Vamos.
 
 [PAUSE 0.5s]
 
-MOSOKO no es una escuela de música cualquiera. Está diseñada para creadores independientes que quieren controlar todo su proceso — desde la primera idea hasta el lanzamiento final.
-
-[GESTURE: nod]
-
-*Hazlo. Sé su dueño. Enséñalo.* Eso es MOSOKO.
+[END]

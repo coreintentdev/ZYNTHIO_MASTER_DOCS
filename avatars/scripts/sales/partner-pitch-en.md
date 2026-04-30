@@ -1,45 +1,55 @@
-# Zynthio Partnership Proposal
+# Partnership Pitch — Zynthio Ecosystem
 ## Language: English
-## Duration: 100 seconds
-## Avatar tone: professional
+## Duration: 90 seconds
+## Avatar tone: collaborative, professional, strategic
 ## Brand: Zynthio
 
-[GESTURE: warm smile]
+[GESTURE: warm, professional nod]
 
-Thanks for taking this meeting. I want to talk about what a partnership with *Zynthio* looks like — and why it makes strategic sense for both sides.
-
-[PAUSE 1s]
-
-Quick picture. Zynthio is a vertically integrated creative-technology ecosystem — seven brands, one stack. We cover AI music production, education, artist development, autonomous trading, and IP protection. All built in-house. All under one roof.
-
-[GESTURE: open hand]
-
-So — why does that matter to you?
-
-[PAUSE 0.5s]
-
-If you're in the *music or audio space* — we bring *SongPal*, a fully AI-native production platform with a proprietary intelligence layer. Integration, co-branding, or distribution partnerships open up a new creator demographic that legacy tools have missed.
-
-[GESTURE: nod]
-
-If you're in *education or edtech* — *MOSOKO* is launching cohort and self-paced programmes built on real, working tools. Not theory. Not textbook curriculum. Actual production skills with actual AI. A partnership means access to a fresh curriculum model with technology baked in.
-
-If you're in *AI or developer tools* — *CoreeyAI* is our orchestration layer across Claude, Grok, Perplexity, and Suno. We're building purpose-specific AI for the creative industry. We're looking for API partners, infrastructure collaborators, and model-access partners.
-
-[PAUSE 0.5s]
-
-If you're in *legal or IP services* — *KERVALON* is building IP management specifically for independent artists. It's an underserved market that's ready to scale.
+Thanks for taking this meeting. I want to show you why a partnership with Zynthio makes strategic sense for your organisation.
 
 [PAUSE 1s]
 
-[GESTURE: lean forward]
+Zynthio is an integrated ecosystem — AI-powered trading through *CoreIntent*, education through *MOSOKO*, music and community through *SongPal*, and legal infrastructure through *KERVALON*.
 
-Here's what Zynthio brings. A working tech stack. Clear brand architecture. A New Zealand company incorporating now with trademarked IP already filed. And a founder who is the engineer, the producer, and the strategist — all in one.
+[GESTURE: open hands]
+
+[PAUSE 1s]
+
+We're not a single-product company. We're a *platform* — and platforms create partnership opportunities at every layer.
+
+[PAUSE 1s]
+
+Here's what that could look like for you.
+
+[GESTURE: counting on fingers]
+
+If you're in *fintech* — integrate with our competition engine. White-label our AI tools. Co-develop trading products for your user base.
 
 [PAUSE 0.5s]
 
-We're lean, we move fast, and we don't waste time on meetings that go nowhere.
+If you're in *education* — partner with MOSOKO to deliver financial literacy programs. We bring the curriculum and the technology. You bring distribution.
+
+[PAUSE 0.5s]
+
+If you're in *media or entertainment* — SongPal and DJ Zynrose offer co-branding, playlist curation, and event partnerships that connect with our growing community.
+
+[PAUSE 1s]
+
+And across all of this, KERVALON ensures every partnership is compliant, every agreement is protected, and every obligation is tracked.
 
 [GESTURE: nod]
 
-So — let's get specific. What does the right partnership look like for your organisation? I'm ready when you are.
+[PAUSE 1s]
+
+We're built in New Zealand. Privacy-first. Sovereign infrastructure. We take partnerships as seriously as we take our product.
+
+[GESTURE: confident nod]
+
+[PAUSE 1s]
+
+If this sounds like a fit, let's explore what we can build together.
+
+[PAUSE 0.5s]
+
+[END]

@@ -1,7 +1,7 @@
 # Bienvenue chez Zynthio
-## Language: Français
+## Language: French (fr)
 ## Duration: 50 seconds
-## Avatar tone: professional
+## Avatar tone: friendly, professional
 ## Brand: Zynthio
 
 [GESTURE: warm smile]
@@ -10,28 +10,26 @@ Bonjour — bienvenue chez *Zynthio*.
 
 [PAUSE 1s]
 
-Nous ne sommes pas une simple application. Nous sommes un écosystème créatif complet — sept marques, un seul système — conçu de A à Z pour les artistes indépendants, les producteurs et les créateurs qui veulent garder le contrôle de leur travail.
+Je suis la pour vous presenter tout ce que nous construisons. [GESTURE: open hands]
 
-[GESTURE: open hand]
-
-En bref : vous créez de la musique avec *SongPal* — notre plateforme de production musicale propulsée par l'intelligence artificielle. Vous apprenez le métier avec *MOSOKO* — une vraie formation, pas des tutoriels. Et vous protégez tout ce que vous créez grâce à *KERVALON* — notre département juridique et propriété intellectuelle.
-
-[PAUSE 0.5s]
-
-Le tout propulsé par *CoreeyAI* — notre moteur d'intelligence — et construit par *CoreIntent*, notre studio d'ingénierie, basé en Nouvelle-Zélande.
-
-[GESTURE: nod]
-
-Fondé par Corey McIvor. Un seul fondateur. Tout le système. Et un principe au-dessus de tout — la *souveraineté créative*.
+Zynthio est un ecosysteme complet — trading propulse par l'intelligence artificielle, education, musique et protection juridique — le tout concu pour *vous* donner le controle.
 
 [PAUSE 1s]
 
-Votre art. Vos outils. Vos conditions.
-
-[PAUSE 0.5s]
-
-Zéro superflu. Que du signal.
+Au coeur se trouve *CoreIntent*, notre moteur de trading IA. Pas d'abonnement. Vous ne payez que lorsque vous participez a une competition — et vous participez pour *gagner*.
 
 [GESTURE: nod]
 
-Bienvenue dans l'écosystème. Construisons ensemble.
+Nous avons aussi *MOSOKO* pour l'apprentissage pratique, *SongPal* pour la musique et les outils creatifs, et *KERVALON* qui veille sur le volet juridique.
+
+[PAUSE 1s]
+
+Concu en Nouvelle-Zelande. Confidentialite d'abord. Infrastructure souveraine.
+
+[GESTURE: confident nod]
+
+Restez avec nous — il y a beaucoup a explorer. C'est parti.
+
+[PAUSE 0.5s]
+
+[END]

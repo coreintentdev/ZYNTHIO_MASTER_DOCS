@@ -1,45 +1,45 @@
-# Conceptos Básicos de Trading — El Modelo de Competición
-## Language: Español
-## Duration: 95 seconds
-## Avatar tone: professional
-## Brand: CoreIntent
+# Fundamentos del Trading — Lo Que Necesitas Saber
+## Language: Spanish (es)
+## Duration: 80 seconds
+## Avatar tone: clear, patient, educational
+## Brand: CoreIntent / MOSOKO
 
-[GESTURE: nod]
+[GESTURE: friendly nod]
 
-Hablemos de cómo funciona nuestro motor de trading — y por qué es diferente a lo que probablemente hayas visto antes.
-
-[PAUSE 1s]
-
-La mayoría de las plataformas de trading cobran suscripciones mensuales. Pagas ganes o pierdas. La plataforma gana dinero sin importar el resultado. Ese modelo está roto — y seguramente ya lo sabes.
-
-[GESTURE: open hand]
-
-En *CoreIntent*, usamos un *modelo basado en competiciones*. Esto es lo que significa.
-
-[PAUSE 0.5s]
-
-En vez de pagar por acceso, participas en competiciones de trading. Tu motor de IA — construido por CoreIntent — compite usando estrategias autónomas con gestión de riesgo. El sistema gestiona el riesgo primero. Los rendimientos vienen después. Siempre.
-
-[GESTURE: counting on fingers]
-
-Tres principios que necesitas entender.
-
-*Primero* — la gestión de riesgo no es negociable. Cada operación tiene límites predefinidos. El sistema no persigue pérdidas. No se apalanca en exceso. Nunca.
-
-*Segundo* — la IA toma decisiones basadas en datos, no en emociones. Lee las condiciones del mercado, detecta oportunidades y ejecuta dentro de parámetros estrictos. Sin corazonadas. Sin pánico.
-
-*Tercero* — la estructura de competición genera alineación. Nosotros ganamos cuando tú ganas. No hay incentivo para seguir cobrándote mientras pierdes.
+Hablemos sobre los fundamentos del trading — y por que CoreIntent lo hace de manera diferente.
 
 [PAUSE 1s]
 
-[GESTURE: nod]
+En el trading tradicional, abres una cuenta con un broker, depositas dinero, y empiezas a comprar y vender activos — acciones, divisas, cripto, lo que sea que la plataforma soporte.
 
-Ahora — esto es importante. Ningún sistema garantiza rendimientos. Los mercados son impredecibles. Lo que *sí* podemos garantizar es ejecución disciplinada, gestión de riesgo transparente y un modelo que pone tus intereses por delante de los nuestros.
+[GESTURE: open hands]
+
+El problema? La mayoria de los traders minoristas *pierden* dinero. Las probabilidades estan en contra de los individuos.
+
+[PAUSE 1s]
+
+CoreIntent le da la vuelta a ese modelo. [GESTURE: nod]
+
+En lugar de operar directamente en mercados en vivo, compites en competiciones estructuradas. Piensalo como un torneo de trading — entras, ejecutas tu estrategia, y si lo haces bien, *ganas*.
+
+[PAUSE 1s]
+
+No hay suscripciones. No hay cuotas mensuales desangrando tu cuenta. Pagas una tarifa de entrada a la competicion — eso es todo.
+
+[PAUSE 1s]
+
+Y aqui esta la diferencia clave — nuestro motor de IA analiza mercados, identifica patrones, y apoya tu toma de decisiones. Para que no estes adivinando a ciegas.
+
+[GESTURE: confident nod]
+
+[PAUSE 1s]
+
+Tu pones la disciplina. CoreIntent pone la inteligencia.
+
+[PAUSE 1s]
+
+Quieres profundizar mas? Echa un vistazo a la siguiente leccion sobre como funciona realmente el trading con IA.
 
 [PAUSE 0.5s]
 
-Esa es la base. En la próxima lección, profundizamos en cómo la IA toma decisiones de trading.
-
-[GESTURE: nod]
-
-Nos vemos ahí.
+[END]

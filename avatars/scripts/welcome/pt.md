@@ -1,37 +1,35 @@
 # Bem-vindo ao Zynthio
-## Language: Português
+## Language: Portuguese (pt)
 ## Duration: 50 seconds
-## Avatar tone: friendly
+## Avatar tone: friendly, warm
 ## Brand: Zynthio
 
 [GESTURE: warm smile]
 
-E aí — bem-vindo ao *Zynthio*.
+Ola — bem-vindo ao *Zynthio*.
 
 [PAUSE 1s]
 
-A gente não é mais um aplicativo. Somos um ecossistema criativo completo — sete marcas, um sistema — construído do zero para artistas independentes, produtores e criadores que querem ser donos do próprio trabalho.
+Estou aqui para te mostrar tudo o que estamos construindo. [GESTURE: open hands]
 
-[GESTURE: open hand]
-
-Resumindo: você cria música com o *SongPal* — nossa plataforma de produção com inteligência artificial. Aprende de verdade com o *MOSOKO* — educação real, não tutorial. E protege tudo o que faz com o *KERVALON* — nosso braço jurídico e de propriedade intelectual.
-
-[PAUSE 0.5s]
-
-Tudo movido pelo *CoreeyAI* — nosso motor de inteligência — e construído pelo *CoreIntent*, nosso estúdio de engenharia, lá da Nova Zelândia.
-
-[GESTURE: nod]
-
-Fundado por Corey McIvor. Um fundador. O sistema inteiro. E uma regra acima de tudo — *soberania criativa*.
+O Zynthio e um ecossistema completo — trading com inteligencia artificial, educacao, musica e protecao juridica — tudo projetado para colocar *voce* no controle.
 
 [PAUSE 1s]
 
-Sua arte. Suas ferramentas. Suas regras.
-
-[PAUSE 0.5s]
-
-Sem enrolação. Só sinal.
+No centro esta o *CoreIntent*, nosso motor de trading com IA. Sem assinaturas. Voce so paga quando compete — e compete para *vencer*.
 
 [GESTURE: nod]
 
-Bem-vindo ao ecossistema. Vamos construir juntos.
+Tambem temos o *MOSOKO* para aprendizado pratico, o *SongPal* para musica e ferramentas criativas, e o *KERVALON* cuidando de tudo no lado juridico.
+
+[PAUSE 1s]
+
+Construido na Nova Zelandia. Privacidade em primeiro lugar. Infraestrutura soberana.
+
+[GESTURE: confident nod]
+
+Fique por aqui — ha muito para explorar. Vamos comecar.
+
+[PAUSE 0.5s]
+
+[END]

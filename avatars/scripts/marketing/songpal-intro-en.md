@@ -1,47 +1,39 @@
-# Introducing SongPal
+# SongPal — Music Meets Innovation
 ## Language: English
-## Duration: 75 seconds
-## Avatar tone: energetic
+## Duration: 50 seconds
+## Avatar tone: energetic, creative
 ## Brand: SongPal
 
-[GESTURE: smile]
+[GESTURE: enthusiastic nod]
 
-Meet *SongPal* — your AI music production partner.
-
-[PAUSE 1s]
-
-Here's the problem. If you're an independent artist or bedroom producer, you're stuck choosing between expensive studio time, complex software with a brutal learning curve, or AI tools that generate generic tracks you don't actually own.
-
-[GESTURE: shake head]
-
-None of that works.
-
-[PAUSE 0.5s]
-
-[GESTURE: open hand]
-
-SongPal is different. It's an AI-powered platform built for creators who want to *make real music* — not press a button and hope for the best.
-
-Here's what you get.
-
-[GESTURE: counting on fingers]
-
-*AI-assisted composition* — the engine helps you write melodies, chord progressions, and song structures. It suggests. You decide. You stay in the driver's seat.
-
-*Intelligent arrangement* — drop in your ideas and the AI helps shape them into a full production. Verse, chorus, bridge — structured and professional.
-
-*Generative audio* — integrated with Suno for cutting-edge sound generation. Need a texture, a pad, a vocal layer? Generate it right inside your project.
-
-[PAUSE 0.5s]
-
-And here's the big one — *you own everything you create*. One hundred percent. SongPal is built on creative sovereignty. Your music. Your rights. Full stop.
+Meet *SongPal* — the creative heartbeat of the Zynthio ecosystem.
 
 [PAUSE 1s]
 
+SongPal isn't just a music platform. It's where *art meets technology*. [GESTURE: open hands]
+
+Whether you're a listener, a creator, or just someone who loves discovering new sounds — SongPal is built for you.
+
+[PAUSE 1s]
+
+We connect artists directly with their audience. No gatekeepers. No middlemen taking massive cuts. Just *music* — the way it should be.
+
 [GESTURE: nod]
 
-SongPal is trademarked in New Zealand — IPONZ number 1318588 — and it's the flagship product of the Zynthio ecosystem.
+[PAUSE 1s]
 
-[GESTURE: nod]
+And if you're into electronic music, you'll want to check out *DJ Zynrose* — our resident artist pushing the boundaries of sound.
 
-*Your sound. Your stack.* That's SongPal.
+[PAUSE 0.5s]
+
+SongPal is part of something bigger — the Zynthio ecosystem. Trading, education, law, and music — all connected.
+
+[GESTURE: confident nod]
+
+[PAUSE 1s]
+
+SongPal. Your music. Your way.
+
+[PAUSE 0.5s]
+
+[END]

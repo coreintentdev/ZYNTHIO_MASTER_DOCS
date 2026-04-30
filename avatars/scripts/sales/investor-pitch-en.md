@@ -1,61 +1,61 @@
-# Zynthio Investor Pitch
+# Investor Pitch — CoreIntent and Zynthio
 ## Language: English
-## Duration: 130 seconds
-## Avatar tone: professional
-## Brand: Zynthio
+## Duration: 120 seconds
+## Avatar tone: authoritative, compelling, data-driven
+## Brand: CoreIntent / Zynthio
 
-[GESTURE: direct eye contact]
+[GESTURE: direct eye contact, composed posture]
 
-Thank you for your time. Let me tell you why *Zynthio* deserves your attention.
+Thank you for your time. Let me tell you why CoreIntent is the opportunity you've been looking for.
 
 [PAUSE 1s]
 
-The global music production software market is worth 5.9 billion dollars, growing at eight percent year over year. AI music generation is 1.5 billion — growing at *twenty-five percent* annually. Add online music education at 2.1 billion, and you're looking at a total addressable market of roughly *9.5 billion dollars*.
+The retail trading industry is worth over four hundred billion dollars globally — and it's broken. Ninety percent of retail traders lose money. The platforms profit from *volume*, not outcomes. Users churn. Trust erodes.
 
-[GESTURE: open hand]
+[GESTURE: open hands]
 
-Right now, that market is fragmented. Independent creators stitch together expensive, disconnected tools for production, education, legal protection, and distribution. Nobody offers the full stack.
+[PAUSE 1s]
 
-[PAUSE 0.5s]
-
-*Zynthio does.*
+CoreIntent fixes this with a fundamentally different model. We replaced subscriptions with *competitions*. Traders enter, execute strategies supported by our AI engine, and the top performers earn. No monthly fees. No hidden costs. Aligned incentives.
 
 [GESTURE: nod]
 
-We're a vertically integrated creative-technology ecosystem — seven brands working as one system. Founded in New Zealand by Corey McIvor.
+[PAUSE 1s]
 
-Here's the architecture.
+Our AI processes thousands of data points per second — price action, volume, cross-market correlations — giving competitors an edge that retail platforms simply don't offer.
+
+[PAUSE 1s]
+
+But CoreIntent isn't standalone. It sits inside *Zynthio* — a vertically integrated ecosystem.
 
 [GESTURE: counting on fingers]
 
-*SongPal* — AI music production platform. Trademark filed with IPONZ, number 1318588. Flagship revenue driver — SaaS subscriptions for individual creators and studio tiers.
-
-*CoreeyAI* — proprietary intelligence layer. Purpose-built orchestration across Claude, Grok, Perplexity, and Suno. This becomes a B2B API licensing product.
-
-*MOSOKO* — education brand. Cohort programmes and self-paced courses. Revenue from day one of launch.
-
-*CoreIntent* — development studio. Also operates gTrade — an autonomous, risk-managed trading engine on a competition model. This is our internal funding mechanism.
-
-*KERVALON* — legal and IP management. Protecting every asset we build — and eventually offering those services to independent artists externally.
-
-*DJ Zynrose* — artist persona. Living proof of concept. Community builder. Content engine.
+*MOSOKO* handles education — converting beginners into competent traders. *SongPal* drives community and brand engagement. *KERVALON* provides legal compliance and IP protection.
 
 [PAUSE 1s]
 
-[GESTURE: lean forward]
-
-Our traction is real. Production infrastructure is *live* — Docker, Python 3.11, our own VPS. SongPal trademark is *filed*. ZYNTHIO LIMITED is *incorporating* with New Zealand Companies Office. Music is *written and in the deployment pipeline*. The codebase is public on GitHub. And the trading engine is already generating returns to self-fund development.
-
-[PAUSE 0.5s]
-
-We're seeking 150 to 250 thousand New Zealand dollars in seed capital. Allocation: thirty-five percent to SongPal development, twenty percent to MOSOKO curriculum, twenty percent to marketing, and the rest to legal, infrastructure, and reserves.
+The flywheel — MOSOKO educates users, CoreIntent monetises them, SongPal retains them, KERVALON protects us. Every layer feeds the next.
 
 [GESTURE: nod]
 
-The moat is clear. No competitor combines AI production, education, IP protection, and an artist proof-of-concept under one sovereign architecture. Zynthio is not a feature. It's a *stack*.
+[PAUSE 1s]
+
+We're incorporated in New Zealand. Privacy-first architecture. Sovereign infrastructure. Founded by Corey McIvor — a builder with skin in the game.
+
+[PAUSE 1s]
+
+Our ask — we're raising our seed round to scale the AI engine, launch competitions publicly, and expand into three markets within twelve months.
+
+[GESTURE: confident, direct]
+
+[PAUSE 1s]
+
+CoreIntent isn't another fintech pitch. It's a system built so that when users win, *we* win.
 
 [PAUSE 0.5s]
 
-[GESTURE: warm smile]
+Let's talk.
 
-We're building this with or without external capital — the question is speed. I'd welcome the chance to discuss what acceleration looks like. Thank you.
+[PAUSE 0.5s]
+
+[END]
