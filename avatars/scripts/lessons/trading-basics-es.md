@@ -1,5 +1,5 @@
 # Conceptos Básicos de Trading — El Modelo de Competición
-## Language: Español
+## Language: Spanish
 ## Duration: 95 seconds
 ## Avatar tone: professional
 ## Brand: CoreIntent

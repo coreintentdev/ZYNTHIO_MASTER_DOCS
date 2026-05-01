@@ -1,5 +1,5 @@
 # CoreIntent — Pitch de 60 Segundos
-## Language: Español
+## Language: Spanish
 ## Duration: 65 seconds
 ## Avatar tone: professional
 ## Brand: CoreIntent

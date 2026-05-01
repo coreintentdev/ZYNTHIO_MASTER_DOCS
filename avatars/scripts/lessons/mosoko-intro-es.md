@@ -1,5 +1,5 @@
 # Introducción a MOSOKO
-## Language: Español
+## Language: Spanish
 ## Duration: 80 seconds
 ## Avatar tone: energetic
 ## Brand: MOSOKO

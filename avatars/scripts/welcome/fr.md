@@ -1,5 +1,5 @@
 # Bienvenue chez Zynthio
-## Language: Français
+## Language: French
 ## Duration: 50 seconds
 ## Avatar tone: professional
 ## Brand: Zynthio

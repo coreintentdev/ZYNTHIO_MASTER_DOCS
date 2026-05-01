@@ -1,5 +1,5 @@
 # 欢迎来到 Zynthio
-## Language: 中文（普通话）
+## Language: Mandarin Chinese
 ## Duration: 45 seconds
 ## Avatar tone: professional
 ## Brand: Zynthio

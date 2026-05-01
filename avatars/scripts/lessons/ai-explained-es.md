@@ -1,5 +1,5 @@
 # Cómo Funciona el Trading con IA — Explicado Simple
-## Language: Español
+## Language: Spanish
 ## Duration: 95 seconds
 ## Avatar tone: friendly
 ## Brand: CoreIntent

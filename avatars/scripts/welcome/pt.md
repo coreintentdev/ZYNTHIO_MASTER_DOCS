@@ -1,5 +1,5 @@
 # Bem-vindo ao Zynthio
-## Language: Português
+## Language: Portuguese
 ## Duration: 50 seconds
 ## Avatar tone: friendly
 ## Brand: Zynthio
