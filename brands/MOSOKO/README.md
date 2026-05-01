@@ -1,6 +1,6 @@
 # MOSOKO
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-pedagogy-orange) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![Updated](https://img.shields.io/badge/updated-2026--04--30-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-pedagogy-orange) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![Updated](https://img.shields.io/badge/updated-2026--05--01-blue)
 
 > **Learn to create. Own what you make.**
 > Music education for the sovereign creator.
@@ -72,4 +72,4 @@ To make the knowledge of professional music production, AI tooling, and creative
 
 ---
 
-*Last updated: 2026-04-30 | Maintained by: Corey McIvor*
+*Last updated: 2026-05-01 | Maintained by: Corey McIvor*
