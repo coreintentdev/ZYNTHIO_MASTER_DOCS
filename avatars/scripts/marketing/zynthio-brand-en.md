@@ -30,7 +30,7 @@ Let me walk you through it.
 
 *DJ Zynrose* is the artist — Corey McIvor's music persona. Living proof that the stack works. Real tracks, made with real Zynthio tools.
 
-*CoreIntent* is the development studio. Every line of code, every deployment, every system — engineered here.
+*CoreIntent* is the development studio. Every line of code, every deployment, every system — engineered here. Also operates an autonomous trading engine on a competition-based model.
 
 *KERVALON* is the legal sentinel. Trademark filings, IP protection, compliance. What we build, we protect.
 

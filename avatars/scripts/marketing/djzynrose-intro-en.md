@@ -34,4 +34,4 @@ The signal is *336*. The doctrine is simple — *no filler, all signal*.
 
 [GESTURE: confident smile]
 
-Follow the sound. Follow *DJ Zynrose*.
+Follow the sound. Build yours. *DJ Zynrose*.

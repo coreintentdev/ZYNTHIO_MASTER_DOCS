@@ -42,7 +42,7 @@ Here's the architecture.
 
 [GESTURE: lean forward slightly]
 
-Our traction is real. Production infrastructure is *live* — Docker, Python 3.11, our own VPS. SongPal trademark is *filed*. ZYNTHIO LIMITED company name is *reserved* — incorporating under New Zealand Companies Act. Music is *written and in the deployment pipeline*. And the codebase is public on GitHub.
+Our traction is real. Production infrastructure is *live* — sovereign servers, no third-party dependency. SongPal trademark is *filed*. ZYNTHIO LIMITED is *incorporating* under New Zealand Companies Act. Music is *released and in the market*. The codebase is public on GitHub — you can audit it today. And the trading engine is already generating returns to self-fund development.
 
 [PAUSE 0.5s]
 
@@ -56,4 +56,4 @@ The moat is clear. No competitor combines AI production, education, IP infrastru
 
 [GESTURE: warm smile]
 
-I'd love to discuss the details. Thank you.
+We're building this with or without external capital — the question is speed. I'd welcome the chance to discuss what acceleration looks like. Thank you.

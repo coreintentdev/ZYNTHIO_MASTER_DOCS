@@ -42,4 +42,8 @@ We're lean, we move fast, and we don't waste partnership time on meetings that g
 
 [GESTURE: confident smile]
 
-So — let's talk specifics. What does the right partnership look like for your organisation? I'm ready when you are.
+So — let's talk specifics. What does the right partnership look like for your organisation?
+
+[PAUSE 0.5s]
+
+I'm ready when you are. Let's build.

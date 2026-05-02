@@ -40,8 +40,8 @@ And here's the big one — *you own everything you create*. One hundred percent.
 
 [GESTURE: nod]
 
-SongPal is trademarked in New Zealand — IPONZ number 1318588 — and it's the flagship product of the Zynthio ecosystem.
+SongPal is trademarked in New Zealand and it's the flagship product of the Zynthio ecosystem.
 
 [GESTURE: confident smile]
 
-Stop compromising. Start creating on your terms. *SongPal*.
+Stop compromising. Start creating on your terms. *Create, arrange, collaborate — with intelligence built in.* That's *SongPal*.
