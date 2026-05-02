@@ -34,4 +34,4 @@ No filler. All signal.
 
 [GESTURE: nod]
 
-Welcome to the ecosystem. Let's build something together.
+Visit us at *zynthio.ai*. Let's build something together.

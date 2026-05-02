@@ -34,4 +34,4 @@ Sin relleno. Pura señal.
 
 [GESTURE: nod]
 
-Bienvenido al ecosistema. Construyamos algo juntos.
+Visítanos en *zynthio.ai*. Construyamos algo juntos.

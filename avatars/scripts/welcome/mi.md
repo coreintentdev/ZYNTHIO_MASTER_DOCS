@@ -34,4 +34,4 @@ Kāore he whakakī. He tohu katoa.
 
 [GESTURE: nod]
 
-Nau mai ki te pūnaha. Kia hanga tahi tātou.
+Haere ki *zynthio.ai*. Kia hanga tahi tātou.

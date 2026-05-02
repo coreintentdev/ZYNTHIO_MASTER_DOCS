@@ -10,11 +10,11 @@ Thank you for your time. Let me tell you why *Zynthio* deserves your attention.
 
 [PAUSE 1s]
 
-The global music production software market is worth 5.9 billion dollars, growing at eight percent year over year. AI music generation is 1.5 billion — growing at *twenty-five percent* annually. Add online music education at 2.1 billion, and you're looking at a total addressable market of roughly *9.5 billion dollars*.
+The global music production software market is worth 5.9 billion dollars, growing at eight percent year over year. AI music generation is 1.5 billion — growing at *twenty-five percent* annually. Online music education adds another 2.1 billion. That's a primary addressable market of roughly *9.5 billion dollars*. And when you factor in AI-assisted retail trading at twelve billion plus — where our autonomous engine operates — the extended TAM exceeds *twenty-one billion*.
 
 [GESTURE: open hand]
 
-Right now, that market is fragmented. Independent creators stitch together expensive, disconnected tools for production, education, legal protection, and distribution. Nobody offers the full stack.
+Right now, that market is fragmented. Independent creators stitch together expensive, disconnected tools for production, education, legal protection, and distribution. No one offers the full stack.
 
 [PAUSE 0.5s]
 
@@ -44,7 +44,7 @@ Here's the architecture.
 
 [GESTURE: lean forward]
 
-Our traction is real. Production infrastructure is *live* — Docker, Python 3.11, our own VPS. SongPal trademark is *filed*. ZYNTHIO LIMITED is *incorporating* with New Zealand Companies Office. Music is *written and in the deployment pipeline*. The codebase is public on GitHub. And the trading engine is already generating returns to self-fund development.
+Our traction is real. Production infrastructure is *live* — Docker, Python 3.11, our own VPS. SongPal trademark is *filed* with IPONZ. ZYNTHIO LIMITED is *incorporating* through the New Zealand Companies Office right now. Two original tracks are *written and in the deployment pipeline*. Nineteen multilingual avatar scripts are *ready* across six languages. The codebase is public on GitHub. And our autonomous trading engine is *already generating returns* to self-fund development.
 
 [PAUSE 0.5s]
 

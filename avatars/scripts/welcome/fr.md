@@ -34,4 +34,4 @@ Zéro superflu. Que du signal.
 
 [GESTURE: nod]
 
-Bienvenue dans l'écosystème. Construisons ensemble.
+Rendez-vous sur *zynthio.ai*. Construisons ensemble.
