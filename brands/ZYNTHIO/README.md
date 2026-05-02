@@ -1,6 +1,6 @@
 # ZYNTHIO
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-parent%20company-purple) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Updated](https://img.shields.io/badge/updated-2026--05--01-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-parent%20company-purple) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Updated](https://img.shields.io/badge/updated-2026--05--02-blue)
 
 > **Sovereign AI-powered creative ecosystem.**
 > One stack. Seven brands. No filler. All signal.

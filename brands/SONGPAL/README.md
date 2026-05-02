@@ -1,6 +1,6 @@
 # SongPal
 
-![Status](https://img.shields.io/badge/status-in%20development-yellow) ![Type](https://img.shields.io/badge/type-audio%20platform-green) ![TM](https://img.shields.io/badge/TM-IPONZ%20%231318588-orange) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![Updated](https://img.shields.io/badge/updated-2026--05--01-blue)
+![Status](https://img.shields.io/badge/status-in%20development-yellow) ![Type](https://img.shields.io/badge/type-audio%20platform-green) ![TM](https://img.shields.io/badge/TM-IPONZ%20%231318588-orange) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![Updated](https://img.shields.io/badge/updated-2026--05--02-blue)
 
 > **Your AI music production partner.**
 > Create, arrange, and collaborate — with intelligence built in.

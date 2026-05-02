@@ -1,6 +1,6 @@
 # COREINTENT
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-dev%20studio-blue) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![GitHub](https://img.shields.io/badge/github-coreintentdev-black) ![Updated](https://img.shields.io/badge/updated-2026--05--01-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-dev%20studio-blue) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![GitHub](https://img.shields.io/badge/github-coreintentdev-black) ![Updated](https://img.shields.io/badge/updated-2026--05--02-blue)
 
 > **Build with intent. Ship with precision.**
 > The engineering studio behind the Zynthio ecosystem.

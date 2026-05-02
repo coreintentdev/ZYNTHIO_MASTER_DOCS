@@ -1,6 +1,6 @@
 # ASSETS — SongPal
 
-![Updated](https://img.shields.io/badge/updated-2026--05--01-blue) ![TM](https://img.shields.io/badge/TM-IPONZ%20%231318588-orange)
+![Updated](https://img.shields.io/badge/updated-2026--05--02-blue) ![TM](https://img.shields.io/badge/TM-IPONZ%20%231318588-orange)
 
 > Brand asset registry for SongPal.
 > Note: SongPal is a registered trademark applicant — use brand assets carefully and consistently.
