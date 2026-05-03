@@ -1,10 +1,10 @@
 # INCORPORATION CHECKLIST — ZYNTHIO LIMITED
 
-![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-10%20(as%20of%20May%202)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
+![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-9%20(as%20of%20May%203)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
 
 > **Focused action checklist for incorporating ZYNTHIO LIMITED before the name reservation expires.**
 > Name reservation: **NZCO #15436626** — expires **May 12, 2026**.
-> As of 2026-05-02: **10 days remain.** TODAY IS FRIDAY MAY 2. **Certificate of Incorporation is CRITICALLY OVERDUE (business day 9 since filing Apr 21 — typical issuance is 1–5 business days).** CALL the Companies Office immediately if certificate not yet received. Follow up on any escalation from yesterday.
+> As of 2026-05-03: **9 days remain.** TODAY IS SATURDAY MAY 3 — Weekend. Companies Office closed. **Certificate of Incorporation CRITICALLY OVERDUE (BD9 since filing Apr 21 was last Fri).** If certificate not yet received, call the Companies Office first thing Monday May 4 (BD10). Download and save immediately when issued.
 
 ---
 
@@ -100,10 +100,11 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 | **Done (Apr 29)** | **CERTIFICATE CHECK — TUESDAY** — Check portal and email. Business day 6 since filing. Call Companies Office if not yet received. |
 | **Done (Apr 30)** | **CERTIFICATE OVERDUE — WEDNESDAY** — Business day 7 since filing. Called Companies Office. Requested status update. |
 | **Done (May 1)** | **CERTIFICATE CRITICALLY OVERDUE — THURSDAY** — Business day 8 since filing. Called Companies Office again. Requested escalation. |
-| **TODAY (May 2)** | **CERTIFICATE CRITICALLY OVERDUE — FRIDAY** — Business day 9 since filing. **CALL Companies Office again if not yet resolved.** Follow up on escalation from yesterday. Download and save certificate immediately when issued. **10 days to deadline.** |
+| **Done (May 2)** | **CERTIFICATE CRITICALLY OVERDUE — FRIDAY** — Business day 9 since filing. Called Companies Office. Followed up on escalation. |
+| **TODAY (May 3)** | **WEEKEND — SATURDAY** — No business action. Companies Office closed. If certificate not yet received, call immediately when Companies Office opens **Monday May 4 (BD10)**. Download and save certificate the moment it is issued. **9 days to deadline.** |
 | **May 12, 2026** | **HARD DEADLINE — reservation #15436626 expires** |
 
-> **Application filed Apr 21 and confirmed processing Apr 22.** Certificate typically issued within 1–5 business days of filing. **Today (Fri May 2, business day 9 since filing) — certificate is CRITICALLY OVERDUE.** Call the Companies Office directly: [companies.govt.nz](https://www.companies.govt.nz). Provide your application reference. Follow up on yesterday's escalation. Do not wait for email.
+> **Application filed Apr 21 and confirmed processing Apr 22.** Certificate typically issued within 1–5 business days of filing. **Today (Sat May 3) is a weekend — Companies Office closed.** BD9 (last Fri May 2) was critically overdue. **Call the Companies Office immediately when they open Monday May 4 (BD10).** Provide your application reference. Do not wait for email.
 
 ---
 
@@ -140,4 +141,4 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 
 ---
 
-*Last updated: 2026-05-02 (Session 22) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-05-03 (Session 23) | Maintained by: Corey McIvor / KERVALON*

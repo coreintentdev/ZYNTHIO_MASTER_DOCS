@@ -1,6 +1,6 @@
 # ECOSYSTEM MAP — Zynthio
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--02-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--03-blue)
 
 > How the seven Zynthio brands connect, depend on each other, and form one sovereign creative-tech ecosystem.
 
@@ -210,7 +210,7 @@ Every brand reinforces every other. No filler. All signal.
 
 ---
 
-## Current State Snapshot — May 2, 2026
+## Current State Snapshot — May 3, 2026
 
 A clear-eyed view of what is live, what is in progress, and what is planned.
 
@@ -233,7 +233,7 @@ A clear-eyed view of what is live, what is in progress, and what is planned.
 
 | Matter | State | Notes |
 |--------|-------|-------|
-| ZYNTHIO LIMITED — name reserved | Active | **10 days to incorporate (as of 2026-05-02) — filed Apr 21, confirmed processing Apr 22 — certificate CRITICALLY OVERDUE (BD9 since filing) — CALL Companies Office NOW** |
+| ZYNTHIO LIMITED — name reserved | Active | **9 days to incorporate (as of 2026-05-03) — filed Apr 21, confirmed processing Apr 22 — certificate CRITICALLY OVERDUE (BD9 last Fri May 2) — follow up Mon May 4 (BD10)** |
 | NZ registered office | Arranged | Engaged and confirmed (Apr 18) |
 | SongPal TM — IPONZ #1318588 | Filed | Awaiting examination |
 | Other brand TMs | Planned | Post-incorporation (Q3–Q4 2026) |
@@ -250,4 +250,4 @@ A clear-eyed view of what is live, what is in progress, and what is planned.
 
 ---
 
-*Last updated: 2026-05-02 (Session 22) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-03 (Session 23) | Maintained by: Corey McIvor / COREINTENT*
