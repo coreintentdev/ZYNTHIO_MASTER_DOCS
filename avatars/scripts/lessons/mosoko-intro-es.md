@@ -18,13 +18,13 @@ MOSOKO es el brazo educativo del ecosistema Zynthio. No enseñamos teoría al va
 
 [PAUSE 0.5s]
 
-Así es como funciona.
+Así funciona.
 
 [GESTURE: counting on fingers]
 
-*Primero* — producción musical con IA en *SongPal*. Composición, arreglos, mezcla — todo impulsado por inteligencia artificial, todo guiado por un currículo real. Aprendes haciendo temas de verdad, no mirando cómo otros los hacen.
+*Primero* — producción musical con IA en *SongPal*. Composición, arreglos, mezcla — todo impulsado por inteligencia artificial, todo guiado por un currículo estructurado. Aprendes haciendo temas de verdad, no mirando cómo otros los hacen.
 
-*Segundo* — ingeniería de prompts para creativos. Cómo comunicarte con herramientas de IA y obtener resultados profesionales. No ruido al azar. Resultados musicales intencionales.
+*Segundo* — ingeniería de prompts para creativos. Cómo comunicarte con herramientas de IA y obtener resultados de nivel profesional. No ruido al azar. Resultados musicales intencionales sobre los que puedes construir.
 
 *Tercero* — y aquí es donde la mayoría de los cursos se quedan cortos — el *lado empresarial*. Protección de propiedad intelectual. Derechos de autor. Licencias. Cómo *ser dueño* de verdad de lo que creas, para siempre.
 
@@ -38,6 +38,6 @@ Ofrecemos programas por cohortes con sesiones en vivo. También tenemos módulos
 
 MOSOKO no es una escuela de música cualquiera. Está diseñada para creadores independientes que quieren controlar todo su proceso — desde la primera idea hasta el lanzamiento final.
 
-[GESTURE: nod]
+[GESTURE: confident nod]
 
 *Hazlo. Sé su dueño. Enséñalo.* Eso es MOSOKO.

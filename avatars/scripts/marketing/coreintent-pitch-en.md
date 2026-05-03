@@ -22,12 +22,12 @@ The engine is autonomous, risk-managed, and built on sovereign infrastructure �
 
 [GESTURE: nod]
 
-But trading is just one vertical. CoreIntent also builds *SongPal* — an AI music production platform — and powers the intelligence behind *MOSOKO*, our education brand. Everything is connected. One studio. Multiple products. All engineered in-house.
+But trading is just one vertical. CoreIntent also builds *SongPal* — an AI music production platform — and powers the intelligence behind *MOSOKO*, our education brand. Everything connects. One studio. Multiple products. All engineered in-house.
 
 [PAUSE 0.5s]
 
 We're New Zealand-founded, privacy-first, and we don't do hype. We ship working systems.
 
-[GESTURE: nod]
+[GESTURE: confident nod]
 
 That's CoreIntent. *Build with intent. Ship with precision.*

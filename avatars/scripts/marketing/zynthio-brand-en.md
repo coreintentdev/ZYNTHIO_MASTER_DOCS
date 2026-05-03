@@ -22,15 +22,15 @@ Let me walk you through it.
 
 [GESTURE: counting on fingers]
 
-*SongPal* — our AI-powered music production platform. Creators write, arrange, and produce with intelligent assistance built in. Trademark filed in New Zealand. Platform in development.
+*SongPal* — our AI-powered music production platform. Creators write, arrange, and produce with intelligent assistance built in. Trademark filed in New Zealand. Platform in active development.
 
-*CoreeyAI* — the intelligence layer that powers everything. Custom AI orchestration across Claude, Grok, and Perplexity. Not off-the-shelf wrappers. Purpose-built.
+*CoreeyAI* — the intelligence layer that powers everything. Custom AI orchestration across Claude, Grok, and Perplexity. Not off-the-shelf wrappers. Purpose-built for the creative industry.
 
 *MOSOKO* — our education brand. Real curriculum, real tools. Teaching independent artists to produce, protect, and publish their work.
 
 *DJ Zynrose* — the artist persona. Corey McIvor producing music with Zynthio's own tools. Living proof that the stack works.
 
-*CoreIntent* — the development studio. Every line of code, every deployment, every system — engineered here. Also operates an autonomous trading engine.
+*CoreIntent* — the development studio. Every line of code, every deployment, every system — engineered here. Also operates an autonomous trading engine for internal funding.
 
 *KERVALON* — the legal sentinel. Trademark filings, IP protection, compliance. What we build, we protect.
 
@@ -44,6 +44,6 @@ And *Zynthio* itself — the parent company, incorporating in New Zealand — ti
 
 One stack. Seven brands. No filler. All signal.
 
-[GESTURE: nod]
+[GESTURE: confident nod]
 
 This is creative sovereignty. This is *Zynthio*.

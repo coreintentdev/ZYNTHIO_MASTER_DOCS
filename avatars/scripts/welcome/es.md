@@ -14,7 +14,7 @@ No somos otra aplicación más. Somos un ecosistema creativo completo — siete 
 
 [GESTURE: open hand]
 
-Te lo explico rápido. Creas música con *SongPal* — nuestra plataforma de producción con inteligencia artificial. Aprendes el oficio con *MOSOKO* — educación real, no tutoriales. Y proteges todo lo que haces con *KERVALON* — nuestro brazo legal y de propiedad intelectual.
+Te lo explico rápido. Creas música con *SongPal* — nuestra plataforma de producción con inteligencia artificial. Perfeccionas tu oficio con *MOSOKO* — educación real y estructurada, no tutoriales sueltos. Y proteges todo lo que haces con *KERVALON* — nuestro brazo legal y de propiedad intelectual.
 
 [PAUSE 0.5s]
 
@@ -32,6 +32,6 @@ Tu arte. Tus herramientas. Tus condiciones.
 
 Sin relleno. Pura señal.
 
-[GESTURE: nod]
+[GESTURE: confident nod]
 
-Bienvenido al ecosistema. Construyamos algo juntos.
+Bienvenido al ecosistema. Construyamos algo real.

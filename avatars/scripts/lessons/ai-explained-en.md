@@ -22,9 +22,9 @@ Here's what it does, step by step.
 
 [GESTURE: nod]
 
-*Step two — pattern recognition.* Based on that data, the engine identifies patterns and potential opportunities. It looks for situations where the probability of a favourable outcome is higher than average — based on history and real-time conditions.
+*Step two — pattern recognition.* Based on that data, the engine identifies patterns and potential opportunities. It looks for situations where the probability of a favourable outcome is higher than average — based on historical data and real-time conditions.
 
-*Step three — risk assessment.* Before making any move, the AI checks the risk. What's the maximum downside? Does it fit our parameters? If the risk is too high, it doesn't trade. End of story.
+*Step three — risk assessment.* Before making any move, the AI checks the risk. What's the maximum downside? Does it fit within our parameters? If the risk is too high, it doesn't trade. End of story.
 
 [PAUSE 0.5s]
 
@@ -34,12 +34,12 @@ Here's what it does, step by step.
 
 [GESTURE: open hand]
 
-*Step five — monitoring.* After the trade is live, the AI keeps watching. If conditions change, it adjusts. If a stop-loss triggers, it exits. No ego. No holding on and hoping.
+*Step five — monitoring.* After the trade is live, the AI keeps watching. If conditions shift, it adjusts. If a stop-loss triggers, it exits. No ego. No holding on and hoping.
 
 [PAUSE 0.5s]
 
 That's the cycle. Data in. Analysis. Risk check. Execute. Monitor. Repeat.
 
-[GESTURE: nod]
+[GESTURE: confident nod]
 
 The AI doesn't have bad days. It doesn't get greedy. It follows the rules — and that discipline is exactly what makes it powerful.

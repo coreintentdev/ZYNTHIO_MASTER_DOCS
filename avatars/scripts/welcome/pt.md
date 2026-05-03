@@ -10,11 +10,11 @@ E aí — bem-vindo ao *Zynthio*.
 
 [PAUSE 1s]
 
-A gente não é mais um aplicativo. Somos um ecossistema criativo completo — sete marcas, um sistema — construído do zero para artistas independentes, produtores e criadores que querem ser donos do próprio trabalho.
+A gente não é mais um aplicativo. Somos um ecossistema criativo completo — sete marcas, um sistema integrado — construído do zero para artistas independentes, produtores e criadores que querem ser donos do próprio trabalho.
 
 [GESTURE: open hand]
 
-Resumindo: você cria música com o *SongPal* — nossa plataforma de produção com inteligência artificial. Aprende de verdade com o *MOSOKO* — educação real, não tutorial. E protege tudo o que faz com o *KERVALON* — nosso braço jurídico e de propriedade intelectual.
+Resumindo: você cria música com o *SongPal* — nossa plataforma de produção com inteligência artificial. Aprimora suas habilidades com o *MOSOKO* — educação real e estruturada, não tutorial solto. E protege tudo o que faz com o *KERVALON* — nosso braço jurídico e de propriedade intelectual.
 
 [PAUSE 0.5s]
 
@@ -32,6 +32,6 @@ Sua arte. Suas ferramentas. Suas regras.
 
 Sem enrolação. Só sinal.
 
-[GESTURE: nod]
+[GESTURE: confident nod]
 
-Bem-vindo ao ecossistema. Vamos construir juntos.
+Bem-vindo ao ecossistema. Vamos construir algo real.

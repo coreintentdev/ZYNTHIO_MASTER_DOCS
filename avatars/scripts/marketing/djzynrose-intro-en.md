@@ -18,20 +18,18 @@ But here's what sets this apart from every other AI music project out there. I'm
 
 [PAUSE 0.5s]
 
-Every track I release is made with the same tools we're building for you. *SIGNAL 336*. *THE MIRROR ASKED A QUESTION*. Real tracks. Real production. Real proof that this stack works.
+Every track I release is made with the same tools we're building for you. *SIGNAL 336*. *THE MIRROR ASKED A QUESTION*. Real tracks. Real production. Real proof that this stack delivers.
 
 [GESTURE: nod]
 
-That's the point. DJ Zynrose isn't a side project — it's the *living proof of concept*. If the music sounds good, the tools work. Simple.
+That's the point. DJ Zynrose isn't a side project — it's the *living proof of concept*. If the music sounds good, the tools work. Simple as that.
 
 [PAUSE 1s]
 
 And everything I create becomes teaching material inside *MOSOKO* — our education platform. So you don't just hear the music — you learn how it was made. Then you make your own.
 
-[GESTURE: nod]
+[GESTURE: confident nod]
 
 The signal is *336*. The doctrine is simple — *no filler, all signal*.
-
-[GESTURE: nod]
 
 Follow the sound. Follow *DJ Zynrose*.
