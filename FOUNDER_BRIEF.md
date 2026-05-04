@@ -1,6 +1,6 @@
 # FOUNDER BRIEF — Zynthio
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--03-blue) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--04-blue) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
 
 > Quick-reference operational dashboard for Corey McIvor.
 > Everything you need on one page. Deep detail lives in the linked docs.
@@ -11,7 +11,7 @@
 
 | Priority | Action | Reference | Deadline |
 |----------|--------|-----------|----------|
-| **1** | **WEEKEND — SATURDAY MAY 3** — Companies Office closed. Certificate CRITICALLY OVERDUE (BD9 was last Fri May 2 since filing Apr 21). **Call Companies Office first thing Monday May 4 (BD10). Follow up on Friday's escalation. Download and save certificate the moment it is issued.** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | **Mon May 4 — 9 days to deadline** |
+| **1** | **MONDAY MAY 4 — BD10 SINCE FILING APR 21** — Certificate CRITICALLY OVERDUE. **CALL Companies Office NOW when they open. Follow up on Friday's escalation. Provide application reference number. Download and save the Certificate of Incorporation the moment it is issued.** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | **TODAY — 8 days to deadline** |
 | **2** | Once incorporated — update all brand docs to remove "pending incorporation" language | [INCORPORATION_CHECKLIST.md](INCORPORATION_CHECKLIST.md) | Within 30 days |
 | **3** | Check with IPONZ whether SongPal TM #1318588 applicant assignment to ZYNTHIO LIMITED is needed | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | Post-incorporation |
 | **4** | Monitor IPONZ portal for SongPal TM #1318588 examination report | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | Ongoing |
@@ -66,7 +66,7 @@
 
 | Milestone | Target | Status |
 |-----------|--------|--------|
-| ZYNTHIO LIMITED incorporated | **Before May 12, 2026** | Filed Apr 21 — **Certificate CRITICALLY OVERDUE (BD9 was last Fri May 2) — Follow up Mon May 4 (BD10) when Companies Office opens** |
+| ZYNTHIO LIMITED incorporated | **Before May 12, 2026** | Filed Apr 21 — **Certificate CRITICALLY OVERDUE — TODAY Mon May 4 is BD10 — CALL Companies Office NOW** |
 | NZ registered office established | Before incorporation | Arranged (Apr 18) |
 | SongPal public beta | Q2–Q3 2026 | In development |
 | DJ Zynrose 4-way deploy (SIGNAL 336 + THE MIRROR) | Q2 2026 | Pipeline in progress |
@@ -142,4 +142,4 @@
 
 ---
 
-*Last updated: 2026-05-03 (Session 23) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-04 (Session 24) | Maintained by: Corey McIvor / COREINTENT*
