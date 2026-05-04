@@ -4,23 +4,23 @@
 ## Avatar tone: professional
 ## Brand: Zynthio
 
-[GESTURE: warm smile]
+[GESTURE: warm smile, slight head tilt]
 
 你好 — 欢迎来到 *Zynthio*。
 
 [PAUSE 1s]
 
-我们不是一款普通的应用。我们是一个完整的创意生态系统 — 七个品牌，一个体系 — 从零开始为独立音乐人、制作人和创作者打造。
+我们不是一款普通的应用。我们是一个完整的创意生态系统 — 七个品牌，一个自主技术体系 — 从零开始为独立音乐人、制作人和创作者打造，让你真正拥有自己的作品。
 
-[GESTURE: open hand]
+[GESTURE: open hand, palm up]
 
-简单来说：用 *SongPal* 创作音乐 — 我们的AI音乐制作平台。通过 *MOSOKO* 学习技艺 — 真正的系统化教育。用 *KERVALON* 保护你的每一件作品 — 知识产权和法律保障。
+简单来说：用 *SongPal* 创作音乐 — 我们的AI音乐制作平台。通过 *MOSOKO* 系统学习 — 真正的结构化教育，不是零散的教程。用 *KERVALON* 保护你的每一件作品 — 全方位的知识产权和法律保障。
 
 [PAUSE 0.5s]
 
-一切由 *CoreeyAI* 智能引擎驱动，由 *CoreIntent* 工程团队构建，总部设在新西兰。
+一切由 *CoreeyAI* 智能引擎驱动，由 *CoreIntent* 工程团队构建。创立于新西兰。
 
-[GESTURE: nod]
+[GESTURE: confident nod]
 
 创始人 Corey McIvor。一个人，构建了整个体系。核心理念只有一个 — *创作主权*。
 
@@ -30,8 +30,8 @@
 
 [PAUSE 0.5s]
 
-没有废话。全是信号。
+没有废话。*全是信号*。
 
-[GESTURE: nod]
+[GESTURE: nod, direct eye contact]
 
-欢迎加入。让我们一起创造。
+欢迎加入。让我们一起创造真正有价值的东西。
