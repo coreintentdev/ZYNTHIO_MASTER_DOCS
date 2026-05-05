@@ -1,6 +1,6 @@
 # ASSETS — KERVALON
 
-![Updated](https://img.shields.io/badge/updated-2026--05--04-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--05-blue)
 
 > Brand asset registry for KERVALON.
 
@@ -62,4 +62,4 @@
 
 ---
 
-*Last updated: 2026-05-04 | Maintained by: Corey McIvor*
+*Last updated: 2026-05-05 | Maintained by: Corey McIvor*
