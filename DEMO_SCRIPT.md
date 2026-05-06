@@ -1,6 +1,6 @@
 # DEMO SCRIPT — Zynthio
 
-![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--06-blue) ![Duration](https://img.shields.io/badge/duration-3%20minutes-purple)
+![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--06-blue) ![Duration](https://img.shields.io/badge/duration-3%20minutes-purple)
 
 > 3-minute live demo walkthrough for competitions, investor meetings, and showcases.
 > Designed to show the real stack — not a prototype, not a mockup.
@@ -11,7 +11,7 @@
 
 Before going live, confirm:
 
-- [ ] VPS (104.194.156.109) is accessible and services are running
+- [ ] VPS is accessible and services are running
 - [ ] CoreeyAI integrations responding (Claude, Grok, Perplexity)
 - [ ] ZYNTHIO_MASTER_DOCS GitHub repo is public and loaded
 - [ ] SongPal demo environment ready (or fallback: architecture walkthrough)
@@ -28,11 +28,13 @@ Before going live, confirm:
 
 **Say:**
 
-> "Let me show you what Zynthio actually looks like under the hood. This isn't a mockup — this is live infrastructure, running right now on our own server in production."
+> "Let me show you what Zynthio actually looks like. This isn't a mockup — this is live infrastructure, running right now on our own sovereign server."
 
 **Action:** Open terminal or browser showing VPS status / Docker containers running.
 
 **Show:** Docker container list — services running, health checks passing. The audience sees real infrastructure, not slides.
+
+**Impact:** Establishes credibility immediately. Most early-stage startups show Figma prototypes. You're showing running containers.
 
 ---
 
@@ -40,18 +42,18 @@ Before going live, confirm:
 
 **Say:**
 
-> "This is CoreeyAI — our AI orchestration layer. It doesn't just call one API. It routes tasks to the right model for the job."
+> "This is CoreeyAI — our multi-model AI orchestration layer. It doesn't just call one API. It routes tasks to the right model for the job — Claude for reasoning, Grok for real-time data, Perplexity for research, Suno for generation."
 
 **Action:** Trigger a live CoreeyAI query — send a prompt that demonstrates model routing.
 
 **Show:**
 - A composition prompt sent to CoreeyAI
 - CoreeyAI routing to Claude for arrangement logic, Perplexity for genre research
-- Response returned with structured output
+- Response returned with structured output showing which model handled which subtask
 
 **Say:**
 
-> "That's three AI models, orchestrated in one call. Claude for reasoning, Perplexity for research, Suno for generation. This is what powers SongPal."
+> "That's three AI models, orchestrated in one call. This is what powers SongPal — and what makes our gTrade trading bot intelligent."
 
 ---
 
@@ -61,7 +63,7 @@ Before going live, confirm:
 
 **Say:**
 
-> "This is SongPal — our AI music production platform. Trademark filed in New Zealand. Let me show you what it feels like to create with it."
+> "This is SongPal — our AI music production platform. Trademark filed in New Zealand. Built on Next.js with CoreeyAI underneath."
 
 **Action:** Open SongPal interface. Demonstrate:
 1. Start a new track session
@@ -71,30 +73,30 @@ Before going live, confirm:
 
 **Say:**
 
-> "That's original audio, created in seconds, using our own AI layer. The creator owns 100% of it. No licensing traps. No extraction."
+> "That's original audio, created in seconds, using our own AI layer. The creator owns 100% of it. No licensing traps. No extraction. This is creative sovereignty."
 
 **If SongPal MVP is not yet ready (fallback):**
 
 **Say:**
 
-> "SongPal is in active development — trademark filed, beta targeting this quarter. Let me show you the architecture that powers it."
+> "SongPal is in active development — trademark filed, Next.js frontend building, beta targeting this quarter. Let me show you the architecture that powers it, and play you something it will produce."
 
 **Action:** Show the ECOSYSTEM_MAP.md architecture diagram on GitHub. Walk through the data flow:
-- COREINTENT builds → CoreeyAI thinks → SongPal creates → MOSOKO teaches → KERVALON protects
+- CoreIntent builds → CoreeyAI thinks → SongPal creates → MOSOKO teaches → KERVALON protects
 
 **Play:** A 15-second clip of *SIGNAL 336* or *THE MIRROR ASKED A QUESTION*.
 
 **Say:**
 
-> "This track was made using the Zynthio stack. DJ Zynrose — the founder's artist project — is the living proof of concept. Every track is made on the same tools we're building for everyone."
+> "This track was made using the Zynthio stack. DJ Zynrose — my artist project — is the living proof of concept. Every track is made on the same tools we're building for everyone."
 
 ---
 
-### [1:30–2:00] The Self-Funding Engine — gTrade
+### [1:30–2:10] The Self-Funding Engine — CoreIntent / gTrade
 
 **Say:**
 
-> "Most early-stage startups burn cash while they build. We built a different mechanism."
+> "Most early-stage startups burn cash while they build. We built a different mechanism. This is gTrade — CoreIntent's autonomous trading bot."
 
 **Action:** Show gTrade dashboard or risk configuration (config/risk.yaml).
 
@@ -105,15 +107,19 @@ Before going live, confirm:
 
 **Say:**
 
-> "gTrade is our autonomous trading bot. Not a subscription signal service — a competition-based model. Open architecture, verifiable risk parameters: max 5x leverage, 1% risk per trade, 0.8% daily loss ceiling. It self-funds our development. No black boxes. No monthly fees for signals. This is how we stay sovereign while we build."
+> "This is the CoreIntent difference. Not a subscription signal service — a competition-based model. Open architecture. Verifiable risk parameters. Max 5x leverage, 1% risk per trade, 0.8% daily loss ceiling. Every parameter is transparent."
+
+**Pause.**
+
+> "This is how we stay sovereign while we build. gTrade funds development. No VC dependency. No runway anxiety. The bot competes in the market and the results fund better tools."
 
 ---
 
-### [2:00–2:30] The Documentation & Brand Architecture
+### [2:10–2:40] The Documentation & Brand Architecture
 
 **Say:**
 
-> "One thing that sets Zynthio apart — everything is documented, public, and structured."
+> "One thing that sets Zynthio apart from every other early-stage startup I've seen — everything is documented, public, and structured."
 
 **Action:** Open GitHub repo (ZYNTHIO_MASTER_DOCS). Scroll through:
 - INDEX.md — master table of contents
@@ -123,27 +129,25 @@ Before going live, confirm:
 
 **Say:**
 
-> "Seven brands. Full documentation. Brand guidelines, roadmaps, financial projections, NZ compliance tracking — all in one public repo. This is how you build a real company, not just a demo."
+> "Seven brands. Full documentation. Brand guidelines, roadmaps, financial projections, NZ compliance tracking, multilingual content in six languages — all in one public repo. This is how you build a real company, not just a demo."
 
 ---
 
-### [2:30–3:00] Close — The Stack Is Real
+### [2:40–3:00] Close — The Stack Is Real
 
 **Say:**
 
-> "Let me leave you with this. What you just saw is not a pitch deck. It's a running system."
+> "Let me leave you with this."
 
 **Action:** Return to the terminal / VPS view. Services running.
 
 **Say:**
 
-> "Live infrastructure. Multi-model AI. A trademark on file. A company incorporating in New Zealand this month. Original music written and ready to deploy. And a founder who built every layer — the code, the brand, the music, and the legal filings."
-
-> "Zynthio is not a feature. It's a sovereign creative stack for the post-AI world."
+> "What you just saw is not a pitch deck. It's a running system. Live infrastructure. Multi-model AI. A trademark on file. A company incorporating in New Zealand this month. An autonomous trading bot funding development. Original music written and ready to deploy. And a founder who built every layer — the code, the brand, the music, and the legal filings."
 
 **Pause. Make eye contact.**
 
-> "One stack. Seven brands. No filler. All signal."
+> "Zynthio is not a feature. It's sovereign creative infrastructure for the post-AI world. One stack. Seven brands. No filler. All signal."
 
 ---
 
@@ -154,9 +158,9 @@ Before going live, confirm:
 | Opening — live infrastructure | 0:00–0:20 | Credibility — real server, real containers |
 | CoreeyAI — AI orchestration | 0:20–0:50 | Technical depth — multi-model routing |
 | SongPal — the product | 0:50–1:30 | Product demo or architecture + music |
-| gTrade — self-funding | 1:30–2:00 | Business model — sovereign funding |
-| Documentation & brand | 2:00–2:30 | Professionalism — structured, public, real |
-| Close — the stack is real | 2:30–3:00 | Impact — tie it together |
+| CoreIntent / gTrade — self-funding | 1:30–2:10 | Business model — competition-based trading |
+| Documentation & brand | 2:10–2:40 | Professionalism — structured, public, real |
+| Close — the stack is real | 2:40–3:00 | Impact — tie it together |
 
 ---
 
@@ -165,24 +169,33 @@ Before going live, confirm:
 ### For AI competitions (emphasise CoreeyAI):
 - Extend the CoreeyAI segment to 60 seconds
 - Show prompt engineering templates and agentic workflow (Perplexity Orb)
-- Trim gTrade to 15 seconds
+- Demonstrate model selection logic — why Claude for reasoning, Grok for real-time, Perplexity for research
+- Trim documentation segment to 15 seconds
 
 ### For music competitions (emphasise SongPal + DJ Zynrose):
 - Lead with music playback — open with 10 seconds of *SIGNAL 336*
 - Extend SongPal segment to 60 seconds
 - Show MOSOKO curriculum outline
-- Trim gTrade and documentation segments
+- Trim gTrade to 15 seconds — mention it as "how we self-fund" without deep dive
 
-### For startup/fintech competitions (emphasise business model):
-- Lead with market size ($9.5B)
-- Extend gTrade segment — show risk parameters and autonomous operation
+### For fintech / trading competitions (emphasise CoreIntent / gTrade):
+- Lead with gTrade — open risk config immediately
+- Extend gTrade segment to 90 seconds — show live positions, risk parameters, asset coverage
+- Emphasise the competition model vs. subscription model difference
+- Show the open architecture principle — anyone can verify the risk parameters
 - Show FINANCIAL_MODEL.md projections on screen
-- Close with funding ask
+
+### For startup competitions (emphasise business model):
+- Lead with market size ($21B+ combined TAM)
+- Balance between SongPal product and gTrade self-funding
+- Show FINANCIAL_MODEL.md projections on screen
+- Close with funding ask — NZD $150–250K seed
 
 ### If WiFi fails:
 - Pre-record a 3-minute screen capture as backup
 - Have offline screenshots of all key screens
 - Music clips stored locally on device
+- Risk config YAML viewable offline
 
 ---
 
@@ -193,6 +206,7 @@ Use one or two of these during the demo, depending on audience:
 - *"The engineer is the artist. The person building the tools is the person using them."*
 - *"We don't burn cash while we build. gTrade funds our development autonomously."*
 - *"This is not a pitch deck looking for an engineer. The engineer is the founder."*
+- *"Competition model, not subscription model. Performance is the product."*
 - *"No filler. All signal."*
 
 ---

@@ -1,6 +1,6 @@
 # AWARDS TRACKER — Zynthio 2026
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--06-blue) ![Year](https://img.shields.io/badge/year-2026-purple)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--06-blue) ![Year](https://img.shields.io/badge/year-2026-purple) ![Targets](https://img.shields.io/badge/targets-21-orange)
 
 > Tracking relevant competitions, awards, grants, and accelerators for Zynthio across AI, fintech, music technology, and startup categories.
 
@@ -21,27 +21,29 @@ Before entering any competition, confirm:
 
 ## Dashboard — Application Status
 
-| Competition | Category | Status | Deadline | Priority |
-|------------|----------|--------|----------|----------|
-| Callaghan Innovation R&D Grant | AI / R&D | Not started | Rolling | **HIGH** |
-| Creative HQ Startup Programme | Startup | Not started | TBC (check website) | **HIGH** |
-| Lightning Lab | SaaS / Deep tech | Not started | TBC (check website) | **HIGH** |
-| Startmate Accelerator (AU) | SaaS / Consumer | Not started | TBC (check website) | **HIGH** |
-| SXSW Sydney Startup Competition | Music / Tech | Not started | TBC (typically mid-year) | **HIGH** |
-| MIDEM Accelerator | Music industry | Not started | TBC (check website) | **HIGH** |
-| Music Ally LAUNCH | Music tech | Not started | TBC (check website) | **HIGH** |
-| Edmund Hillary Fellowship | Global impact | Not started | TBC (check website) | MEDIUM |
-| NZ Music Commission | Music industry | Not started | Rolling | MEDIUM |
-| Creative Australia Grants | Arts / Music | Not started | TBC | MEDIUM |
-| Product Hunt Hackathon | Product / AI | Not started | TBC | MEDIUM |
-| ITU AI for Good | AI impact | Not started | TBC | MEDIUM |
-| Techweek NZ | Tech / Startup | Not started | TBC (May–June 2026) | MEDIUM |
-| NZ Hi-Tech Awards | Tech | Not started | TBC (typically H1) | MEDIUM |
-| FinTech Australia Awards | Fintech / AI | Not started | TBC (typically H2) | MEDIUM |
-| NZX Fintech Accelerator | Fintech / Trading | Not started | TBC | MEDIUM |
-| AWS Startup Programme | Cloud / AI | Not started | Rolling | LOW |
-| Google for Startups | Cloud / AI | Not started | Rolling | LOW |
-| Anthropic Partner / Builder | AI | Not started | Rolling | LOW |
+| # | Competition | Category | Status | Deadline | Priority |
+|---|------------|----------|--------|----------|----------|
+| 1 | Callaghan Innovation R&D Grant | AI / R&D | Not started | Rolling | **HIGH** |
+| 2 | Creative HQ Startup Programme | Startup | Not started | TBC (check website) | **HIGH** |
+| 3 | Lightning Lab | SaaS / Deep tech | Not started | TBC (check website) | **HIGH** |
+| 4 | Startmate Accelerator (AU) | SaaS / Consumer | Not started | TBC (check website) | **HIGH** |
+| 5 | SXSW Sydney Startup Competition | Music / Tech | Not started | TBC (typically mid-year) | **HIGH** |
+| 6 | MIDEM Accelerator | Music industry | Not started | TBC (check website) | **HIGH** |
+| 7 | Music Ally LAUNCH | Music tech | Not started | TBC (check website) | **HIGH** |
+| 8 | Antler Residency (AU/NZ) | Startup | Not started | Rolling cohorts | **HIGH** |
+| 9 | Edmund Hillary Fellowship | Global impact | Not started | TBC (check website) | MEDIUM |
+| 10 | NZ Music Commission | Music industry | Not started | Rolling | MEDIUM |
+| 11 | Creative Australia Grants | Arts / Music | Not started | TBC | MEDIUM |
+| 12 | Product Hunt Hackathon | Product / AI | Not started | TBC | MEDIUM |
+| 13 | ITU AI for Good | AI impact | Not started | TBC | MEDIUM |
+| 14 | Techweek NZ | Tech / Startup | Not started | TBC (May–June 2026) | MEDIUM |
+| 15 | NZ Hi-Tech Awards | Tech | Not started | TBC (typically H1) | MEDIUM |
+| 16 | FinTech Australia Awards | Fintech / AI | Not started | TBC (typically H2) | MEDIUM |
+| 17 | NZX Fintech Accelerator | Fintech / Trading | Not started | TBC | MEDIUM |
+| 18 | Seedstars Global | Startup | Not started | Rolling | MEDIUM |
+| 19 | AWS Startup Programme | Cloud / AI | Not started | Rolling | LOW |
+| 20 | Google for Startups | Cloud / AI | Not started | Rolling | LOW |
+| 21 | Anthropic Partner / Builder | AI | Not started | Rolling | LOW |
 
 ---
 
@@ -53,11 +55,11 @@ Before entering any competition, confirm:
 |-------|--------|
 | Organiser | Callaghan Innovation |
 | Category | Research & development, AI |
-| Fit | **HIGH** — AI development costs for CoreeyAI and SongPal qualify |
+| Fit | **HIGH** — AI development costs for CoreeyAI and SongPal qualify; gTrade algorithmic trading R&D |
 | What they offer | R&D co-funding (typically 40% of eligible R&D costs) |
 | Eligibility | NZ-incorporated company performing R&D in NZ |
 | Deadline | Rolling applications |
-| Zynthio angle | CoreeyAI AI orchestration, SongPal platform development, gTrade algorithmic trading R&D |
+| Zynthio angle | CoreeyAI multi-model AI orchestration, SongPal Next.js platform development, gTrade algorithmic trading R&D |
 | Action | Incorporate ZYNTHIO LIMITED first. Then apply. |
 | URL | [callaghaninnovation.govt.nz](https://www.callaghaninnovation.govt.nz) |
 | Status | **Not started** — requires incorporation |
@@ -72,7 +74,7 @@ Before entering any competition, confirm:
 | What they offer | Accelerator programme, mentorship, workspace, investor introductions |
 | Eligibility | Early-stage NZ-connected startups |
 | Deadline | Check website — typically cohort-based with application rounds |
-| Zynthio angle | SongPal as flagship product, sovereign creative stack narrative |
+| Zynthio angle | SongPal as flagship product, sovereign creative stack narrative, CoreIntent self-funding model |
 | URL | [creativehq.co.nz](https://www.creativehq.co.nz) |
 | Status | **Not started** |
 
@@ -86,7 +88,7 @@ Before entering any competition, confirm:
 | What they offer | Accelerator programme, seed investment, mentorship |
 | Eligibility | NZ-based or NZ-connected tech startups |
 | Deadline | Check website — cohort applications |
-| Zynthio angle | SongPal SaaS model, CoreeyAI B2B API, multi-model AI architecture |
+| Zynthio angle | SongPal SaaS model, CoreeyAI B2B API, multi-model AI architecture, gTrade as unique self-funding angle |
 | URL | [lightninglab.co.nz](https://www.lightninglab.co.nz) |
 | Status | **Not started** |
 
@@ -100,7 +102,7 @@ Before entering any competition, confirm:
 | What they offer | Grants, industry connections, export support |
 | Eligibility | NZ music artists and music businesses |
 | Deadline | Rolling / programme-specific |
-| Zynthio angle | DJ Zynrose as NZ artist using AI production tools; MOSOKO as NZ music education platform |
+| Zynthio angle | DJ Zynrose as NZ artist using AI production tools; MOSOKO as NZ music education platform; SongPal as NZ-built tool |
 | URL | [nzmusic.org.nz](https://www.nzmusic.org.nz) |
 | Status | **Not started** |
 
@@ -114,7 +116,7 @@ Before entering any competition, confirm:
 | What they offer | Fellowship, NZ Global Impact Visa, community, mentorship |
 | Eligibility | Entrepreneurs with global impact potential; NZ connection |
 | Deadline | Check website — rolling/cohort |
-| Zynthio angle | Sovereign creative infrastructure for independent artists worldwide; NZ-based company with global ambition |
+| Zynthio angle | Sovereign creative infrastructure for independent artists worldwide; NZ-based company with global ambition; democratising AI tools |
 | URL | [ehf.org](https://www.ehf.org) |
 | Status | **Not started** |
 
@@ -128,7 +130,7 @@ Before entering any competition, confirm:
 | What they offer | Visibility, pitch competition, networking |
 | Eligibility | NZ tech companies |
 | Deadline | Typically May–June 2026 |
-| Zynthio angle | AI music production + sovereign architecture |
+| Zynthio angle | AI music production + sovereign architecture + self-funding trading model |
 | Status | **Not started** |
 
 ### NZ Hi-Tech Awards
@@ -141,7 +143,7 @@ Before entering any competition, confirm:
 | What they offer | Recognition, media coverage, investor visibility |
 | Eligibility | NZ tech companies |
 | Deadline | Typically H1 — check website |
-| Zynthio angle | Most innovative emerging tech company; AI + music intersection |
+| Zynthio angle | Most innovative emerging tech company; AI + music + fintech intersection |
 | Status | **Not started** |
 
 ---
@@ -158,7 +160,7 @@ Before entering any competition, confirm:
 | What they offer | Showcase, industry exposure, investor access, media coverage |
 | Eligibility | Startups with music/tech/creative focus |
 | Deadline | Typically mid-year — check website |
-| Zynthio angle | SongPal AI music production, DJ Zynrose as performing proof of concept, sovereign creator stack |
+| Zynthio angle | SongPal AI music production, DJ Zynrose as performing proof of concept, CoreIntent self-funding model |
 | URL | [sxswsydney.com](https://www.sxswsydney.com) |
 | Status | **Not started** |
 
@@ -172,8 +174,22 @@ Before entering any competition, confirm:
 | What they offer | Seed investment (~AUD $120K), mentorship, network |
 | Eligibility | Early-stage startups, AU/NZ founders welcome |
 | Deadline | Cohort-based — check website |
-| Zynthio angle | SongPal SaaS, CoreeyAI API licensing, multi-brand architecture |
+| Zynthio angle | SongPal SaaS, CoreeyAI API licensing, multi-brand architecture, gTrade unique narrative |
 | URL | [startmate.com](https://www.startmate.com) |
+| Status | **Not started** |
+
+### Antler Residency (AU/NZ)
+
+| Field | Detail |
+|-------|--------|
+| Organiser | Antler |
+| Category | Pre-seed / startup builder |
+| Fit | **HIGH** — pre-seed stage, strong founder-first approach |
+| What they offer | AUD $100–250K investment, 6-month residency, mentorship network |
+| Eligibility | Founders building tech startups in AU/NZ region |
+| Deadline | Rolling cohorts — multiple per year |
+| Zynthio angle | Solo technical founder with live infrastructure, clear market, unique self-funding mechanism |
+| URL | [antler.co](https://www.antler.co) |
 | Status | **Not started** |
 
 ### Creative Australia Grants
@@ -190,6 +206,20 @@ Before entering any competition, confirm:
 | URL | [creative.gov.au](https://www.creative.gov.au) |
 | Status | **Not started** |
 
+### FinTech Australia Awards
+
+| Field | Detail |
+|-------|--------|
+| Organiser | FinTech Australia |
+| Category | Fintech / AI trading |
+| Fit | MEDIUM — gTrade autonomous trading bot; competition-based model vs subscription signals |
+| What they offer | Industry recognition, investor introductions, media coverage |
+| Eligibility | Fintech companies with AU/NZ connection |
+| Deadline | Check website — typically H2 |
+| Zynthio angle | gTrade as open-architecture, competition-based algorithmic trading; self-funding mechanism; NZ/AU founder |
+| URL | [fintechaustralia.org.au](https://www.fintechaustralia.org.au) |
+| Status | **Not started** |
+
 ---
 
 ## International Competitions
@@ -204,7 +234,7 @@ Before entering any competition, confirm:
 | What they offer | Showcase at MIDEM, industry introductions, investor access, media |
 | Eligibility | Music technology startups worldwide |
 | Deadline | Check website — typically early in year |
-| Zynthio angle | SongPal as AI music production platform; full creator stack differentiator |
+| Zynthio angle | SongPal as AI music production platform; full creator stack differentiator; DJ Zynrose live element |
 | URL | [midem.com](https://www.midem.com) |
 | Status | **Not started** |
 
@@ -218,8 +248,22 @@ Before entering any competition, confirm:
 | What they offer | Showcase, pitch competition, press coverage, industry network |
 | Eligibility | Music tech startups |
 | Deadline | Check website |
-| Zynthio angle | SongPal AI production, DJ Zynrose proof of concept, sovereign stack |
+| Zynthio angle | SongPal AI production, DJ Zynrose proof of concept, sovereign stack, CoreeyAI multi-model |
 | URL | [musically.com](https://www.musically.com) |
+| Status | **Not started** |
+
+### Seedstars Global Competition
+
+| Field | Detail |
+|-------|--------|
+| Organiser | Seedstars |
+| Category | Emerging market startups |
+| Fit | MEDIUM — founder operating from Nicaragua; NZ/AU company targeting global market |
+| What they offer | Investment (up to USD $500K), global showcase, mentorship |
+| Eligibility | Startups from emerging markets or with emerging market focus |
+| Deadline | Rolling — regional events feed into global summit |
+| Zynthio angle | Founder based in Nicaragua, building for global independent creators; NZ-incorporated but globally distributed; unique self-funding model means less capital dependency |
+| URL | [seedstars.com](https://www.seedstars.com) |
 | Status | **Not started** |
 
 ### Product Hunt Global Hackathon
@@ -245,22 +289,8 @@ Before entering any competition, confirm:
 | What they offer | Global platform, UN visibility, partnership opportunities |
 | Eligibility | AI projects with social impact dimension |
 | Deadline | Check website |
-| Zynthio angle | MOSOKO education for independent creators; democratising AI music production; creative sovereignty |
+| Zynthio angle | MOSOKO education for independent creators; democratising AI music production; creative sovereignty for underserved markets |
 | URL | [aiforgood.itu.int](https://aiforgood.itu.int) |
-| Status | **Not started** |
-
-### FinTech Australia Awards
-
-| Field | Detail |
-|-------|--------|
-| Organiser | FinTech Australia |
-| Category | Fintech / AI trading |
-| Fit | MEDIUM — gTrade autonomous trading bot; competition-based model vs subscription signals |
-| What they offer | Industry recognition, investor introductions, media coverage |
-| Eligibility | Fintech companies with AU/NZ connection |
-| Deadline | Check website — typically H2 |
-| Zynthio angle | gTrade as open-architecture, competition-based algorithmic trading; self-funding mechanism; NZ/AU founder |
-| URL | [fintechaustralia.org.au](https://www.fintechaustralia.org.au) |
 | Status | **Not started** |
 
 ### NZX Fintech Accelerator
@@ -273,7 +303,7 @@ Before entering any competition, confirm:
 | What they offer | Mentorship, market access, investor network |
 | Eligibility | NZ fintech startups |
 | Deadline | Check website — programme-specific |
-| Zynthio angle | gTrade autonomous trading with open risk architecture; NZ jurisdiction; competition model |
+| Zynthio angle | gTrade autonomous trading with open risk architecture; NZ jurisdiction; competition model vs subscription |
 | Status | **Not started** |
 
 ---
@@ -287,7 +317,7 @@ Before entering any competition, confirm:
 | Organiser | Amazon Web Services |
 | What they offer | AWS credits (up to $100K), technical support, mentorship |
 | Eligibility | Early-stage startups |
-| Zynthio angle | Infrastructure credits for SongPal scaling; AI compute |
+| Zynthio angle | Infrastructure credits for SongPal scaling; AI compute for CoreeyAI |
 | Status | **Not started** — apply post-incorporation |
 
 ### Google for Startups Cloud Program
@@ -295,9 +325,9 @@ Before entering any competition, confirm:
 | Field | Detail |
 |-------|--------|
 | Organiser | Google Cloud |
-| What they offer | GCP credits (up to $100K), technical mentorship |
+| What they offer | GCP credits (up to $200K), technical mentorship |
 | Eligibility | Early-stage startups |
-| Zynthio angle | Cloud infrastructure for CoreeyAI and SongPal |
+| Zynthio angle | Cloud infrastructure for CoreeyAI and SongPal; Vertex AI potential for model fine-tuning |
 | Status | **Not started** — apply post-incorporation |
 
 ### Anthropic Partner / Builder Programme
@@ -307,7 +337,7 @@ Before entering any competition, confirm:
 | Organiser | Anthropic |
 | What they offer | API credits, technical support, partnership visibility |
 | Eligibility | Companies building on Claude API |
-| Zynthio angle | CoreeyAI is built on Claude as primary reasoning engine; strong product fit |
+| Zynthio angle | CoreeyAI is built on Claude as primary reasoning engine; strong product fit; already heavy Claude user |
 | Status | **Not started** — explore once SongPal MVP is live |
 
 ---
@@ -318,13 +348,13 @@ Before entering any competition, confirm:
 
 | Period | Priority Actions |
 |--------|-----------------|
-| **May 2026** | Incorporate. Apply for Callaghan Innovation R&D Grant. Research Creative HQ and Lightning Lab deadlines. |
-| **June 2026** | Submit to Callaghan Innovation. Apply to Creative HQ or Lightning Lab (whichever has open cohort). Register for Techweek NZ. |
+| **May 2026** | Incorporate. Apply for Callaghan Innovation R&D Grant. Research Creative HQ, Lightning Lab, and Antler deadlines. |
+| **June 2026** | Submit to Callaghan Innovation. Apply to Creative HQ or Lightning Lab (whichever has open cohort). Register for Techweek NZ. Apply to Antler. |
 | **July 2026** | Apply to Startmate (AU). Prepare SXSW Sydney application. Begin Music Ally LAUNCH application. |
-| **August 2026** | Submit SXSW Sydney. Apply to MIDEM Accelerator. Apply for cloud credits (AWS, GCP). |
-| **September 2026** | Submit to NZ Music Commission (DJ Zynrose angle). Begin Edmund Hillary Fellowship application. |
-| **October 2026** | Product Hunt launch for SongPal beta. Apply to ITU AI for Good. |
-| **November 2026** | Apply to Creative Australia Grants. Prepare NZ Hi-Tech Awards submission. |
+| **August 2026** | Submit SXSW Sydney. Apply to MIDEM Accelerator. Apply for cloud credits (AWS, GCP). Research Seedstars regional events. |
+| **September 2026** | Submit to NZ Music Commission (DJ Zynrose angle). Begin Edmund Hillary Fellowship application. Apply to FinTech Australia Awards (gTrade angle). |
+| **October 2026** | Product Hunt launch for SongPal beta. Apply to ITU AI for Good. Begin NZ Hi-Tech Awards submission. |
+| **November 2026** | Apply to Creative Australia Grants. Prepare Anthropic Builder Programme application. |
 | **December 2026** | Review all outcomes. Plan 2027 competition strategy. Prepare for Series A positioning. |
 
 ---
@@ -356,6 +386,7 @@ For each competition submission, prepare:
 - [ ] Eligibility criteria confirmed
 - [ ] Word/slide/video limits checked
 - [ ] Submission deadline calendared
+- [ ] Competition-specific angle identified (music / AI / fintech / startup)
 
 ---
 
