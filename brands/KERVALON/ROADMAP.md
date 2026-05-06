@@ -1,6 +1,6 @@
 # ROADMAP — KERVALON
 
-![Updated](https://img.shields.io/badge/updated-2026--05--05-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--06-blue)
 
 ---
 
@@ -63,4 +63,4 @@
 
 ---
 
-*Last updated: 2026-05-05*
+*Last updated: 2026-05-06*

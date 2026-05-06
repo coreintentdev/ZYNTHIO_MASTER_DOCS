@@ -1,9 +1,27 @@
 # CHANGELOG — Zynthio Master Docs
 
-![Updated](https://img.shields.io/badge/updated-2026--05--05-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--06-blue)
 
 All significant changes to this documentation repository are recorded here.
 Format: `YYYY-MM-DD | Type | Description`
+
+---
+
+## 2026-05-06 (Session 26)
+
+### Updated
+
+- `README.md` — Countdown badge updated (7 → 6 days as of 2026-05-06); critical alert updated: TODAY WED MAY 6 — BD12 since filing Apr 21 — certificate CRITICALLY OVERDUE (12 business days beyond normal window) — CALL Companies Office NOW — escalate immediately to supervisor/manager level — engage NZ solicitor today if no resolution — 6 days to deadline; session footer to Session 26
+- `INDEX.md` — Days Left column updated (7 → 6 as of 2026-05-06); alert updated to Wednesday BD12, escalation + solicitor language added; date badge to 2026-05-06; session footer to Session 26
+- `NZ_COMPLIANCE.md` — Action plan heading updated to "Next 6 Days"; May 5 relabelled "Done"; TODAY (May 6, Wednesday) added — BD12 — CALL NOW — escalate to supervisor/manager — engage NZ solicitor today if not confirmed for imminent issuance; summary dashboard updated to 6 days (as of 2026-05-06); key deadlines calendar: May 5 Done, May 6 TODAY (BD12, escalate + solicitor) added; urgency block updated; date badge and session footer to Session 26
+- `INCORPORATION_CHECKLIST.md` — Timeline advanced: May 5 marked Done; TODAY (May 6) = BD12 — CALL NOW — escalate to supervisor/manager — engage NZ solicitor if not confirmed; preamble updated to 6 days as of 2026-05-06, WEDNESDAY; bottom note updated to Wed May 6 BD12; badge updated to 6 (as of May 6); session footer to Session 26
+- `FOUNDER_BRIEF.md` — Critical action Priority 1 updated: TODAY May 6 (Wednesday) — BD12 — CALL Companies Office NOW — escalate to supervisor — engage NZ solicitor today if not resolved — 6 days to deadline; milestone tracker updated to BD12 Wed May 6; date badge and session footer to Session 26
+- `ECOSYSTEM_MAP.md` — Current State Snapshot heading updated to May 6, 2026; legal status note updated to 6 days as of 2026-05-06, certificate CRITICALLY OVERDUE BD12 today Wed May 6, escalate + solicitor language; date badge and session footer to Session 26
+- `COMPETITION_ENTRY.md` — Traction date updated to 2026-05-06; date badge updated to 2026-05-06; footer date updated
+- `FINANCIAL_MODEL.md` — Date badge and footer updated to 2026-05-06 / Session 26
+- `COMPETITION_PORTFOLIO.md`, `PITCH_DECK_OUTLINE.md`, `DEMO_SCRIPT.md`, `PRESS_KIT.md`, `AWARDS_TRACKER.md` — Date badges and footers updated to 2026-05-06 / Session 26
+- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — Date badges and "Last updated" footer dates updated to 2026-05-06 / Session 26
+- `CHANGELOG.md` — This entry; badge updated to 2026-05-06
 
 ---
 

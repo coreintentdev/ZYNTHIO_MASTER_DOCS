@@ -1,6 +1,6 @@
 # PRESS KIT — Zynthio
 
-![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--05-blue)
+![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--06-blue)
 
 > Press kit for media, competition judges, event organisers, and partners.
 > Copy any section directly into submissions, bios, or press materials.
@@ -219,4 +219,4 @@ Domain: [zynthio.ai](https://zynthio.ai)
 
 ---
 
-*Last updated: 2026-05-05 (Session 25) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-06 (Session 26) | Maintained by: Corey McIvor / COREINTENT*

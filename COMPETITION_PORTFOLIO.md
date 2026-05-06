@@ -1,6 +1,6 @@
 # COMPETITION PORTFOLIO — Zynthio
 
-![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--05-blue) ![Stage](https://img.shields.io/badge/stage-pre--seed-yellow) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black)
+![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--06-blue) ![Stage](https://img.shields.io/badge/stage-pre--seed-yellow) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black)
 
 > Full competition portfolio for startup, AI, fintech, and music technology competitions worldwide.
 
@@ -287,4 +287,4 @@ Email: *(add contact email before submitting)*
 
 ---
 
-*Last updated: 2026-05-05 (Session 25) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-06 (Session 26) | Maintained by: Corey McIvor / COREINTENT*

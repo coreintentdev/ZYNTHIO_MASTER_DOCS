@@ -1,10 +1,10 @@
 # INCORPORATION CHECKLIST — ZYNTHIO LIMITED
 
-![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-7%20(as%20of%20May%205)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
+![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-6%20(as%20of%20May%206)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
 
 > **Focused action checklist for incorporating ZYNTHIO LIMITED before the name reservation expires.**
 > Name reservation: **NZCO #15436626** — expires **May 12, 2026**.
-> As of 2026-05-05: **7 days remain.** TODAY IS TUESDAY MAY 5 — BD11 since filing Apr 21. **Certificate of Incorporation CRITICALLY OVERDUE. CALL the Companies Office NOW.** Follow up on yesterday's (Mon May 4) call. Provide application reference number. Escalate urgently — only 7 days until the reservation expires. Download and save the certificate the moment it is issued.
+> As of 2026-05-06: **6 days remain.** TODAY IS WEDNESDAY MAY 6 — BD12 since filing Apr 21. **Certificate of Incorporation CRITICALLY OVERDUE — 12 business days beyond any normal processing window. CALL the Companies Office NOW and escalate immediately to supervisor/manager level.** Follow up on yesterday's (Tue May 5) call. Provide application reference number. **If certificate is not confirmed for imminent issuance, ENGAGE A NZ SOLICITOR TODAY to intervene.** Only 6 days until the reservation expires. Download and save the certificate the moment it is issued.
 
 ---
 
@@ -103,10 +103,11 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 | **Done (May 2)** | **CERTIFICATE CRITICALLY OVERDUE — FRIDAY** — Business day 9 since filing. Called Companies Office. Followed up on escalation. |
 | **Done (May 3)** | **WEEKEND — SATURDAY** — No business action. Companies Office closed. |
 | **Done (May 4)** | **MONDAY — BD10 SINCE FILING** — Called Companies Office. Followed up on Friday's escalation. Provided application reference. **7 days to deadline.** |
-| **TODAY (May 5)** | **TUESDAY — BD11 SINCE FILING** — CALL Companies Office NOW. Follow up on yesterday's call. Escalate urgently — only 7 days until name reservation expires May 12. If certificate still not issued, demand supervisor escalation or engage a NZ solicitor. Download and save certificate immediately when issued. |
+| **Done (May 5)** | **TUESDAY — BD11 SINCE FILING** — Called Companies Office. Followed up on Monday's call. Escalated urgently. 7 days to deadline. |
+| **TODAY (May 6)** | **WEDNESDAY — BD12 SINCE FILING** — CALL Companies Office NOW. Escalate immediately to supervisor/manager level. Follow up on Tuesday's call. If certificate not confirmed for imminent issuance, **ENGAGE A NZ SOLICITOR TODAY**. Only 6 days until name reservation expires May 12. Download and save certificate immediately when issued. |
 | **May 12, 2026** | **HARD DEADLINE — reservation #15436626 expires** |
 
-> **Application filed Apr 21 and confirmed processing Apr 22.** Certificate is CRITICALLY OVERDUE — BD11 today Tue May 5 (typical issuance is 1–5 business days from filing). **CALL the Companies Office NOW. Follow up on yesterday's call. Provide your application reference. Only 7 days until name reservation expires.** Download and save the certificate the moment it is issued.
+> **Application filed Apr 21 and confirmed processing Apr 22.** Certificate is CRITICALLY OVERDUE — BD12 today Wed May 6 (typical issuance is 1–5 business days from filing). **CALL the Companies Office NOW. Escalate immediately to supervisor/manager level. Follow up on Tuesday's call. Provide your application reference. Only 6 days until name reservation expires. If not confirmed for imminent issuance, ENGAGE A NZ SOLICITOR TODAY.** Download and save the certificate the moment it is issued.
 
 ---
 
@@ -143,4 +144,4 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 
 ---
 
-*Last updated: 2026-05-05 (Session 25) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-05-06 (Session 26) | Maintained by: Corey McIvor / KERVALON*

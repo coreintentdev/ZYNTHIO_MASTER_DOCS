@@ -1,6 +1,6 @@
 # INDEX — Zynthio Master Docs
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--05-blue) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--06-blue) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
 
 Complete table of contents for the ZYNTHIO_MASTER_DOCS repository.
 
@@ -10,7 +10,7 @@ Complete table of contents for the ZYNTHIO_MASTER_DOCS repository.
 
 | Priority | Item | Deadline | Days Left | Reference |
 |----------|------|----------|-----------|-----------|
-| **CRITICAL** | ZYNTHIO LIMITED incorporation — name reservation #15436626 expires | **May 12, 2026** | **7 (as of 2026-05-05) — TUESDAY MAY 5 (BD11 since filing Apr 21) — Certificate CRITICALLY OVERDUE — CALL Companies Office NOW** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
+| **CRITICAL** | ZYNTHIO LIMITED incorporation — name reservation #15436626 expires | **May 12, 2026** | **6 (as of 2026-05-06) — WEDNESDAY MAY 6 (BD12 since filing Apr 21) — Certificate CRITICALLY OVERDUE — CALL Companies Office NOW — escalate to supervisor — engage NZ solicitor if no resolution** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
 | **CRITICAL** | Engage NZ registered office service (required — founder is overseas) | Before filing | Urgent | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
 | HIGH | SongPal IPONZ TM #1318588 — monitor for examination report | TBD | — | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
 | HIGH | 4-way deploy: SIGNAL 336 + THE MIRROR ASKED A QUESTION | Q2 2026 | — | [brands/DJ_ZYNROSE/ROADMAP.md](brands/DJ_ZYNROSE/ROADMAP.md) |
@@ -190,4 +190,4 @@ brands/<BRAND>/
 
 ---
 
-*Last updated: 2026-05-05 (Session 25) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-06 (Session 26) | Maintained by: Corey McIvor / COREINTENT*

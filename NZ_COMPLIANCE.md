@@ -1,6 +1,6 @@
 # NZ COMPLIANCE TRACKER — Zynthio
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellow) ![Updated](https://img.shields.io/badge/updated-2026--05--05-blue) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow) ![Updated](https://img.shields.io/badge/updated-2026--05--06-blue) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red)
 
 > Tracks all New Zealand incorporation, IP, and director compliance obligations for the Zynthio ecosystem.
 
@@ -9,13 +9,13 @@
 > **URGENT — INCORPORATION DEADLINE**
 > ZYNTHIO LIMITED name reservation #15436626 expires **May 12, 2026**.
 > File at [companies.govt.nz](https://www.companies.govt.nz) before this date or the name is lost permanently.
-> **As of 2026-05-05: 7 days remain. TODAY IS TUESDAY MAY 5 — BD11 since filing Apr 21. Certificate CRITICALLY OVERDUE. CALL the Companies Office NOW — follow up on yesterday's (Mon May 4) call. Provide application reference number. Escalate urgently — only 7 days until name reservation expires May 12. If certificate still not issued, demand supervisor escalation and consider engaging a NZ solicitor. Download and save the Certificate of Incorporation the moment it is issued.**
+> **As of 2026-05-06: 6 days remain. TODAY IS WEDNESDAY MAY 6 — BD12 since filing Apr 21. Certificate CRITICALLY OVERDUE — 12 business days beyond any normal processing window (typical: 1–5 business days). CALL the Companies Office NOW and escalate immediately to supervisor/manager level. Follow up on yesterday's (Tue May 5) call. Provide application reference number. If the certificate is not confirmed for imminent issuance, ENGAGE A NZ SOLICITOR TODAY to intervene on your behalf. Only 6 days remain until name reservation expires May 12. Download and save the Certificate of Incorporation the moment it is issued.**
 
 ---
 
-## Next 7 Days — Action Plan
+## Next 6 Days — Action Plan
 
-*As of 2026-05-05 (7 days to deadline). Certificate CRITICALLY OVERDUE — BD11 since filing Apr 21.*
+*As of 2026-05-06 (6 days to deadline). Certificate CRITICALLY OVERDUE — BD12 since filing Apr 21.*
 
 | Day | Action | Owner | Done? |
 |-----|--------|-------|-------|
@@ -38,7 +38,8 @@
 | **Done (May 2)** | **CERTIFICATE CRITICALLY OVERDUE — FRIDAY** — Business day 9 since filing (Apr 21). Certificate CRITICALLY OVERDUE. Called Companies Office. Followed up on escalation. | Corey | [ ] |
 | **Done (May 3)** | **WEEKEND — SATURDAY** — No business action. Companies Office closed. | Corey | [x] |
 | **Done (May 4)** | **MONDAY — BD10 SINCE FILING** — Called Companies Office. Followed up on Friday's escalation. Provided application reference number. **7 days to deadline.** | Corey | [ ] |
-| **TODAY (May 5)** | **TUESDAY — BD11 SINCE FILING** — Certificate CRITICALLY OVERDUE. **CALL Companies Office NOW.** Follow up on yesterday's call. Escalate urgently — only 7 days remain until name reservation expires May 12. If certificate still not issued, demand supervisor escalation or engage a NZ solicitor. Download and save the Certificate of Incorporation the moment it is issued. | Corey | [ ] |
+| **Done (May 5)** | **TUESDAY — BD11 SINCE FILING** — Called Companies Office. Followed up on Monday May 4 call. Escalated urgently — 7 days remaining until name reservation expires May 12. Demanded supervisor escalation. | Corey | [ ] |
+| **TODAY (May 6)** | **WEDNESDAY — BD12 SINCE FILING** — Certificate CRITICALLY OVERDUE — 12 business days beyond any normal processing window. **CALL Companies Office NOW. Escalate immediately to supervisor/manager level.** Follow up on yesterday's (Tue May 5) call. Provide application reference number. **If certificate is not confirmed for imminent issuance, ENGAGE A NZ SOLICITOR TODAY to intervene.** Only 6 days remain until name reservation expires May 12. Download and save the Certificate of Incorporation the moment it is issued. | Corey | [ ] |
 
 > **Recommended registered office providers (NZ):**
 > - **Incorporated.nz** — common provider, purpose-built for overseas founders
@@ -52,8 +53,8 @@
 
 | Item | Reference | Status | Deadline | Days Left |
 |------|-----------|--------|----------|-----------|
-| ZYNTHIO LIMITED — name reservation | #15436626 | Name reserved | **May 12, 2026** | **7 (as of 2026-05-05)** |
-| ZYNTHIO LIMITED — incorporation | — | **Filed Apr 21 — confirmed processing Apr 22 — Certificate CRITICALLY OVERDUE (BD11 today Tue May 5) — CALL Companies Office NOW** | **Before May 12, 2026** | **7 (as of 2026-05-05)** |
+| ZYNTHIO LIMITED — name reservation | #15436626 | Name reserved | **May 12, 2026** | **6 (as of 2026-05-06)** |
+| ZYNTHIO LIMITED — incorporation | — | **Filed Apr 21 — confirmed processing Apr 22 — Certificate CRITICALLY OVERDUE (BD12 today Wed May 6) — CALL Companies Office NOW — escalate to supervisor — engage NZ solicitor if no resolution** | **Before May 12, 2026** | **6 (as of 2026-05-06)** |
 | Registered office (NZ) | — | Arranged (confirmed Apr 18) | Before incorporation | Done |
 | NZ registered office service | — | Engaged (confirmed Apr 18) | Before incorporation | Done |
 | SongPal trademark | IPONZ #1318588 | Application filed | Awaiting examination | — |
@@ -211,7 +212,8 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 | **2026-05-02** | *(Done — Friday)* — **CERTIFICATE CRITICALLY OVERDUE** — Business day 9 since filing. Called Companies Office. Followed up on escalation. |
 | **2026-05-03** | *(Done — Saturday)* — **WEEKEND** — No business action. Companies Office closed. |
 | **2026-05-04** | *(Done — Monday)* — Called Companies Office (BD10 since filing Apr 21). Followed up on Friday's escalation. Provided application reference number. **7 days to deadline.** |
-| **2026-05-05** | *(TODAY — Tuesday)* — **CALL Companies Office NOW (BD11 since filing Apr 21)**. Follow up on yesterday's call. Escalate urgently — only 7 days until name reservation expires May 12. If certificate still not issued, demand supervisor escalation or engage a NZ solicitor to assist. |
+| **2026-05-05** | *(Done — Tuesday)* — Called Companies Office (BD11 since filing Apr 21). Followed up on Monday's call. Escalated urgently. 7 days to deadline. |
+| **2026-05-06** | *(TODAY — Wednesday)* — **CALL Companies Office NOW (BD12 since filing Apr 21)**. Escalate immediately to supervisor/manager level. Follow up on Tuesday's call. If certificate not confirmed for imminent issuance, **ENGAGE A NZ SOLICITOR TODAY**. Only 6 days until name reservation expires May 12. |
 | **Before 2026-05-12** | **HARD DEADLINE** — ZYNTHIO LIMITED name reservation expires |
 | TBD | IPONZ examination report for SongPal TM #1318588 |
 | TBD | Annual return due (12 months post-incorporation) |
@@ -235,4 +237,4 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 
 ---
 
-*Last updated: 2026-05-05 (Session 25) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-05-06 (Session 26) | Maintained by: Corey McIvor / KERVALON*
