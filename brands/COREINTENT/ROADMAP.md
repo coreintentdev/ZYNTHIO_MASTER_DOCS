@@ -1,6 +1,6 @@
 # ROADMAP — COREINTENT
 
-![Updated](https://img.shields.io/badge/updated-2026--05--06-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--07-blue)
 
 ---
 
@@ -75,4 +75,4 @@
 
 ---
 
-*Last updated: 2026-05-06*
+*Last updated: 2026-05-07*

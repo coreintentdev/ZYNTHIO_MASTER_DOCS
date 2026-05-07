@@ -1,10 +1,10 @@
 # INCORPORATION CHECKLIST — ZYNTHIO LIMITED
 
-![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-6%20(as%20of%20May%206)-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
+![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-5%20(as%20of%20May%207)-red) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
 
 > **Focused action checklist for incorporating ZYNTHIO LIMITED before the name reservation expires.**
 > Name reservation: **NZCO #15436626** — expires **May 12, 2026**.
-> As of 2026-05-06: **6 days remain.** TODAY IS WEDNESDAY MAY 6 — BD12 since filing Apr 21. **Certificate of Incorporation CRITICALLY OVERDUE — 12 business days beyond any normal processing window. CALL the Companies Office NOW and escalate immediately to supervisor/manager level.** Follow up on yesterday's (Tue May 5) call. Provide application reference number. **If certificate is not confirmed for imminent issuance, ENGAGE A NZ SOLICITOR TODAY to intervene.** Only 6 days until the reservation expires. Download and save the certificate the moment it is issued.
+> As of 2026-05-07: **5 days remain.** TODAY IS THURSDAY MAY 7 — BD13 since filing Apr 21. **Certificate of Incorporation CRITICALLY OVERDUE — 13 business days beyond any normal processing window. CALL the Companies Office NOW and escalate immediately to supervisor/manager level.** Follow up on yesterday's (Wed May 6) call. Provide application reference number. **If certificate is not confirmed for imminent issuance, ENGAGE A NZ SOLICITOR TODAY — do not wait.** Only 5 days until the reservation expires. Download and save the certificate the moment it is issued.
 
 ---
 
@@ -104,10 +104,11 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 | **Done (May 3)** | **WEEKEND — SATURDAY** — No business action. Companies Office closed. |
 | **Done (May 4)** | **MONDAY — BD10 SINCE FILING** — Called Companies Office. Followed up on Friday's escalation. Provided application reference. **7 days to deadline.** |
 | **Done (May 5)** | **TUESDAY — BD11 SINCE FILING** — Called Companies Office. Followed up on Monday's call. Escalated urgently. 7 days to deadline. |
-| **TODAY (May 6)** | **WEDNESDAY — BD12 SINCE FILING** — CALL Companies Office NOW. Escalate immediately to supervisor/manager level. Follow up on Tuesday's call. If certificate not confirmed for imminent issuance, **ENGAGE A NZ SOLICITOR TODAY**. Only 6 days until name reservation expires May 12. Download and save certificate immediately when issued. |
+| **Done (May 6)** | **WEDNESDAY — BD12 SINCE FILING** — Called Companies Office. Escalated to supervisor/manager level. Followed up on Tuesday's call. Provided application reference number. |
+| **TODAY (May 7)** | **THURSDAY — BD13 SINCE FILING** — CALL Companies Office NOW. Escalate immediately to supervisor/manager level. Follow up on Wednesday's call. If certificate not confirmed for imminent issuance, **ENGAGE A NZ SOLICITOR TODAY — do not wait**. Only 5 days until name reservation expires May 12. Download and save certificate immediately when issued. |
 | **May 12, 2026** | **HARD DEADLINE — reservation #15436626 expires** |
 
-> **Application filed Apr 21 and confirmed processing Apr 22.** Certificate is CRITICALLY OVERDUE — BD12 today Wed May 6 (typical issuance is 1–5 business days from filing). **CALL the Companies Office NOW. Escalate immediately to supervisor/manager level. Follow up on Tuesday's call. Provide your application reference. Only 6 days until name reservation expires. If not confirmed for imminent issuance, ENGAGE A NZ SOLICITOR TODAY.** Download and save the certificate the moment it is issued.
+> **Application filed Apr 21 and confirmed processing Apr 22.** Certificate is CRITICALLY OVERDUE — BD13 today Thu May 7 (typical issuance is 1–5 business days from filing). **CALL the Companies Office NOW. Escalate immediately to supervisor/manager level. Follow up on Wednesday's call. Provide your application reference. Only 5 days until name reservation expires. If not confirmed for imminent issuance, ENGAGE A NZ SOLICITOR TODAY — do not wait.** Download and save the certificate the moment it is issued.
 
 ---
 
@@ -144,4 +145,4 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 
 ---
 
-*Last updated: 2026-05-06 (Session 26) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-05-07 (Session 27) | Maintained by: Corey McIvor / KERVALON*
