@@ -1,9 +1,27 @@
 # CHANGELOG — Zynthio Master Docs
 
-![Updated](https://img.shields.io/badge/updated-2026--05--07-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--08-blue)
 
 All significant changes to this documentation repository are recorded here.
 Format: `YYYY-MM-DD | Type | Description`
+
+---
+
+## 2026-05-08 (Session 28)
+
+### Updated
+
+- `README.md` — Countdown badge updated (5 → 4 days as of 2026-05-08); critical alert updated: TODAY FRI MAY 8 — BD14 since filing Apr 21 — certificate CRITICALLY OVERDUE (14 business days beyond normal window) — **LAST BUSINESS DAY BEFORE THE FINAL WEEKEND BEFORE DEADLINE** — May 9–10 = weekend (Companies Office closed) — May 11 (Mon) = BD15 = final business day before deadline — May 12 (Tue) = HARD DEADLINE — CALL Companies Office NOW — escalate to supervisor/manager level — follow up on Thu May 7 call — ENGAGE NZ SOLICITOR IMMEDIATELY if not confirmed for imminent issuance — do not leave unresolved over the weekend; session footer to Session 28
+- `INDEX.md` — Days Left column updated (5 → 4 as of 2026-05-08); alert updated to Friday BD14, last business day before final deadline weekend, ENGAGE NZ SOLICITOR IMMEDIATELY if not confirmed; date badge to 2026-05-08; session footer to Session 28
+- `NZ_COMPLIANCE.md` — May 7 relabelled "Done"; TODAY (May 8, Friday) added — BD14 — LAST BUSINESS DAY BEFORE FINAL DEADLINE WEEKEND — CALL NOW — escalate to supervisor/manager — May 9–10 = weekend — May 11 = BD15 = final business day — May 12 = HARD DEADLINE — ENGAGE NZ SOLICITOR IMMEDIATELY if certificate not confirmed for imminent issuance — do not leave unresolved over the weekend; "Next 4 Days" heading; summary dashboard updated to 4 days (as of 2026-05-08); key deadlines calendar: May 7 Done, May 8 TODAY (BD14, FRIDAY, last business day) added; urgency block updated; date badge and session footer to Session 28
+- `INCORPORATION_CHECKLIST.md` — Timeline advanced: May 7 marked Done; TODAY (May 8) = BD14 — FRIDAY — LAST BUSINESS DAY BEFORE FINAL DEADLINE WEEKEND — CALL NOW — escalate — follow up on Thu call — ENGAGE NZ SOLICITOR IMMEDIATELY if not confirmed — May 9–10 = weekend — May 11 = final business day — May 12 = HARD DEADLINE; preamble updated to 4 days as of 2026-05-08, FRIDAY; bottom note updated to Fri May 8 BD14; badge updated to 4 (as of May 8); session footer to Session 28
+- `FOUNDER_BRIEF.md` — Critical action Priority 1 updated: TODAY May 8 (Friday) — BD14 — LAST BUSINESS DAY BEFORE FINAL DEADLINE WEEKEND — CALL Companies Office NOW — follow up on Thu May 7 call — ENGAGE NZ SOLICITOR IMMEDIATELY if not resolved — 4 days to deadline; milestone tracker updated; date badge and session footer to Session 28
+- `ECOSYSTEM_MAP.md` — Current State Snapshot heading updated to May 8, 2026; legal status note updated to 4 days as of 2026-05-08, BD14 today Fri May 8, last business day before final deadline weekend, ENGAGE NZ SOLICITOR IMMEDIATELY if not confirmed; date badge and session footer to Session 28
+- `COMPETITION_ENTRY.md` — Traction date updated to 2026-05-08; date badge updated to 2026-05-08; footer date updated
+- `FINANCIAL_MODEL.md` — Date badge and footer updated to 2026-05-08 / Session 28
+- `COMPETITION_PORTFOLIO.md`, `PITCH_DECK_OUTLINE.md`, `DEMO_SCRIPT.md`, `PRESS_KIT.md`, `AWARDS_TRACKER.md` — Date badges and footers updated to 2026-05-08 / Session 28
+- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — Date badges and "Last updated" footer dates updated to 2026-05-08 / Session 28
+- `CHANGELOG.md` — This entry; badge updated to 2026-05-08
 
 ---
 
