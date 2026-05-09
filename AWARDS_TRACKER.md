@@ -1,6 +1,6 @@
 # AWARDS TRACKER — Zynthio 2026
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--08-blue) ![Year](https://img.shields.io/badge/year-2026-purple) ![Targets](https://img.shields.io/badge/targets-21-orange)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--09-blue) ![Year](https://img.shields.io/badge/year-2026-purple) ![Targets](https://img.shields.io/badge/targets-21-orange)
 
 > Tracking relevant competitions, awards, grants, and accelerators for Zynthio across AI, fintech, music technology, and startup categories.
 
@@ -347,7 +347,7 @@ Before entering any competition, confirm:
 *Assuming ZYNTHIO LIMITED incorporates by May 2026.*
 
 | Period | Priority Actions |
-|--------|-----------------|
+|--------|------------------|
 | **May 2026** | Incorporate. Apply for Callaghan Innovation R&D Grant. Research Creative HQ, Lightning Lab, and Antler deadlines. |
 | **June 2026** | Submit to Callaghan Innovation. Apply to Creative HQ or Lightning Lab (whichever has open cohort). Register for Techweek NZ. Apply to Antler. |
 | **July 2026** | Apply to Startmate (AU). Prepare SXSW Sydney application. Begin Music Ally LAUNCH application. |
@@ -390,4 +390,4 @@ For each competition submission, prepare:
 
 ---
 
-*Last updated: 2026-05-08 (Session 28) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-09 (Session 29) | Maintained by: Corey McIvor / COREINTENT*

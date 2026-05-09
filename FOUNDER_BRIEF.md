@@ -1,6 +1,6 @@
 # FOUNDER BRIEF — Zynthio
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--08-blue) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--09-blue) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
 
 > Quick-reference operational dashboard for Corey McIvor.
 > Everything you need on one page. Deep detail lives in the linked docs.
@@ -11,7 +11,7 @@
 
 | Priority | Action | Reference | Deadline |
 |----------|--------|-----------|----------|
-| **1** | **FRIDAY MAY 8 — BD14 SINCE FILING APR 21 — LAST BUSINESS DAY BEFORE FINAL DEADLINE WEEKEND** — Certificate CRITICALLY OVERDUE — 14 business days beyond normal processing. May 9–10 = weekend (Companies Office closed). May 11 (Mon) = BD15 = final business day before deadline. May 12 (Tue) = HARD DEADLINE. **CALL Companies Office NOW. Escalate immediately to supervisor/manager level. Follow up on yesterday's (Thu May 7) call. If certificate not confirmed for imminent issuance TODAY, ENGAGE A NZ SOLICITOR IMMEDIATELY — this is the last business day for legal intervention before the deadline. Do not leave this unresolved over the weekend. Only 4 days remain before name reservation expires May 12. Download and save the Certificate of Incorporation the moment it is issued.** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | **TODAY — 4 days to deadline** |
+| **1** | **SATURDAY MAY 9 — WEEKEND — Companies Office closed (also closed Sun May 10).** Certificate CRITICALLY OVERDUE — BD14 was Fri May 8 (well beyond normal 1–5 business day window). **May 11 (Mon) = BD15 = THE FINAL business day before the deadline. CALL Companies Office the moment they open Monday May 11. Escalate immediately to supervisor/manager level. Follow up on Friday's (May 8) call. If certificate has still not been received by end of day Monday May 11, ENGAGE A NZ SOLICITOR IMMEDIATELY — Monday is the last possible window for legal intervention. May 12 (Tue) = HARD DEADLINE. Only 3 days remain. Download and save the Certificate of Incorporation the moment it is issued.** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | **3 days to deadline — Mon May 11 = FINAL business day** |
 | **2** | Once incorporated — update all brand docs to remove "pending incorporation" language | [INCORPORATION_CHECKLIST.md](INCORPORATION_CHECKLIST.md) | Within 30 days |
 | **3** | Check with IPONZ whether SongPal TM #1318588 applicant assignment to ZYNTHIO LIMITED is needed | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | Post-incorporation |
 | **4** | Monitor IPONZ portal for SongPal TM #1318588 examination report | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | Ongoing |
@@ -66,7 +66,7 @@
 
 | Milestone | Target | Status |
 |-----------|--------|--------|
-| ZYNTHIO LIMITED incorporated | **Before May 12, 2026** | Filed Apr 21 — **Certificate CRITICALLY OVERDUE — TODAY Fri May 8 is BD14 — LAST BUSINESS DAY BEFORE FINAL DEADLINE WEEKEND — CALL Companies Office NOW — escalate to supervisor/manager — follow up on Thu May 7 call — ENGAGE NZ SOLICITOR IMMEDIATELY if not confirmed for imminent issuance** |
+| ZYNTHIO LIMITED incorporated | **Before May 12, 2026** | Filed Apr 21 — **Certificate CRITICALLY OVERDUE — TODAY Sat May 9 = WEEKEND (Companies Office closed) — May 10 (Sun) = also closed — May 11 (Mon) = BD15 = FINAL business day — CALL Companies Office FIRST THING Monday May 11 — escalate to supervisor/manager — follow up on Fri May 8 call — ENGAGE NZ SOLICITOR by end of Mon May 11 if not resolved — May 12 = HARD DEADLINE** |
 | NZ registered office established | Before incorporation | Arranged (Apr 18) |
 | SongPal public beta | Q2–Q3 2026 | In development |
 | DJ Zynrose 4-way deploy (SIGNAL 336 + THE MIRROR) | Q2 2026 | Pipeline in progress |
@@ -142,4 +142,4 @@
 
 ---
 
-*Last updated: 2026-05-08 (Session 28) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-09 (Session 29) | Maintained by: Corey McIvor / COREINTENT*

@@ -1,6 +1,6 @@
 # ECOSYSTEM MAP — Zynthio
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--08-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--09-blue)
 
 > How the seven Zynthio brands connect, depend on each other, and form one sovereign creative-tech ecosystem.
 
@@ -144,7 +144,7 @@ ZYNTHIO ──governs──► All brands · captures value · faces market
 ## External Integrations
 
 | Service | Connected Brand(s) | Status |
-|---------|-------------------|--------|
+|---------|-------------------|---------|
 | Suno API | SongPal | Partial |
 | Claude API | CoreeyAI | Active |
 | Grok API | CoreeyAI | Active |
@@ -210,7 +210,7 @@ Every brand reinforces every other. No filler. All signal.
 
 ---
 
-## Current State Snapshot — May 8, 2026
+## Current State Snapshot — May 9, 2026
 
 A clear-eyed view of what is live, what is in progress, and what is planned.
 
@@ -233,7 +233,7 @@ A clear-eyed view of what is live, what is in progress, and what is planned.
 
 | Matter | State | Notes |
 |--------|-------|-------|
-| ZYNTHIO LIMITED — name reserved | Active | **4 days to incorporate (as of 2026-05-08) — filed Apr 21, confirmed processing Apr 22 — certificate CRITICALLY OVERDUE — TODAY Fri May 8 is BD14 — LAST BUSINESS DAY BEFORE FINAL DEADLINE WEEKEND — CALL Companies Office NOW — escalate to supervisor/manager — follow up on Thu May 7 call — ENGAGE NZ SOLICITOR IMMEDIATELY if not confirmed for imminent issuance — May 9–10 = weekend — May 11 = last business day — May 12 = HARD DEADLINE** |
+| ZYNTHIO LIMITED — name reserved | Active | **3 days to incorporate (as of 2026-05-09) — filed Apr 21, confirmed processing Apr 22 — certificate CRITICALLY OVERDUE — TODAY Sat May 9 = WEEKEND (Companies Office closed) — May 10 (Sun) = also closed — May 11 (Mon) = BD15 = FINAL business day before deadline — CALL Companies Office FIRST THING Monday May 11 — escalate to supervisor/manager — follow up on Fri May 8 call — ENGAGE NZ SOLICITOR by end of Mon May 11 if not resolved — May 12 = HARD DEADLINE** |
 | NZ registered office | Arranged | Engaged and confirmed (Apr 18) |
 | SongPal TM — IPONZ #1318588 | Filed | Awaiting examination |
 | Other brand TMs | Planned | Post-incorporation (Q3–Q4 2026) |
@@ -250,4 +250,4 @@ A clear-eyed view of what is live, what is in progress, and what is planned.
 
 ---
 
-*Last updated: 2026-05-08 (Session 28) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-09 (Session 29) | Maintained by: Corey McIvor / COREINTENT*
