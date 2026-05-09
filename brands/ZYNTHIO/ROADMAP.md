@@ -1,6 +1,6 @@
 # ROADMAP — ZYNTHIO
 
-![Updated](https://img.shields.io/badge/updated-2026--05--08-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--09-blue)
 
 ---
 
@@ -56,7 +56,7 @@
 ## Risks & Mitigations
 
 | Risk | Likelihood | Impact | Mitigation |
-|------|-----------|--------|-----------|
+|------|-----------|--------|------------|
 | Name reservation lapses (May 12) | High if delayed | High | Incorporate immediately |
 | SongPal TM objection | Medium | Medium | Monitor IPONZ, engage IP counsel |
 | Solo founder bandwidth | High | High | Prioritise ruthlessly; automate where possible |
@@ -64,4 +64,4 @@
 
 ---
 
-*Last updated: 2026-05-08*
+*Last updated: 2026-05-09*

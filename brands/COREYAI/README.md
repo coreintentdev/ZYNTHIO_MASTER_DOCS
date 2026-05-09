@@ -1,6 +1,6 @@
 # CoreeyAI
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-AI%20engine-blue) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![Updated](https://img.shields.io/badge/updated-2026--05--08-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-AI%20engine-blue) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![Updated](https://img.shields.io/badge/updated-2026--05--09-blue)
 
 > **The intelligence layer of the Zynthio ecosystem.**
 > Custom AI integrations, agentic systems, and model orchestration — purpose-built for creative sovereignty.
@@ -9,9 +9,9 @@
 
 ## Overview
 
-CoreeyAI is the AI engine that powers every intelligent feature across the Zynthio ecosystem. It is not a consumer product — it is the brain behind SongPal's composition tools, MOSOKO's adaptive learning, and COREINTENT's automation infrastructure.
+CoreyAI is the AI engine that powers every intelligent feature across the Zynthio ecosystem. It is not a consumer product — it is the brain behind SongPal's composition tools, MOSOKO's adaptive learning, and COREINTENT's automation infrastructure.
 
-CoreeyAI handles model selection, prompt engineering, API orchestration, and agentic workflows. It is designed to be modular: each brand pulls from the CoreeyAI layer for the intelligence it needs.
+CoreyAI handles model selection, prompt engineering, API orchestration, and agentic workflows. It is designed to be modular: each brand pulls from the CoreeyAI layer for the intelligence it needs.
 
 ---
 
@@ -76,4 +76,4 @@ To build a proprietary AI layer that gives every Zynthio product genuine intelli
 
 ---
 
-*Last updated: 2026-05-08 | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-09 | Maintained by: Corey McIvor / COREINTENT*
