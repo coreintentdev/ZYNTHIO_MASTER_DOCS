@@ -1,6 +1,6 @@
 # DEMO SCRIPT — Zynthio
 
-![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--08-blue) ![Duration](https://img.shields.io/badge/duration-3%20minutes-purple)
+![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--09-blue) ![Duration](https://img.shields.io/badge/duration-3%20minutes-purple)
 
 > 3-minute live demo walkthrough for competitions, investor meetings, and showcases.
 > Designed to show the real stack — not a prototype, not a mockup.
@@ -211,4 +211,4 @@ Use one or two of these during the demo, depending on audience:
 
 ---
 
-*Last updated: 2026-05-08 (Session 28) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-09 (Session 29) | Maintained by: Corey McIvor / COREINTENT*

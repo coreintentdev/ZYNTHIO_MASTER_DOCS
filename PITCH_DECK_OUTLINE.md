@@ -1,6 +1,6 @@
 # PITCH DECK OUTLINE — Zynthio
 
-![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--08-blue) ![Slides](https://img.shields.io/badge/slides-10-purple)
+![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--09-blue) ![Slides](https://img.shields.io/badge/slides-10-purple)
 
 > 10-slide pitch deck structure with full content for each slide.
 > Designed for startup, AI, fintech, and music technology competitions.
@@ -241,7 +241,7 @@ ZYNTHIO (Parent — NZ incorporated)
 ## Appendix — Slide Design Guidelines
 
 | Element | Specification |
-|---------|--------------|
+|---------|----------------|
 | Background | Zynthio Black (#0A0A0A) |
 | Primary text | Zynthio White (#F5F5F5) |
 | Accent | Signal Gold (#C9A84C) |
@@ -267,4 +267,4 @@ ZYNTHIO (Parent — NZ incorporated)
 
 ---
 
-*Last updated: 2026-05-08 (Session 28) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-09 (Session 29) | Maintained by: Corey McIvor / COREINTENT*

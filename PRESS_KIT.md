@@ -1,6 +1,6 @@
 # PRESS KIT — Zynthio
 
-![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--08-blue)
+![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--09-blue)
 
 > Press kit for media, competition judges, event organisers, and partners.
 > Copy any section directly into submissions, bios, or press materials.
@@ -149,7 +149,7 @@ MOSOKO teaches independent creators the full stack. KERVALON protects every asse
 ## Typography
 
 | Role | Family | Weight | Used By |
-|------|--------|--------|---------|
+|------|--------|--------|----------|
 | Display / Headings | Space Grotesk | 700 | ZYNTHIO, SongPal, CoreIntent |
 | Body text | Inter | 400, 500 | All brands |
 | Code / technical | JetBrains Mono | 400 | CoreIntent, CoreeyAI |
@@ -232,4 +232,4 @@ Domain: [zynthio.ai](https://zynthio.ai)
 
 ---
 
-*Last updated: 2026-05-08 (Session 28) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-09 (Session 29) | Maintained by: Corey McIvor / COREINTENT*

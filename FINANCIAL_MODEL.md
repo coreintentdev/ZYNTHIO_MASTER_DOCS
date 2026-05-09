@@ -1,6 +1,6 @@
 # FINANCIAL MODEL â€” Zynthio
 
-![Status](https://img.shields.io/badge/status-pre--revenue-orange) ![Updated](https://img.shields.io/badge/updated-2026--05--08-blue) ![Currency](https://img.shields.io/badge/currency-NZD-black) ![Stage](https://img.shields.io/badge/stage-pre--seed-yellow)
+![Status](https://img.shields.io/badge/status-pre--revenue-orange) ![Updated](https://img.shields.io/badge/updated-2026--05--09-blue) ![Currency](https://img.shields.io/badge/currency-NZD-black) ![Stage](https://img.shields.io/badge/stage-pre--seed-yellow)
 
 > Three-year revenue projection for the Zynthio ecosystem.
 > All figures in NZD. Conservative estimates; does not include seed capital deployment.
@@ -46,7 +46,7 @@ gTrade (autonomous trading bot) provides internal self-funding for development â
 ### MOSOKO
 
 | Cohort | Students | Price/Student | Revenue |
-|--------|---------|---------------|---------|
+|--------|---------|---------------|----------|
 | Q3 pilot | 25 | $200 | $5,000 |
 | Q4 cohort | 75 | $200 | $15,000 |
 
@@ -84,7 +84,7 @@ gTrade (autonomous trading bot) provides internal self-funding for development â
 ### MOSOKO
 
 | Cohort | Students | Price/Student | Revenue |
-|--------|---------|---------------|---------|
+|--------|---------|---------------|----------|
 | Q1 cohort | 100 | $250 | $25,000 |
 | Q2 cohort | 125 | $250 | $31,250 |
 | Q3 cohort | 150 | $300 | $45,000 |
@@ -206,14 +206,14 @@ gTrade (autonomous trading bot) provides internal self-funding for development â
 ## Funding Ask
 
 | Stage | Amount (NZD) | Use of Funds |
-|-------|-------------|--------------|
+|-------|-------------|----------------|
 | Pre-seed / competition | $150,000â€“250,000 | SongPal MVP, MOSOKO Q1 cohort, IP filings, 18-month runway |
 | Series A (2027+) | $1,000,000â€“2,500,000 | Team hire, international expansion, SongPal scale |
 
 **Primary pre-seed use of funds:**
 
 | Allocation | % | NZD ($200K base) |
-|-----------|---|-----------------|
+|-----------|---|------------------|
 | SongPal development (contractor/freelance) | 35% | $70,000 |
 | MOSOKO curriculum production | 20% | $40,000 |
 | Marketing & community building | 20% | $40,000 |
@@ -248,5 +248,5 @@ gTrade (autonomous trading bot) provides internal self-funding for development â
 
 ---
 
-*Last updated: 2026-05-08 (Session 28) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-09 (Session 29) | Maintained by: Corey McIvor / COREINTENT*
 *For the latest company status see [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | For competition context see [COMPETITION_ENTRY.md](COMPETITION_ENTRY.md)*
