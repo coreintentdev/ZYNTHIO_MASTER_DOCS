@@ -1,9 +1,27 @@
 # CHANGELOG — Zynthio Master Docs
 
-![Updated](https://img.shields.io/badge/updated-2026--05--08-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--09-blue)
 
 All significant changes to this documentation repository are recorded here.
 Format: `YYYY-MM-DD | Type | Description`
+
+---
+
+## 2026-05-09 (Session 29)
+
+### Updated
+
+- `README.md` — Countdown badge updated (4 → 3 days as of 2026-05-09); critical alert updated: TODAY SAT MAY 9 — WEEKEND — Companies Office closed today and tomorrow (Sun May 10) — May 11 (Mon) = BD15 = THE FINAL business day before deadline — CALL Companies Office the moment they open Monday May 11 — escalate to supervisor/manager — follow up on Fri May 8 call — ENGAGE NZ SOLICITOR by end of Mon May 11 if certificate not confirmed — May 12 = HARD DEADLINE; session footer to Session 29
+- `INDEX.md` — Days Left column updated (4 → 3 as of 2026-05-09); alert updated to Saturday weekend, Mon May 11 = BD15 = final business day, call first thing Monday, ENGAGE NZ SOLICITOR by end of Monday if not resolved; date badge to 2026-05-09; session footer to Session 29
+- `NZ_COMPLIANCE.md` — May 8 relabelled "Done"; TODAY (May 9, Saturday) added — WEEKEND — Companies Office closed — prepare for Monday May 11 (BD15, final business day before deadline) — added May 10 (Sunday), May 11 (Monday BD15, final business day, call first thing, ENGAGE NZ SOLICITOR by end of day if not resolved); "Next 3 Days" heading; summary dashboard updated to 3 days (as of 2026-05-09); key deadlines calendar: May 8 Done, May 9 TODAY (WEEKEND), May 10 (Sunday), May 11 (FINAL business day) added; urgency block updated; date badge and session footer to Session 29
+- `INCORPORATION_CHECKLIST.md` — Timeline advanced: May 8 marked Done; TODAY (May 9) = WEEKEND SATURDAY — Companies Office closed, plan for Monday May 11 (BD15), call moment they open, ENGAGE NZ SOLICITOR by end of Monday if not resolved; May 11 row added (FINAL BUSINESS DAY); preamble updated to 3 days as of 2026-05-09, SATURDAY; bottom note updated to Sat May 9; badge updated to 3 (as of May 9); session footer to Session 29
+- `FOUNDER_BRIEF.md` — Critical action Priority 1 updated: TODAY May 9 (Saturday) — WEEKEND — Companies Office closed — May 11 (Mon) = BD15 = FINAL business day — CALL FIRST THING Monday May 11 — follow up on Fri May 8 call — ENGAGE NZ SOLICITOR by end of Mon May 11 if not resolved — 3 days to deadline; milestone tracker updated; date badge and session footer to Session 29
+- `ECOSYSTEM_MAP.md` — Current State Snapshot heading updated to May 9, 2026; legal status note updated to 3 days as of 2026-05-09, TODAY Sat May 9 = WEEKEND, May 11 = BD15 = FINAL business day, call first thing Monday, ENGAGE NZ SOLICITOR by end of Monday if not resolved; date badge and session footer to Session 29
+- `COMPETITION_ENTRY.md` — Traction date updated to 2026-05-09; date badge updated to 2026-05-09; footer date updated
+- `FINANCIAL_MODEL.md` — Date badge and footer updated to 2026-05-09 / Session 29
+- `COMPETITION_PORTFOLIO.md`, `PITCH_DECK_OUTLINE.md`, `DEMO_SCRIPT.md`, `PRESS_KIT.md`, `AWARDS_TRACKER.md` — Date badges and footers updated to 2026-05-09 / Session 29
+- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — Date badges and "Last updated" footer dates updated to 2026-05-09 / Session 29
+- `CHANGELOG.md` — This entry; badge updated to 2026-05-09
 
 ---
 
@@ -272,7 +290,7 @@ Format: `YYYY-MM-DD | Type | Description`
 - `COMPETITION_ENTRY.md` — Traction date updated to 2026-04-24; date badge updated to 2026-04-24
 - `FINANCIAL_MODEL.md` — Date badge and footer updated to 2026-04-24 / Session 14
 - `COMPETITION_PORTFOLIO.md`, `PITCH_DECK_OUTLINE.md`, `DEMO_SCRIPT.md`, `PRESS_KIT.md`, `AWARDS_TRACKER.md` — Date badges and footers updated to 2026-04-24
-- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — Badges corrected from 2026-04-22 to 2026-04-24 (fixing inconsistency from Session 13); "Last updated" footer dates updated to 2026-04-24
+- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — Badges corrected from 2026-04-22 to 2026-04-24; "Last updated" footer dates updated to 2026-04-24
 - `CHANGELOG.md` — This entry; badge updated to 2026-04-24
 
 ---
@@ -506,7 +524,3 @@ Format: `YYYY-MM-DD | Type | Description`
 - `config/risk.yaml` — gTrade trading bot risk management configuration
 - `.gitignore` — Standard Python/dev ignores
 - `LICENSE` — MIT License
-
----
-
-*Maintained by: Corey McIvor / COREINTENT*

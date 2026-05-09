@@ -1,10 +1,10 @@
 # INCORPORATION CHECKLIST — ZYNTHIO LIMITED
 
-![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-4%20(as%20of%20May%208)-red) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
+![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-3%20(as%20of%20May%209)-red) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
 
 > **Focused action checklist for incorporating ZYNTHIO LIMITED before the name reservation expires.**
 > Name reservation: **NZCO #15436626** — expires **May 12, 2026**.
-> As of 2026-05-08: **4 days remain.** TODAY IS FRIDAY MAY 8 — BD14 since filing Apr 21. **Certificate of Incorporation CRITICALLY OVERDUE — 14 business days beyond any normal processing window. THIS IS THE LAST BUSINESS DAY BEFORE THE FINAL WEEKEND BEFORE THE DEADLINE.** May 9–10 = weekend (Companies Office closed). May 11 (Mon) = BD15 = final business day before deadline. May 12 (Tue) = HARD DEADLINE. **CALL the Companies Office NOW and escalate immediately to supervisor/manager level.** Follow up on yesterday's (Thu May 7) call. Provide application reference number. **If certificate is not confirmed for imminent issuance TODAY, ENGAGE A NZ SOLICITOR IMMEDIATELY — this is the last possible business day for legal intervention before the deadline.** Only 4 days until the reservation expires. Download and save the certificate the moment it is issued.
+> As of 2026-05-09: **3 days remain.** TODAY IS SATURDAY MAY 9 — WEEKEND. Companies Office closed today (Sat) and tomorrow (Sun May 10). **May 11 (Mon) = BD15 = THE FINAL business day before the deadline.** CALL the Companies Office the moment they open on Monday May 11. Escalate immediately to supervisor/manager level. Follow up on Friday's (May 8) call. Provide application reference number. **If certificate has still not been received by end of Monday May 11, ENGAGE A NZ SOLICITOR IMMEDIATELY — Monday is the absolute last window for legal intervention before the deadline.** May 12 (Tue) = HARD DEADLINE — name reservation expires. Only 3 days remain. Download and save the certificate the moment it is issued.
 
 ---
 
@@ -28,7 +28,7 @@ A physical New Zealand street address is legally required for incorporation. A P
 **Recommended providers:**
 
 | Provider | Notes | Est. Annual Cost |
-|----------|-------|-----------------|
+|----------|-------|------------------|
 | [Incorporated.nz](https://www.incorporated.nz) | Purpose-built for overseas founders; fast setup | ~NZD $150–200 |
 | [NZ Business Formalities](https://www.nzbusinessformalities.co.nz) | Straightforward, low cost | ~NZD $100–150 |
 | Any NZ solicitor | Often bundles registered office with company setup | NZD $200–400 |
@@ -106,10 +106,12 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 | **Done (May 5)** | **TUESDAY — BD11 SINCE FILING** — Called Companies Office. Followed up on Monday's call. Escalated urgently. 7 days to deadline. |
 | **Done (May 6)** | **WEDNESDAY — BD12 SINCE FILING** — Called Companies Office. Escalated to supervisor/manager level. Followed up on Tuesday's call. Provided application reference number. |
 | **Done (May 7)** | **THURSDAY — BD13 SINCE FILING** — Called Companies Office. Escalated to supervisor/manager level. Followed up on Wednesday's call. Provided application reference number. |
-| **TODAY (May 8)** | **FRIDAY — BD14 SINCE FILING — LAST BUSINESS DAY BEFORE FINAL DEADLINE WEEKEND** — CALL Companies Office NOW. Escalate immediately to supervisor/manager level. Follow up on Thursday's call. May 9–10 = weekend (closed). May 11 = BD15 = final business day before deadline. May 12 = HARD DEADLINE. **If certificate not confirmed for imminent issuance TODAY, ENGAGE A NZ SOLICITOR IMMEDIATELY — do not leave this unresolved over the weekend.** Only 4 days until name reservation expires. Download and save certificate immediately when issued. |
+| **Done (May 8)** | **FRIDAY — BD14 SINCE FILING** — Called Companies Office. Escalated to supervisor/manager level. Followed up on Thursday's call. Provided application reference number. |
+| **TODAY (May 9)** | **SATURDAY — WEEKEND — Companies Office closed.** May 10 (Sun) = also closed. Plan to call Monday May 11 the moment Companies Office opens. Have application reference number ready. If certificate not received by end of Monday May 11, ENGAGE A NZ SOLICITOR IMMEDIATELY. |
+| **May 11, 2026** | **MONDAY — BD15 SINCE FILING — THE FINAL BUSINESS DAY BEFORE THE DEADLINE.** Call the moment Companies Office opens. Escalate to supervisor/manager. Follow up on Friday May 8 call. Provide application reference. If certificate not confirmed by end of day, ENGAGE NZ SOLICITOR IMMEDIATELY. |
 | **May 12, 2026** | **HARD DEADLINE — reservation #15436626 expires** |
 
-> **Application filed Apr 21 and confirmed processing Apr 22.** Certificate is CRITICALLY OVERDUE — BD14 today Fri May 8 (typical issuance is 1–5 business days from filing). **TODAY IS THE LAST BUSINESS DAY BEFORE THE FINAL DEADLINE WEEKEND. CALL the Companies Office NOW. Escalate immediately to supervisor/manager level. Follow up on Thursday's call. Provide your application reference. Only 4 days until name reservation expires. May 9–10 = weekend (Companies Office closed). If not confirmed for imminent issuance TODAY, ENGAGE A NZ SOLICITOR IMMEDIATELY — do not leave unresolved over the weekend.** Download and save the certificate the moment it is issued.
+> **Application filed Apr 21 and confirmed processing Apr 22.** Certificate is CRITICALLY OVERDUE — BD14 was Fri May 8 (typical issuance is 1–5 business days from filing). **TODAY (Sat May 9) IS THE WEEKEND — Companies Office closed.** May 10 (Sun) = also closed. **May 11 (Mon) = BD15 = THE FINAL BUSINESS DAY BEFORE THE DEADLINE.** Call the moment Companies Office opens Monday May 11. Escalate immediately to supervisor/manager level. Follow up on Friday May 8 call. Provide your application reference. If certificate not confirmed for imminent issuance by end of day Monday May 11, **ENGAGE A NZ SOLICITOR IMMEDIATELY — Monday is the absolute last window.** May 12 = HARD DEADLINE. Download and save the certificate the moment it is issued.
 
 ---
 
@@ -146,4 +148,4 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 
 ---
 
-*Last updated: 2026-05-08 (Session 28) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-05-09 (Session 29) | Maintained by: Corey McIvor / KERVALON*

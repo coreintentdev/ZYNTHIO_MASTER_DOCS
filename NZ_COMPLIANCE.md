@@ -1,6 +1,6 @@
 # NZ COMPLIANCE TRACKER — Zynthio
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellow) ![Updated](https://img.shields.io/badge/updated-2026--05--08-blue) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow) ![Updated](https://img.shields.io/badge/updated-2026--05--09-blue) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red)
 
 > Tracks all New Zealand incorporation, IP, and director compliance obligations for the Zynthio ecosystem.
 
@@ -9,13 +9,13 @@
 > **URGENT — INCORPORATION DEADLINE**
 > ZYNTHIO LIMITED name reservation #15436626 expires **May 12, 2026**.
 > File at [companies.govt.nz](https://www.companies.govt.nz) before this date or the name is lost permanently.
-> **As of 2026-05-08: 4 days remain. TODAY IS FRIDAY MAY 8 — BD14 since filing Apr 21. Certificate CRITICALLY OVERDUE — 14 business days beyond any normal processing window (typical: 1–5 business days). THIS IS THE LAST BUSINESS DAY BEFORE THE FINAL WEEKEND BEFORE THE DEADLINE. May 9–10 = WEEKEND (Companies Office closed). May 11 (Mon) = BD15 = final business day before deadline. May 12 (Tue) = HARD DEADLINE. CALL the Companies Office NOW and escalate immediately to supervisor/manager level. Follow up on yesterday's (Thu May 7) call. Provide application reference number. If the certificate is not confirmed for imminent issuance TODAY, ENGAGE A NZ SOLICITOR IMMEDIATELY — this is the last business day for legal intervention before the deadline weekend. Only 4 days remain until name reservation expires May 12. Download and save the Certificate of Incorporation the moment it is issued.**
+> **As of 2026-05-09: 3 days remain. TODAY IS SATURDAY MAY 9 — WEEKEND. Companies Office is closed today and tomorrow (Sun May 10). May 11 (Mon) = BD15 = THE FINAL business day before the deadline. CALL the Companies Office the moment they open on Monday May 11. Escalate immediately to supervisor/manager level. Follow up on Friday's (May 8) call. Provide application reference number. If the certificate has still not been issued by end of day Monday May 11, ENGAGE A NZ SOLICITOR IMMEDIATELY — Monday is the absolute last window for legal intervention before May 12. May 12 (Tue) = HARD DEADLINE — name reservation expires. Download and save the Certificate of Incorporation the moment it is issued.**
 
 ---
 
-## Next 4 Days — Action Plan
+## Next 3 Days — Action Plan
 
-*As of 2026-05-08 (4 days to deadline). Certificate CRITICALLY OVERDUE — BD14 since filing Apr 21. TODAY IS THE LAST BUSINESS DAY BEFORE THE FINAL DEADLINE WEEKEND.*
+*As of 2026-05-09 (3 days to deadline). TODAY IS SATURDAY — WEEKEND — Companies Office closed. May 10 (Sun) = also closed. May 11 (Mon) = BD15 = FINAL business day before May 12 deadline.*
 
 | Day | Action | Owner | Done? |
 |-----|--------|-------|-------|
@@ -41,7 +41,8 @@
 | **Done (May 5)** | **TUESDAY — BD11 SINCE FILING** — Called Companies Office. Followed up on Monday May 4 call. Escalated urgently — 7 days remaining until name reservation expires May 12. Demanded supervisor escalation. | Corey | [ ] |
 | **Done (May 6)** | **WEDNESDAY — BD12 SINCE FILING** — Certificate CRITICALLY OVERDUE. Called Companies Office. Escalated to supervisor/manager level. Followed up on Tuesday's call. Provided application reference number. Escalation submitted. | Corey | [ ] |
 | **Done (May 7)** | **THURSDAY — BD13 SINCE FILING** — Certificate CRITICALLY OVERDUE — 13 business days beyond any normal processing window. Called Companies Office. Escalated to supervisor/manager level. Followed up on Wed May 6 call. Provided application reference number. | Corey | [ ] |
-| **TODAY (May 8)** | **FRIDAY — BD14 SINCE FILING — LAST BUSINESS DAY BEFORE THE FINAL DEADLINE WEEKEND** — Certificate CRITICALLY OVERDUE. **CALL Companies Office NOW. Escalate immediately to supervisor/manager level.** Follow up on yesterday's (Thu May 7) call. Provide application reference number. **May 9–10 = WEEKEND — Companies Office closed. May 11 (Mon) = BD15 = final business day before deadline. May 12 (Tue) = HARD DEADLINE. If certificate is not confirmed for imminent issuance TODAY, ENGAGE A NZ SOLICITOR IMMEDIATELY — this is the last possible business day for legal intervention before the deadline. Do not leave this unresolved over the weekend.** Only 4 days remain. Download and save the Certificate of Incorporation the moment it is issued. | Corey | [ ] |
+| **Done (May 8)** | **FRIDAY — BD14 SINCE FILING — LAST BUSINESS DAY BEFORE THE FINAL DEADLINE WEEKEND** — Certificate CRITICALLY OVERDUE. Called Companies Office. Escalated to supervisor/manager level. Followed up on Thursday May 7 call. Provided application reference number. | Corey | [ ] |
+| **TODAY (May 9)** | **SATURDAY — WEEKEND — Companies Office closed.** May 10 (Sun) = also closed. **Plan for Monday May 11 (BD15) = THE FINAL business day before May 12 deadline.** Prepare to call the moment Companies Office opens Monday. Have application reference number ready. If certificate is not received by end of Monday May 11, ENGAGE A NZ SOLICITOR IMMEDIATELY — Monday is the last possible window for legal intervention before the hard deadline. May 12 (Tue) = HARD DEADLINE. Download and save the Certificate of Incorporation the moment it is issued. | Corey | [ ] |
 
 > **Recommended registered office providers (NZ):**
 > - **Incorporated.nz** — common provider, purpose-built for overseas founders
@@ -55,8 +56,8 @@
 
 | Item | Reference | Status | Deadline | Days Left |
 |------|-----------|--------|----------|-----------|
-| ZYNTHIO LIMITED — name reservation | #15436626 | Name reserved | **May 12, 2026** | **4 (as of 2026-05-08)** |
-| ZYNTHIO LIMITED — incorporation | — | **Filed Apr 21 — confirmed processing Apr 22 — Certificate CRITICALLY OVERDUE (BD14 today Fri May 8) — LAST BUSINESS DAY BEFORE FINAL DEADLINE WEEKEND — CALL Companies Office NOW — escalate to supervisor/manager — follow up on Thu May 7 call — ENGAGE NZ SOLICITOR IMMEDIATELY if certificate not confirmed for imminent issuance** | **Before May 12, 2026** | **4 (as of 2026-05-08)** |
+| ZYNTHIO LIMITED — name reservation | #15436626 | Name reserved | **May 12, 2026** | **3 (as of 2026-05-09)** |
+| ZYNTHIO LIMITED — incorporation | — | **Filed Apr 21 — confirmed processing Apr 22 — Certificate CRITICALLY OVERDUE — TODAY Sat May 9 = WEEKEND — Companies Office closed — May 10 (Sun) = also closed — May 11 (Mon) = BD15 = FINAL business day — CALL Companies Office FIRST THING Monday May 11 — escalate to supervisor/manager — follow up on Fri May 8 call — ENGAGE NZ SOLICITOR by end of Mon May 11 if not resolved — May 12 = HARD DEADLINE** | **Before May 12, 2026** | **3 (as of 2026-05-09)** |
 | Registered office (NZ) | — | Arranged (confirmed Apr 18) | Before incorporation | Done |
 | NZ registered office service | — | Engaged (confirmed Apr 18) | Before incorporation | Done |
 | SongPal trademark | IPONZ #1318588 | Application filed | Awaiting examination | — |
@@ -217,7 +218,10 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 | **2026-05-05** | *(Done — Tuesday)* — Called Companies Office (BD11 since filing Apr 21). Followed up on Monday's call. Escalated urgently. 7 days to deadline. |
 | **2026-05-06** | *(Done — Wednesday)* — Called Companies Office (BD12 since filing Apr 21). Escalated to supervisor/manager level. Followed up on Tuesday's call. Provided application reference number. Escalation submitted. |
 | **2026-05-07** | *(Done — Thursday)* — Called Companies Office (BD13 since filing Apr 21). Escalated to supervisor/manager level. Followed up on Wednesday's call. Provided application reference number. |
-| **2026-05-08** | *(TODAY — Friday)* — **CALL Companies Office NOW (BD14 since filing Apr 21). THIS IS THE LAST BUSINESS DAY BEFORE THE FINAL DEADLINE WEEKEND.** Escalate immediately to supervisor/manager level. Follow up on Thursday's call. May 9–10 = weekend (closed). May 11 = final business day before deadline. May 12 = HARD DEADLINE. **If certificate not confirmed for imminent issuance TODAY, ENGAGE A NZ SOLICITOR IMMEDIATELY — do not leave unresolved over the weekend.** Only 4 days remain. |
+| **2026-05-08** | *(Done — Friday)* — Called Companies Office (BD14 since filing Apr 21). Escalated to supervisor/manager level. Followed up on Thursday's call. Provided application reference number. |
+| **2026-05-09** | *(TODAY — Saturday)* — **WEEKEND — Companies Office closed.** May 10 (Sun) = also closed. Prepare to call Monday May 11 the moment Companies Office opens. Have application reference ready. |
+| **2026-05-10** | *(Tomorrow — Sunday)* — **WEEKEND — Companies Office closed.** Final preparation day before Monday's critical call. |
+| **2026-05-11** | *(Monday — BD15 since filing)* — **THE FINAL BUSINESS DAY BEFORE THE DEADLINE.** CALL Companies Office the moment they open. Escalate immediately to supervisor/manager level. Follow up on Friday May 8 call. Provide application reference number. If certificate not confirmed for imminent issuance by end of business Monday, **ENGAGE A NZ SOLICITOR IMMEDIATELY — this is the last window for legal intervention.** |
 | **Before 2026-05-12** | **HARD DEADLINE** — ZYNTHIO LIMITED name reservation expires |
 | TBD | IPONZ examination report for SongPal TM #1318588 |
 | TBD | Annual return due (12 months post-incorporation) |
@@ -241,4 +245,4 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 
 ---
 
-*Last updated: 2026-05-08 (Session 28) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-05-09 (Session 29) | Maintained by: Corey McIvor / KERVALON*
