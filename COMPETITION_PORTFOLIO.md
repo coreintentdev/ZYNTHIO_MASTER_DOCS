@@ -9,27 +9,29 @@
 
 ## Executive Summary
 
-Zynthio is a sovereign AI ecosystem — seven brands delivering AI music production, autonomous algorithmic trading, education, and IP protection under one architecture. Built by a solo NZ/AU founder-engineer-producer incorporating in New Zealand, with live infrastructure and a ~$21B combined addressable market. One founder. One stack. All signal.
+Zynthio is a sovereign AI ecosystem — seven brands delivering AI music production, autonomous algorithmic trading, multi-model orchestration, education, and IP protection under one architecture. Built by a solo NZ/AU founder-engineer-producer, with live infrastructure, a trademark on file, and a ~$21B combined addressable market. No filler. All signal.
 
 ---
 
 ## Problem Statement
 
-### The creator economy is broken — and AI trading is gatekept.
+### Four broken systems. One structural failure.
 
-**1. AI tools are extractive, not empowering.**
-Independent creators face AI music tools that are expensive, opaque, and designed to capture — not protect — the value of creative output. Generative AI has collapsed the cost of production, but the platforms capturing that value give nothing back. Creators produce; platforms profit.
+**1. AI tools extract — they don't empower.**
+Generative music platforms have collapsed the cost of creation, but the platforms capturing that value give nothing back. Creators produce; platforms profit. IP terms are hostile. Pricing is extractive. The creator economy is a euphemism for the extraction economy.
 
-**2. AI-assisted trading is opaque, expensive, and gatekept.**
-Retail traders and independent builders are locked out of the algorithmic trading infrastructure that institutions take for granted. Signal services charge subscriptions for black-box calls with no accountability. Open, competition-based AI trading — where performance is the only metric and architecture is transparent — barely exists.
+**2. AI trading is a black box behind a paywall.**
+Institutional-grade algorithmic trading remains institutional-priced. Retail traders get subscription signal services — opaque calls, no accountability, no verifiable architecture. The performance claims can't be checked because the systems can't be seen. Open, competition-based AI trading barely exists.
 
-**3. Education is disconnected from real tools.**
-Music education platforms teach theory and legacy workflows. None of them teach creators how to use the actual AI tools reshaping their industry — because those platforms don't build tools. The knowledge gap is widening every quarter.
+**3. Education teaches yesterday's tools.**
+Music education platforms teach legacy workflows and theory. None of them teach the AI tools that are actively reshaping the industry — because those platforms don't build tools. The gap between curriculum and reality widens every quarter.
 
-**4. IP infrastructure is inaccessible.**
-Trademark filings, licensing agreements, and copyright strategy remain locked behind expensive legal gatekeepers. Independent artists can create at scale, but they cannot protect at scale.
+**4. IP protection is locked behind gatekeepers.**
+Trademarks, licensing, and copyright strategy remain inaccessible to independent artists. Creators can now produce at scale, but they cannot protect at scale. The legal infrastructure hasn't caught up.
 
-**The result:** Creators and traders alike are fragmented across disconnected, extractive tools — paying more, owning less, and building on platforms that don't serve them. The post-AI economy needs new infrastructure, not new wrappers.
+**The root cause:** These aren't four separate problems. They're symptoms of the same structural failure — independent creators and traders are fragmented across disconnected, extractive tools. They pay more, own less, and build on platforms that don't serve them.
+
+The post-AI economy needs new infrastructure. Not new wrappers.
 
 ---
 
@@ -37,25 +39,32 @@ Trademark filings, licensing agreements, and copyright strategy remain locked be
 
 ### Zynthio: One sovereign stack. Seven brands. Full pipeline.
 
-Zynthio is a vertically integrated creative-technology ecosystem that solves the fragmentation problem by combining AI production, education, IP protection, autonomous funding, and artist output under one coherent architecture.
+Zynthio is a vertically integrated creative-technology ecosystem. Instead of patching one broken tool, it replaces the entire fragmented pipeline with a closed-loop architecture where every brand reinforces every other.
 
 | Brand | Function | Status |
 |-------|----------|--------|
-| **ZYNTHIO** | Parent company — governance, partnerships, market-facing | Incorporating May 2026 |
-| **CoreIntent** | Dev studio, engineering, and autonomous trading (gTrade) — open, competition-based, multi-AI orchestration | **Live** |
-| **SongPal** | AI-powered music production & collaboration platform | In development — TM filed (IPONZ #1318588) |
-| **CoreeyAI** | Multi-model AI orchestration layer (Claude, Grok, Perplexity, Suno) | **Live** |
+| **ZYNTHIO** | Parent company — governance, partnerships, market-facing | Incorporating NZ, May 2026 |
+| **CoreIntent** | Dev studio + autonomous trading (gTrade) — open, competition-based | **Live** |
+| **SongPal** | AI music production & collaboration platform | In development (TM filed: IPONZ #1318588) |
+| **CoreeyAI** | Multi-model AI orchestration (Claude, Grok, Perplexity, Suno) | **Live** |
 | **MOSOKO** | Music education — cohort programmes & self-paced courses | Curriculum in development |
-| **KERVALON** | Legal & IP management arm | Active |
-| **DJ Zynrose** | Artist persona — living proof of concept, community builder | Active — 2 tracks written |
+| **KERVALON** | Legal & IP management | Active |
+| **DJ Zynrose** | Artist persona — living proof of concept | Active (2 tracks written) |
 
-### What makes Zynthio different:
+### The closed loop:
+
+```
+Build (CoreIntent) → Think (CoreeyAI) → Create (SongPal + DJ Zynrose)
+    → Teach (MOSOKO) → Protect (KERVALON) → Scale (ZYNTHIO)
+```
+
+### What makes this different:
 
 - **Sovereign architecture** — creators own 100% of their output. No extraction. No platform lock-in.
-- **Multi-AI orchestration** — CoreeyAI routes tasks across Claude, Grok, Perplexity, and Suno. Not a wrapper. Purpose-built routing for optimal model selection per task.
-- **Competition model over subscription** — CoreIntent's gTrade operates on performance-based, competition-style algorithmic trading. No black boxes, no monthly fees for signals. Open architecture, verifiable risk parameters. Performance is the product.
-- **Closed-loop ecosystem** — Build (CoreIntent) → Think (CoreeyAI) → Create (SongPal + DJ Zynrose) → Teach (MOSOKO) → Protect (KERVALON) → Scale (ZYNTHIO).
-- **Self-funding mechanism** — gTrade autonomous trading bot provides internal development funding without external dependency.
+- **Multi-AI orchestration** — CoreeyAI routes tasks across Claude, Grok, Perplexity, and Suno. Purpose-built model selection per task, not an API wrapper.
+- **Competition model over subscription** — gTrade operates on open-architecture, performance-based algorithmic trading. No black boxes. No monthly fees for opaque signals. Verifiable risk parameters.
+- **Self-funding mechanism** — gTrade autonomous trading funds development without external capital dependency.
+- **The artist is the proof of concept** — DJ Zynrose makes music on the same tools Zynthio builds for everyone. The founder is both the engineer and the user.
 
 ---
 
@@ -73,8 +82,8 @@ Zynthio is a vertically integrated creative-technology ecosystem that solves the
 
 ### Why now:
 
-- Generative AI has collapsed the cost of music creation — the bottleneck is now **curation, pedagogy, and IP infrastructure**
-- AI-assisted investing is shifting from institutional to retail at pace — gTrade is positioned for this exact wave
+- Generative AI has collapsed the cost of music creation — the bottleneck has shifted to **curation, pedagogy, and IP infrastructure**
+- AI-assisted investing is moving from institutional to retail at pace — the subscription signal model is ripe for disruption
 - No competitor offers a vertically integrated creator stack — the market is fragmented by design
 - Independent creators are the fastest-growing segment of the music industry
 - NZ/AU tech ecosystems are underserved by global AI tools built for US/EU markets
@@ -88,13 +97,13 @@ Zynthio is a vertically integrated creative-technology ecosystem that solves the
 | Field | Detail |
 |-------|--------|
 | Citizenship | New Zealand / Australia (dual) |
-| Current location | Managua, Nicaragua |
+| Location | Managua, Nicaragua |
 | Role | Sole founder — architecture, code, brand, and music |
-| Technical | Full-stack developer, AI engineer, Next.js / Python / Docker / CI-CD |
+| Technical | Full-stack developer, AI engineer — Next.js, Python, Docker, multi-model AI orchestration |
 | Creative | Independent music producer (DJ Zynrose) — electronic / experimental / ambient |
 | GitHub | [coreintentdev](https://github.com/coreintentdev) |
 
-**Why one founder matters:** Corey built the entire stack — the AI integrations, the production infrastructure, the brand architecture, the documentation, the music, and the legal filings. This is not a pitch deck looking for an engineer. The engineer is the founder.
+**Why one founder matters:** Corey built the entire stack — the AI integrations, the production infrastructure, the trading bot, the brand architecture, the documentation, the music, and the legal filings. This is not a pitch deck looking for an engineer. The engineer is the founder.
 
 **Director qualification:** NZ/AU citizen — qualifies as eligible director under NZ Companies Act 1993 s 10(2A), regardless of physical location.
 
@@ -135,7 +144,6 @@ Zynthio is a vertically integrated creative-technology ecosystem that solves the
 | Version control | Git / GitHub ([coreintentdev](https://github.com/coreintentdev)) |
 | Agentic systems | Perplexity Orb — session management, multi-step AI workflows |
 | Trading engine | gTrade — risk-managed autonomous bot (BTC, ETH, SOL, XAU, XAG) |
-| Config & monitoring | YAML, .env, JSON logging, health checks |
 
 ### Key architectural decisions:
 
@@ -149,32 +157,34 @@ Zynthio is a vertically integrated creative-technology ecosystem that solves the
 
 ## Competitive Advantages
 
-### 1. Competition Model vs. Subscription (CoreIntent / gTrade)
+### 1. Competition Model vs. Subscription
 
-CoreIntent's gTrade operates on a performance-based competition model — autonomous, risk-managed algorithmic trading that funds development. This is not a subscription signal service selling black-box calls. No monthly fees for opaque signals. The bot competes in the market with open architecture and verifiable risk parameters:
+CoreIntent's gTrade doesn't sell signals behind a paywall. It competes in the market with open architecture and verifiable risk parameters:
 
-- Max leverage: 5.0×
-- Max risk per trade: 1%
-- Daily loss ceiling: 0.8%
-- Assets: BTC-PERP, ETH-PERP, SOL-PERP, XAU-PERP, XAG-PERP
+| Parameter | Value |
+|-----------|-------|
+| Max leverage | 5.0x |
+| Max risk per trade | 1% |
+| Daily loss ceiling | 0.8% |
+| Assets | BTC-PERP, ETH-PERP, SOL-PERP, XAU-PERP, XAG-PERP |
 
-Performance is the product. Results speak for themselves. Open architecture means anyone can verify the risk parameters.
+Performance is the product. The architecture is transparent. Results speak for themselves.
 
 ### 2. NZ Jurisdiction
 
-- Incorporating under NZ Companies Act 1993 — strong corporate governance framework
+- Incorporating under NZ Companies Act 1993 — robust corporate governance
 - IPONZ trademark protection (SongPal #1318588)
 - NZ/AU tech and export education incentives align with SongPal and MOSOKO
 - Founder holds NZ/AU dual citizenship — deep jurisdictional alignment
-- NZ is not a flag-of-convenience — it's a strategic home for IP-heavy, creator-focused tech
+- NZ is a strategic home for IP-heavy, creator-focused tech — not a flag of convenience
 
 ### 3. Open Architecture
 
 - Public documentation repository ([ZYNTHIO_MASTER_DOCS](https://github.com/coreintentdev/zynthio_master_docs))
 - MIT-licensed codebase
 - Multi-model AI — no vendor lock-in
-- Creator sovereignty — users own 100% of their output
-- Verifiable risk parameters on gTrade — no black boxes
+- Creator sovereignty — users own 100% of output
+- Verifiable risk parameters on gTrade
 
 ### 4. Vertical Integration
 
@@ -183,56 +193,55 @@ No competitor combines AI production + education + IP infrastructure + an artist
 | Competitor | What They Do | What Zynthio Does Differently |
 |------------|-------------|-------------------------------|
 | Suno / Udio | AI music generation | Integrates generation *within* a full creator stack |
-| Splice | Sample library & collaboration | AI-native and sovereignty-focused — creators own output |
+| Splice | Sample library & collaboration | AI-native, sovereignty-focused — creators own output |
 | Berklee Online | Music education | MOSOKO teaches *this specific stack* — tools are live products |
-| LANDR | AI mastering & distribution | Full pipeline: creation → education → legal → distribution |
+| LANDR | AI mastering & distribution | Full pipeline: creation, education, legal, distribution |
 | Generic signal services | Black-box trading calls | gTrade: open architecture, competition model, verifiable risk |
 
 ---
 
 ## Traction Metrics
 
-*As of May 2026 — honest, early-stage, all verified:*
+*As of May 2026. Honest. Early-stage. All verified.*
 
-### Live & Operational
+### What's live
 
-| Asset | Status | Evidence |
-|-------|--------|----------|
-| Production infrastructure | **Live** | Sovereign VPS — Docker, Python 3.11, deployment pipeline running |
-| AI integrations | **Live** | Claude, Grok, Perplexity all active and wired into CoreeyAI |
-| gTrade autonomous trading | **Live** | Self-funding development — competition-based, open risk architecture |
-| Perplexity Orb | **Live** | Agentic session management deployed |
-| ZYNTHIO_MASTER_DOCS | **Live** | Comprehensive documentation for 7 brands, public on GitHub |
+| Asset | Evidence |
+|-------|----------|
+| Production infrastructure | Sovereign VPS — Docker, Python 3.11, deployment pipeline running |
+| AI integrations | Claude, Grok, Perplexity all active and wired into CoreeyAI |
+| gTrade autonomous trading | Self-funding development — competition-based, open risk architecture |
+| Perplexity Orb | Agentic session management deployed |
+| ZYNTHIO_MASTER_DOCS | 7-brand documentation, public on GitHub |
 
-### Filed & In Process
+### What's filed
 
-| Asset | Status | Reference |
-|-------|--------|-----------|
-| Trademark | Filed | SongPal — IPONZ #1318588 (awaiting examination) |
-| Company name | Reserved | ZYNTHIO LIMITED — NZCO #15436626 (incorporating May 2026) |
-| Domain | Active | zynthio.ai |
+| Asset | Reference |
+|-------|-----------|
+| SongPal trademark | IPONZ #1318588 (awaiting examination) |
+| ZYNTHIO LIMITED company name | NZ Companies Office #15436626 (incorporating May 2026) |
+| Domain | zynthio.ai — active |
 
-### In Development
+### What's in development
 
-| Asset | Status | Target |
-|-------|--------|--------|
-| SongPal platform | MVP build underway | Beta Q2–Q3 2026 |
-| MOSOKO curriculum | First cohort planned | Q3 2026 |
-| Original music | 2 tracks written (SIGNAL 336, THE MIRROR ASKED A QUESTION) | 4-platform deployment pipeline in progress |
+| Asset | Target |
+|-------|--------|
+| SongPal platform | MVP build underway — beta Q2-Q3 2026 |
+| MOSOKO curriculum | First cohort Q3 2026 |
+| Original music (SIGNAL 336, THE MIRROR ASKED A QUESTION) | 4-platform deployment pipeline in progress |
+| Multilingual content library | 19 avatar scripts across 6 languages (EN, ES, FR, PT, ZH, MI) |
 
-### Content & Community
+### What we don't have yet
 
-- **19 avatar scripts** across 6 languages (EN, ES, FR, PT, ZH, MI)
-- **Seven-brand architecture** fully documented with brand guidelines, roadmaps, and asset registries
-- **Open-source presence:** [github.com/coreintentdev](https://github.com/coreintentdev)
-
-### What we don't have yet (and we're honest about it):
+We're honest about this:
 
 - No paying customers (pre-revenue — SaaS launch target Q4 2026)
 - No external funding raised (bootstrapped + gTrade self-funding)
-- Solo founder (no team hires yet — this is intentional at this stage)
+- Solo founder (intentional at this stage — hiring post-seed)
 - SongPal beta not yet launched
-- No streaming platform presence for DJ Zynrose (deployment pending)
+- No streaming presence for DJ Zynrose (deployment pending)
+
+The architecture is real. The revenue is next.
 
 ---
 
@@ -251,22 +260,22 @@ No competitor combines AI production + education + IP infrastructure + an artist
 
 | Metric | Target |
 |--------|--------|
-| ARPU | NZD $20–30/month |
-| Free → paid conversion | 10–15% |
-| CAC | NZD $30–50 |
-| 12-month LTV | NZD $240–360 |
-| LTV:CAC ratio | 6–8× |
+| ARPU | NZD $20-30/month |
+| Free-to-paid conversion | 10-15% |
+| CAC | NZD $30-50 |
+| 12-month LTV | NZD $240-360 |
+| LTV:CAC ratio | 6-8x |
 
 ### Funding Ask
 
 | Stage | Amount (NZD) | Use |
 |-------|-------------|-----|
-| Pre-seed | $150,000–250,000 | SongPal MVP (35%), MOSOKO curriculum (20%), marketing (20%), legal/IP (10%), infra (5%), reserve (10%) |
-| Series A (2027+) | $1,000,000–2,500,000 | Team hire, international expansion, SongPal scale |
+| Pre-seed | $150,000-250,000 | SongPal MVP (35%), MOSOKO curriculum (20%), marketing (20%), legal/IP (10%), infra (5%), reserve (10%) |
+| Series A (2027+) | $1,000,000-2,500,000 | Team hire, international expansion, SongPal scale |
 
-**Current monthly burn:** ~NZD $280–480. At $150K raise, runway = 20–35 months to MRR breakeven.
+**Current monthly burn:** ~NZD $280-480. At $150K raise, runway = 20-35 months to MRR breakeven.
 
-→ Full details: [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md)
+Full details: [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md)
 
 ---
 
@@ -274,11 +283,11 @@ No competitor combines AI production + education + IP infrastructure + an artist
 
 | Competition Type | What We're Seeking |
 |-----------------|-----------------|
-| **Startup competition** | Seed capital / accelerator access — target NZD $150–250K |
-| **AI competition** | Recognition, partnerships, API credits, multi-model AI visibility |
+| **Startup** | Seed capital / accelerator access — NZD $150-250K |
+| **AI** | Recognition, partnerships, API credits, multi-model AI visibility |
 | **Music / creative tech** | Industry exposure, label/distributor introductions, SongPal beta users |
-| **Fintech / trading** | Recognition for CoreIntent's gTrade — competition-based open trading architecture |
-| **Legal / IP innovation** | Pro-bono IP counsel, IPONZ support |
+| **Fintech / trading** | Recognition for gTrade — competition-based open trading architecture |
+| **Legal / IP** | Pro-bono IP counsel, IPONZ support |
 
 ---
 
@@ -305,4 +314,4 @@ Email: *(add contact email before submitting)*
 
 ---
 
-*Last updated: 2026-05-09 (Session 29) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-09 (Session 30) | Maintained by: Corey McIvor / COREINTENT*
