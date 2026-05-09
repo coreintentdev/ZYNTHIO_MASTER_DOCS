@@ -1,6 +1,6 @@
 # ASSETS — SongPal
 
-![Updated](https://img.shields.io/badge/updated-2026--05--08-blue) ![TM](https://img.shields.io/badge/TM-IPONZ%20%231318588-orange)
+![Updated](https://img.shields.io/badge/updated-2026--05--09-blue) ![TM](https://img.shields.io/badge/TM-IPONZ%20%231318588-orange)
 
 > Brand asset registry for SongPal.
 > Note: SongPal is a registered trademark applicant — use brand assets carefully and consistently.
@@ -10,7 +10,7 @@
 ## Logo
 
 | Asset | Format | Location | Status |
-|-------|--------|----------|--------|
+|-------|--------|----------|---------|
 | Primary wordmark | SVG | *(add path/URL)* | Pending |
 | Primary wordmark | PNG | *(add path/URL)* | Pending |
 | Icon / waveform mark | SVG | *(add path/URL)* | Pending |
@@ -69,7 +69,7 @@ All SongPal brand materials must include appropriate TM notation:
 ## App Store Assets (Placeholders)
 
 | Asset | Dimensions | Status |
-|-------|-----------|--------|
+|-------|------------|---------|
 | App icon | 1024×1024 PNG | Pending |
 | Feature graphic | 1024×500 PNG | Pending |
 | Screenshots (phone) | 1290×2796 PNG | Pending |
@@ -86,4 +86,4 @@ All SongPal brand materials must include appropriate TM notation:
 
 ---
 
-*Last updated: 2026-05-08 | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-09 | Maintained by: Corey McIvor / COREINTENT*

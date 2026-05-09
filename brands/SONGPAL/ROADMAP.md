@@ -1,6 +1,6 @@
 # ROADMAP — SongPal
 
-![Updated](https://img.shields.io/badge/updated-2026--05--08-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--09-blue)
 
 ---
 
@@ -59,7 +59,7 @@
 ## Key Risks
 
 | Risk | Mitigation |
-|------|-----------|
+|------|------------|
 | Suno API reliability/cost | Evaluate fallback generative models |
 | TM examination objection | Engage IP counsel early |
 | Competition from well-funded AI music tools | Niche down: serve the independent creator specifically |
@@ -67,4 +67,4 @@
 
 ---
 
-*Last updated: 2026-05-08*
+*Last updated: 2026-05-09*

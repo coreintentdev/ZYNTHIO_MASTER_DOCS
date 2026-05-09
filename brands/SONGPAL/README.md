@@ -1,6 +1,6 @@
 # SongPal
 
-![Status](https://img.shields.io/badge/status-in%20development-yellow) ![Type](https://img.shields.io/badge/type-audio%20platform-green) ![TM](https://img.shields.io/badge/TM-IPONZ%20%231318588-orange) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![Updated](https://img.shields.io/badge/updated-2026--05--08-blue)
+![Status](https://img.shields.io/badge/status-in%20development-yellow) ![Type](https://img.shields.io/badge/type-audio%20platform-green) ![TM](https://img.shields.io/badge/TM-IPONZ%20%231318588-orange) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![Updated](https://img.shields.io/badge/updated-2026--05--09-blue)
 
 > **Your AI music production partner.**
 > Create, arrange, and collaborate — with intelligence built in.
@@ -60,7 +60,7 @@ To be the most creator-friendly AI music production platform — giving independ
 ## Business Model
 
 | Tier | Description | Pricing |
-|------|-------------|---------|
+|------|-------------|----------|
 | Free | Limited tracks, basic AI features | $0 |
 | Creator | Full AI suite, unlimited exports | *(TBD)* |
 | Studio | Team collaboration, advanced stems | *(TBD)* |
@@ -88,4 +88,4 @@ To be the most creator-friendly AI music production platform — giving independ
 
 ---
 
-*Last updated: 2026-05-08 | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-09 | Maintained by: Corey McIvor / COREINTENT*
