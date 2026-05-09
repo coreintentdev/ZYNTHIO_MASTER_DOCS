@@ -1,6 +1,6 @@
 # ROADMAP — MOSOKO
 
-![Updated](https://img.shields.io/badge/updated-2026--05--08-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--09-blue)
 
 ---
 
@@ -43,11 +43,11 @@
 ## Risks
 
 | Risk | Mitigation |
-|------|-----------|
+|------|------------|
 | Curriculum development bandwidth | Prioritise SongPal module first — it's the strongest content hook |
 | Platform choice | Start simple (Gumroad or Teachable) — don't overbuild |
 | Student acquisition | Lean on DJ Zynrose audience and social proof |
 
 ---
 
-*Last updated: 2026-05-08*
+*Last updated: 2026-05-09*
