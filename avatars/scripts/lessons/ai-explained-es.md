@@ -3,6 +3,9 @@
 ## Duration: 95 seconds
 ## Avatar tone: friendly
 ## Brand: CoreIntent
+## Pronunciation: CoreIntent (CORE-in-tent) · gTrade (jee-TRADE)
+
+---
 
 [GESTURE: warm smile]
 
@@ -12,7 +15,7 @@ Bien — vamos a explicar cómo funciona el trading con IA. Sin tecnicismos. Sin
 
 Piensa en el motor de trading como un analista muy disciplinado que nunca duerme, nunca entra en pánico y nunca toma decisiones por corazonada.
 
-[GESTURE: open hand]
+[GESTURE: open palm forward]
 
 Esto es lo que hace, paso a paso.
 
@@ -20,7 +23,7 @@ Esto es lo que hace, paso a paso.
 
 *Paso uno — recopilación de datos.* La IA monitorea datos del mercado constantemente. Precios, volumen, tendencias, volatilidad — en múltiples mercados, mucho más rápido que cualquier humano.
 
-[GESTURE: nod]
+[GESTURE: slight head tilt]
 
 *Paso dos — reconocimiento de patrones.* Con esos datos, el motor identifica patrones y oportunidades potenciales. Busca situaciones donde la probabilidad de un resultado favorable sea mayor que el promedio — basándose en el historial y condiciones en tiempo real.
 
@@ -32,7 +35,7 @@ Esto es lo que hace, paso a paso.
 
 [PAUSE 1s]
 
-[GESTURE: open hand]
+[GESTURE: lean forward]
 
 *Paso cinco — monitoreo.* Después de que la operación está activa, la IA sigue vigilando. Si las condiciones cambian, se ajusta. Si se activa un stop-loss, sale. Sin ego. Sin aferrarse esperando lo mejor.
 

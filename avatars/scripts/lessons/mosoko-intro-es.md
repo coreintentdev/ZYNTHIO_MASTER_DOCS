@@ -3,6 +3,9 @@
 ## Duration: 80 seconds
 ## Avatar tone: energetic
 ## Brand: MOSOKO
+## Pronunciation: MOSOKO (moh-SOH-koh) · Zynthio (ZIN-thee-oh) · SongPal (SONG-pal) · CoreeyAI (COR-ee-ay-eye)
+
+---
 
 [GESTURE: warm smile]
 
@@ -12,7 +15,7 @@ Hola — bienvenido a *MOSOKO*.
 
 Si alguna vez quisiste hacer música pero sentiste que no tenías las herramientas correctas, la formación adecuada o los contactos necesarios — esto está hecho para ti.
 
-[GESTURE: open hand]
+[GESTURE: open palm forward]
 
 MOSOKO es el brazo educativo del ecosistema Zynthio. No enseñamos teoría al vacío. Te enseñamos a usar *herramientas reales* — las mismas que los creadores profesionales están usando ahora mismo — para producir, proteger y publicar tu propia música.
 
@@ -24,13 +27,15 @@ Así es como funciona.
 
 *Primero* — producción musical con IA en *SongPal*. Composición, arreglos, mezcla — todo impulsado por inteligencia artificial, todo guiado por un currículo real. Aprendes haciendo temas de verdad, no mirando cómo otros los hacen.
 
+[PAUSE 0.5s]
+
 *Segundo* — ingeniería de prompts para creativos. Cómo comunicarte con herramientas de IA y obtener resultados profesionales. No ruido al azar. Resultados musicales intencionales.
 
 *Tercero* — y aquí es donde la mayoría de los cursos se quedan cortos — el *lado empresarial*. Protección de propiedad intelectual. Derechos de autor. Licencias. Cómo *ser dueño* de verdad de lo que creas, para siempre.
 
 [PAUSE 1s]
 
-[GESTURE: nod]
+[GESTURE: slight head tilt]
 
 Ofrecemos programas por cohortes con sesiones en vivo. También tenemos módulos a tu ritmo que puedes completar cuando quieras.
 

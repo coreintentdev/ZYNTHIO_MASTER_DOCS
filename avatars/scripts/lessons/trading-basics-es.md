@@ -3,8 +3,11 @@
 ## Duration: 95 seconds
 ## Avatar tone: professional
 ## Brand: CoreIntent
+## Pronunciation: CoreIntent (CORE-in-tent) · Zynthio (ZIN-thee-oh) · gTrade (jee-TRADE)
 
-[GESTURE: nod]
+---
+
+[GESTURE: direct eye contact]
 
 Hablemos de cómo funciona nuestro motor de trading — y por qué es diferente a lo que probablemente hayas visto antes.
 
@@ -12,7 +15,7 @@ Hablemos de cómo funciona nuestro motor de trading — y por qué es diferente 
 
 La mayoría de las plataformas de trading cobran suscripciones mensuales. Pagas ganes o pierdas. La plataforma gana dinero sin importar el resultado. Ese modelo está roto — y seguramente ya lo sabes.
 
-[GESTURE: open hand]
+[GESTURE: open palm forward]
 
 En *CoreIntent*, usamos un *modelo basado en competiciones*. Esto es lo que significa.
 
@@ -26,13 +29,15 @@ Tres principios que necesitas entender.
 
 *Primero* — la gestión de riesgo no es negociable. Cada operación tiene límites predefinidos. El sistema no persigue pérdidas. No se apalanca en exceso. Nunca.
 
+[PAUSE 0.5s]
+
 *Segundo* — la IA toma decisiones basadas en datos, no en emociones. Lee las condiciones del mercado, detecta oportunidades y ejecuta dentro de parámetros estrictos. Sin corazonadas. Sin pánico.
 
 *Tercero* — la estructura de competición genera alineación. Nosotros ganamos cuando tú ganas. No hay incentivo para seguir cobrándote mientras pierdes.
 
 [PAUSE 1s]
 
-[GESTURE: nod]
+[GESTURE: lean forward]
 
 Ahora — esto es importante. Ningún sistema garantiza rendimientos. Los mercados son impredecibles. Lo que *sí* podemos garantizar es ejecución disciplinada, gestión de riesgo transparente y un modelo que pone tus intereses por delante de los nuestros.
 

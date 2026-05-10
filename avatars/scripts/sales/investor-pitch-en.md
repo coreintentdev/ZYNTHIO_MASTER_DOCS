@@ -3,6 +3,9 @@
 ## Duration: 130 seconds
 ## Avatar tone: professional
 ## Brand: Zynthio
+## Pronunciation: Zynthio (ZIN-thee-oh) · SongPal (SONG-pal) · CoreeyAI (COR-ee-ay-eye) · MOSOKO (moh-SOH-koh) · CoreIntent (CORE-in-tent) · KERVALON (KER-vah-lon) · DJ Zynrose (dee-jay ZIN-rohz) · gTrade (jee-TRADE) · IPONZ (EYE-ponz)
+
+---
 
 [GESTURE: direct eye contact]
 
@@ -12,7 +15,7 @@ Thank you for your time. Let me tell you why *Zynthio* deserves your attention.
 
 The global music production software market is worth 5.9 billion dollars, growing at eight percent year over year. AI music generation is 1.5 billion — growing at *twenty-five percent* annually. Add online music education at 2.1 billion, and you're looking at a total addressable market of roughly *9.5 billion dollars*.
 
-[GESTURE: open hand]
+[GESTURE: open palm forward]
 
 Right now, that market is fragmented. Independent creators stitch together expensive, disconnected tools for production, education, legal protection, and distribution. Nobody offers the full stack.
 
@@ -20,7 +23,7 @@ Right now, that market is fragmented. Independent creators stitch together expen
 
 *Zynthio does.*
 
-[GESTURE: nod]
+[GESTURE: slight head tilt]
 
 We're a vertically integrated creative-technology ecosystem — seven brands working as one system. Founded in New Zealand by Corey McIvor.
 
@@ -31,6 +34,8 @@ Here's the architecture.
 *SongPal* — AI music production platform. Trademark filed with IPONZ, number 1318588. Flagship revenue driver — SaaS subscriptions for individual creators and studio tiers.
 
 *CoreeyAI* — proprietary intelligence layer. Purpose-built orchestration across Claude, Grok, Perplexity, and Suno. This becomes a B2B API licensing product.
+
+[PAUSE 0.5s]
 
 *MOSOKO* — education brand. Cohort programmes and self-paced courses. Revenue from day one of launch.
 
@@ -50,7 +55,7 @@ Our traction is real. Production infrastructure is *live* — Docker, Python 3.1
 
 We're seeking 150 to 250 thousand New Zealand dollars in seed capital. Allocation: thirty-five percent to SongPal development, twenty percent to MOSOKO curriculum, twenty percent to marketing, and the rest to legal, infrastructure, and reserves.
 
-[GESTURE: nod]
+[GESTURE: direct eye contact]
 
 The moat is clear. No competitor combines AI production, education, IP protection, and an artist proof-of-concept under one sovereign architecture. Zynthio is not a feature. It's a *stack*.
 
