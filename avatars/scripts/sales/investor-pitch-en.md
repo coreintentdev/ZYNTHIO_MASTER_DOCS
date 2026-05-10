@@ -10,7 +10,7 @@ Thank you for your time. Let me tell you why *Zynthio* deserves your attention.
 
 [PAUSE 1s]
 
-The global music production software market is worth 5.9 billion dollars, growing at eight percent year over year. AI music generation is 1.5 billion — growing at *twenty-five percent* annually. Add online music education at 2.1 billion, and you're looking at a total addressable market of roughly *9.5 billion dollars*.
+The global music production software market is worth 5.9 billion dollars, growing at eight percent year over year. AI music generation sits at 1.5 billion — growing at *twenty-five percent* annually. Add online music education at 2.1 billion, and you're looking at a total addressable market of roughly *9.5 billion dollars*.
 
 [GESTURE: open hand]
 
@@ -44,11 +44,11 @@ Here's the architecture.
 
 [GESTURE: lean forward]
 
-Our traction is real. Production infrastructure is *live* — Docker, Python 3.11, our own VPS. SongPal trademark is *filed*. ZYNTHIO LIMITED is *incorporating* with New Zealand Companies Office. Music is *written and in the deployment pipeline*. The codebase is public on GitHub. And the trading engine is already generating returns to self-fund development.
+Our traction is real. Production infrastructure is *live* — Docker, Python 3.11, our own VPS. SongPal trademark is *filed*. ZYNTHIO LIMITED is *incorporating* with the New Zealand Companies Office. Music is *written and in the deployment pipeline*. The codebase is public on GitHub. And the trading engine is already generating returns to self-fund development.
 
 [PAUSE 0.5s]
 
-We're seeking 150 to 250 thousand New Zealand dollars in seed capital. Allocation: thirty-five percent to SongPal development, twenty percent to MOSOKO curriculum, twenty percent to marketing, and the rest to legal, infrastructure, and reserves.
+We're seeking 150 to 250 thousand New Zealand dollars in seed capital. Allocation: thirty-five percent to SongPal development, twenty percent to MOSOKO curriculum, twenty percent to marketing, and the remaining twenty-five percent to legal, infrastructure, and reserves.
 
 [GESTURE: nod]
 
@@ -58,4 +58,4 @@ The moat is clear. No competitor combines AI production, education, IP protectio
 
 [GESTURE: warm smile]
 
-We're building this with or without external capital — the question is speed. I'd welcome the chance to discuss what acceleration looks like. Thank you.
+We're building this with or without external capital — the question is speed. I'd welcome the chance to discuss what acceleration looks like for your portfolio. Thank you.

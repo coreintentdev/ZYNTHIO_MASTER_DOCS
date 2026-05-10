@@ -28,6 +28,6 @@ Pero el trading es solo un vertical. CoreIntent también construye *SongPal* —
 
 Somos de Nueva Zelanda, priorizamos la privacidad y no hacemos promesas vacías. Entregamos sistemas que funcionan.
 
-[GESTURE: nod]
+[GESTURE: confident nod]
 
 Eso es CoreIntent. *Construir con intención. Entregar con precisión.*

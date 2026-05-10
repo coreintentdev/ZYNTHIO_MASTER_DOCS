@@ -18,7 +18,7 @@ En *CoreIntent*, usamos un *modelo basado en competiciones*. Esto es lo que sign
 
 [PAUSE 0.5s]
 
-En vez de pagar por acceso, participas en competiciones de trading. Tu motor de IA — construido por CoreIntent — compite usando estrategias autónomas con gestión de riesgo. El sistema gestiona el riesgo primero. Los rendimientos vienen después. Siempre.
+En vez de pagar por acceso, participas en competiciones de trading. Tu motor de IA — construido por CoreIntent — compite usando estrategias autónomas con gestión de riesgo. El sistema gestiona el riesgo *primero*. Los rendimientos vienen después. Siempre.
 
 [GESTURE: counting on fingers]
 
@@ -32,7 +32,7 @@ Tres principios que necesitas entender.
 
 [PAUSE 1s]
 
-[GESTURE: nod]
+[GESTURE: lean forward]
 
 Ahora — esto es importante. Ningún sistema garantiza rendimientos. Los mercados son impredecibles. Lo que *sí* podemos garantizar es ejecución disciplinada, gestión de riesgo transparente y un modelo que pone tus intereses por delante de los nuestros.
 
@@ -40,6 +40,6 @@ Ahora — esto es importante. Ningún sistema garantiza rendimientos. Los mercad
 
 Esa es la base. En la próxima lección, profundizamos en cómo la IA toma decisiones de trading.
 
-[GESTURE: nod]
+[GESTURE: confident nod]
 
 Nos vemos ahí.

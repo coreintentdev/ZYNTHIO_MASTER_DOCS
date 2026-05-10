@@ -42,6 +42,6 @@ And here's the big one — *you own everything you create*. One hundred percent.
 
 SongPal is trademarked in New Zealand — IPONZ number 1318588 — and it's the flagship product of the Zynthio ecosystem.
 
-[GESTURE: nod]
+[GESTURE: confident nod]
 
 *Your sound. Your stack.* That's SongPal.
