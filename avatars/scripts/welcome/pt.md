@@ -34,4 +34,4 @@ Sem enrolação. Só sinal.
 
 [GESTURE: nod]
 
-Bem-vindo ao ecossistema. Vamos construir juntos.
+Acesse *zynthio.ai*. Vamos construir algo juntos.
