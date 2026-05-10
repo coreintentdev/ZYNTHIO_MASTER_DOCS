@@ -4,7 +4,7 @@
 ## Avatar tone: friendly
 ## Brand: CoreIntent
 
-[GESTURE: warm smile]
+[GESTURE: warm smile, relaxed posture]
 
 Alright — let's break down how AI trading actually works. No jargon. No hype. Just the real picture.
 
@@ -12,19 +12,21 @@ Alright — let's break down how AI trading actually works. No jargon. No hype. 
 
 Think of the AI trading engine as a very disciplined analyst who never sleeps, never panics, and never makes decisions based on gut feelings.
 
-[GESTURE: open hand]
+[GESTURE: open hand, palm up]
 
 Here's what it does, step by step.
 
 [PAUSE 0.5s]
 
-*Step one — data collection.* The AI monitors market data constantly. Prices, volume, trends, volatility — across multiple markets, far faster than any human could.
+*Step one — data collection.* The AI monitors market data constantly. Prices, volume, trends, volatility — across multiple markets, far faster than any human could process.
 
 [GESTURE: nod]
 
 *Step two — pattern recognition.* Based on that data, the engine identifies patterns and potential opportunities. It looks for situations where the probability of a favourable outcome is higher than average — based on history and real-time conditions.
 
-*Step three — risk assessment.* Before making any move, the AI checks the risk. What's the maximum downside? Does it fit our parameters? If the risk is too high, it doesn't trade. End of story.
+[PAUSE 0.3s]
+
+*Step three — risk assessment.* Before making any move, the AI checks the risk. What's the maximum downside? Does it fit our parameters? If the risk is too high — it doesn't trade. End of story.
 
 [PAUSE 0.5s]
 
@@ -32,7 +34,7 @@ Here's what it does, step by step.
 
 [PAUSE 1s]
 
-[GESTURE: open hand]
+[GESTURE: open hand, palm up]
 
 *Step five — monitoring.* After the trade is live, the AI keeps watching. If conditions change, it adjusts. If a stop-loss triggers, it exits. No ego. No holding on and hoping.
 
@@ -40,6 +42,6 @@ Here's what it does, step by step.
 
 That's the cycle. Data in. Analysis. Risk check. Execute. Monitor. Repeat.
 
-[GESTURE: nod]
+[GESTURE: nod, direct eye contact]
 
 The AI doesn't have bad days. It doesn't get greedy. It follows the rules — and that discipline is exactly what makes it powerful.

@@ -1,43 +1,47 @@
-# Introducción a MOSOKO
+# Introduccion a MOSOKO
 ## Language: Spanish
 ## Duration: 80 seconds
 ## Avatar tone: energetic
 ## Brand: MOSOKO
 
-[GESTURE: warm smile]
+[GESTURE: warm smile, open posture]
 
 Hola — bienvenido a *MOSOKO*.
 
 [PAUSE 1s]
 
-Si alguna vez quisiste hacer música pero sentiste que no tenías las herramientas correctas, la formación adecuada o los contactos necesarios — esto está hecho para ti.
+Si alguna vez quisiste hacer musica pero sentiste que no tenias las herramientas correctas, la formacion adecuada o los contactos necesarios — esto esta hecho para ti.
 
-[GESTURE: open hand]
+[GESTURE: open hand, palm up]
 
-MOSOKO es el brazo educativo del ecosistema Zynthio. No enseñamos teoría al vacío. Te enseñamos a usar *herramientas reales* — las mismas que los creadores profesionales están usando ahora mismo — para producir, proteger y publicar tu propia música.
+MOSOKO es el brazo educativo del ecosistema Zynthio. No ensenamos teoria al vacio. Te ensenamos a usar *herramientas reales* — las mismas que los creadores profesionales estan usando ahora mismo — para producir, proteger y publicar tu propia musica.
 
 [PAUSE 0.5s]
 
-Así es como funciona.
+Asi es como funciona.
 
 [GESTURE: counting on fingers]
 
-*Primero* — producción musical con IA en *SongPal*. Composición, arreglos, mezcla — todo impulsado por inteligencia artificial, todo guiado por un currículo real. Aprendes haciendo temas de verdad, no mirando cómo otros los hacen.
+*Primero* — produccion musical con IA en *SongPal*. Composicion, arreglos, mezcla — todo impulsado por inteligencia artificial, todo guiado por un curriculo real. Aprendes haciendo temas de verdad. No mirando como otros los hacen.
 
-*Segundo* — ingeniería de prompts para creativos. Cómo comunicarte con herramientas de IA y obtener resultados profesionales. No ruido al azar. Resultados musicales intencionales.
+[PAUSE 0.3s]
 
-*Tercero* — y aquí es donde la mayoría de los cursos se quedan cortos — el *lado empresarial*. Protección de propiedad intelectual. Derechos de autor. Licencias. Cómo *ser dueño* de verdad de lo que creas, para siempre.
+*Segundo* — ingenieria de prompts para creativos. Como comunicarte con herramientas de IA y obtener resultados *profesionales*. No ruido al azar. Resultados musicales intencionales.
+
+[PAUSE 0.3s]
+
+*Tercero* — y aqui es donde la mayoria de los cursos se quedan cortos — el *lado empresarial*. Proteccion de propiedad intelectual. Derechos de autor. Licencias. Como *ser dueno* de verdad de lo que creas. Para siempre.
 
 [PAUSE 1s]
 
 [GESTURE: nod]
 
-Ofrecemos programas por cohortes con sesiones en vivo. También tenemos módulos a tu ritmo que puedes completar cuando quieras.
+Ofrecemos programas por cohortes con sesiones en vivo. Tambien tenemos modulos a tu ritmo que puedes completar cuando quieras.
 
 [PAUSE 0.5s]
 
-MOSOKO no es una escuela de música cualquiera. Está diseñada para creadores independientes que quieren controlar todo su proceso — desde la primera idea hasta el lanzamiento final.
+MOSOKO no es una escuela de musica cualquiera. Esta disenada para creadores independientes que quieren controlar todo su proceso — desde la primera idea hasta el lanzamiento final.
 
-[GESTURE: nod]
+[GESTURE: nod, direct eye contact]
 
-*Hazlo. Sé su dueño. Enséñalo.* Eso es MOSOKO.
+*Hazlo. Se su dueno. Ensenalo.* Eso es MOSOKO.

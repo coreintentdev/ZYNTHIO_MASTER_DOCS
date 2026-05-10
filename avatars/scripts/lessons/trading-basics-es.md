@@ -1,45 +1,47 @@
-# Conceptos Básicos de Trading — El Modelo de Competición
+# Conceptos Basicos de Trading — El Modelo de Competicion
 ## Language: Spanish
 ## Duration: 95 seconds
 ## Avatar tone: professional
 ## Brand: CoreIntent
 
-[GESTURE: nod]
+[GESTURE: nod, direct eye contact]
 
-Hablemos de cómo funciona nuestro motor de trading — y por qué es diferente a lo que probablemente hayas visto antes.
+Hablemos de como funciona nuestro motor de trading — y por que es diferente a lo que probablemente hayas visto antes.
 
 [PAUSE 1s]
 
-La mayoría de las plataformas de trading cobran suscripciones mensuales. Pagas ganes o pierdas. La plataforma gana dinero sin importar el resultado. Ese modelo está roto — y seguramente ya lo sabes.
+La mayoria de las plataformas de trading cobran suscripciones mensuales. Pagas ganes o pierdas. La plataforma gana dinero sin importar el resultado. Ese modelo esta roto — y seguramente ya lo sabes.
 
-[GESTURE: open hand]
+[GESTURE: open hand, palm up]
 
 En *CoreIntent*, usamos un *modelo basado en competiciones*. Esto es lo que significa.
 
 [PAUSE 0.5s]
 
-En vez de pagar por acceso, participas en competiciones de trading. Tu motor de IA — construido por CoreIntent — compite usando estrategias autónomas con gestión de riesgo. El sistema gestiona el riesgo primero. Los rendimientos vienen después. Siempre.
+En vez de pagar por acceso, participas en competiciones de trading. Tu motor de IA — construido por CoreIntent — compite usando estrategias autonomas con gestion de riesgo. El sistema gestiona el riesgo *primero*. Los rendimientos vienen despues. Siempre.
 
 [GESTURE: counting on fingers]
 
 Tres principios que necesitas entender.
 
-*Primero* — la gestión de riesgo no es negociable. Cada operación tiene límites predefinidos. El sistema no persigue pérdidas. No se apalanca en exceso. Nunca.
+[PAUSE 0.3s]
 
-*Segundo* — la IA toma decisiones basadas en datos, no en emociones. Lee las condiciones del mercado, detecta oportunidades y ejecuta dentro de parámetros estrictos. Sin corazonadas. Sin pánico.
+*Primero* — la gestion de riesgo no es negociable. Cada operacion tiene limites predefinidos. El sistema no persigue perdidas. No se apalanca en exceso. Nunca.
 
-*Tercero* — la estructura de competición genera alineación. Nosotros ganamos cuando tú ganas. No hay incentivo para seguir cobrándote mientras pierdes.
+*Segundo* — la IA toma decisiones basadas en datos, no en emociones. Lee las condiciones del mercado, detecta oportunidades y ejecuta dentro de parametros estrictos. Sin corazonadas. Sin panico.
+
+*Tercero* — la estructura de competicion genera alineacion. Nosotros ganamos cuando tu ganas. No hay incentivo para seguir cobrandote mientras pierdes.
 
 [PAUSE 1s]
 
-[GESTURE: nod]
+[GESTURE: lean forward slightly]
 
-Ahora — esto es importante. Ningún sistema garantiza rendimientos. Los mercados son impredecibles. Lo que *sí* podemos garantizar es ejecución disciplinada, gestión de riesgo transparente y un modelo que pone tus intereses por delante de los nuestros.
+Ahora — esto es importante. Ningun sistema garantiza rendimientos. Los mercados son impredecibles. Lo que *si* podemos garantizar es ejecucion disciplinada, gestion de riesgo transparente y un modelo que pone tus intereses por delante de los nuestros.
 
 [PAUSE 0.5s]
 
-Esa es la base. En la próxima lección, profundizamos en cómo la IA toma decisiones de trading.
+Esa es la base. En la proxima leccion, profundizamos en como la IA toma decisiones de trading.
 
 [GESTURE: nod]
 
-Nos vemos ahí.
+Nos vemos ahi.
