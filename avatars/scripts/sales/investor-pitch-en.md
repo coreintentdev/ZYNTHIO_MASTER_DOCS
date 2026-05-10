@@ -10,11 +10,11 @@ Thank you for your time. Let me tell you why *Zynthio* deserves your attention.
 
 [PAUSE 1s]
 
-The global music production software market is worth 5.9 billion dollars, growing at eight percent year over year. AI music generation is 1.5 billion — growing at *twenty-five percent* annually. Add online music education at 2.1 billion, and you're looking at a total addressable market of roughly *9.5 billion dollars*.
+The combined addressable market across our verticals exceeds *twenty-one billion dollars*. Music production software — 5.9 billion, growing at eight percent. AI music generation — 1.5 billion, growing at *twenty-five percent* annually. Online music education — 2.1 billion. And AI-assisted retail trading — over 12 billion, growing at eighteen percent year over year.
 
 [GESTURE: open hand]
 
-Right now, that market is fragmented. Independent creators stitch together expensive, disconnected tools for production, education, legal protection, and distribution. Nobody offers the full stack.
+Right now, every one of those markets is fragmented. Independent creators stitch together expensive, disconnected tools. Retail traders pay blind subscriptions with no alignment. Nobody offers the full stack.
 
 [PAUSE 0.5s]
 
