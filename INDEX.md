@@ -1,6 +1,6 @@
 # INDEX — Zynthio Master Docs
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--09-blue) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--11-blue) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
 
 Complete table of contents for the ZYNTHIO_MASTER_DOCS repository.
 
@@ -10,7 +10,7 @@ Complete table of contents for the ZYNTHIO_MASTER_DOCS repository.
 
 | Priority | Item | Deadline | Days Left | Reference |
 |----------|------|----------|-----------|-----------|
-| **CRITICAL** | ZYNTHIO LIMITED incorporation — name reservation #15436626 expires | **May 12, 2026** | **3 (as of 2026-05-09) — SATURDAY MAY 9 — WEEKEND — Companies Office closed — May 10 (Sun) = also closed — May 11 (Mon) = BD15 = THE FINAL business day before deadline — CALL Companies Office FIRST THING Monday May 11 — escalate to supervisor/manager — follow up on Fri May 8 call — ENGAGE NZ SOLICITOR by end of Mon May 11 if certificate not confirmed — May 12 = HARD DEADLINE** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
+| **CRITICAL** | ZYNTHIO LIMITED incorporation — name reservation #15436626 expires | **May 12, 2026** | **1 (as of 2026-05-11) — TODAY IS MONDAY MAY 11 — BD15 — THE FINAL BUSINESS DAY — Companies Office IS OPEN — CALL NOW — escalate immediately to supervisor/manager level — follow up on Fri May 8 call — provide application reference number — ENGAGE NZ SOLICITOR by end of TODAY if certificate not confirmed for imminent issuance — May 12 = HARD DEADLINE — 1 DAY REMAINS** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
 | **CRITICAL** | Engage NZ registered office service (required — founder is overseas) | Before filing | Urgent | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
 | HIGH | SongPal IPONZ TM #1318588 — monitor for examination report | TBD | — | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
 | HIGH | 4-way deploy: SIGNAL 336 + THE MIRROR ASKED A QUESTION | Q2 2026 | — | [brands/DJ_ZYNROSE/ROADMAP.md](brands/DJ_ZYNROSE/ROADMAP.md) |
@@ -22,7 +22,7 @@ Complete table of contents for the ZYNTHIO_MASTER_DOCS repository.
 Start here based on your role:
 
 | You are... | Start with... |
-|-----------|--------------|
+|-----------|---------------|
 | **New to Zynthio** | [README.md](README.md) → [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md) |
 | **Investor / evaluator** | [COMPETITION_ENTRY.md](COMPETITION_ENTRY.md) → [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md) → [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md) |
 | **Legal / compliance** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) → [brands/KERVALON/README.md](brands/KERVALON/README.md) |
@@ -140,7 +140,7 @@ Multilingual scripts for avatar/AI presenter use. Located in `avatars/scripts/`.
 ### Welcome Scripts
 
 | File | Language |
-|------|---------|
+|------|----------|
 | [avatars/scripts/welcome/en.md](avatars/scripts/welcome/en.md) | English |
 | [avatars/scripts/welcome/es.md](avatars/scripts/welcome/es.md) | Spanish |
 | [avatars/scripts/welcome/fr.md](avatars/scripts/welcome/fr.md) | French |
@@ -190,4 +190,4 @@ brands/<BRAND>/
 
 ---
 
-*Last updated: 2026-05-09 (Session 29) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-11 (Session 30) | Maintained by: Corey McIvor / COREINTENT*

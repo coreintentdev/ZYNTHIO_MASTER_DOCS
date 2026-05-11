@@ -1,6 +1,6 @@
 # ZYNTHIO MASTER DOCS
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Brands](https://img.shields.io/badge/brands-7-purple) ![Founded](https://img.shields.io/badge/founded-2026-orange) ![Days Left](https://img.shields.io/badge/days%20to%20incorporate-3-red) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Brands](https://img.shields.io/badge/brands-7-purple) ![Founded](https://img.shields.io/badge/founded-2026-orange) ![Days Left](https://img.shields.io/badge/days%20to%20incorporate-1-red) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
 
 > **Central documentation hub for the entire Zynthio ecosystem.**
 > Founder: Corey McIvor — NZ/AU citizen, based in Nicaragua.
@@ -11,7 +11,7 @@
 
 > **ZYNTHIO LIMITED — INCORPORATE BEFORE MAY 12, 2026**
 > Name reservation #15436626 expires **May 12, 2026**.
-> **As of 2026-05-09: 3 days remain. TODAY IS SATURDAY MAY 9 — WEEKEND. Companies Office closed today and tomorrow (Sun May 10). May 11 (Mon) = BD15 = THE FINAL business day before the deadline. CALL the Companies Office the moment they open on Monday May 11. Escalate immediately to supervisor/manager level — follow up on Friday's (May 8) call. If the certificate has still not been received by end of day Monday May 11, ENGAGE A NZ SOLICITOR IMMEDIATELY — Monday is the absolute last chance for legal intervention before the May 12 hard deadline. May 12 (Tue) = HARD DEADLINE — name reservation expires. Only 3 days remain.**
+> **As of 2026-05-11: 1 DAY REMAINS. TODAY IS MONDAY MAY 11 — BD15 — THE FINAL BUSINESS DAY BEFORE THE DEADLINE. The Companies Office IS OPEN. CALL NOW. Escalate immediately to supervisor/manager level — follow up on Friday's (May 8) call — provide application reference number. If the certificate has not been confirmed for imminent issuance by end of business TODAY (May 11), ENGAGE A NZ SOLICITOR IMMEDIATELY — this is the absolute last window for legal intervention before the hard deadline. May 12 (Tue) = HARD DEADLINE — name reservation expires. ONLY 1 DAY REMAINS.**
 > Failure to act forfeits the reserved name permanently.
 
 **Immediate action required:**
@@ -68,4 +68,4 @@ Zynthio is a sovereign AI-powered creative and technology ecosystem built by Cor
 
 ---
 
-*Last updated: 2026-05-09 (Session 29)*
+*Last updated: 2026-05-11 (Session 30)*
