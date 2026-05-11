@@ -1,6 +1,6 @@
 # ASSETS — CoreeyAI
 
-![Updated](https://img.shields.io/badge/updated-2026--05--09-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--11-blue)
 
 > Brand asset registry for CoreeyAI.
 
@@ -9,7 +9,7 @@
 ## Logo
 
 | Asset | Format | Location | Status |
-|-------|--------|----------|---------|
+|-------|--------|----------|--------|
 | Primary wordmark | SVG | *(add path/URL)* | Pending |
 | Primary wordmark | PNG | *(add path/URL)* | Pending |
 | Icon / neural symbol | SVG | *(add path/URL)* | Pending |
@@ -59,4 +59,4 @@
 
 ---
 
-*Last updated: 2026-05-09 | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-11 | Maintained by: Corey McIvor / COREINTENT*

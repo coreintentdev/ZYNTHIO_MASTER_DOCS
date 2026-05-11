@@ -1,6 +1,6 @@
 # ROADMAP — DJ Zynrose
 
-![Updated](https://img.shields.io/badge/updated-2026--05--09-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--11-blue)
 
 ---
 
@@ -50,7 +50,7 @@
 ## Music Direction
 
 | Element | Direction |
-|---------|-----------|
+|---------|----------|
 | Genre | AI-assisted electronic / experimental / ambient |
 | Theme | Sovereignty, signal, consciousness, technology |
 | Sound | Precision layering, space, low-end presence, vocal textures |
@@ -68,4 +68,4 @@ Each track release follows this activation pattern:
 
 ---
 
-*Last updated: 2026-05-09*
+*Last updated: 2026-05-11*

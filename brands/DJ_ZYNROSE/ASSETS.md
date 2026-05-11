@@ -1,6 +1,6 @@
 # ASSETS — DJ Zynrose
 
-![Updated](https://img.shields.io/badge/updated-2026--05--09-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--11-blue)
 
 > Brand and artist asset registry for DJ Zynrose.
 
@@ -9,7 +9,7 @@
 ## Artist Imagery
 
 | Asset | Format | Location | Status |
-|-------|--------|----------|---------|
+|-------|--------|----------|--------|
 | Primary press photo | JPG | *(add path/URL)* | Pending |
 | Artist logo / wordmark | SVG | *(add path/URL)* | Pending |
 | Artist logo / wordmark | PNG | *(add path/URL)* | Pending |
@@ -67,7 +67,7 @@
 ## Social Media Templates
 
 | Template | Dimensions | Status |
-|----------|------------|---------|
+|----------|------------|--------|
 | Track release square | 1080×1080 | Pending |
 | Track release story | 1080×1920 | Pending |
 | Behind-the-scenes reel | 9:16 video | Pending |
@@ -84,4 +84,4 @@
 
 ---
 
-*Last updated: 2026-05-09 | Maintained by: Corey McIvor*
+*Last updated: 2026-05-11 | Maintained by: Corey McIvor*
