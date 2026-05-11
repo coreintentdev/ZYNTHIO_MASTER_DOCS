@@ -1,6 +1,6 @@
 # PRESS KIT — Zynthio
 
-![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--09-blue)
+![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--11-blue)
 
 > Press kit for media, competition judges, event organisers, and partners.
 > Copy any section directly into submissions, bios, or press materials.
@@ -160,7 +160,7 @@ MOSOKO teaches independent creators the full stack. KERVALON protects every asse
 ## Taglines
 
 | Brand | Tagline |
-|-------|---------|
+|-------|----------|
 | **ZYNTHIO** | *No filler. All signal.* |
 | **CoreIntent** | *Build with intent. Ship with precision.* |
 | **SongPal** | *Your sound. Your stack.* |
@@ -232,4 +232,4 @@ Domain: [zynthio.ai](https://zynthio.ai)
 
 ---
 
-*Last updated: 2026-05-09 (Session 29) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-11 (Session 30) | Maintained by: Corey McIvor / COREINTENT*

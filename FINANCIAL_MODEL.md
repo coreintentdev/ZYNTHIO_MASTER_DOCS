@@ -1,6 +1,6 @@
 # FINANCIAL MODEL â€” Zynthio
 
-![Status](https://img.shields.io/badge/status-pre--revenue-orange) ![Updated](https://img.shields.io/badge/updated-2026--05--09-blue) ![Currency](https://img.shields.io/badge/currency-NZD-black) ![Stage](https://img.shields.io/badge/stage-pre--seed-yellow)
+![Status](https://img.shields.io/badge/status-pre--revenue-orange) ![Updated](https://img.shields.io/badge/updated-2026--05--11-blue) ![Currency](https://img.shields.io/badge/currency-NZD-black) ![Stage](https://img.shields.io/badge/stage-pre--seed-yellow)
 
 > Three-year revenue projection for the Zynthio ecosystem.
 > All figures in NZD. Conservative estimates; does not include seed capital deployment.
@@ -16,7 +16,7 @@
 Zynthio has four planned revenue streams across three brands:
 
 | Stream | Brand | Model | Target Start |
-|--------|-------|-------|--------------|
+|--------|-------|-------|---------------|
 | SongPal SaaS | SongPal | Monthly subscription | Q4 2026 |
 | MOSOKO Courses | MOSOKO | Cohort fees + self-paced | Q3 2026 |
 | CoreeyAI B2B API | CoreeyAI | Per-call or monthly licence | Q4 2026 |
@@ -103,7 +103,7 @@ gTrade (autonomous trading bot) provides internal self-funding for development â
 ### KERVALON Services
 
 | Service | Units | Price | Revenue |
-|---------|-------|-------|---------|
+|---------|-------|-------|----------|
 | TM filing assistance | 20 | $400 | $8,000 |
 | IP consulting (hourly) | 30 hrs | $200 | $6,000 |
 
@@ -248,5 +248,5 @@ gTrade (autonomous trading bot) provides internal self-funding for development â
 
 ---
 
-*Last updated: 2026-05-09 (Session 29) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-11 (Session 30) | Maintained by: Corey McIvor / COREINTENT*
 *For the latest company status see [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | For competition context see [COMPETITION_ENTRY.md](COMPETITION_ENTRY.md)*
