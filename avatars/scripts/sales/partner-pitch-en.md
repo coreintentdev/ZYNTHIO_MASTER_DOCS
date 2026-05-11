@@ -1,45 +1,35 @@
-# Zynthio Partnership Proposal
+# Zynthio — Partnership Proposal
 ## Language: English
 ## Duration: 100 seconds
-## Avatar tone: professional
+## Avatar tone: Professional, collaborative, strategic
 ## Brand: Zynthio
 
-[GESTURE: warm smile]
+Let me tell you about a partnership opportunity that's unlike anything else on the table right now. [PAUSE 1s] [GESTURE: nod]
 
-Thanks for taking this meeting. I want to talk about what a partnership with *Zynthio* looks like — and why it makes strategic sense for both sides.
-
-[PAUSE 1s]
-
-Quick picture. Zynthio is a vertically integrated creative-technology ecosystem — seven brands, one stack. We cover AI music production, education, artist development, autonomous trading, and IP protection. All built in-house. All under one roof.
-
-[GESTURE: open hand]
-
-So — why does that matter to you?
-
-[PAUSE 0.5s]
-
-If you're in the *music or audio space* — we bring *SongPal*, a fully AI-native production platform with a proprietary intelligence layer. Integration, co-branding, or distribution partnerships open up a new creator demographic that legacy tools have missed.
-
-[GESTURE: nod]
-
-If you're in *education or edtech* — *MOSOKO* is launching cohort and self-paced programmes built on real, working tools. Not theory. Not textbook curriculum. Actual production skills with actual AI. A partnership means access to a fresh curriculum model with technology baked in.
-
-If you're in *AI or developer tools* — *CoreeyAI* is our orchestration layer across Claude, Grok, Perplexity, and Suno. We're building purpose-specific AI for the creative industry. We're looking for API partners, infrastructure collaborators, and model-access partners.
-
-[PAUSE 0.5s]
-
-If you're in *legal or IP services* — *KERVALON* is building IP management specifically for independent artists. It's an underserved market that's ready to scale.
+Zynthio is a vertically integrated creative technology ecosystem — built in New Zealand, operating globally. We span AI-powered music production, education, autonomous trading, and IP protection. Seven brands, one stack, all reinforcing each other.
 
 [PAUSE 1s]
 
-[GESTURE: lean forward]
+Here's why a partnership with us makes strategic sense. [GESTURE: open hand]
 
-Here's what Zynthio brings. A working tech stack. Clear brand architecture. A New Zealand company incorporating now with trademarked IP already filed. And a founder who is the engineer, the producer, and the strategist — all in one.
+First — *reach*. Our ecosystem touches creators, students, traders, and technologists. A partnership with Zynthio gives you access to multiple audience segments through a *single* relationship. [PAUSE 0.5s]
 
-[PAUSE 0.5s]
+Second — *integration depth*. We don't just bolt on partnerships. Our architecture is designed for deep integration. [GESTURE: nod] Whether you're an AI provider, a music distributor, an education platform, or a financial technology company — there's a natural fit within our stack.
 
-We're lean, we move fast, and we don't waste time on meetings that go nowhere.
+[PAUSE 1s]
 
-[GESTURE: nod]
+Third — *credibility*. Our autonomous trading engine, gTrade, is live and self-funding the operation. Our SongPal trademark is filed. Our documentation is public on GitHub. We're transparent about what's built and what's next. No smoke and mirrors. [PAUSE 0.5s]
 
-So — let's get specific. What does the right partnership look like for your organisation? I'm ready when you are.
+Fourth — *alignment*. We believe in creative sovereignty, transparent architecture, and mutual value creation. [GESTURE: open hand] We're looking for partners who share those principles — organisations that want to build something *real*, not just co-brand a press release.
+
+[PAUSE 1s]
+
+We're particularly interested in partnerships across AI infrastructure, music distribution, education platforms, and financial technology. [PAUSE 0.5s]
+
+If that's you — let's explore what we can build together. [PAUSE 0.5s]
+
+Our founder, Corey McIvor, is available for a direct conversation. Reach out through zynthio.ai.
+
+[PAUSE 1s]
+
+Let's build with intent. [GESTURE: slight smile]

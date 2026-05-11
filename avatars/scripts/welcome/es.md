@@ -1,37 +1,27 @@
 # Bienvenido a Zynthio
-## Language: Spanish
+## Language: Spanish (Español)
 ## Duration: 50 seconds
-## Avatar tone: friendly
+## Avatar tone: Professional, warm, confident
 ## Brand: Zynthio
 
-[GESTURE: warm smile]
+Hola — bienvenido a Zynthio. [PAUSE 1s]
 
-Hola — bienvenido a *Zynthio*.
+Estoy aquí para mostrarte algo que hemos construido desde cero. [GESTURE: nod]
 
-[PAUSE 1s]
-
-No somos otra aplicación más. Somos un ecosistema creativo completo — siete marcas, un solo sistema — construido desde cero para artistas independientes, productores y creadores que quieren ser dueños de su trabajo.
-
-[GESTURE: open hand]
-
-Te lo explico rápido. Creas música con *SongPal* — nuestra plataforma de producción con inteligencia artificial. Aprendes el oficio con *MOSOKO* — educación real, no tutoriales. Y proteges todo lo que haces con *KERVALON* — nuestro brazo legal y de propiedad intelectual.
-
-[PAUSE 0.5s]
-
-Todo impulsado por *CoreeyAI* — nuestro motor de inteligencia — y construido por *CoreIntent*, nuestro estudio de ingeniería, desde Nueva Zelanda.
-
-[GESTURE: nod]
-
-Fundado por Corey McIvor. Un fundador. Todo el sistema. Y una regla por encima de todo — *soberanía creativa*.
+Zynthio es un ecosistema de tecnología creativa *soberano*. [PAUSE 0.5s] Eso significa producción musical con inteligencia artificial, educación, protección legal y trading autónomo — todo bajo un mismo techo. Siete marcas, una sola infraestructura, creada por un solo fundador desde Nueva Zelanda.
 
 [PAUSE 1s]
 
-Tu arte. Tus herramientas. Tus condiciones.
+Ya seas un creador buscando herramientas que *respeten* tu propiedad, [GESTURE: open hand] un estudiante listo para aprender producción con IA, o un inversionista explorando la economía creativa post-IA — estás en el lugar correcto.
 
 [PAUSE 0.5s]
 
-Sin relleno. Pura señal.
+Nuestra filosofía es simple: *sin relleno, pura señal.* [GESTURE: nod]
 
-[GESTURE: nod]
+Todo lo que construimos está diseñado para que *tú* seas dueño de lo que creas. Sin extracción. Sin intermediarios. Solo herramientas reales, infraestructura real y resultados reales.
 
-Bienvenido al ecosistema. Construyamos algo juntos.
+[PAUSE 1s]
+
+Explora nuestras marcas. Y cuando estés listo — construyamos algo juntos.
+
+Bienvenido a bordo. [GESTURE: slight smile]

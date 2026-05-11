@@ -1,33 +1,31 @@
 # CoreIntent — Pitch de 60 Segundos
-## Language: Spanish
+## Language: Spanish (Español)
 ## Duration: 65 seconds
-## Avatar tone: professional
+## Avatar tone: Confident, sharp, energetic
 ## Brand: CoreIntent
 
-[GESTURE: direct eye contact]
+Imagina un motor de trading con IA que no te cobra una suscripción — se *demuestra* a través de la competencia. [PAUSE 1s] [GESTURE: nod]
 
-Déjame contarte sobre *CoreIntent* en sesenta segundos.
+Eso es CoreIntent.
 
-[PAUSE 0.5s]
+Construimos gTrade — un sistema de trading autónomo con parámetros de riesgo totalmente transparentes y arquitectura abierta. [PAUSE 0.5s] Sin cajas negras. Sin algoritmos ocultos. Solo resultados verificables, basados en rendimiento.
 
-CoreIntent es el estudio de ingeniería detrás del ecosistema Zynthio. Construimos sistemas impulsados por IA — desde motores de trading autónomos hasta plataformas de producción musical — con una regla: *construir con intención, entregar con precisión*.
+[PAUSE 1s]
 
-[GESTURE: open hand]
-
-Nuestro motor de trading funciona con un *modelo basado en competiciones*. No suscripciones. No ganamos por encerrarte — ganamos cuando el sistema rinde. Alineación total.
+Esto es por lo que importa. [GESTURE: open hand] El mercado de trading minorista asistido por IA supera los *doce mil millones de dólares* — y está dominado por servicios de suscripción de señales que ni siquiera pueden demostrar su propio historial. Nosotros estamos invirtiendo ese modelo.
 
 [PAUSE 0.5s]
 
-El motor es autónomo, con gestión de riesgo integrada, y construido sobre infraestructura soberana — Python, Docker, nuestro propio VPS. Sin cajas negras de terceros. Controlamos todo el proceso.
+CoreIntent opera con un modelo de competencia. El rendimiento es el producto. [GESTURE: nod] Y ahora mismo, gTrade está *en vivo* — autofinanciando activamente el desarrollo de un ecosistema completo de siete marcas de tecnología creativa llamado Zynthio.
 
-[GESTURE: nod]
+[PAUSE 1s]
 
-Pero el trading es solo un vertical. CoreIntent también construye *SongPal* — una plataforma de producción musical con IA — y la inteligencia detrás de *MOSOKO*, nuestra marca educativa. Todo conectado. Un estudio. Múltiples productos. Todo desarrollado internamente.
+Eso significa que nuestro motor de trading no es una presentación — es infraestructura operacional. Si no entregara resultados, nada más existiría. [PAUSE 0.5s] Pero lo hace. Y está creciendo.
 
 [PAUSE 0.5s]
 
-Somos de Nueva Zelanda, priorizamos la privacidad y no hacemos promesas vacías. Entregamos sistemas que funcionan.
+Construimos con intención. Entregamos con precisión. Y demostramos todo abiertamente.
 
-[GESTURE: nod]
+[PAUSE 1s]
 
-Eso es CoreIntent. *Construir con intención. Entregar con precisión.*
+CoreIntent. Arquitectura abierta. Rendimiento real. Sin relleno. [GESTURE: slight smile]

@@ -1,33 +1,31 @@
 # CoreIntent — 60-Second Elevator Pitch
 ## Language: English
 ## Duration: 60 seconds
-## Avatar tone: professional
+## Avatar tone: Confident, sharp, energetic
 ## Brand: CoreIntent
 
-[GESTURE: direct eye contact]
+Imagine an AI trading engine that doesn't charge you a subscription — it *proves* itself through competition. [PAUSE 1s] [GESTURE: nod]
 
-Let me tell you about *CoreIntent* in sixty seconds.
+That's CoreIntent.
 
-[PAUSE 0.5s]
+We built gTrade — an autonomous trading system with fully transparent risk parameters and open architecture. [PAUSE 0.5s] No black boxes. No hidden algorithms. Just verifiable, performance-based results.
 
-CoreIntent is the engineering studio behind the Zynthio ecosystem. We build AI-powered systems — from autonomous trading engines to music production platforms — with one rule: *build with intent, ship with precision*.
+[PAUSE 1s]
 
-[GESTURE: open hand]
-
-Our trading engine runs on a *competition-based model*. Not subscriptions. We don't profit from locking you in — we profit when the system performs. Full alignment.
+Here's why it matters. [GESTURE: open hand] The AI-assisted retail trading market is over *twelve billion dollars* — and it's dominated by signal subscription services that can't even prove their own track record. We're flipping that model on its head.
 
 [PAUSE 0.5s]
 
-The engine is autonomous, risk-managed, and built on sovereign infrastructure — Python, Docker, our own VPS. No third-party black boxes. We control the entire pipeline.
+CoreIntent operates on a competition model. Performance is the product. [GESTURE: nod] And right now, gTrade is *live* — actively self-funding the development of an entire seven-brand creative technology ecosystem called Zynthio.
 
-[GESTURE: nod]
+[PAUSE 1s]
 
-But trading is just one vertical. CoreIntent also builds *SongPal* — an AI music production platform — and powers the intelligence behind *MOSOKO*, our education brand. Everything is connected. One studio. Multiple products. All engineered in-house.
+That means our trading engine isn't a pitch deck — it's operational infrastructure. If it didn't deliver, nothing else would exist. [PAUSE 0.5s] But it does. And it's growing.
 
 [PAUSE 0.5s]
 
-We're New Zealand-founded, privacy-first, and we don't do hype. We ship working systems.
+We build with intent. We ship with precision. And we prove everything openly.
 
-[GESTURE: nod]
+[PAUSE 1s]
 
-That's CoreIntent. *Build with intent. Ship with precision.*
+CoreIntent. Open architecture. Real performance. No filler. [GESTURE: slight smile]

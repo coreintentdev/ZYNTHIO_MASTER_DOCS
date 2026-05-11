@@ -1,43 +1,31 @@
 # Introduction to MOSOKO
 ## Language: English
 ## Duration: 75 seconds
-## Avatar tone: energetic
+## Avatar tone: Encouraging, direct, practical
 ## Brand: MOSOKO
 
-[GESTURE: warm smile]
+Welcome to MOSOKO — the education arm of the Zynthio ecosystem. [PAUSE 1s] [GESTURE: nod]
 
-Hey — welcome to *MOSOKO*.
-
-[PAUSE 1s]
-
-If you've ever wanted to make music but felt like you didn't have the right tools, the right training, or the right connections — this is built for you.
-
-[GESTURE: open hand]
-
-MOSOKO is the education arm of the Zynthio ecosystem. We don't teach theory in a vacuum. We teach you to use *real tools* — the same tools working creators are using right now — to produce, protect, and publish your own music.
-
-[PAUSE 0.5s]
-
-Here's what that looks like.
-
-[GESTURE: counting on fingers]
-
-*First* — AI-assisted music production on *SongPal*. Composition, arrangement, mixing — all powered by AI, all guided by real curriculum. You learn by making actual tracks, not watching someone else make them.
-
-*Second* — prompt engineering for creatives. How to talk to AI tools and get professional results. Not random outputs. Deliberate, musical results.
-
-*Third* — and this is where most courses stop short — the *business side*. IP protection. Copyright. Licensing. How to actually *own* what you make, forever.
+Here's the problem we're solving. [PAUSE 0.5s] Most music education teaches you legacy workflows — tools and techniques that were relevant ten years ago. Meanwhile, *AI is reshaping the entire industry*, and nobody's teaching you how to use it. [GESTURE: open hand]
 
 [PAUSE 1s]
 
-[GESTURE: nod]
+MOSOKO changes that.
 
-We run structured cohort programmes with live sessions. We also have self-paced modules you can work through on your own time.
+We teach you to create music using *real* AI tools — the same ones powering our own platform, SongPal. [PAUSE 0.5s] You'll learn AI-assisted composition, arrangement, prompt engineering for audio, and how to produce professional-grade tracks without needing a million-dollar studio.
+
+[PAUSE 1s]
+
+But here's what makes us *different*. [GESTURE: nod] We don't stop at production. We teach you the full pipeline — music business fundamentals, copyright and IP protection, release strategy, and distribution. Because making great music is only half the battle. *Owning* it is the other half.
+
+[PAUSE 1s]
+
+Our curriculum uses DJ Zynrose tracks as real-world case studies — every song was made on our own tools. [GESTURE: open hand] That's not theory. That's proof.
 
 [PAUSE 0.5s]
 
-MOSOKO isn't a generic music school. It's built for independent creators who want to own their entire pipeline — from the first idea to the final release.
+Learn to create. Own what you make. That's MOSOKO.
 
-[GESTURE: nod]
+[PAUSE 1s]
 
-*Make it. Own it. Teach it.* That's MOSOKO.
+Ready to get started? Let's go. [GESTURE: slight smile]

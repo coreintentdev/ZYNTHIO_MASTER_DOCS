@@ -1,37 +1,27 @@
 # Welcome to Zynthio
 ## Language: English
 ## Duration: 45 seconds
-## Avatar tone: friendly
+## Avatar tone: Professional, warm, confident
 ## Brand: Zynthio
 
-[GESTURE: warm smile]
+Hey — welcome to Zynthio. [PAUSE 1s]
 
-Hey — welcome to *Zynthio*.
+I'm here to walk you through something we've been building from the ground up. [GESTURE: nod]
 
-[PAUSE 1s]
-
-We're not another app. We're a whole creative ecosystem — seven brands, one stack — built from scratch for independent artists, producers, and creators who want to own their work.
-
-[GESTURE: open hand]
-
-Here's the short version. You create music with *SongPal* — our AI production platform. You learn the craft through *MOSOKO* — real education, not tutorials. And you protect everything you make with *KERVALON* — our IP and legal arm.
-
-[PAUSE 0.5s]
-
-All of it powered by *CoreeyAI* — our intelligence layer — and all of it built by *CoreIntent*, our engineering studio, right here in New Zealand.
-
-[GESTURE: nod]
-
-Founded by Corey McIvor. One founder. The whole stack. And one rule above everything else — *creative sovereignty*.
+Zynthio is a *sovereign* creative technology ecosystem. [PAUSE 0.5s] That means AI-powered music production, education, legal protection, and autonomous trading — all under one roof. Seven brands, one stack, built by one founder right here in New Zealand.
 
 [PAUSE 1s]
 
-Your art. Your tools. Your terms.
+Whether you're a creator looking for tools that *respect* your ownership, [GESTURE: open hand] a student ready to learn AI-driven production, or an investor exploring what the post-AI creative economy looks like — you're in the right place.
 
 [PAUSE 0.5s]
 
-No filler. All signal.
+Our philosophy is simple: *no filler, all signal.* [GESTURE: nod]
 
-[GESTURE: nod]
+Everything we build is designed so that *you* own what you create. No extraction. No gatekeeping. Just real tools, real infrastructure, and real results.
 
-Welcome to the ecosystem. Let's build something together.
+[PAUSE 1s]
+
+Take a look around. Explore our brands. And when you're ready — let's build something together.
+
+Welcome aboard. [GESTURE: slight smile]

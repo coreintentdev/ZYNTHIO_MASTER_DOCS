@@ -1,45 +1,31 @@
-# Trading Basics — The Competition Model
+# Trading Basics with CoreIntent
 ## Language: English
 ## Duration: 90 seconds
-## Avatar tone: professional
+## Avatar tone: Clear, authoritative, accessible
 ## Brand: CoreIntent
 
-[GESTURE: nod]
+Let's talk about how CoreIntent approaches trading — because it's probably *not* what you're used to. [PAUSE 1s] [GESTURE: nod]
 
-Let's talk about how our trading engine works — and why it's different from what you've probably seen before.
-
-[PAUSE 1s]
-
-Most trading platforms charge monthly subscriptions. You pay whether you win or lose. The platform makes money regardless. That model is broken — and we think you know it.
-
-[GESTURE: open hand]
-
-At *CoreIntent*, we use a *competition-based model*. Here's what that means.
-
-[PAUSE 0.5s]
-
-Instead of paying for access, you enter trading competitions. Your AI engine — built by CoreIntent — competes using autonomous, risk-managed strategies. The system manages risk first. Returns come second. Always.
-
-[GESTURE: counting on fingers]
-
-Three principles you need to understand.
-
-*One* — risk management is non-negotiable. Every trade has predefined limits. The system will not chase losses. It will not over-leverage. Ever.
-
-*Two* — the AI makes decisions on data, not emotion. It reads market conditions, spots opportunities, and executes within strict parameters. No gut feelings. No panic.
-
-*Three* — the competition structure creates alignment. We succeed when you succeed. There's no incentive to keep charging you while you lose.
+Most AI trading platforms work the same way. [PAUSE 0.5s] You pay a monthly subscription, you get signals, and you have *no idea* how those signals are generated. It's a black box. You're trusting someone else's algorithm with your money, and you can't verify a thing. [GESTURE: open hand]
 
 [PAUSE 1s]
 
-[GESTURE: nod]
+CoreIntent does it differently.
 
-Now — this matters. No system guarantees returns. Markets are unpredictable. What we *can* guarantee is disciplined execution, transparent risk management, and a model that puts your interests ahead of ours.
+We run gTrade — an autonomous trading engine built on *open architecture*. [PAUSE 0.5s] That means the risk parameters are transparent and verifiable. You can see how decisions are made. No hidden logic. No black boxes.
+
+[PAUSE 1s]
+
+And here's the key difference. [GESTURE: nod] We operate on a *competition model*, not a subscription model. Performance is what matters — not recurring fees. This isn't about selling you signals. It's about building infrastructure that actually works and proving it openly.
+
+[PAUSE 1s]
+
+gTrade currently self-funds development for the entire Zynthio ecosystem. [PAUSE 0.5s] That means the trading engine isn't just a product — it's the financial backbone of everything we build. If it didn't work, nothing else would exist. [GESTURE: open hand]
 
 [PAUSE 0.5s]
 
-That's the foundation. Next lesson, we go deeper into how the AI actually makes trading decisions.
+So the next time someone sells you a signal subscription — ask them one question: can I verify your performance? [PAUSE 0.5s] With CoreIntent, the answer is yes.
 
-[GESTURE: nod]
+[PAUSE 1s]
 
-See you there.
+That's how we build. With intent. [GESTURE: slight smile]

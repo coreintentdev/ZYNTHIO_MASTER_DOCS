@@ -1,37 +1,27 @@
 # Nau Mai ki Zynthio
 ## Language: Te Reo Māori
 ## Duration: 50 seconds
-## Avatar tone: warm
+## Avatar tone: Respectful, warm, grounded
 ## Brand: Zynthio
 
-[GESTURE: warm smile]
+Tēnā koe — nau mai, haere mai ki Zynthio. [PAUSE 1s]
 
-Kia ora — nau mai haere mai ki *Zynthio*.
+Kei konei au ki te whakaatu i tā mātou mahi. [GESTURE: nod]
 
-[PAUSE 1s]
-
-Kei te hanga mātou i tētahi ao auaha hou — e whitu ngā waitohu, kotahi te pūnaha — mō ngā kaiauaha motuhake, ngā kaiwhakaputa puoro, me ngā kaihanga e hiahia ana ki te pupuri i ā rātou mahi.
-
-[GESTURE: open hand]
-
-Ka waihanga puoro koe mā *SongPal* — tō mātou pūnaha whakaputa puoro atamai. Ka ako koe i te mahi mā *MOSOKO* — he mātauranga tūturu, ehara i te akoranga māmā noa. Ka tiakina ō mahi katoa e *KERVALON* — tō mātou ringa ture me te raukaha hinengaro.
-
-[PAUSE 0.5s]
-
-Ko *CoreeyAI* te hinengaro atamai e whakahaere ana i te katoa. Ko *CoreIntent* te whare hanga. Nō Aotearoa mātou.
-
-[GESTURE: nod]
-
-I whakatūria e Corey McIvor. Kotahi te kaiwhakatū. Te pūnaha katoa. Me tētahi tikanga matua — *te tino rangatiratanga auaha*.
+Ko Zynthio he pūnaha hangarau auaha *rangatiratanga*. [PAUSE 0.5s] Ko te tikanga o tēnei, he waihanga puoro mā te atamai horihori, he mātauranga, he tiaki ture, me te hokohoko aunoa — katoa i raro i te tuanui kotahi. E whitu ngā waitohu, kotahi te pūnaha, nā te kaihanga kotahi i hanga mai i Aotearoa.
 
 [PAUSE 1s]
 
-Tō toi. Ō utauta. Ō tikanga.
+Ahakoa he kaihanga koe e rapu ana i ngā taputapu e *whakaute* ana i tō mana whakairo, [GESTURE: open hand] he ākonga e rite ana ki te ako i te waihanga puoro atamai horihori, he kaiwhakapūtea rānei e tūhura ana i te ōhanga auaha — kei te wāhi tika koe.
 
 [PAUSE 0.5s]
 
-Kāore he whakakī. He tohu katoa.
+He māmā tā mātou kaupapa: *kaua he whakakī, katoa he tohu.* [GESTURE: nod]
 
-[GESTURE: nod]
+Ko ngā mea katoa e hangaia ana e mātou, kia *koe* te rangatira o āu mahi. Kāore he tangohanga. Kāore he ārai. He taputapu tūturu, he hanganga tūturu, he hua tūturu.
 
-Nau mai ki te pūnaha. Kia hanga tahi tātou.
+[PAUSE 1s]
+
+Tirohia ā mātou waitohu. Ā, ina rite koe — me hanga tahi tātou.
+
+Nau mai haere mai. [GESTURE: slight smile]

@@ -1,43 +1,31 @@
 # Introducción a MOSOKO
-## Language: Spanish
+## Language: Spanish (Español)
 ## Duration: 80 seconds
-## Avatar tone: energetic
+## Avatar tone: Encouraging, direct, practical
 ## Brand: MOSOKO
 
-[GESTURE: warm smile]
+Bienvenido a MOSOKO — el brazo educativo del ecosistema Zynthio. [PAUSE 1s] [GESTURE: nod]
 
-Hola — bienvenido a *MOSOKO*.
-
-[PAUSE 1s]
-
-Si alguna vez quisiste hacer música pero sentiste que no tenías las herramientas correctas, la formación adecuada o los contactos necesarios — esto está hecho para ti.
-
-[GESTURE: open hand]
-
-MOSOKO es el brazo educativo del ecosistema Zynthio. No enseñamos teoría al vacío. Te enseñamos a usar *herramientas reales* — las mismas que los creadores profesionales están usando ahora mismo — para producir, proteger y publicar tu propia música.
-
-[PAUSE 0.5s]
-
-Así es como funciona.
-
-[GESTURE: counting on fingers]
-
-*Primero* — producción musical con IA en *SongPal*. Composición, arreglos, mezcla — todo impulsado por inteligencia artificial, todo guiado por un currículo real. Aprendes haciendo temas de verdad, no mirando cómo otros los hacen.
-
-*Segundo* — ingeniería de prompts para creativos. Cómo comunicarte con herramientas de IA y obtener resultados profesionales. No ruido al azar. Resultados musicales intencionales.
-
-*Tercero* — y aquí es donde la mayoría de los cursos se quedan cortos — el *lado empresarial*. Protección de propiedad intelectual. Derechos de autor. Licencias. Cómo *ser dueño* de verdad de lo que creas, para siempre.
+Este es el problema que estamos resolviendo. [PAUSE 0.5s] La mayoría de la educación musical te enseña flujos de trabajo del pasado — herramientas y técnicas que eran relevantes hace diez años. Mientras tanto, *la inteligencia artificial está transformando toda la industria*, y nadie te está enseñando cómo usarla. [GESTURE: open hand]
 
 [PAUSE 1s]
 
-[GESTURE: nod]
+MOSOKO cambia eso.
 
-Ofrecemos programas por cohortes con sesiones en vivo. También tenemos módulos a tu ritmo que puedes completar cuando quieras.
+Te enseñamos a crear música usando herramientas de IA *reales* — las mismas que impulsan nuestra plataforma, SongPal. [PAUSE 0.5s] Aprenderás composición asistida por IA, arreglos, ingeniería de prompts para audio, y cómo producir pistas de nivel profesional sin necesitar un estudio millonario.
+
+[PAUSE 1s]
+
+Pero esto es lo que nos hace *diferentes*. [GESTURE: nod] No nos detenemos en la producción. Te enseñamos todo el proceso — fundamentos del negocio musical, protección de derechos de autor y propiedad intelectual, estrategia de lanzamiento y distribución. Porque hacer buena música es solo la mitad de la batalla. *Ser dueño* de ella es la otra mitad.
+
+[PAUSE 1s]
+
+Nuestro currículo usa las pistas de DJ Zynrose como casos de estudio reales — cada canción fue hecha con nuestras propias herramientas. [GESTURE: open hand] Eso no es teoría. Es prueba.
 
 [PAUSE 0.5s]
 
-MOSOKO no es una escuela de música cualquiera. Está diseñada para creadores independientes que quieren controlar todo su proceso — desde la primera idea hasta el lanzamiento final.
+Aprende a crear. Sé dueño de lo que haces. Eso es MOSOKO.
 
-[GESTURE: nod]
+[PAUSE 1s]
 
-*Hazlo. Sé su dueño. Enséñalo.* Eso es MOSOKO.
+¿Listo para empezar? Vamos. [GESTURE: slight smile]
