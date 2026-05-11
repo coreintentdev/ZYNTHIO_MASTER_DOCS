@@ -1,6 +1,6 @@
 # COMPETITION PORTFOLIO — Zynthio
 
-![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--09-blue) ![Stage](https://img.shields.io/badge/stage-pre--seed-yellow) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black)
+![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--11-blue) ![Stage](https://img.shields.io/badge/stage-pre--seed-yellow) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black)
 
 > Full competition portfolio for startup, AI, fintech, and music technology competitions worldwide.
 > Adapt per competition format. Every claim is verifiable. Every metric is honest.
@@ -207,7 +207,7 @@ No competitor combines AI production + education + IP infrastructure + an artist
 ### Filed & In Process
 
 | Asset | Status | Reference |
-|-------|--------|-----------|
+|-------|--------|----------|
 | Trademark | Filed | SongPal — IPONZ #1318588 (awaiting examination) |
 | Company name | Reserved | ZYNTHIO LIMITED — NZCO #15436626 (incorporating May 2026) |
 | Domain | Active | zynthio.ai |
@@ -273,7 +273,7 @@ No competitor combines AI production + education + IP infrastructure + an artist
 ## The Ask — By Competition Type
 
 | Competition Type | What We're Seeking |
-|-----------------|-----------------|
+|-----------------|------------------|
 | **Startup competition** | Seed capital / accelerator access — target NZD $150–250K |
 | **AI competition** | Recognition, partnerships, API credits, multi-model AI visibility |
 | **Music / creative tech** | Industry exposure, label/distributor introductions, SongPal beta users |
@@ -294,7 +294,7 @@ Email: *(add contact email before submitting)*
 ## Supporting Documents
 
 | Document | Purpose |
-|----------|---------|
+|----------|--------|
 | [PITCH_DECK_OUTLINE.md](PITCH_DECK_OUTLINE.md) | 10-slide pitch deck structure |
 | [DEMO_SCRIPT.md](DEMO_SCRIPT.md) | 3-minute live demo walkthrough |
 | [PRESS_KIT.md](PRESS_KIT.md) | Brand story, founder bio, key quotes |
@@ -305,4 +305,4 @@ Email: *(add contact email before submitting)*
 
 ---
 
-*Last updated: 2026-05-09 (Session 29) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-11 (Session 30) | Maintained by: Corey McIvor / COREINTENT*

@@ -1,9 +1,26 @@
 # CHANGELOG — Zynthio Master Docs
 
-![Updated](https://img.shields.io/badge/updated-2026--05--09-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--11-blue)
 
 All significant changes to this documentation repository are recorded here.
 Format: `YYYY-MM-DD | Type | Description`
+
+---
+
+## 2026-05-11 (Session 30)
+
+### Updated
+
+- `README.md` — Days-left badge updated (3 → 1); critical alert updated: TODAY MON MAY 11 — BD15 — THE FINAL BUSINESS DAY — Companies Office IS OPEN — CALL NOW — escalate to supervisor/manager — follow up on Fri May 8 call — provide application reference #15436626 — ENGAGE NZ SOLICITOR by end of TODAY if certificate not confirmed — May 12 = HARD DEADLINE; session footer to Session 30
+- `INDEX.md` — Days Left updated (3 → 1 as of 2026-05-11); alert updated to Monday May 11, BD15, final business day, CALL NOW, ENGAGE NZ SOLICITOR by end of TODAY; date badge to 2026-05-11; session footer to Session 30
+- `NZ_COMPLIANCE.md` — Badge and urgency block updated: TODAY IS MONDAY MAY 11, BD15, FINAL BUSINESS DAY, CALL NOW; "Next 3 Days" → "Next 1 Day" heading; May 9 row marked Done (WEEKEND), May 10 row added (SUNDAY, Done), TODAY (May 11) row set as final action item; summary dashboard updated to 1 day (as of 2026-05-11); deadlines calendar: May 9 Done, May 10 Done, May 11 TODAY (final business day); date badge and session footer to Session 30
+- `INCORPORATION_CHECKLIST.md` — Badge updated (3 → 1, May 11 FINAL BUSINESS DAY); preamble updated: TODAY MON MAY 11, BD15, 1 day remains, CALL NOW, ENGAGE NZ SOLICITOR by end of TODAY; May 9 → Done, May 10 → Done added, TODAY (May 11) action row; bottom note updated; session footer to Session 30
+- `FOUNDER_BRIEF.md` — Critical action Priority 1 updated: TODAY MAY 11 (Monday) — BD15 — FINAL BUSINESS DAY — CALL NOW — ENGAGE NZ SOLICITOR by end of TODAY if not confirmed — 1 day to deadline; milestone tracker updated; date badge and session footer to Session 30
+- `ECOSYSTEM_MAP.md` — Current State Snapshot heading updated to May 11, 2026; legal status note updated to 1 day (as of 2026-05-11), TODAY Mon May 11 = BD15 = FINAL BUSINESS DAY, CALL NOW, ENGAGE NZ SOLICITOR by end of TODAY; date badge and session footer to Session 30
+- `COMPETITION_ENTRY.md` — Traction date updated to 2026-05-11; date badge updated; footer date updated to Session 30
+- `FINANCIAL_MODEL.md`, `COMPETITION_PORTFOLIO.md`, `PITCH_DECK_OUTLINE.md`, `DEMO_SCRIPT.md`, `PRESS_KIT.md`, `AWARDS_TRACKER.md` — Date badges and footers updated to 2026-05-11 / Session 30
+- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — Date badges and "Last updated" footer dates updated to 2026-05-11 / Session 30
+- `CHANGELOG.md` — This entry; badge updated to 2026-05-11
 
 ---
 
