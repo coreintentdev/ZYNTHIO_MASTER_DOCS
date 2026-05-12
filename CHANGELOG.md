@@ -1,9 +1,26 @@
 # CHANGELOG — Zynthio Master Docs
 
-![Updated](https://img.shields.io/badge/updated-2026--05--11-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--12-blue)
 
 All significant changes to this documentation repository are recorded here.
 Format: `YYYY-MM-DD | Type | Description`
+
+---
+
+## 2026-05-12 (Session 31)
+
+### Updated
+
+- `README.md` — Badges updated: `days to incorporate` badge replaced with `DEADLINE TODAY May 12 2026`; critical deadline section rewritten to two-path structure (certificate received / not yet received); removed step-list that referenced filing (already done); session footer to Session 31
+- `INDEX.md` — Badge updated to 2026-05-12; CRITICAL ALERTS table: Days Left → 0 — HARD DEADLINE DAY — name reservation expires TODAY — if not received: ENGAGE NZ SOLICITOR IMMEDIATELY — if received: download, save, update; session footer to Session 31
+- `NZ_COMPLIANCE.md` — Badge updated; urgency block rewritten: HARD DEADLINE — expires TODAY — two-path action (received / not yet received); action plan heading → "May 12 — Hard Deadline Day"; May 11 row marked Done; May 12 TODAY row added (BD16, HARD DEADLINE, name reservation expires TODAY, ENGAGE NZ SOLICITOR if not received, download and save if received); summary dashboard: 0 — HARD DEADLINE TODAY; key deadlines calendar: May 11 → Done, May 12 → TODAY HARD DEADLINE; session footer to Session 31
+- `INCORPORATION_CHECKLIST.md` — Badges updated (0 days, May 12 HARD DEADLINE TODAY); preamble rewritten: TODAY IS THE HARD DEADLINE, BD16, name reservation expires TODAY; timeline: May 11 → Done, May 12 → TODAY HARD DEADLINE; bottom note updated; session footer to Session 31
+- `FOUNDER_BRIEF.md` — Badge updated; Priority 1 rewritten: TODAY IS TUESDAY MAY 12 — BD16 — HARD DEADLINE DAY — name reservation expires TODAY — if not received: ENGAGE NZ SOLICITOR IMMEDIATELY — if received: download, save, update; milestone tracker updated; session footer to Session 31
+- `ECOSYSTEM_MAP.md` — Badge updated; Current State Snapshot heading → May 12, 2026; legal status for ZYNTHIO LIMITED: EXPIRES TODAY — HARD DEADLINE — BD16; session footer to Session 31
+- `COMPETITION_ENTRY.md` — Traction date updated to 2026-05-12; badge and footer updated to Session 31
+- `FINANCIAL_MODEL.md`, `COMPETITION_PORTFOLIO.md`, `PITCH_DECK_OUTLINE.md`, `DEMO_SCRIPT.md`, `PRESS_KIT.md`, `AWARDS_TRACKER.md` — Date badges and footers updated to 2026-05-12 / Session 31
+- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — Date badges and "Last updated" footer dates updated to 2026-05-12 / Session 31
+- `CHANGELOG.md` — This entry; badge updated to 2026-05-12
 
 ---
 

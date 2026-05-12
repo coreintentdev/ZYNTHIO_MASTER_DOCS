@@ -1,10 +1,10 @@
 # INCORPORATION CHECKLIST — ZYNTHIO LIMITED
 
-![CRITICAL](https://img.shields.io/badge/CRITICAL-deadline%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-1%20(May%2011%20FINAL%20BUSINESS%20DAY)-red) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
+![DEADLINE](https://img.shields.io/badge/DEADLINE-TODAY%20May%2012%202026-red) ![Days Left](https://img.shields.io/badge/days%20left-0%20(May%2012%20HARD%20DEADLINE%20TODAY)-red) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue)
 
 > **Focused action checklist for incorporating ZYNTHIO LIMITED before the name reservation expires.**
-> Name reservation: **NZCO #15436626** — expires **May 12, 2026**.
-> As of 2026-05-11: **1 DAY REMAINS. TODAY IS MONDAY MAY 11 — BD15 — THE FINAL BUSINESS DAY BEFORE THE DEADLINE.** The Companies Office IS OPEN. CALL NOW. Escalate immediately to supervisor/manager level. Follow up on Friday's (May 8) call. Provide application reference number #15436626. **If the certificate has not been confirmed for imminent issuance by end of business TODAY (May 11), ENGAGE A NZ SOLICITOR IMMEDIATELY — this is the absolute last window for legal intervention before the hard deadline.** May 12 (Tue) = HARD DEADLINE — name reservation expires. ONLY 1 DAY REMAINS. Download and save the certificate the moment it is issued.
+> Name reservation: **NZCO #15436626** — expires **May 12, 2026 — TODAY**.
+> Today is **May 12, 2026 — THE HARD DEADLINE. Name reservation #15436626 expires TODAY.** Application filed April 21 — certificate CRITICALLY OVERDUE (BD16+ since filing). The Companies Office IS OPEN. CALL NOW — escalate immediately to the highest level available. **If the Certificate of Incorporation has not yet been received: ENGAGE A NZ SOLICITOR IMMEDIATELY — today is the absolute final moment for legal intervention.** If the Certificate of Incorporation HAS been received: download and save it immediately, then proceed with Step 5 (Post-Incorporation).
 
 ---
 
@@ -109,10 +109,10 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 | **Done (May 8)** | **FRIDAY — BD14 SINCE FILING** — Called Companies Office. Escalated to supervisor/manager level. Followed up on Thursday's call. Provided application reference number. |
 | **Done (May 9)** | **SATURDAY — WEEKEND — Companies Office closed.** No action possible. |
 | **Done (May 10)** | **SUNDAY — WEEKEND — Companies Office closed.** No action possible. |
-| **TODAY (May 11)** | **MONDAY — BD15 SINCE FILING — THE FINAL BUSINESS DAY BEFORE THE DEADLINE.** Companies Office IS OPEN. CALL NOW. Escalate immediately to supervisor/manager level. Follow up on Friday May 8 call. Provide application reference number #15436626. If certificate not confirmed for imminent issuance by end of TODAY, ENGAGE NZ SOLICITOR IMMEDIATELY. Download and save the Certificate of Incorporation the moment it is issued. |
-| **May 12, 2026** | **HARD DEADLINE — reservation #15436626 expires** |
+| **Done (May 11)** | **MONDAY — BD15 SINCE FILING — THE FINAL BUSINESS DAY BEFORE THE DEADLINE.** Called Companies Office. Escalated to supervisor/manager level. Followed up on Friday May 8 call. Provided application reference number #15436626. |
+| **TODAY (May 12, 2026)** | **HARD DEADLINE — reservation #15436626 expires TODAY.** Companies Office IS OPEN. CALL NOW — escalate to highest level. If certificate not yet received: ENGAGE NZ SOLICITOR IMMEDIATELY. If certificate HAS been received: download and save — mark this task DONE and begin post-incorporation steps. |
 
-> **Application filed Apr 21 and confirmed processing Apr 22.** Certificate is CRITICALLY OVERDUE — BD15 is TODAY Mon May 11 (typical issuance is 1–5 business days from filing; BD15 is well beyond any normal processing window). **TODAY (Mon May 11) IS THE FINAL BUSINESS DAY BEFORE THE HARD DEADLINE.** Companies Office IS OPEN. CALL NOW. Escalate immediately to supervisor/manager level. Follow up on Friday May 8 call. Provide your application reference number #15436626. If certificate not confirmed for imminent issuance by end of TODAY, **ENGAGE A NZ SOLICITOR IMMEDIATELY — this is the absolute last window.** May 12 = HARD DEADLINE. Download and save the certificate the moment it is issued.
+> **Application filed Apr 21 and confirmed processing Apr 22.** Certificate is CRITICALLY OVERDUE — BD16 is TODAY Tue May 12 (typical issuance is 1–5 business days from filing; BD16 is far beyond any normal processing window). **TODAY (Tue May 12) IS THE HARD DEADLINE — name reservation expires TODAY.** Companies Office IS OPEN. CALL NOW. Escalate immediately to the highest level. Provide application reference number #15436626. If certificate not yet received, **ENGAGE A NZ SOLICITOR IMMEDIATELY — this is the final legal intervention window.** If certificate HAS been received: download and save it, update this checklist, and proceed with Step 5.
 
 ---
 
@@ -149,4 +149,4 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 
 ---
 
-*Last updated: 2026-05-11 (Session 30) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-05-12 (Session 31) | Maintained by: Corey McIvor / KERVALON*
