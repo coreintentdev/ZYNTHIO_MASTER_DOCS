@@ -127,7 +127,7 @@ Zynthio is **seven interconnected brands** operating as one system:
 ## Ask
 
 | Competition Type | What We're Seeking |
-|-----------------|-----------------|
+|-----------------|--------------------|
 | Startup competition | Seed capital / accelerator access — target NZD $150–250K |
 | AI competition | Recognition, partnerships, API credits |
 | Music/creative competition | Industry exposure, label/distributor introductions |
