@@ -50,7 +50,7 @@ We're seeking seed capital in the range of 150 to 250 thousand New Zealand dolla
 
 [GESTURE: confident nod]
 
-The moat is clear. No competitor combines AI production, education, IP infrastructure, and an artist persona under one sovereign architecture. Zynthio is not a feature. It's a *stack*.
+The moat is clear. No competitor combines AI production, education, IP infrastructure, and an artist persona under one sovereign, *privacy-first* architecture. User data stays private. Creator IP stays owned. We don't monetise what isn't ours. Zynthio is not a feature. It's a *stack*.
 
 [PAUSE 0.5s]
 

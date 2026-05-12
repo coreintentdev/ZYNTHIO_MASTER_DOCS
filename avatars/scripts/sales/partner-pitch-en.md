@@ -34,7 +34,7 @@ If you're in *legal or IP services* — *KERVALON* is building an IP management 
 
 [GESTURE: lean forward slightly]
 
-Here's what we bring to the table. A working tech stack. A clear brand architecture. A New Zealand-based legal entity. Trademarked IP. And a founder who is the engineer, the producer, and the strategist — all in one.
+Here's what we bring to the table. A working, *privacy-first* tech stack. A clear brand architecture. A New Zealand-based legal entity. Trademarked IP. And a founder who is the engineer, the producer, and the strategist — all in one.
 
 [PAUSE 0.5s]
 

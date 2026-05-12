@@ -43,3 +43,7 @@ That's it. Data in. Analysis. Risk check. Execute. Monitor. Repeat.
 [GESTURE: confident smile]
 
 The AI doesn't have bad days. It doesn't get greedy. It just follows the rules — and that's exactly what makes it powerful.
+
+[PAUSE 0.5s]
+
+And one more thing — all of this runs on *privacy-first* sovereign infrastructure. Your data stays yours. It doesn't get sold, shared, or harvested. That's how we build at CoreIntent.

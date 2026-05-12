@@ -32,7 +32,7 @@ Let me walk you through it.
 
 *CoreIntent* is the development studio. Every line of code, every deployment, every system — engineered here. Also operates an autonomous trading engine on a competition-based model.
 
-*KERVALON* is the legal sentinel. Trademark filings, IP protection, compliance. What we build, we protect.
+*KERVALON* is the legal sentinel. Trademark filings, IP protection, licensing agreements, compliance. What we build, we protect.
 
 [PAUSE 1s]
 
@@ -41,6 +41,8 @@ Let me walk you through it.
 And *Zynthio* itself — the parent company, incorporating in New Zealand — ties it all together.
 
 [PAUSE 0.5s]
+
+The entire stack is *privacy-first*. Your data stays yours at every step.
 
 One stack. Seven brands. No filler. All signal.
 

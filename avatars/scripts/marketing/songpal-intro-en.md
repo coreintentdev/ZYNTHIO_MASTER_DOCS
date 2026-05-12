@@ -34,7 +34,7 @@ Here's what you get.
 
 [PAUSE 0.5s]
 
-And here's the big one — *you own everything you create*. One hundred percent. SongPal is built on creative sovereignty. Your music. Your rights. Period.
+And here's the big one — *you own everything you create*. One hundred percent. SongPal is built on creative sovereignty and *privacy-first* design. Your projects stay private. Your data never gets sold. Your music. Your rights. Period.
 
 [PAUSE 1s]
 

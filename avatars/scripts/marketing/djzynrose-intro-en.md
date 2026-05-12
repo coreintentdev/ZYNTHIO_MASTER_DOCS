@@ -26,7 +26,7 @@ That's the point. DJ Zynrose isn't a side project — it's the *living proof of 
 
 [PAUSE 1s]
 
-And everything I create becomes teaching material inside *MOSOKO* — our education platform. So you don't just hear the music. You learn how it was made. And then you make your own.
+And everything I create becomes teaching material inside *MOSOKO* — our education platform. Every release is protected by *KERVALON*, our legal arm. So you don't just hear the music. You learn how it was made. And then you make your own — and your work stays *yours*.
 
 [GESTURE: energetic gesture]
 

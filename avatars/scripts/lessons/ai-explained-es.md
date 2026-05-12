@@ -43,3 +43,7 @@ Eso es todo. Datos de entrada. Análisis. Verificación de riesgo. Ejecución. M
 [GESTURE: confident smile]
 
 La IA no tiene días malos. No se vuelve codiciosa. Simplemente sigue las reglas — y eso es exactamente lo que la hace poderosa.
+
+[PAUSE 0.5s]
+
+Y una cosa más — todo esto funciona sobre infraestructura soberana con *privacidad primero*. Tus datos son tuyos. No se venden, no se comparten, no se recopilan. Así es como construimos en CoreIntent.

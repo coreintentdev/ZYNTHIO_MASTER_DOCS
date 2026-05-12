@@ -36,7 +36,7 @@ Hay tres principios clave que necesitas entender.
 
 [GESTURE: nod]
 
-Ahora — esto es importante. Ningún sistema de trading garantiza rendimientos. Los mercados son impredecibles. Lo que *sí* podemos garantizar es ejecución disciplinada, gestión de riesgo transparente y un modelo que pone tus intereses primero.
+Ahora — esto es importante. Ningún sistema de trading garantiza rendimientos. Los mercados son impredecibles. Lo que *sí* podemos garantizar es ejecución disciplinada, gestión de riesgo transparente, un modelo que pone tus intereses primero, e infraestructura con *privacidad primero* — tus datos nunca se venden ni se comparten.
 
 [PAUSE 0.5s]
 
