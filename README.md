@@ -1,26 +1,28 @@
 # ZYNTHIO MASTER DOCS
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Brands](https://img.shields.io/badge/brands-7-purple) ![Founded](https://img.shields.io/badge/founded-2026-orange) ![Days Left](https://img.shields.io/badge/days%20to%20incorporate-1-red) ![CRITICAL](https://img.shields.io/badge/CRITICAL-Incorporate%20before%20May%2012-red)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Brands](https://img.shields.io/badge/brands-7-purple) ![Founded](https://img.shields.io/badge/founded-2026-orange) ![Updated](https://img.shields.io/badge/updated-2026--05--12-blue) ![DEADLINE](https://img.shields.io/badge/DEADLINE-TODAY%20May%2012%202026-red)
 
 > **Central documentation hub for the entire Zynthio ecosystem.**
 > Founder: Corey McIvor — NZ/AU citizen, based in Nicaragua.
 
 ---
 
-## CRITICAL DEADLINE
+## HARD DEADLINE — TODAY
 
-> **ZYNTHIO LIMITED — INCORPORATE BEFORE MAY 12, 2026**
-> Name reservation #15436626 expires **May 12, 2026**.
-> **As of 2026-05-11: 1 DAY REMAINS. TODAY IS MONDAY MAY 11 — BD15 — THE FINAL BUSINESS DAY BEFORE THE DEADLINE. The Companies Office IS OPEN. CALL NOW. Escalate immediately to supervisor/manager level — follow up on Friday's (May 8) call — provide application reference number. If the certificate has not been confirmed for imminent issuance by end of business TODAY (May 11), ENGAGE A NZ SOLICITOR IMMEDIATELY — this is the absolute last window for legal intervention before the hard deadline. May 12 (Tue) = HARD DEADLINE — name reservation expires. ONLY 1 DAY REMAINS.**
-> Failure to act forfeits the reserved name permanently.
+> **ZYNTHIO LIMITED — NAME RESERVATION #15436626 EXPIRES TODAY — MAY 12, 2026**
+> **TODAY IS THE HARD DEADLINE.** The name reservation expires today. Application filed April 21 — certificate has been CRITICALLY OVERDUE for 15+ business days (BD16 since filing).
+>
+> **If the Certificate of Incorporation has NOT yet been received:**
+> - Call the NZ Companies Office immediately — escalate to the highest level available
+> - Engage a NZ solicitor by end of business today if the certificate cannot be confirmed as issued
+>
+> **If the Certificate of Incorporation HAS been received:**
+> - Download and save it immediately
+> - Update `NZ_COMPLIANCE.md` and `INCORPORATION_CHECKLIST.md` to mark incorporation complete
+> - Proceed with post-incorporation steps (IPONZ TM assignment, bank account, annual return diarised)
 
-**Immediate action required:**
-1. Log in to [companies.govt.nz](https://www.companies.govt.nz) — confirm reservation #15436626 is still active
-2. Engage a NZ registered office service provider (required since founder is overseas)
-3. File incorporation before May 12, 2026
-
-→ Step-by-step checklist: [INCORPORATION_CHECKLIST.md](INCORPORATION_CHECKLIST.md)
 → Full compliance details: [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md)
+→ Post-incorporation steps: [INCORPORATION_CHECKLIST.md](INCORPORATION_CHECKLIST.md)
 
 ---
 
@@ -68,4 +70,4 @@ Zynthio is a sovereign AI-powered creative and technology ecosystem built by Cor
 
 ---
 
-*Last updated: 2026-05-11 (Session 30)*
+*Last updated: 2026-05-12 (Session 31)*
