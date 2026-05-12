@@ -22,7 +22,7 @@ Desde producción musical con inteligencia artificial con *SongPal* — hasta ed
 
 [GESTURE: nod]
 
-Somos una empresa fundada en Nueva Zelanda por Corey McIvor, y creemos en una cosa por encima de todo — la *soberanía creativa*.
+Somos una empresa fundada en Nueva Zelanda por Corey McIvor, y creemos en una cosa por encima de todo — la *soberanía creativa*. Tus datos se mantienen privados. Tu música sigue siendo tuya. Siempre.
 
 [PAUSE 1s]
 

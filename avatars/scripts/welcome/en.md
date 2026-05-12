@@ -22,7 +22,7 @@ From AI-powered music production with *SongPal* — to hands-on education throug
 
 [GESTURE: nod]
 
-We're founded right here in New Zealand by Corey McIvor, and we believe in one thing above all else — *creative sovereignty*.
+We're founded right here in New Zealand by Corey McIvor, and we believe in one thing above all else — *creative sovereignty*. Your data stays private. Your music stays yours. Always.
 
 [PAUSE 1s]
 

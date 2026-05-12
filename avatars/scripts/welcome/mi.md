@@ -22,7 +22,7 @@ Mai i te waihanga puoro AI me *SongPal* — ki te mātauranga me *MOSOKO* — ki
 
 [GESTURE: nod]
 
-Nō Aotearoa mātou, i whakatūria e Corey McIvor. E whakapono ana mātou ki tētahi mea nui — ko te *mana auaha*.
+Nō Aotearoa mātou, i whakatūria e Corey McIvor. E whakapono ana mātou ki tētahi mea nui — ko te *mana auaha*. Ka noho tūmataiti ō raraunga. Ka noho nōu anō ō waiata. I ngā wā katoa.
 
 [PAUSE 1s]
 

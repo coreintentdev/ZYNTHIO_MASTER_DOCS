@@ -22,7 +22,7 @@ Desde produção musical com inteligência artificial com o *SongPal* — até e
 
 [GESTURE: nod]
 
-Somos fundados na Nova Zelândia por Corey McIvor, e acreditamos em uma coisa acima de tudo — *soberania criativa*.
+Somos fundados na Nova Zelândia por Corey McIvor, e acreditamos em uma coisa acima de tudo — *soberania criativa*. Seus dados ficam privados. Sua música continua sendo sua. Sempre.
 
 [PAUSE 1s]
 

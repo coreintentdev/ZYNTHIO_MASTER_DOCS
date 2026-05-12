@@ -36,7 +36,7 @@ There are three key principles you need to understand.
 
 [GESTURE: nod]
 
-Now — this is important. No trading system guarantees returns. Markets are unpredictable. What we *can* guarantee is disciplined execution, transparent risk management, and a model that puts your interests first.
+Now — this is important. No trading system guarantees returns. Markets are unpredictable. What we *can* guarantee is disciplined execution, transparent risk management, a model that puts your interests first, and *privacy-first* infrastructure — your data never gets sold or shared.
 
 [PAUSE 0.5s]
 

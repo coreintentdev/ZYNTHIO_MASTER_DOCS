@@ -36,7 +36,7 @@ We offer structured cohort programmes with live sessions, and self-paced modules
 
 [PAUSE 0.5s]
 
-MOSOKO isn't a generic music school. It's built for independent creators who want to own their entire pipeline — from the first idea to the final release.
+MOSOKO isn't a generic music school. It's built for independent creators who want to own their entire pipeline — from the first idea to the final release. And your learning data stays *private*. We don't sell your profile or your progress to anyone.
 
 [GESTURE: confident smile]
 

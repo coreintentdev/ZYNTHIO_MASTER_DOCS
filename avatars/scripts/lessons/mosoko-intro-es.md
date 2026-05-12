@@ -36,7 +36,7 @@ Ofrecemos programas estructurados en cohortes con sesiones en vivo, y módulos a
 
 [PAUSE 0.5s]
 
-MOSOKO no es una escuela de música genérica. Está diseñada para creadores independientes que quieren controlar todo su proceso — desde la primera idea hasta el lanzamiento final.
+MOSOKO no es una escuela de música genérica. Está diseñada para creadores independientes que quieren controlar todo su proceso — desde la primera idea hasta el lanzamiento final. Y tus datos de aprendizaje se mantienen *privados*. No vendemos tu perfil ni tu progreso a nadie.
 
 [GESTURE: confident smile]
 
