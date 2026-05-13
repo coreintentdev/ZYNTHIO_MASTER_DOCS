@@ -1,9 +1,26 @@
 # CHANGELOG — Zynthio Master Docs
 
-![Updated](https://img.shields.io/badge/updated-2026--05--12-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--13-blue)
 
 All significant changes to this documentation repository are recorded here.
 Format: `YYYY-MM-DD | Type | Description`
+
+---
+
+## 2026-05-13 (Session 32)
+
+### Updated
+
+- `README.md` — Post-deadline update: replaced "HARD DEADLINE TODAY" language with "INCORPORATION STATUS — ACTION REQUIRED"; updated badges from `DEADLINE TODAY May 12` to `check portal now`; added two-scenario action block (Scenario A: certificate issued → download + post-incorporation; Scenario B: lapsed → solicit, new reservation, re-apply); date badge and session footer to 2026-05-13 / Session 32
+- `NZ_COMPLIANCE.md` — Badges updated to post-deadline / orange; urgency block rewritten: "POST-DEADLINE — INCORPORATION STATUS UNKNOWN" with NZCO portal check and Scenario A/B action paths; section heading changed from "May 12 Hard Deadline Day" to "Incorporation Action Log"; May 12 row updated to reflect deadline passed; May 13 TODAY row added; Summary Dashboard updated: "DEADLINE PASSED" / "UNKNOWN — CHECK PORTAL"; Key Deadlines Calendar: May 12 updated to "yesterday — deadline passed", May 13 TODAY row added; session footer to Session 32
+- `INCORPORATION_CHECKLIST.md` — Badges replaced with post-deadline / orange set; preamble updated: "as of May 13, 2026 — deadline has passed — check NZCO portal"; Timeline: May 12 row updated to "deadline day — status unknown", May 13 TODAY row added; note block updated with portal check and Scenario A/B; session footer to Session 32
+- `FOUNDER_BRIEF.md` — Badge updated; Priority 1 action rewritten: "INCORPORATION STATUS UNKNOWN — CHECK NZCO PORTAL NOW" with Scenario A/B paths; Ecosystem table: ZYNTHIO status updated from "Incorporating" to "check NZCO portal"; Milestone Tracker: ZYNTHIO LIMITED row updated to "status unknown — check portal"; session footer to Session 32
+- `INDEX.md` — Badge updated; CRITICAL ALERTS table restructured: column "Days Left" renamed to "Status"; incorporation row updated to "DEADLINE PASSED (May 12)" with check-portal guidance; redundant registered office row removed (already arranged); session footer to Session 32
+- `ECOSYSTEM_MAP.md` — Badge updated; Current State Snapshot heading → May 13, 2026; legal status for ZYNTHIO LIMITED updated to "DEADLINE PASSED — check NZCO portal"; session footer to Session 32
+- `COMPETITION_ENTRY.md` — Badge updated; Traction date updated to 2026-05-13; "Company name reserved" bullet updated to reflect application filed / check portal; 30-second pitch updated; Why NZ section updated; Submission Checklist updated to reflect post-deadline status check; footer updated to Session 32
+- `FINANCIAL_MODEL.md`, `COMPETITION_PORTFOLIO.md`, `PITCH_DECK_OUTLINE.md`, `DEMO_SCRIPT.md`, `PRESS_KIT.md`, `AWARDS_TRACKER.md` — Date badges and footers updated to 2026-05-13 / Session 32
+- All 21 brand files (7 brands × README + ROADMAP + ASSETS) — Date badges and "Last updated" footer dates updated to 2026-05-13 / Session 32
+- `CHANGELOG.md` — This entry; badge updated to 2026-05-13
 
 ---
 

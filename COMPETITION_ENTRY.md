@@ -1,6 +1,6 @@
 # COMPETITION ENTRY — Zynthio
 
-![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--12-blue)
+![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue)
 
 > One-page summary for startup, AI, and music industry competitions.
 
@@ -8,7 +8,7 @@
 
 ## 30-Second Spoken Pitch
 
-> "Independent creators are being squeezed from every direction — AI tools that own their output, platforms that take their revenue, and legal systems they can't access or afford. Zynthio is the answer: a complete, sovereign creative stack. We build the AI tools, teach creators how to use them, and protect what they make — all under one roof. Our flagship platform SongPal has a trademark on file in New Zealand. We're incorporating in May 2026. The founder is a working producer, full-stack engineer, and AI specialist — he built the entire stack himself. We're not pitching a feature. We're pitching a new creative infrastructure for the post-AI world."
+> "Independent creators are being squeezed from every direction — AI tools that own their output, platforms that take their revenue, and legal systems they can't access or afford. Zynthio is the answer: a complete, sovereign creative stack. We build the AI tools, teach creators how to use them, and protect what they make — all under one roof. Our flagship platform SongPal has a trademark on file in New Zealand. We are incorporating in New Zealand under ZYNTHIO LIMITED. The founder is a working producer, full-stack engineer, and AI specialist — he built the entire stack himself. We're not pitching a feature. We're pitching a new creative infrastructure for the post-AI world."
 
 ---
 
@@ -47,10 +47,10 @@ Zynthio is **seven interconnected brands** operating as one system:
 
 ## Traction & Proof Points
 
-*As of 2026-05-12 — all items verified:*
+*As of 2026-05-13 — all items verified:*
 
 - **Trademark filed:** SongPal — IPONZ #1318588 (New Zealand, filed and awaiting examination)
-- **Company name reserved:** ZYNTHIO LIMITED — NZCO #15436626 (incorporating May 2026)
+- **Company incorporating:** ZYNTHIO LIMITED — NZCO #15436626 (application filed Apr 21 — check portal for certificate status)
 - **Production infrastructure live:** VPS 104.194.156.109 — Docker, Python 3.11, CI/CD pipeline
 - **Active AI integrations:** Claude (Anthropic), Grok (xAI), Perplexity, Suno API — all wired into CoreeyAI
 - **Autonomous trading system:** gTrade (risk-managed trading bot) deployed and operating — self-funding development
@@ -108,7 +108,7 @@ Zynthio is **seven interconnected brands** operating as one system:
 
 ## Why New Zealand
 
-- ZYNTHIO LIMITED incorporating under NZ Companies Act 1993
+- ZYNTHIO LIMITED — NZ company under Companies Act 1993 (application filed, incorporation in progress)
 - IPONZ trademark protection for SongPal (#1318588) — NZ IP infrastructure
 - NZ's creator economy is underserved by global AI tools designed for US/EU markets
 - Strong NZ export education and tech incentives align with MOSOKO and SongPal
@@ -127,7 +127,7 @@ Zynthio is **seven interconnected brands** operating as one system:
 ## Ask
 
 | Competition Type | What We're Seeking |
-|-----------------|--------------------|
+|-----------------|-----------------|
 | Startup competition | Seed capital / accelerator access — target NZD $150–250K |
 | AI competition | Recognition, partnerships, API credits |
 | Music/creative competition | Industry exposure, label/distributor introductions |
@@ -180,7 +180,7 @@ Zynthio is **seven interconnected brands** operating as one system:
 
 Before submitting to any competition:
 
-- [ ] Confirm ZYNTHIO LIMITED has been incorporated (deadline **May 12, 2026**)
+- [ ] Confirm ZYNTHIO LIMITED incorporation status — check NZCO portal (deadline was May 12, 2026 — verify certificate issued or re-apply)
 - [ ] Add founder contact email to the Contact section above
 - [ ] Check competition's eligibility criteria (entity type, jurisdiction, stage)
 - [ ] Attach [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md) projections if financials are required
@@ -196,8 +196,8 @@ Email: *(add contact email before submitting any competition entry)*
 GitHub: [github.com/coreintentdev](https://github.com/coreintentdev)
 Domain: [zynthio.ai](https://zynthio.ai)
 
-> **Before submitting:** Add contact email above. Confirm ZYNTHIO LIMITED has been incorporated (deadline May 12, 2026) so the entity name is accurate throughout.
+> **Before submitting:** Add contact email above. Confirm ZYNTHIO LIMITED incorporation status (deadline was May 12, 2026 — check NZCO portal) so the entity name is accurate throughout.
 
 ---
 
-*This document is current as of 2026-05-12 (Session 31). For the latest status see [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) and [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md). Financial projections: [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md).*
+*This document is current as of 2026-05-13 (Session 32). For the latest status see [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) and [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md). Financial projections: [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md).*
