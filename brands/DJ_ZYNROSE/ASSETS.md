@@ -1,6 +1,6 @@
 # ASSETS — DJ Zynrose
 
-![Updated](https://img.shields.io/badge/updated-2026--05--12-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--13-blue)
 
 > Brand and artist asset registry for DJ Zynrose.
 
@@ -44,7 +44,7 @@
 ## Track Catalogue
 
 | Track | Release Date | Status | Platforms |
-|-------|-------------|--------|----------|
+|-------|-------------|--------|-----------|
 | SIGNAL 336 | TBD | Written — deploy pending | *(TBD)* |
 | THE MIRROR ASKED A QUESTION | TBD | Written — deploy pending | *(TBD)* |
 
@@ -84,4 +84,4 @@
 
 ---
 
-*Last updated: 2026-05-12 | Maintained by: Corey McIvor*
+*Last updated: 2026-05-13 | Maintained by: Corey McIvor*
