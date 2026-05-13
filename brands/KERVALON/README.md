@@ -1,6 +1,6 @@
 # KERVALON
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-legal%20%26%20IP-red) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![Updated](https://img.shields.io/badge/updated-2026--05--12-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-legal%20%26%20IP-red) ![Parent](https://img.shields.io/badge/parent-ZYNTHIO-purple) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue)
 
 > **The protector of the Zynthio ecosystem.**
 > Legal infrastructure, IP management, and compliance for creative sovereignty.
@@ -26,7 +26,7 @@ To provide robust, proactive IP and legal infrastructure that protects every bra
 | Matter | Reference | Status | Deadline |
 |--------|-----------|--------|----------|
 | SongPal trademark | IPONZ #1318588 | Filed — awaiting examination | TBD |
-| ZYNTHIO LIMITED incorporation | NZCO #15436626 | Name reserved | **May 12, 2026** |
+| ZYNTHIO LIMITED incorporation | NZCO #15436626 | Deadline passed — check portal | May 12, 2026 (passed) |
 | Director residency compliance | Companies Act 1993 | Qualified (NZ/AU citizen) | At incorporation |
 
 *Full compliance tracker → [NZ_COMPLIANCE.md](../../NZ_COMPLIANCE.md)*
@@ -67,7 +67,7 @@ To provide robust, proactive IP and legal infrastructure that protects every bra
 | Area | Status |
 |------|--------|
 | SongPal TM (IPONZ #1318588) | Filed — monitoring |
-| ZYNTHIO LIMITED name | Reserved — incorporating before May 12, 2026 |
+| ZYNTHIO LIMITED name | Filing applied Apr 21 — deadline was May 12, 2026 — check NZCO portal |
 | Other brand TM filings | Planned (post-incorporation) |
 | External KERVALON services | Planned (Q4 2026+) |
 
@@ -82,4 +82,4 @@ To provide robust, proactive IP and legal infrastructure that protects every bra
 
 ---
 
-*Last updated: 2026-05-12 | Maintained by: Corey McIvor*
+*Last updated: 2026-05-13 | Maintained by: Corey McIvor*

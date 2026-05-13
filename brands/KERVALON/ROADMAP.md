@@ -1,14 +1,16 @@
 # ROADMAP — KERVALON
 
-![Updated](https://img.shields.io/badge/updated-2026--05--12-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--13-blue)
 
 ---
 
-## CRITICAL — Immediate (Before May 12, 2026)
+## CRITICAL — Post-Deadline Action (May 13, 2026)
 
-- [ ] Complete ZYNTHIO LIMITED incorporation (name reservation #15436626 expires May 12, 2026)
-- [ ] Confirm Corey McIvor as qualifying NZ/AU resident director
-- [ ] Establish NZ registered office
+- [ ] Check NZCO portal for ZYNTHIO LIMITED certificate (deadline was May 12, 2026 — reservation #15436626)
+  - Scenario A (certificate issued): download, update docs, begin post-incorporation steps
+  - Scenario B (lapsed): engage NZ solicitor, check name availability, file new reservation (NZD $10), re-apply
+- [ ] Confirm Corey McIvor as qualifying NZ/AU resident director (qualifies as NZ/AU citizen)
+- [ ] Confirm NZ registered office is still in place (arranged Apr 18)
 
 ---
 
@@ -52,7 +54,7 @@
 
 ## Filing Priority Order
 
-1. ZYNTHIO LIMITED incorporation (before May 12, 2026)
+1. ZYNTHIO LIMITED incorporation — check portal (deadline May 12, 2026 passed)
 2. SongPal TM prosecution (ongoing)
 3. ZYNTHIO trademark (Q3 2026)
 4. CoreeyAI trademark (Q3 2026)
@@ -63,4 +65,4 @@
 
 ---
 
-*Last updated: 2026-05-12*
+*Last updated: 2026-05-13*
