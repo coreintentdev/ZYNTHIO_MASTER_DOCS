@@ -1,13 +1,13 @@
 # ROADMAP — ZYNTHIO
 
-![Updated](https://img.shields.io/badge/updated-2026--05--12-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--13-blue)
 
 ---
 
 ## Immediate Priorities (Q2 2026)
 
 ### 1. Incorporation — CRITICAL
-- [ ] Complete ZYNTHIO LIMITED incorporation before **May 12, 2026**
+- [ ] Confirm ZYNTHIO LIMITED incorporation — check NZCO portal (deadline was May 12, 2026)
 - [ ] Appoint Corey McIvor as qualifying NZ/AU resident director
 - [ ] Establish NZ registered office
 - [ ] Open NZ business bank account
@@ -57,11 +57,11 @@
 
 | Risk | Likelihood | Impact | Mitigation |
 |------|-----------|--------|------------|
-| Name reservation lapses (May 12) | High if delayed | High | Incorporate immediately |
+| Incorporation lapsed (May 12 deadline passed) | Unknown | High | Check NZCO portal; re-apply if needed |
 | SongPal TM objection | Medium | Medium | Monitor IPONZ, engage IP counsel |
 | Solo founder bandwidth | High | High | Prioritise ruthlessly; automate where possible |
 | Connector integrations remain dead | Medium | Medium | Dedicated sprint Q2 |
 
 ---
 
-*Last updated: 2026-05-12*
+*Last updated: 2026-05-13*

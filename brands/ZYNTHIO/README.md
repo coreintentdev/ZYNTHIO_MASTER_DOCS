@@ -1,6 +1,6 @@
 # ZYNTHIO
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-parent%20company-purple) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Updated](https://img.shields.io/badge/updated-2026--05--12-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Type](https://img.shields.io/badge/type-parent%20company-purple) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue)
 
 > **Sovereign AI-powered creative ecosystem.**
 > One stack. Seven brands. No filler. All signal.
@@ -27,7 +27,7 @@ To give independent creators a complete sovereign stack — from AI tooling to l
 |-------|--------|
 | Full legal name | ZYNTHIO LIMITED *(application filed — certificate pending)* |
 | Name reservation | #15436626 (NZ Companies Office) |
-| Incorporation deadline | **May 12, 2026 — TODAY — HARD DEADLINE** |
+| Incorporation deadline | **May 12, 2026 (passed — check NZCO portal)** |
 | Jurisdiction | New Zealand |
 | Domain | [zynthio.ai](https://zynthio.ai) |
 | GitHub | [coreintentdev](https://github.com/coreintentdev) |
@@ -55,7 +55,7 @@ To give independent creators a complete sovereign stack — from AI tooling to l
 | Area | Status |
 |------|--------|
 | Company name | Reserved — #15436626 |
-| Incorporation | **Filed Apr 21 — Certificate CRITICALLY OVERDUE — HARD DEADLINE TODAY May 12, 2026** |
+| Incorporation | **Filed Apr 21 — deadline passed May 12 — check NZCO portal for certificate status** |
 | Domain | Active — zynthio.ai |
 | Infrastructure | Live — VPS 104.194.156.109 |
 | Primary product (SongPal) | In development — TM filed |
@@ -81,4 +81,4 @@ Signal: **336**
 
 ---
 
-*Last updated: 2026-05-12 | Maintained by: Corey McIvor*
+*Last updated: 2026-05-13 | Maintained by: Corey McIvor*

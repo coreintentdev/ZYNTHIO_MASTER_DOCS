@@ -1,6 +1,6 @@
 # ASSETS — CoreeyAI
 
-![Updated](https://img.shields.io/badge/updated-2026--05--12-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--13-blue)
 
 > Brand asset registry for CoreeyAI.
 
@@ -59,4 +59,4 @@
 
 ---
 
-*Last updated: 2026-05-12 | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-13 | Maintained by: Corey McIvor / COREINTENT*

@@ -1,6 +1,6 @@
 # ASSETS — ZYNTHIO
 
-![Updated](https://img.shields.io/badge/updated-2026--05--12-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--13-blue)
 
 > Brand asset registry for ZYNTHIO. Update links when assets are published.
 
@@ -77,4 +77,4 @@
 
 ---
 
-*Last updated: 2026-05-12 | Maintained by: Corey McIvor*
+*Last updated: 2026-05-13 | Maintained by: Corey McIvor*
