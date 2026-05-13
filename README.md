@@ -1,25 +1,29 @@
 # ZYNTHIO MASTER DOCS
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Brands](https://img.shields.io/badge/brands-7-purple) ![Founded](https://img.shields.io/badge/founded-2026-orange) ![Updated](https://img.shields.io/badge/updated-2026--05--12-blue) ![DEADLINE](https://img.shields.io/badge/DEADLINE-TODAY%20May%2012%202026-red)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Brands](https://img.shields.io/badge/brands-7-purple) ![Founded](https://img.shields.io/badge/founded-2026-orange) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue) ![Incorporation](https://img.shields.io/badge/incorporation-check%20portal%20now-orange)
 
 > **Central documentation hub for the entire Zynthio ecosystem.**
 > Founder: Corey McIvor — NZ/AU citizen, based in Nicaragua.
 
 ---
 
-## HARD DEADLINE — TODAY
+## INCORPORATION STATUS — ACTION REQUIRED
 
-> **ZYNTHIO LIMITED — NAME RESERVATION #15436626 EXPIRES TODAY — MAY 12, 2026**
-> **TODAY IS THE HARD DEADLINE.** The name reservation expires today. Application filed April 21 — certificate has been CRITICALLY OVERDUE for 15+ business days (BD16 since filing).
+> **ZYNTHIO LIMITED — NAME RESERVATION #15436626 — DEADLINE PASSED (MAY 12, 2026)**
+> The incorporation deadline was **yesterday (May 12, 2026)**. Application filed April 21 — status as of this update is **unknown**.
 >
-> **If the Certificate of Incorporation has NOT yet been received:**
-> - Call the NZ Companies Office immediately — escalate to the highest level available
-> - Engage a NZ solicitor by end of business today if the certificate cannot be confirmed as issued
+> **Check the NZCO portal immediately** — [companies.govt.nz](https://www.companies.govt.nz)
 >
-> **If the Certificate of Incorporation HAS been received:**
-> - Download and save it immediately
+> **Scenario A — Certificate of Incorporation was issued:**
+> - Download and save the certificate immediately
 > - Update `NZ_COMPLIANCE.md` and `INCORPORATION_CHECKLIST.md` to mark incorporation complete
-> - Proceed with post-incorporation steps (IPONZ TM assignment, bank account, annual return diarised)
+> - Proceed with post-incorporation steps (IPONZ TM assignment, bank account, annual return)
+>
+> **Scenario B — Reservation lapsed without a certificate issued:**
+> - Engage a NZ solicitor immediately — explore options (new name reservation, urgent re-filing)
+> - The name "ZYNTHIO LIMITED" may still be available — check availability on the portal
+> - A new name reservation can be filed online for NZD $10; a new incorporation application can follow
+> - Document the situation in `NZ_COMPLIANCE.md` and update the action plan
 
 → Full compliance details: [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md)
 → Post-incorporation steps: [INCORPORATION_CHECKLIST.md](INCORPORATION_CHECKLIST.md)
@@ -70,4 +74,4 @@ Zynthio is a sovereign AI-powered creative and technology ecosystem built by Cor
 
 ---
 
-*Last updated: 2026-05-12 (Session 31)*
+*Last updated: 2026-05-13 (Session 32)*
