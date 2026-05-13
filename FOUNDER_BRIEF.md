@@ -1,6 +1,6 @@
 # FOUNDER BRIEF — Zynthio
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--12-blue) ![DEADLINE](https://img.shields.io/badge/DEADLINE-TODAY%20May%2012%202026-red)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue) ![Incorporation](https://img.shields.io/badge/incorporation-check%20portal%20now-orange)
 
 > Quick-reference operational dashboard for Corey McIvor.
 > Everything you need on one page. Deep detail lives in the linked docs.
@@ -11,7 +11,7 @@
 
 | Priority | Action | Reference | Deadline |
 |----------|--------|-----------|----------|
-| **1** | **TODAY IS TUESDAY MAY 12 — BD16 — THE HARD DEADLINE DAY.** Name reservation #15436626 **expires TODAY**. Companies Office IS OPEN. CALL NOW — escalate to the highest level. **If the Certificate of Incorporation has NOT been received: ENGAGE A NZ SOLICITOR IMMEDIATELY — today is the absolute final moment.** If the certificate HAS been received: download and save it — then update `NZ_COMPLIANCE.md` and `INCORPORATION_CHECKLIST.md` to mark incorporation complete and begin post-incorporation steps. | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | **0 days — HARD DEADLINE TODAY — May 12, 2026** |
+| **1** | **INCORPORATION STATUS UNKNOWN — CHECK NZCO PORTAL NOW.** Deadline was yesterday (May 12, 2026). **Scenario A — certificate issued:** download it, update `NZ_COMPLIANCE.md` and `INCORPORATION_CHECKLIST.md` to mark incorporation complete, begin post-incorporation steps. **Scenario B — reservation lapsed:** engage NZ solicitor immediately, check name availability on [companies.govt.nz](https://www.companies.govt.nz), file new reservation (NZD $10) and re-apply. | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | **DEADLINE PASSED — May 12, 2026 — check portal now** |
 | **2** | Once incorporated — update all brand docs to remove "pending incorporation" language | [INCORPORATION_CHECKLIST.md](INCORPORATION_CHECKLIST.md) | Within 30 days |
 | **3** | Check with IPONZ whether SongPal TM #1318588 applicant assignment to ZYNTHIO LIMITED is needed | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | Post-incorporation |
 | **4** | Monitor IPONZ portal for SongPal TM #1318588 examination report | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | Ongoing |
@@ -36,7 +36,7 @@
 
 | Brand | Role | Status | Key Doc |
 |-------|------|--------|----------|
-| **ZYNTHIO** | Parent company | Incorporating — deadline May 12, 2026 | [README](brands/ZYNTHIO/README.md) |
+| **ZYNTHIO** | Parent company | Incorporation status unknown — check NZCO portal | [README](brands/ZYNTHIO/README.md) |
 | **CoreeyAI** | AI engine & intelligence layer | Active | [README](brands/COREYAI/README.md) |
 | **SongPal** | AI audio production platform | In development — TM filed IPONZ #1318588 | [README](brands/SONGPAL/README.md) |
 | **MOSOKO** | Music education & pedagogy | In development — first cohort Q3 2026 | [README](brands/MOSOKO/README.md) |
@@ -66,7 +66,7 @@
 
 | Milestone | Target | Status |
 |-----------|--------|--------|
-| ZYNTHIO LIMITED incorporated | **May 12, 2026 — TODAY IS THE HARD DEADLINE** | Filed Apr 21 — **Certificate CRITICALLY OVERDUE — TODAY Tue May 12 = BD16 = HARD DEADLINE DAY — name reservation expires TODAY — Companies Office IS OPEN — CALL NOW — ENGAGE NZ SOLICITOR IMMEDIATELY if certificate not yet received — if received: download, save, update this file** |
+| ZYNTHIO LIMITED incorporated | May 12, 2026 (deadline passed) | **Status unknown — check NZCO portal — either certificate was issued (incorporated ✓) or reservation lapsed (new reservation + re-apply needed)** |
 | NZ registered office established | Before incorporation | Arranged (Apr 18) |
 | SongPal public beta | Q2–Q3 2026 | In development |
 | DJ Zynrose 4-way deploy (SIGNAL 336 + THE MIRROR) | Q2 2026 | Pipeline in progress |
@@ -142,4 +142,4 @@
 
 ---
 
-*Last updated: 2026-05-12 (Session 31) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-13 (Session 32) | Maintained by: Corey McIvor / COREINTENT*
