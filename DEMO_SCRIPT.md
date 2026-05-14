@@ -1,6 +1,6 @@
 # DEMO SCRIPT — Zynthio
 
-![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue) ![Duration](https://img.shields.io/badge/duration-3%20minutes-purple)
+![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--14-blue) ![Duration](https://img.shields.io/badge/duration-3%20minutes-purple)
 
 > 3-minute live demo walkthrough for competitions, investor meetings, and showcases.
 > Designed to show the real stack — not a prototype, not a mockup.
@@ -176,7 +176,7 @@ Before going live, confirm:
 - Lead with music playback — open with 10 seconds of *SIGNAL 336*
 - Extend SongPal segment to 60 seconds
 - Show MOSOKO curriculum outline
-- Trim gTrade to 15 seconds — mention it as "how we self-fund" without deep dive
+- Trim gTrade to 15 seconds — mention it as “how we self-fund” without deep dive
 
 ### For fintech / trading competitions (emphasise CoreIntent / gTrade):
 - Lead with gTrade — open risk config immediately
@@ -211,4 +211,4 @@ Use one or two of these during the demo, depending on audience:
 
 ---
 
-*Last updated: 2026-05-13 (Session 32) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-14 (Session 33) | Maintained by: Corey McIvor / COREINTENT*

@@ -1,6 +1,6 @@
 # PRESS KIT — Zynthio
 
-![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue)
+![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--14-blue)
 
 > Press kit for media, competition judges, event organisers, and partners.
 > Copy any section directly into submissions, bios, or press materials.
@@ -131,7 +131,7 @@ MOSOKO teaches independent creators the full stack. KERVALON protects every asse
 |------|-----|-------|
 | Void Black | `#050505` | Primary — deep space feel |
 | Signal Gold | `#C9A84C` | Artist accent — matches ZYNTHIO |
-| Rose Violet | `#9B2D6B` | "Zynrose" colour — artist warmth |
+| Rose Violet | `#9B2D6B` | “Zynrose” colour — artist warmth |
 | Ice White | `#E0E8F0` | Text, contrast on dark |
 | Pulse Red | `#FF2D55` | Energy moments, beat drops |
 
@@ -221,15 +221,15 @@ Domain: [zynthio.ai](https://zynthio.ai)
 
 ## Usage Guidelines
 
-1. Use "Zynthio" (capital Z) in all editorial contexts — not "ZYNTHIO" unless in a legal or branding context
-2. Use "SongPal" as two words with capitals — not "Songpal" or "Song Pal"
-3. Use "CoreIntent" as one word with capital C and I — not "Core Intent" or "Coreintent"
+1. Use “Zynthio” (capital Z) in all editorial contexts — not “ZYNTHIO” unless in a legal or branding context
+2. Use “SongPal” as two words with capitals — not “Songpal” or “Song Pal”
+3. Use “CoreIntent” as one word with capital C and I — not “Core Intent” or “Coreintent”
 4. Include TM symbol (SongPal™) in first mention within any document
-5. DJ Zynrose is the artist name — refer to the person as "Corey McIvor" in non-artist contexts
+5. DJ Zynrose is the artist name — refer to the person as “Corey McIvor” in non-artist contexts
 6. Signal Gold (#C9A84C) should be used sparingly — it is an accent, not a fill colour
 7. All brand assets are copyright ZYNTHIO / Corey McIvor unless otherwise stated
 8. Codebase is MIT-licensed — brand assets are not
 
 ---
 
-*Last updated: 2026-05-13 (Session 32) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-14 (Session 33) | Maintained by: Corey McIvor / COREINTENT*

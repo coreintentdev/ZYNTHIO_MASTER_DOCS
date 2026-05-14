@@ -1,6 +1,6 @@
 # COMPETITION PORTFOLIO — Zynthio
 
-![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue) ![Stage](https://img.shields.io/badge/stage-pre--seed-yellow) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black)
+![Status](https://img.shields.io/badge/status-submission--ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--14-blue) ![Stage](https://img.shields.io/badge/stage-pre--seed-yellow) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black)
 
 > Full competition portfolio for startup, AI, fintech, and music technology competitions worldwide.
 > Adapt per competition format. Every claim is verifiable. Every metric is honest.
@@ -106,15 +106,15 @@ Zynthio is a vertically integrated creative-technology ecosystem that solves the
 ┌────────────────────────────────────────────────────────────────┐
 │                    EXTERNAL AI SERVICES                        │
 │  Claude (Anthropic)  │  Grok (xAI)  │  Perplexity  │  Suno   │
-└───────────────────┬────────────────────────────────────────────┘
+└───────────────────┴─────────────────────────────────────────────┘
                     │ (consumed via)
-┌───────────────────▼────────────────────────────────────────────┐
+┌───────────────────▼─────────────────────────────────────────────┐
 │                       CoreeyAI                                 │
 │     Model orchestration · Prompt engineering · Agentic flows   │
 │     Multi-model routing · Task-specific model selection        │
-└──────────┬────────────────────────────┬───────────────────────┘
+└──────────┬────────────────────┬───────────────────────┘
            │                            │
-┌──────────▼──────────┐     ┌───────────▼────────────────────────┐
+┌──────────▼──────────┐     ┌─────────▼────────────────────────┐
 │       SongPal       │     │             MOSOKO                  │
 │  Next.js frontend   │     │   Adaptive learning engine          │
 │  AI music platform  │     │   Cohort + self-paced curriculum    │
@@ -305,4 +305,4 @@ Email: *(add contact email before submitting)*
 
 ---
 
-*Last updated: 2026-05-13 (Session 32) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-14 (Session 33) | Maintained by: Corey McIvor / COREINTENT*
