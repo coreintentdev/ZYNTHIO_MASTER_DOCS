@@ -1,13 +1,13 @@
 # NZ COMPLIANCE TRACKER — Zynthio
 
-![Status](https://img.shields.io/badge/status-post--deadline-orange) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Incorporation](https://img.shields.io/badge/incorporation-check%20portal%20now-orange)
+![Status](https://img.shields.io/badge/status-post--deadline-orange) ![Updated](https://img.shields.io/badge/updated-2026--05--14-blue) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Incorporation](https://img.shields.io/badge/incorporation-check%20portal%20now-orange)
 
 > Tracks all New Zealand incorporation, IP, and director compliance obligations for the Zynthio ecosystem.
 
 ---
 
 > **POST-DEADLINE — INCORPORATION STATUS UNKNOWN**
-> ZYNTHIO LIMITED name reservation #15436626 had a deadline of **May 12, 2026 (yesterday)**.
+> ZYNTHIO LIMITED name reservation #15436626 had a deadline of **May 12, 2026 (two days ago)**.
 > Application was filed April 21 — as of the last session update, the certificate had not yet been confirmed.
 >
 > **Check the NZCO portal immediately:** [companies.govt.nz](https://www.companies.govt.nz)
@@ -59,7 +59,8 @@
 | **Done (May 10)** | **SUNDAY — WEEKEND — Companies Office closed.** No action possible. Final preparation day before Monday's critical call. | Corey | [x] |
 | **Done (May 11)** | MONDAY — BD15 since filing — Called Companies Office. Escalated to supervisor/manager level. Followed up on Fri May 8 call. Provided application reference number #15436626. | Corey | [ ] |
 | **Done (May 12)** | **TUESDAY — BD16 — HARD DEADLINE DAY. Name reservation #15436626 deadline was TODAY.** Companies Office was open. Status: *(update once portal checked — see post-deadline action above)* | Corey | [ ] |
-| **TODAY (May 13)** | **WEDNESDAY — POST-DEADLINE.** Reservation #15436626 deadline has now passed. **Check NZCO portal now:** (A) if certificate was issued → download, save, mark incorporation complete, begin post-incorporation steps; (B) if reservation lapsed → engage NZ solicitor, check name availability, file new reservation (NZD $10) and re-apply. | Corey | [ ] |
+| **Done (May 13)** | **WEDNESDAY — POST-DEADLINE DAY 1.** Reservation #15436626 deadline passed May 12. Checked NZCO portal — outcome unknown at session update. See May 14 row. | Corey | [ ] |
+| **TODAY (May 14)** | **THURSDAY — POST-DEADLINE DAY 2.** Reservation #15436626 deadline passed May 12. Outcome still unconfirmed. **Check NZCO portal now:** (A) if certificate was issued → download, save, mark incorporation complete, begin post-incorporation; (B) if reservation lapsed → engage NZ solicitor, check name availability, file new reservation (NZD $10) and re-apply immediately. | Corey | [ ] |
 
 > **Recommended registered office providers (NZ):**
 > - **Incorporated.nz** — common provider, purpose-built for overseas founders
@@ -73,7 +74,7 @@
 
 | Item | Reference | Status | Deadline | Notes |
 |------|-----------|--------|----------|-------|
-| ZYNTHIO LIMITED — name reservation | #15436626 | **DEADLINE PASSED** | May 12, 2026 (yesterday) | Check NZCO portal — status unknown |
+| ZYNTHIO LIMITED — name reservation | #15436626 | **DEADLINE PASSED** | May 12, 2026 (two days ago) | Check NZCO portal — status unknown |
 | ZYNTHIO LIMITED — incorporation | — | **UNKNOWN — CHECK PORTAL** | May 12, 2026 (passed) | Filed Apr 21 — either certificate was issued (incorporated ✓) or reservation lapsed (re-apply) |
 | Registered office (NZ) | — | Arranged (confirmed Apr 18) | Before incorporation | Done |
 | NZ registered office service | — | Engaged (confirmed Apr 18) | Before incorporation | Done |
@@ -239,8 +240,9 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 | **2026-05-09** | *(Done — Saturday)* — **WEEKEND — Companies Office closed.** No action possible. |
 | **2026-05-10** | *(Done — Sunday)* — **WEEKEND — Companies Office closed.** No action possible. |
 | **2026-05-11** | *(Done — Monday — BD15 since filing)* — Called Companies Office. Escalated to supervisor/manager level. Followed up on Friday May 8 call. Provided application reference number #15436626. |
-| **2026-05-12** | *(Yesterday — Tuesday — BD16 since filing)* — **HARD DEADLINE — name reservation #15436626 deadline.** Status unknown — check NZCO portal to confirm outcome. |
-| **2026-05-13** | *(TODAY — Wednesday — post-deadline)* — Check NZCO portal immediately. Scenario A (certificate issued): download, save, mark complete, begin post-incorporation. Scenario B (lapsed): engage NZ solicitor, check name availability, file new reservation + re-apply. |
+| **2026-05-12** | *(Done — Tuesday — BD16 since filing)* — **HARD DEADLINE — name reservation #15436626 deadline.** Status unknown — check NZCO portal to confirm outcome. |
+| **2026-05-13** | *(Done — Wednesday — post-deadline day 1)* — Checked NZCO portal. Outcome unconfirmed at session update. |
+| **2026-05-14** | *(TODAY — Thursday — post-deadline day 2)* — Check NZCO portal immediately. Scenario A (certificate issued): download, save, mark complete, begin post-incorporation. Scenario B (lapsed): engage NZ solicitor, check name availability, file new reservation (NZD $10) and re-apply. |
 | TBD | IPONZ examination report for SongPal TM #1318588 |
 | TBD | Annual return due (12 months post-incorporation) |
 
@@ -263,4 +265,4 @@ Under the **Companies Act 1993, s 10(2A)** (as amended), a New Zealand company m
 
 ---
 
-*Last updated: 2026-05-13 (Session 32) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-05-14 (Session 33) | Maintained by: Corey McIvor / KERVALON*

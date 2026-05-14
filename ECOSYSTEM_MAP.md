@@ -1,6 +1,6 @@
 # ECOSYSTEM MAP — Zynthio
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--14-blue)
 
 > How the seven Zynthio brands connect, depend on each other, and form one sovereign creative-tech ecosystem.
 
@@ -15,17 +15,17 @@
          │       Corey McIvor • NZ/AU • Nicaragua           │
          └──────┬──────────────┬──────────────┬─────────────┘
                 │              │              │
-       ┌────────▼───┐   ┌──────▼──────┐  ┌───▼──────────┐
+       ┌────────▼───┐   ┌──────▼─────┐  ┌───▼──────────┐
        │ COREINTENT │   │  KERVALON   │  │  DJ ZYNROSE  │
        │ Dev Studio │   │  Legal / IP │  │ Music Artist │
-       └────────┬───┘   └──────┬──────┘  └───┬──────────┘
+       └────────┬───┘   └──────┬─────┘  └───┬──────────┘
                 │              │ (protects)   │ (creates with)
        ┌────────▼───┐          │              │
        │  CoreeyAI  │          │              │
        │  AI Engine │          │              │
        └────────┬───┘          │              │
                 │              │              │
-       ┌────────▼──────────────▼──────────────▼──────┐
+       ┌────────▼──────────────▼──────────────▼─────┐
        │                  SongPal                     │
        │         AI Audio Production Platform         │
        │           TM: IPONZ #1318588                 │
@@ -162,14 +162,14 @@ ZYNTHIO ──governs──► All brands · captures value · faces market
 ┌────────────────────────────────────────────────────────────────┐
 │                    EXTERNAL AI SERVICES                        │
 │  Claude (Anthropic)  │  Grok (xAI)  │  Perplexity  │  Suno   │
-└───────────────────┬────────────────────────────────────────────┘
+└───────────────────┬──────────────────────────────────────────┘
                     │ (consumed via)
 ┌───────────────────▼────────────────────────────────────────────┐
 │                       CoreeyAI                                 │
 │     Model orchestration · Prompt engineering · Agentic flows   │
 └──────────┬────────────────────────────┬───────────────────────┘
            │                            │
-┌──────────▼──────────┐     ┌───────────▼────────────────────────┐
+┌──────────▼──────────┐     ┌─────────▼────────────────────────┐
 │       SongPal       │     │             MOSOKO                  │
 │  AI music platform  │     │   Adaptive learning engine          │
 └─────────────────────┘     └────────────────────────────────────┘
@@ -210,7 +210,7 @@ Every brand reinforces every other. No filler. All signal.
 
 ---
 
-## Current State Snapshot — May 13, 2026
+## Current State Snapshot — May 14, 2026
 
 A clear-eyed view of what is live, what is in progress, and what is planned.
 
@@ -233,7 +233,7 @@ A clear-eyed view of what is live, what is in progress, and what is planned.
 
 | Matter | State | Notes |
 |--------|-------|-------|
-| ZYNTHIO LIMITED — incorporation | **DEADLINE PASSED** | Deadline was May 12, 2026 (yesterday). Status unknown — **check NZCO portal now.** Certificate may have been issued (incorporated ✓) or reservation may have lapsed (new reservation + re-apply needed). |
+| ZYNTHIO LIMITED — incorporation | **DEADLINE PASSED** | Deadline was May 12, 2026 (two days ago). Status unknown — **check NZCO portal now.** Certificate may have been issued (incorporated ✓) or reservation may have lapsed (new reservation + re-apply needed). |
 | NZ registered office | Arranged | Engaged and confirmed (Apr 18) |
 | SongPal TM — IPONZ #1318588 | Filed | Awaiting examination |
 | Other brand TMs | Planned | Post-incorporation (Q3–Q4 2026) |
@@ -250,4 +250,4 @@ A clear-eyed view of what is live, what is in progress, and what is planned.
 
 ---
 
-*Last updated: 2026-05-13 (Session 32) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-14 (Session 33) | Maintained by: Corey McIvor / COREINTENT*
