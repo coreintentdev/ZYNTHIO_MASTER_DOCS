@@ -1,6 +1,6 @@
 # INDEX — Zynthio Master Docs
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue) ![Incorporation](https://img.shields.io/badge/incorporation-check%20portal%20now-orange)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--14-blue) ![Incorporation](https://img.shields.io/badge/incorporation-check%20portal%20now-orange)
 
 Complete table of contents for the ZYNTHIO_MASTER_DOCS repository.
 
@@ -10,7 +10,7 @@ Complete table of contents for the ZYNTHIO_MASTER_DOCS repository.
 
 | Priority | Item | Deadline | Status | Reference |
 |----------|------|----------|--------|----------|
-| **URGENT** | ZYNTHIO LIMITED incorporation — reservation #15436626 — deadline was May 12, 2026 | **PASSED (May 12)** | **CHECK NZCO PORTAL NOW — Scenario A: certificate issued → download + begin post-incorporation. Scenario B: lapsed → engage NZ solicitor, new reservation (NZD $10), re-apply.** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
+| **URGENT** | ZYNTHIO LIMITED incorporation — reservation #15436626 — deadline was May 12, 2026 | **2 DAYS POST-DEADLINE** | **CHECK NZCO PORTAL NOW — Scenario A: certificate issued → download + begin post-incorporation. Scenario B: lapsed → engage NZ solicitor, new reservation (NZD $10), re-apply immediately.** | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
 | HIGH | SongPal IPONZ TM #1318588 — monitor for examination report | TBD | Filed — awaiting examination | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) |
 | HIGH | 4-way deploy: SIGNAL 336 + THE MIRROR ASKED A QUESTION | Q2 2026 | In progress | [brands/DJ_ZYNROSE/ROADMAP.md](brands/DJ_ZYNROSE/ROADMAP.md) |
 
@@ -189,4 +189,4 @@ brands/<BRAND>/
 
 ---
 
-*Last updated: 2026-05-13 (Session 32) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-14 (Session 33) | Maintained by: Corey McIvor / COREINTENT*

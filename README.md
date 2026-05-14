@@ -1,6 +1,6 @@
 # ZYNTHIO MASTER DOCS
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Brands](https://img.shields.io/badge/brands-7-purple) ![Founded](https://img.shields.io/badge/founded-2026-orange) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue) ![Incorporation](https://img.shields.io/badge/incorporation-check%20portal%20now-orange)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Brands](https://img.shields.io/badge/brands-7-purple) ![Founded](https://img.shields.io/badge/founded-2026-orange) ![Updated](https://img.shields.io/badge/updated-2026--05--14-blue) ![Incorporation](https://img.shields.io/badge/incorporation-check%20portal%20now-orange)
 
 > **Central documentation hub for the entire Zynthio ecosystem.**
 > Founder: Corey McIvor — NZ/AU citizen, based in Nicaragua.
@@ -10,7 +10,7 @@
 ## INCORPORATION STATUS — ACTION REQUIRED
 
 > **ZYNTHIO LIMITED — NAME RESERVATION #15436626 — DEADLINE PASSED (MAY 12, 2026)**
-> The incorporation deadline was **yesterday (May 12, 2026)**. Application filed April 21 — status as of this update is **unknown**.
+> The incorporation deadline was **two days ago (May 12, 2026)**. Application filed April 21 — status as of this update is **unknown**.
 >
 > **Check the NZCO portal immediately** — [companies.govt.nz](https://www.companies.govt.nz)
 >
@@ -74,4 +74,4 @@ Zynthio is a sovereign AI-powered creative and technology ecosystem built by Cor
 
 ---
 
-*Last updated: 2026-05-13 (Session 32)*
+*Last updated: 2026-05-14 (Session 33)*
