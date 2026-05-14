@@ -1,6 +1,6 @@
 # FOUNDER BRIEF — Zynthio
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue) ![Incorporation](https://img.shields.io/badge/incorporation-check%20portal%20now-orange)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--14-blue) ![Incorporation](https://img.shields.io/badge/incorporation-check%20portal%20now-orange)
 
 > Quick-reference operational dashboard for Corey McIvor.
 > Everything you need on one page. Deep detail lives in the linked docs.
@@ -11,7 +11,7 @@
 
 | Priority | Action | Reference | Deadline |
 |----------|--------|-----------|----------|
-| **1** | **INCORPORATION STATUS UNKNOWN — CHECK NZCO PORTAL NOW.** Deadline was yesterday (May 12, 2026). **Scenario A — certificate issued:** download it, update `NZ_COMPLIANCE.md` and `INCORPORATION_CHECKLIST.md` to mark incorporation complete, begin post-incorporation steps. **Scenario B — reservation lapsed:** engage NZ solicitor immediately, check name availability on [companies.govt.nz](https://www.companies.govt.nz), file new reservation (NZD $10) and re-apply. | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | **DEADLINE PASSED — May 12, 2026 — check portal now** |
+| **1** | **INCORPORATION STATUS UNKNOWN — CHECK NZCO PORTAL NOW.** Deadline was two days ago (May 12, 2026). **Scenario A — certificate issued:** download it, update `NZ_COMPLIANCE.md` and `INCORPORATION_CHECKLIST.md` to mark incorporation complete, begin post-incorporation steps. **Scenario B — reservation lapsed:** engage NZ solicitor immediately, check name availability on [companies.govt.nz](https://www.companies.govt.nz), file new reservation (NZD $10) and re-apply. | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | **DEADLINE PASSED — May 12, 2026 — check portal now** |
 | **2** | Once incorporated — update all brand docs to remove "pending incorporation" language | [INCORPORATION_CHECKLIST.md](INCORPORATION_CHECKLIST.md) | Within 30 days |
 | **3** | Check with IPONZ whether SongPal TM #1318588 applicant assignment to ZYNTHIO LIMITED is needed | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | Post-incorporation |
 | **4** | Monitor IPONZ portal for SongPal TM #1318588 examination report | [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) | Ongoing |
@@ -142,4 +142,4 @@
 
 ---
 
-*Last updated: 2026-05-13 (Session 32) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-14 (Session 33) | Maintained by: Corey McIvor / COREINTENT*

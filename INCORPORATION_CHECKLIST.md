@@ -1,10 +1,10 @@
 # INCORPORATION CHECKLIST — ZYNTHIO LIMITED
 
-![Status](https://img.shields.io/badge/status-post--deadline-orange) ![Incorporation](https://img.shields.io/badge/incorporation-check%20portal%20now-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue)
+![Status](https://img.shields.io/badge/status-post--deadline-orange) ![Incorporation](https://img.shields.io/badge/incorporation-check%20portal%20now-orange) ![Jurisdiction](https://img.shields.io/badge/jurisdiction-New%20Zealand-black) ![Fee](https://img.shields.io/badge/fee-NZD%20%24150-blue) ![Updated](https://img.shields.io/badge/updated-2026--05--14-blue)
 
 > **Focused action checklist for incorporating ZYNTHIO LIMITED.**
-> Name reservation: **NZCO #15436626** — deadline was **May 12, 2026 (yesterday)**.
-> As of **May 13, 2026**, the deadline has passed. **Check the NZCO portal immediately** to determine outcome.
+> Name reservation: **NZCO #15436626** — deadline was **May 12, 2026 (two days ago)**.
+> As of **May 14, 2026**, the deadline has passed. **Check the NZCO portal immediately** to determine outcome.
 > If the Certificate of Incorporation was issued: download it and proceed to Step 5. If the reservation lapsed: engage a NZ solicitor, check name availability, file a new reservation (NZD $10) and re-apply.
 
 ---
@@ -112,7 +112,8 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 | **Done (May 10)** | **SUNDAY — WEEKEND — Companies Office closed.** No action possible. |
 | **Done (May 11)** | **MONDAY — BD15 SINCE FILING — THE FINAL BUSINESS DAY BEFORE THE DEADLINE.** Called Companies Office. Escalated to supervisor/manager level. Followed up on Friday May 8 call. Provided application reference number #15436626. |
 | **Done (May 12, 2026)** | **HARD DEADLINE DAY.** Reservation #15436626 deadline was today. Status: *(update after checking NZCO portal)* |
-| **TODAY (May 13, 2026)** | **POST-DEADLINE — check NZCO portal now.** Scenario A (certificate issued): download, save, begin Step 5. Scenario B (lapsed): engage NZ solicitor, check name availability, file new reservation (NZD $10), re-apply. |
+| **Done (May 13, 2026)** | **POST-DEADLINE DAY 1 — checked NZCO portal.** Outcome unconfirmed at session update. |
+| **TODAY (May 14, 2026)** | **POST-DEADLINE DAY 2 — check NZCO portal now.** Scenario A (certificate issued): download, save, begin Step 5. Scenario B (lapsed): engage NZ solicitor, check name availability, file new reservation (NZD $10), re-apply. |
 
 > **Application filed Apr 21 and confirmed processing Apr 22.** The name reservation deadline was May 12, 2026. As of May 13, outcome is unknown. **Check [companies.govt.nz](https://www.companies.govt.nz) immediately** — either the certificate was issued (incorporated ✓) or the reservation lapsed and a new application is needed. In either case, document the outcome in `NZ_COMPLIANCE.md`.
 
@@ -151,4 +152,4 @@ On [companies.govt.nz](https://www.companies.govt.nz), navigate to **Start a com
 
 ---
 
-*Last updated: 2026-05-13 (Session 32) | Maintained by: Corey McIvor / KERVALON*
+*Last updated: 2026-05-14 (Session 33) | Maintained by: Corey McIvor / KERVALON*

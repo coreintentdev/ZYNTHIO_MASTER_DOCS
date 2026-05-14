@@ -1,6 +1,6 @@
 # COMPETITION ENTRY — Zynthio
 
-![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue)
+![Status](https://img.shields.io/badge/status-ready-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--14-blue)
 
 > One-page summary for startup, AI, and music industry competitions.
 
@@ -47,7 +47,7 @@ Zynthio is **seven interconnected brands** operating as one system:
 
 ## Traction & Proof Points
 
-*As of 2026-05-13 — all items verified:*
+*As of 2026-05-14 — all items verified:*
 
 - **Trademark filed:** SongPal — IPONZ #1318588 (New Zealand, filed and awaiting examination)
 - **Company incorporating:** ZYNTHIO LIMITED — NZCO #15436626 (application filed Apr 21 — check portal for certificate status)
@@ -127,7 +127,7 @@ Zynthio is **seven interconnected brands** operating as one system:
 ## Ask
 
 | Competition Type | What We're Seeking |
-|-----------------|-----------------|
+|-----------------|-------------------|
 | Startup competition | Seed capital / accelerator access — target NZD $150–250K |
 | AI competition | Recognition, partnerships, API credits |
 | Music/creative competition | Industry exposure, label/distributor introductions |
@@ -200,4 +200,4 @@ Domain: [zynthio.ai](https://zynthio.ai)
 
 ---
 
-*This document is current as of 2026-05-13 (Session 32). For the latest status see [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) and [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md). Financial projections: [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md).*
+*This document is current as of 2026-05-14 (Session 33). For the latest status see [NZ_COMPLIANCE.md](NZ_COMPLIANCE.md) and [ECOSYSTEM_MAP.md](ECOSYSTEM_MAP.md). Financial projections: [FINANCIAL_MODEL.md](FINANCIAL_MODEL.md).*
