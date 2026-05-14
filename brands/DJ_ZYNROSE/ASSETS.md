@@ -1,6 +1,6 @@
 # ASSETS — DJ Zynrose
 
-![Updated](https://img.shields.io/badge/updated-2026--05--13-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--14-blue)
 
 > Brand and artist asset registry for DJ Zynrose.
 
@@ -25,7 +25,7 @@
 |------|-----|-------|
 | Void Black | `#050505` | Primary — deep space feel |
 | Signal Gold | `#C9A84C` | Artist accent — matches ZYNTHIO signal |
-| Rose Violet | `#9B2D6B` | "Zynrose" colour — artist warmth |
+| Rose Violet | `#9B2D6B` | “Zynrose” colour — artist warmth |
 | Ice White | `#E0E8F0` | Text, contrast on dark |
 | Pulse Red | `#FF2D55` | Energy moments, beat drops |
 
@@ -44,7 +44,7 @@
 ## Track Catalogue
 
 | Track | Release Date | Status | Platforms |
-|-------|-------------|--------|-----------|
+|-------|-------------|--------|----------|
 | SIGNAL 336 | TBD | Written — deploy pending | *(TBD)* |
 | THE MIRROR ASKED A QUESTION | TBD | Written — deploy pending | *(TBD)* |
 
@@ -80,8 +80,8 @@
 1. Signal Gold is the connective tissue between DJ Zynrose and ZYNTHIO — always use it to signal the connection
 2. Rose Violet is unique to DJ Zynrose — do not use it for other Zynthio brands
 3. All DJ Zynrose releases are copyright Corey McIvor / ZYNTHIO — include in all metadata
-4. Press photos must be credited: "Photo: *(add photographer)*" or "Photo: Corey McIvor"
+4. Press photos must be credited: “Photo: *(add photographer)*” or “Photo: Corey McIvor”
 
 ---
 
-*Last updated: 2026-05-13 | Maintained by: Corey McIvor*
+*Last updated: 2026-05-14 | Maintained by: Corey McIvor*
