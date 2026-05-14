@@ -1,9 +1,22 @@
 # CHANGELOG — Zynthio Master Docs
 
-![Updated](https://img.shields.io/badge/updated-2026--05--13-blue)
+![Updated](https://img.shields.io/badge/updated-2026--05--14-blue)
 
 All significant changes to this documentation repository are recorded here.
 Format: `YYYY-MM-DD | Type | Description`
+
+---
+
+## 2026-05-14 (Session 33)
+
+### Updated — Competition Entry Materials
+
+- `COMPETITION_PORTFOLIO.md` — Full rewrite: sharpened executive summary, tightened problem statement, added min cash reserve and max positions to gTrade risk parameters, updated combined TAM to ~$21.5B+, refreshed traction metrics and financial projections; date badge and footer to 2026-05-14 / Session 33
+- `PITCH_DECK_OUTLINE.md` — Full rewrite: added speaker notes to every slide with delivery guidance, added rehearsal target in delivery notes, tightened slide content for max 80–100 words per slide; date badge and footer to 2026-05-14 / Session 33
+- `DEMO_SCRIPT.md` — Full rewrite: added rehearsal protocol section (5-step preparation), added timer to pre-demo checklist, tightened timing cues, expanded WiFi-failure fallback with local GitHub clone option; date badge and footer to 2026-05-14 / Session 33
+- `PRESS_KIT.md` — Full rewrite: added new quotes on building alone ("Solo founder doesn't mean small ambition", "I didn't wait for a co-founder"), updated combined TAM to ~$21.5B+; date badge and footer to 2026-05-14 / Session 33
+- `AWARDS_TRACKER.md` — Full rewrite: expanded from 21 to 24 competition targets; added Y Combinator (remote-friendly batches), Web Summit ALPHA Programme, TechCrunch Disrupt Startup Battlefield; upgraded Product Hunt entry to include Golden Kitty Awards; added YC research to May/July calendar items; date badge and footer to 2026-05-14 / Session 33
+- `CHANGELOG.md` — This entry; badge updated to 2026-05-14
 
 ---
 

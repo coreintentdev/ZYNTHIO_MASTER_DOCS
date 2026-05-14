@@ -1,6 +1,6 @@
 # AWARDS TRACKER — Zynthio 2026
 
-![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--13-blue) ![Year](https://img.shields.io/badge/year-2026-purple) ![Targets](https://img.shields.io/badge/targets-21-orange)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Updated](https://img.shields.io/badge/updated-2026--05--14-blue) ![Year](https://img.shields.io/badge/year-2026-purple) ![Targets](https://img.shields.io/badge/targets-24-orange)
 
 > Tracking relevant competitions, awards, grants, and accelerators for Zynthio across AI, fintech, music technology, and startup categories.
 
@@ -10,7 +10,7 @@
 
 Before entering any competition, confirm:
 
-- [ ] ZYNTHIO LIMITED incorporated (deadline **May 12, 2026**)
+- [ ] ZYNTHIO LIMITED incorporation status — check NZCO portal ([companies.govt.nz](https://www.companies.govt.nz))
 - [ ] Founder contact email added to all submission materials
 - [ ] Check eligibility: entity type, jurisdiction, stage, team size
 - [ ] Tailor the ask to what the specific competition offers
@@ -31,19 +31,22 @@ Before entering any competition, confirm:
 | 6 | MIDEM Accelerator | Music industry | Not started | TBC (check website) | **HIGH** |
 | 7 | Music Ally LAUNCH | Music tech | Not started | TBC (check website) | **HIGH** |
 | 8 | Antler Residency (AU/NZ) | Startup | Not started | Rolling cohorts | **HIGH** |
-| 9 | Edmund Hillary Fellowship | Global impact | Not started | TBC (check website) | MEDIUM |
-| 10 | NZ Music Commission | Music industry | Not started | Rolling | MEDIUM |
-| 11 | Creative Australia Grants | Arts / Music | Not started | TBC | MEDIUM |
-| 12 | Product Hunt Hackathon | Product / AI | Not started | TBC | MEDIUM |
-| 13 | ITU AI for Good | AI impact | Not started | TBC | MEDIUM |
-| 14 | Techweek NZ | Tech / Startup | Not started | TBC (May–June 2026) | MEDIUM |
-| 15 | NZ Hi-Tech Awards | Tech | Not started | TBC (typically H1) | MEDIUM |
-| 16 | FinTech Australia Awards | Fintech / AI | Not started | TBC (typically H2) | MEDIUM |
-| 17 | NZX Fintech Accelerator | Fintech / Trading | Not started | TBC | MEDIUM |
-| 18 | Seedstars Global | Startup | Not started | Rolling | MEDIUM |
-| 19 | AWS Startup Programme | Cloud / AI | Not started | Rolling | LOW |
-| 20 | Google for Startups | Cloud / AI | Not started | Rolling | LOW |
-| 21 | Anthropic Partner / Builder | AI | Not started | Rolling | LOW |
+| 9 | Hillfarrance / Y Combinator (remote-friendly) | Startup | Not started | Rolling / batch | **HIGH** |
+| 10 | Edmund Hillary Fellowship | Global impact | Not started | TBC (check website) | MEDIUM |
+| 11 | NZ Music Commission | Music industry | Not started | Rolling | MEDIUM |
+| 12 | Creative Australia Grants | Arts / Music | Not started | TBC | MEDIUM |
+| 13 | Product Hunt Launch / Golden Kitty | Product / AI | Not started | TBC | MEDIUM |
+| 14 | ITU AI for Good | AI impact | Not started | TBC | MEDIUM |
+| 15 | Techweek NZ | Tech / Startup | Not started | TBC (May–June 2026) | MEDIUM |
+| 16 | NZ Hi-Tech Awards | Tech | Not started | TBC (typically H1) | MEDIUM |
+| 17 | FinTech Australia Awards | Fintech / AI | Not started | TBC (typically H2) | MEDIUM |
+| 18 | NZX Fintech Accelerator | Fintech / Trading | Not started | TBC | MEDIUM |
+| 19 | Seedstars Global | Startup | Not started | Rolling | MEDIUM |
+| 20 | Web Summit ALPHA Programme | Startup | Not started | TBC (typically H2) | MEDIUM |
+| 21 | TechCrunch Disrupt Startup Battlefield | Startup / AI | Not started | TBC (typically H2) | MEDIUM |
+| 22 | AWS Startup Programme | Cloud / AI | Not started | Rolling | LOW |
+| 23 | Google for Startups | Cloud / AI | Not started | Rolling | LOW |
+| 24 | Anthropic Partner / Builder | AI | Not started | Rolling | LOW |
 
 ---
 
@@ -252,6 +255,19 @@ Before entering any competition, confirm:
 | URL | [musically.com](https://www.musically.com) |
 | Status | **Not started** |
 
+### Y Combinator (Remote-Friendly Batches)
+
+| Field | Detail |
+|-------|--------|
+| Organiser | Y Combinator |
+| Category | Startup accelerator |
+| Fit | **HIGH** — YC accepts remote/international founders; strong technical founder narrative |
+| What they offer | $500K investment (standard deal), mentorship, network, Demo Day |
+| Eligibility | Any stage, any location, strong technical founder preferred |
+| Deadline | Batch-based — typically 2 application windows per year |
+| Zynthio angle | Solo technical founder who built the entire stack; live infrastructure pre-revenue; multi-vertical ecosystem; gTrade self-funding narrative is unique |
+| Status | **Not started** — research current batch deadline |
+
 ### Seedstars Global Competition
 
 | Field | Detail |
@@ -262,20 +278,46 @@ Before entering any competition, confirm:
 | What they offer | Investment (up to USD $500K), global showcase, mentorship |
 | Eligibility | Startups from emerging markets or with emerging market focus |
 | Deadline | Rolling — regional events feed into global summit |
-| Zynthio angle | Founder based in Nicaragua, building for global independent creators; NZ-incorporated but globally distributed; unique self-funding model means less capital dependency |
+| Zynthio angle | Founder based in Nicaragua, building for global independent creators; NZ-incorporated but globally distributed; unique self-funding model |
 | URL | [seedstars.com](https://www.seedstars.com) |
 | Status | **Not started** |
 
-### Product Hunt Global Hackathon
+### Web Summit ALPHA Programme
+
+| Field | Detail |
+|-------|--------|
+| Organiser | Web Summit |
+| Category | Early-stage startup showcase |
+| Fit | MEDIUM — massive global visibility; strong for brand-building and investor introductions |
+| What they offer | Exhibition space, pitch competition, media access, investor networking |
+| Eligibility | Early-stage startups (typically < 3 years, < $4M raised) |
+| Deadline | Check website — typically H2 applications |
+| Zynthio angle | AI + music + fintech convergence story; sovereign architecture; seven-brand ecosystem is visually compelling for booth/demo |
+| Status | **Not started** |
+
+### TechCrunch Disrupt Startup Battlefield
+
+| Field | Detail |
+|-------|--------|
+| Organiser | TechCrunch |
+| Category | Startup pitch competition |
+| Fit | MEDIUM — high visibility, strong for AI + creative tech narratives |
+| What they offer | Pitch competition, media coverage, investor access, $100K prize |
+| Eligibility | Early-stage startups |
+| Deadline | Check website — typically H2 |
+| Zynthio angle | Multi-model AI orchestration + self-funding trading engine + music production = unique convergence story |
+| Status | **Not started** |
+
+### Product Hunt Launch / Golden Kitty Awards
 
 | Field | Detail |
 |-------|--------|
 | Organiser | Product Hunt |
 | Category | Product / AI |
 | Fit | MEDIUM — good for SongPal launch visibility and product community |
-| What they offer | Visibility, community, potential featuring |
-| Eligibility | Open — product launch or hackathon entry |
-| Deadline | Various — check website |
+| What they offer | Visibility, community, potential featuring, Golden Kitty nomination |
+| Eligibility | Open — product launch |
+| Deadline | Launch when ready — Golden Kitty nominations typically year-end |
 | Zynthio angle | SongPal AI platform launch; CoreeyAI as technical innovation |
 | Status | **Not started** |
 
@@ -348,13 +390,13 @@ Before entering any competition, confirm:
 
 | Period | Priority Actions |
 |--------|------------------|
-| **May 2026** | Incorporate. Apply for Callaghan Innovation R&D Grant. Research Creative HQ, Lightning Lab, and Antler deadlines. |
+| **May 2026** | Confirm incorporation status. Apply for Callaghan Innovation R&D Grant. Research Creative HQ, Lightning Lab, and Antler deadlines. Research YC batch timing. |
 | **June 2026** | Submit to Callaghan Innovation. Apply to Creative HQ or Lightning Lab (whichever has open cohort). Register for Techweek NZ. Apply to Antler. |
-| **July 2026** | Apply to Startmate (AU). Prepare SXSW Sydney application. Begin Music Ally LAUNCH application. |
-| **August 2026** | Submit SXSW Sydney. Apply to MIDEM Accelerator. Apply for cloud credits (AWS, GCP). Research Seedstars regional events. |
+| **July 2026** | Apply to Startmate (AU). Prepare SXSW Sydney application. Begin Music Ally LAUNCH application. Research YC batch application. |
+| **August 2026** | Submit SXSW Sydney. Apply to MIDEM Accelerator. Apply for cloud credits (AWS, GCP). Research Seedstars regional events. Apply to Web Summit ALPHA. |
 | **September 2026** | Submit to NZ Music Commission (DJ Zynrose angle). Begin Edmund Hillary Fellowship application. Apply to FinTech Australia Awards (gTrade angle). |
-| **October 2026** | Product Hunt launch for SongPal beta. Apply to ITU AI for Good. Begin NZ Hi-Tech Awards submission. |
-| **November 2026** | Apply to Creative Australia Grants. Prepare Anthropic Builder Programme application. |
+| **October 2026** | Product Hunt launch for SongPal beta. Apply to ITU AI for Good. Begin NZ Hi-Tech Awards submission. Research TechCrunch Disrupt deadline. |
+| **November 2026** | Apply to Creative Australia Grants. Prepare Anthropic Builder Programme application. Submit to Golden Kitty Awards if eligible. |
 | **December 2026** | Review all outcomes. Plan 2027 competition strategy. Prepare for Series A positioning. |
 
 ---
@@ -390,4 +432,4 @@ For each competition submission, prepare:
 
 ---
 
-*Last updated: 2026-05-13 (Session 32) | Maintained by: Corey McIvor / COREINTENT*
+*Last updated: 2026-05-14 (Session 33) | Maintained by: Corey McIvor / COREINTENT*
