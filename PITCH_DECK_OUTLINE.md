@@ -20,6 +20,8 @@
 
 **Footer:** Corey McIvor | Founder | NZ/AU | zynthio.ai
 
+**Speaker note:** Don't linger. State your name, the company, and the tagline. Move to the problem within 15 seconds.
+
 ---
 
 ## Slide 2 — The Problem
@@ -30,15 +32,17 @@
 
 1. **AI tools are extractive.** Generative music platforms capture value from creators — expensive subscriptions, opaque models, IP-hostile terms. Creators produce; platforms profit.
 
-2. **AI trading is gatekept.** Algorithmic trading infrastructure is institutional-grade and institutional-priced. Retail traders get black-box signal subscriptions with no transparency, no accountability, and no open architecture. Performance claims are unverifiable.
+2. **AI trading is gatekept.** Algorithmic trading infrastructure is institutional-grade and institutional-priced. Retail traders get black-box signal subscriptions with no transparency and no accountability. Performance claims are unverifiable.
 
-3. **Education is disconnected.** Music schools teach legacy workflows. None of them teach the AI tools reshaping the industry — because they don't build tools. The gap between curriculum and reality grows every quarter.
+3. **Education is disconnected.** Music schools teach legacy workflows. None teach the AI tools reshaping the industry — because they don't build tools. The gap between curriculum and reality grows every quarter.
 
 4. **IP protection is inaccessible.** Trademarks, licensing, and copyright strategy are locked behind expensive legal gatekeepers. Creators can produce at scale but cannot protect at scale.
 
 **Key stat:** The combined addressable market across music production, AI music, online education, and AI-assisted retail trading exceeds **$21 billion** — and no one offers the full stack.
 
 **Visual:** Four icons (lock, broken chain, shield with X, blindfold). Simple, dark background.
+
+**Speaker note:** Pick two of the four pain points that match this audience. Music crowd → lead with #1 and #3. Fintech crowd → lead with #2. Startup crowd → hit all four fast.
 
 ---
 
@@ -64,6 +68,8 @@ ZYNTHIO (Parent — NZ incorporated)
 
 **Visual:** Clean architecture diagram with Signal Gold connections between brands on dark background.
 
+**Speaker note:** Point at the diagram. Name each brand in under 10 seconds total. Then pause on gTrade: "This is how we stay sovereign while we build."
+
 ---
 
 ## Slide 4 — How It Works
@@ -84,6 +90,8 @@ ZYNTHIO (Parent — NZ incorporated)
 **Self-funding loop:** gTrade → development capital → better tools → more users → more data → smarter AI. No external funding required to operate.
 
 **Visual:** Circular flow diagram. Six steps, Signal Gold arrows, brand logos at each node.
+
+**Speaker note:** Trace the circle with your hand. Land on "the artist is the product demo" — this is the moment that differentiates you from every other pitch.
 
 ---
 
@@ -113,6 +121,8 @@ ZYNTHIO (Parent — NZ incorporated)
 
 **Visual:** Market size bars with Zynthio's position highlighted. Growth arrows on AI segment.
 
+**Speaker note:** Don't read the numbers — gesture at the total. Say "Twenty-one billion, growing fast, and nobody owns the full stack." Then move.
+
 ---
 
 ## Slide 6 — Business Model
@@ -135,6 +145,8 @@ ZYNTHIO (Parent — NZ incorporated)
 - 12-month LTV: NZD $240–360
 
 **Visual:** Revenue stream diagram with brand-coloured bars. gTrade shown as separate self-funding loop.
+
+**Speaker note:** Emphasise that one revenue stream is already live (gTrade). Every other early-stage startup on this stage is burning cash. You're not.
 
 ---
 
@@ -164,6 +176,8 @@ ZYNTHIO (Parent — NZ incorporated)
 
 **Visual:** Timeline with checkmarks (done) and open circles (in progress). Clean, no false metrics.
 
+**Speaker note:** Pause before "what we don't have yet." Make eye contact. Honesty here is the most powerful thing on the slide. Judges remember founders who don't bullshit.
+
 ---
 
 ## Slide 8 — Competitive Landscape
@@ -185,6 +199,8 @@ ZYNTHIO (Parent — NZ incorporated)
 
 **Visual:** Feature matrix with checkmarks. Competitors greyed out. Zynthio column in Signal Gold.
 
+**Speaker note:** Don't read the grid. Say: "Every competitor does one thing. We do all of them — and the trading engine funds it." Point at the Zynthio column.
+
 ---
 
 ## Slide 9 — The Founder
@@ -198,12 +214,14 @@ ZYNTHIO (Parent — NZ incorporated)
 - **Built:** The entire Zynthio stack — architecture, code, AI, brand, legal filings, music, and documentation. Solo.
 
 **Why this founder:**
-- The engineer *is* the artist. The person building the tools is also the person using them to create music. This is not theoretical — it's tested daily.
+- The engineer *is* the artist. The person building the tools is the person using them to create music. Not theoretical — tested daily.
 - NZ/AU citizen — qualified NZ company director, aligned with NZ tech ecosystem
 - Resourceful: bootstrapped with ~NZD $300–500/month burn, self-funded via gTrade
 - Built a seven-brand architecture with live infrastructure before raising a single dollar
 
 **Visual:** Founder photo (if available). GitHub contribution graph. Clean, minimal layout.
+
+**Speaker note:** This is the emotional centre of the pitch. Slow down. "I built every layer myself — the AI, the code, the music, and the legal filings. That's not a limitation. That's alignment."
 
 ---
 
@@ -236,6 +254,8 @@ ZYNTHIO (Parent — NZ incorporated)
 
 **Visual:** Use-of-funds pie chart. 12-month milestone timeline. zynthio.ai + contact info.
 
+**Speaker note:** Deliver the closing line from memory. Don't read it. Make eye contact. Silence after. Let the room sit with it.
+
 ---
 
 ## Appendix — Slide Design Guidelines
@@ -264,6 +284,7 @@ ZYNTHIO (Parent — NZ incorporated)
   - For fintech competitions: lead with slides 3, 6 (CoreIntent / gTrade competition model).
   - For startup competitions: lead with slides 5–6 (market + business model).
 - **Demo integration:** If live demo is allowed, insert between slides 7 and 8. See [DEMO_SCRIPT.md](DEMO_SCRIPT.md).
+- **Rehearsal target:** Run the full deck aloud 3 times before any live pitch. Time yourself. Cut anything that feels like filler.
 
 ---
 

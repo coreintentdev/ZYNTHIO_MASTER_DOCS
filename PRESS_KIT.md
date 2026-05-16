@@ -11,7 +11,7 @@
 
 ### The Short Version (50 words)
 
-Zynthio is a sovereign AI-powered creative ecosystem built by Corey McIvor — a NZ/AU developer, producer, and AI engineer operating from Nicaragua. Seven interconnected brands deliver AI music production, multi-model orchestration, education, IP protection, and autonomous competition-based trading. One founder. One stack. Incorporating in New Zealand, May 2026.
+Zynthio is a sovereign AI-powered creative ecosystem built by Corey McIvor — a NZ/AU developer, producer, and AI engineer operating from Nicaragua. Seven interconnected brands deliver AI music production, multi-model orchestration, education, IP protection, and autonomous competition-based trading. One founder. One stack. Incorporating in New Zealand, 2026.
 
 ### The Medium Version (150 words)
 
@@ -31,7 +31,7 @@ The architecture is deliberate. SongPal is the flagship AI music production plat
 
 The company is incorporating as ZYNTHIO LIMITED in New Zealand in May 2026. The infrastructure is live — Next.js, Python 3.11, Docker, multi-model AI integrations, and a public documentation repository on GitHub. The team is the founder. The burn rate is under NZD $500/month. The ambition is global.
 
-Zynthio is targeting a ~$21B+ combined addressable market. The seed raise is NZD $150–250K. The moat: no competitor combines AI production, education, IP infrastructure, autonomous trading, and an artist persona under one sovereign architecture.
+Zynthio is targeting a ~$21B+ combined addressable market across music production, AI music, education, and AI-assisted retail trading. The seed raise is NZD $150–250K. The moat: no competitor combines AI production, education, IP infrastructure, autonomous trading, and an artist persona under one sovereign architecture.
 
 No filler. All signal.
 
@@ -100,6 +100,12 @@ MOSOKO teaches independent creators the full stack. KERVALON protects every asse
 ### On New Zealand:
 
 > "We chose New Zealand because strong governance, IP protection, and creator-friendly frameworks matter. This isn't a flag-of-convenience incorporation. It's a strategic home."
+
+### On building alone:
+
+> "Solo founder doesn't mean small ambition. It means every decision is deliberate and every line of code has one person's intent behind it."
+
+> "I didn't wait for a co-founder, a cheque, or permission. I built the stack. That's the proof."
 
 ---
 
@@ -185,7 +191,7 @@ MOSOKO teaches independent creators the full stack. KERVALON protects every asse
 | Brands | 7 interconnected brands |
 | AI models | Claude, Grok, Perplexity, Suno |
 | Tech stack | Next.js, Python 3.11, Docker, sovereign VPS |
-| Combined TAM | ~$21.4B+ |
+| Combined TAM | ~$21.5B+ |
 | Funding stage | Pre-seed (bootstrapped + gTrade self-funding) |
 | Seed target | NZD $150,000–250,000 |
 | Monthly burn | ~NZD $280–480 |
