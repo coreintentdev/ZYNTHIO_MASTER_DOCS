@@ -11,7 +11,7 @@
 
 Before going live, confirm:
 
-- [ ] VPS is accessible and services are running
+- [ ] VPS is accessible and services are running (SSH test)
 - [ ] CoreeyAI integrations responding (Claude, Grok, Perplexity)
 - [ ] ZYNTHIO_MASTER_DOCS GitHub repo is public and loaded
 - [ ] SongPal demo environment ready (or fallback: architecture walkthrough)
@@ -19,6 +19,7 @@ Before going live, confirm:
 - [ ] Browser tabs pre-loaded: zynthio.ai, GitHub repo, VPS terminal, SongPal (if available)
 - [ ] Audio output tested (for music playback segment)
 - [ ] Backup: offline screenshots / screen recording if WiFi fails
+- [ ] Timer visible to presenter (phone or second screen)
 
 ---
 
@@ -42,7 +43,7 @@ Before going live, confirm:
 
 **Say:**
 
-> "This is CoreeyAI — our multi-model AI orchestration layer. It doesn't just call one API. It routes tasks to the right model for the job — Claude for reasoning, Grok for real-time data, Perplexity for research, Suno for generation."
+> "This is CoreeyAI — our multi-model AI orchestration layer. It doesn't just call one API. It routes tasks to the right model for the job — Claude for reasoning, Grok for real-time data, Perplexity for research, Suno for audio generation."
 
 **Action:** Trigger a live CoreeyAI query — send a prompt that demonstrates model routing.
 
@@ -53,7 +54,7 @@ Before going live, confirm:
 
 **Say:**
 
-> "That's three AI models, orchestrated in one call. This is what powers SongPal — and what makes our gTrade trading bot intelligent."
+> "Three AI models, orchestrated in one call. This powers SongPal — and it's what makes our trading bot intelligent."
 
 ---
 
@@ -63,7 +64,7 @@ Before going live, confirm:
 
 **Say:**
 
-> "This is SongPal — our AI music production platform. Trademark filed in New Zealand. Built on Next.js with CoreeyAI underneath."
+> "This is SongPal — our AI music production platform. Trademark filed in New Zealand, IPONZ number 1318588. Built on Next.js with CoreeyAI underneath."
 
 **Action:** Open SongPal interface. Demonstrate:
 1. Start a new track session
@@ -73,13 +74,13 @@ Before going live, confirm:
 
 **Say:**
 
-> "That's original audio, created in seconds, using our own AI layer. The creator owns 100% of it. No licensing traps. No extraction. This is creative sovereignty."
+> "Original audio, created in seconds, using our own AI layer. The creator owns 100% of it. No licensing traps. No extraction. Creative sovereignty."
 
 **If SongPal MVP is not yet ready (fallback):**
 
 **Say:**
 
-> "SongPal is in active development — trademark filed, Next.js frontend building, beta targeting this quarter. Let me show you the architecture that powers it, and play you something it will produce."
+> "SongPal is in active development — trademark filed, beta targeting this quarter. Let me show you the architecture that powers it, and play you something from the stack."
 
 **Action:** Show the ECOSYSTEM_MAP.md architecture diagram on GitHub. Walk through the data flow:
 - CoreIntent builds → CoreeyAI thinks → SongPal creates → MOSOKO teaches → KERVALON protects
@@ -96,22 +97,23 @@ Before going live, confirm:
 
 **Say:**
 
-> "Most early-stage startups burn cash while they build. We built a different mechanism. This is gTrade — CoreIntent's autonomous trading bot."
+> "Most early-stage startups burn cash while they build. We built a different mechanism."
 
 **Action:** Show gTrade dashboard or risk configuration (config/risk.yaml).
 
 **Show:**
 - Asset coverage: BTC-PERP, ETH-PERP, SOL-PERP, XAU-PERP, XAG-PERP
 - Risk parameters: max leverage 5.0×, 1% max risk per trade, 0.8% daily loss ceiling
+- Max concurrent positions: 10
 - Status: live, autonomous, risk-managed
 
 **Say:**
 
-> "This is the CoreIntent difference. Not a subscription signal service — a competition-based model. Open architecture. Verifiable risk parameters. Max 5x leverage, 1% risk per trade, 0.8% daily loss ceiling. Every parameter is transparent."
+> "This is gTrade. Not a subscription signal service — a competition-based model. Open architecture. Every risk parameter you see here is verifiable. Max five-x leverage, one percent risk per trade, point-eight percent daily loss ceiling."
 
 **Pause.**
 
-> "This is how we stay sovereign while we build. gTrade funds development. No VC dependency. No runway anxiety. The bot competes in the market and the results fund better tools."
+> "This is how we stay sovereign. gTrade funds development. No VC dependency. No runway anxiety. The bot competes in the market and the results fund better tools."
 
 ---
 
@@ -119,7 +121,7 @@ Before going live, confirm:
 
 **Say:**
 
-> "One thing that sets Zynthio apart from every other early-stage startup I've seen — everything is documented, public, and structured."
+> "One thing that sets Zynthio apart — everything is documented, public, and structured."
 
 **Action:** Open GitHub repo (ZYNTHIO_MASTER_DOCS). Scroll through:
 - INDEX.md — master table of contents
@@ -143,7 +145,7 @@ Before going live, confirm:
 
 **Say:**
 
-> "What you just saw is not a pitch deck. It's a running system. Live infrastructure. Multi-model AI. A trademark on file. A company incorporating in New Zealand this month. An autonomous trading bot funding development. Original music written and ready to deploy. And a founder who built every layer — the code, the brand, the music, and the legal filings."
+> "What you just saw is not a pitch deck. It's a running system. Live infrastructure. Multi-model AI. A trademark on file. A company incorporating in New Zealand. An autonomous trading bot funding development. Original music written and ready to deploy. And a founder who built every layer — the code, the brand, the music, and the legal filings."
 
 **Pause. Make eye contact.**
 
@@ -176,7 +178,7 @@ Before going live, confirm:
 - Lead with music playback — open with 10 seconds of *SIGNAL 336*
 - Extend SongPal segment to 60 seconds
 - Show MOSOKO curriculum outline
-- Trim gTrade to 15 seconds — mention it as “how we self-fund” without deep dive
+- Trim gTrade to 15 seconds — mention it as "how we self-fund" without deep dive
 
 ### For fintech / trading competitions (emphasise CoreIntent / gTrade):
 - Lead with gTrade — open risk config immediately
@@ -196,6 +198,7 @@ Before going live, confirm:
 - Have offline screenshots of all key screens
 - Music clips stored locally on device
 - Risk config YAML viewable offline
+- GitHub repo cloned locally for walkthrough
 
 ---
 
@@ -208,6 +211,16 @@ Use one or two of these during the demo, depending on audience:
 - *"This is not a pitch deck looking for an engineer. The engineer is the founder."*
 - *"Competition model, not subscription model. Performance is the product."*
 - *"No filler. All signal."*
+
+---
+
+## Rehearsal Protocol
+
+1. Run through the full script once silently, reading aloud
+2. Run through with timer — hit each segment within its window
+3. Run through with live tools open — practice switching tabs under pressure
+4. Run through the WiFi-failure fallback — you should be able to deliver the whole demo offline
+5. Record yourself once and watch it back. Cut anything that feels like filler.
 
 ---
 
