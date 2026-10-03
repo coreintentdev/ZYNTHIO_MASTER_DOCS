@@ -56,7 +56,7 @@ Do not format the Orico drive. Do not delete `oricodrive`, `oricodrive_parts`, o
 | `POST /api/orchestrate` | `unauthorized origin` |
 | `ssh root@5.189.143.170` | Permission denied (publickey). This session has no VDS key and no tailnet client. |
 
-The inbox path in the 8 August Hermes note (`/root/zynthio/inbox/maccy/`) was not written. The box is up. This incident is not on the box filesystem.
+The cloud-agent session that opened this PR did not write the inbox: public SSH to `5.189.143.170` was denied. A later check from the Mac via `ssh vds` on 2026-10-03 found the relay already on the box: `/root/zynthio/inbox/maccy/INCIDENT_DRIVE_INACCESSIBLE_20261003.md` (795 bytes, mtime 2026-10-03 19:24:09 +0200). Its header says Devin on rubymcivor wrote it after the cloud agent could not.
 
 ## Report
 
