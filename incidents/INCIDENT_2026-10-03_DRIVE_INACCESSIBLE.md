@@ -75,6 +75,27 @@ Evidence: the uploaded file set listed in this incident. No drive path.
 - Do not mark the Proton offsite copy done.
 - Do not run a geo build from the v2 Nicaragua loader. The 9 September rule requires a country config first.
 
+## Recheck 2026-10-04 (no drive, read-only)
+
+Hermes health on the VDS was still `{"status":"ok"}` at 14:49 UTC. `POST /api/hermes/chat` is still not a working drop. Public HTTPS for several brand names stops on a Cloudflare "Just a moment" page, so those were checked on the origin with a Host header to `5.189.143.170`, which is the check the 8 August incident required.
+
+| Host | Origin result |
+|---|---|
+| drdenislopez.com, acupunturarivas.com, orientalmedicina.com | HTTP 200. Title: Dr. Denis W. López — Medicina Oriental · Rivas. Same page on all three. |
+| zynthio.ai | HTTP 200. Title: ZYNTHIO™ — Immutable memory for imperfect systems. |
+| coreyai.ai | HTTP 200. Title: CoreyAI — AI Incident Intelligence. |
+| songpal.ai | HTTP 301 to HTTPS. HTTPS origin title: SongPal — PenPal for Song. |
+| revv.travel | HTTP 200. Title: REVV Travel — Motorcycles · Tours · Insurance · CRM. |
+| crm.revv.travel | HTTPS origin body is the 17-byte text `REVV CRM endpoint`. `GET /api/revv/lead` returns 405. No lead was posted. |
+| whymcycle.com | HTTP 200. Title: Why M Cycle — whymcycle.com. Fleet stub, not a question-pod article. |
+| pgeoseo.com | HTTP 200. Real landing page, 5,460 bytes read, no `{{` and no `$d` in that body. |
+| fishkillbraces.com | HTTP 200. Title: fishkillbraces.com — Braces in Fishkill, NY. H1: Braces in Fishkill. No raw placeholders in the first 7KB. |
+| orthofishkill.com, lagrangevillebraces.com, wappingersfallsbraces.com | HTTP 200. Generic fleet titles (`Ortho Fish Kill — orthofishkill.com` and the same pattern). Not full builds. |
+| drsyntax.com | HTTP 200. Title: Dr Syntax — drsyntax.com. Fleet stub. Empire 90-day content is not on this page. |
+| nyhc.net | Public title was "Par Ked — parked". Origin on the VDS is the catch-all "You Little Dev — youlittledev.com", not an NYHC site. |
+
+Drive state is unchanged: not mounted, not listed, not deleted.
+
 ## What a later session with drive access must do first
 
 1. Mount only. Do not delete.
