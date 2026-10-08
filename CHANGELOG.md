@@ -11,7 +11,7 @@ Format: `YYYY-MM-DD | Type | Description`
 
 ### Added
 
-- `incidents/INCIDENT_2026-10-03_DRIVE_INACCESSIBLE.md` — Operator cannot access the drive. Incident written from the uploaded handover pack only. VDS health answered; inbox write did not (chat 404, orchestrate unauthorized, SSH permission denied). 2026-10-04 recheck: origin Host-header reads for the named sites; nyhc.net is the catch-all, not an NYHC site; drive still not opened.
+- `incidents/INCIDENT_2026-10-03_DRIVE_INACCESSIBLE.md` — Operator cannot access the drive. Incident written from the uploaded handover pack only. VDS health answered; inbox write did not (chat 404, orchestrate unauthorized, SSH permission denied). 2026-10-04 recheck: origin Host-header reads for the named sites; nyhc.net is the catch-all, not an NYHC site; drive still not opened. 2026-10-08: JEV file added; Hermes `/api/health` on `zynclaw.fyi` is nginx 404; several origins now serve the 6 October WIKI stub.
 
 ---
 

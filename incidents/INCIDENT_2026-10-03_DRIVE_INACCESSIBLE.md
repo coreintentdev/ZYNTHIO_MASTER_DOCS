@@ -96,6 +96,20 @@ Hermes health on the VDS was still `{"status":"ok"}` at 14:49 UTC. `POST /api/he
 
 Drive state is unchanged: not mounted, not listed, not deleted.
 
+## Recheck 2026-10-08 (JEV)
+
+Typed verdict: `incidents/INCIDENT_2026-10-03_DRIVE_INACCESSIBLE.jev.json`. Schema `ops/guard/jev-schema.yaml` from `coreintentdev/coreintent`. Validator result: VALID. Judgment: `needs-evidence`. Confidence: 0.8.
+
+Fresh reads at 15:44 UTC:
+
+- `Host: zynclaw.fyi` `/api/health` and `/api/vds` return nginx HTML 404. The vhost root is a static page titled `WIKI — zynclaw.fyi (auto-audit 2026-08-19)`, Last-Modified 6 October 2026. The 4 October Hermes JSON health check is not current.
+- `drdenislopez.com` HTTPS origin is now `WIKI — drdenislopez.com (auto-audit 2026-08-19)`, Last-Modified 6 October 2026. On 4 October this host served the Dr. Denis W. López page.
+- `nyhc.net` and `fishkillbraces.com` HTTP origins are the same WIKI stub pattern, Last-Modified 6 October 2026.
+- `pgeoseo.com` and `zynthio.ai` HTTPS origins still serve their earlier titles.
+- `revv.travel` title is unchanged.
+
+Hermes stays the fleet boss. This file does not mark the Proton copy done and does not approve a delete.
+
 ## What a later session with drive access must do first
 
 1. Mount only. Do not delete.
