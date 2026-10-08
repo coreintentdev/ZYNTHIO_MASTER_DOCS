@@ -7,6 +7,15 @@ Format: `YYYY-MM-DD | Type | Description`
 
 ---
 
+## 2026-10-08
+
+### Added
+
+- `handover/THREADS_TO_VDS_20261008.md` — Secret-free handover of the six workspace threads for Hermes. Inbox write to the VDS is blocked: SSH permission denied, Hermes `/api/health` nginx 404.
+- `handover/THREADS_TO_VDS_20261008.jev.json` — JEV judgment `blocked`. Schema valid.
+
+---
+
 ## 2026-10-03
 
 ### Added
