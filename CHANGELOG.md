@@ -7,6 +7,23 @@ Format: `YYYY-MM-DD | Type | Description`
 
 ---
 
+## 2026-10-08
+
+### Added
+
+- `handover/THREADS_TO_VDS_20261008.md` — Secret-free handover of the six workspace threads for Hermes. Inbox write to the VDS is blocked: SSH permission denied, Hermes `/api/health` nginx 404.
+- `handover/THREADS_TO_VDS_20261008.jev.json` — JEV judgment `blocked`. Schema valid.
+
+---
+
+## 2026-10-03
+
+### Added
+
+- `incidents/INCIDENT_2026-10-03_DRIVE_INACCESSIBLE.md` — Operator cannot access the drive. Incident written from the uploaded handover pack only. VDS health answered; inbox write did not (chat 404, orchestrate unauthorized, SSH permission denied). 2026-10-04 recheck: origin Host-header reads for the named sites; nyhc.net is the catch-all, not an NYHC site; drive still not opened. 2026-10-08: JEV file added; Hermes `/api/health` on `zynclaw.fyi` is nginx 404; several origins now serve the 6 October WIKI stub.
+
+---
+
 ## 2026-05-14 (Session 33)
 
 ### Updated — Competition Entry Materials
