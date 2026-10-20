@@ -1,0 +1,5 @@
+{
+  "name": "ZYNTHIO Master Docs",
+  "install": "python3 -m pip install --user --disable-pip-version-check pyyaml==6.0.1 markdown==3.11",
+  "start": "bash .cursor/scripts/docs-preview.sh"
+}
