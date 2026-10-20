@@ -1,0 +1,112 @@
+{
+  "task": "Close the drive-access incident with a typed JEV verdict. Do not touch the drive. Hermes remains boss.",
+  "timestamp": "2026-10-08T15:45:00Z",
+  "judgment": "needs-evidence",
+  "evidence": {
+    "proofs": [
+      {
+        "kind": "file",
+        "value": "incidents/INCIDENT_2026-10-03_DRIVE_INACCESSIBLE.md",
+        "verified": true
+      },
+      {
+        "kind": "url",
+        "value": "https://github.com/coreintentdev/ZYNTHIO_MASTER_DOCS/pull/263",
+        "verified": true
+      },
+      {
+        "kind": "file",
+        "value": "Mac ssh on 2026-10-03 wrote /root/zynthio/inbox/maccy/INCIDENT_DRIVE_INACCESSIBLE_20261003.md (795 bytes, mtime 2026-10-03 19:24:09 +0200). This cloud session did not re-read that file.",
+        "verified": false
+      },
+      {
+        "kind": "command",
+        "value": "2026-10-08T15:44:51Z curl -H 'Host: zynclaw.fyi' http://5.189.143.170/api/health -> nginx HTML 404. /api/vds same. Root is a static WIKI page, Last-Modified Tue, 06 Oct 2026 09:28:21 GMT.",
+        "verified": true
+      },
+      {
+        "kind": "command",
+        "value": "2026-10-08 origin Host header: drdenislopez.com HTTPS 200 title 'WIKI \u2014 drdenislopez.com (auto-audit 2026-08-19)' Last-Modified Tue, 06 Oct 2026 09:38:36 GMT. On 2026-10-04 the same host served the Dr. Denis W. L\u00f3pez page.",
+        "verified": true
+      },
+      {
+        "kind": "command",
+        "value": "2026-10-08 origin: nyhc.net and fishkillbraces.com HTTP 200 are also WIKI auto-audit pages, Last-Modified 06 Oct 2026. pgeoseo.com and zynthio.ai HTTPS origins still serve their earlier titles (Last-Modified 29 Sep and 27 Sep 2026). revv.travel title unchanged, Last-Modified 18 Jul 2026.",
+        "verified": true
+      },
+      {
+        "kind": "human",
+        "value": "Operator: cannot access the drive. Files were given for analysis only.",
+        "verified": true
+      }
+    ],
+    "gaps": [
+      "No Proton listing and no checksum for zynthio_backup, mac-local, zynthio-tools, or oricodrive parts af-ai.",
+      "This session has no VDS SSH key, so the inbox file was not re-read on 2026-10-08.",
+      "No account-orders rows after 2026-08-08 and no registry snapshot after 2026-08-30 in the uploaded pack."
+    ],
+    "blind_spots": [
+      "Calling the drive copy done would violate the 2026-08-08 Hermes note.",
+      "The 2026-10-04 origin titles are stale. Several vhosts were replaced by WIKI stubs on 2026-10-06.",
+      "Hermes /api/health answering on 2026-10-04 does not mean Hermes is serving that route on 2026-10-08."
+    ]
+  },
+  "verdict": {
+    "consensus": "The typed incident record is filed. The drive job is not done. Hermes was boss on 4 October and its advertised API routes on zynclaw.fyi return nginx 404 on 8 October. Do not delete Orico data and do not mark the Proton copy verified.",
+    "dissent": [],
+    "confidence": 0.8
+  },
+  "layers": [
+    {
+      "layer": 1,
+      "role": "executor",
+      "output": "Write a schema-valid JEV file. Do not mount the drive and do not change live vhosts.",
+      "gate": false
+    },
+    {
+      "layer": 2,
+      "role": "verifier",
+      "output": "needs-evidence. Drive checksums are absent. Fresh curls contradict the 4 October origin notes.",
+      "gate": true
+    },
+    {
+      "layer": 3,
+      "role": "investigator",
+      "output": "Rollback is leave the drive untouched. A delete now cannot be undone from this session.",
+      "gate": false
+    },
+    {
+      "layer": 4,
+      "role": "hermes",
+      "output": "Hermes remains the fleet boss. This agent does not declare recovery, does not run hermes debug share, and does not treat a 4 October health check as current.",
+      "gate": true
+    }
+  ],
+  "actions": [
+    {
+      "name": "format-orico",
+      "approved": false,
+      "requires_human": true
+    },
+    {
+      "name": "delete-oricodrive-parts",
+      "approved": false,
+      "requires_human": true
+    },
+    {
+      "name": "mark-proton-copy-done",
+      "approved": false,
+      "requires_human": true
+    },
+    {
+      "name": "file-typed-jev",
+      "approved": true,
+      "requires_human": false
+    }
+  ],
+  "metadata": {
+    "source": "cursor-cloud",
+    "policy_version": "coreintent ops/guard/jev-schema.yaml",
+    "roles_version": "hermes-boss"
+  }
+}
